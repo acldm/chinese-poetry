@@ -3,16 +3,67 @@ import json
 import requests
 import glob
 import time
+import signal
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import List, Dict
 
 # 配置
 API_URL = "https://api.vectorengine.ai/v1/chat/completions"
 # 请在此处填写您的 token，或者从环境变量中读取
-TOKEN = "sk-z5fALOQvOt5XoRmtSfBEK9ilSy1PQDawSVSCXyVb7MD9ycni" 
+TOKEN = "sk-l1mArhaBryu2OdqEexBxg97W8DnL78sgHCiWiOgpUfsW5WlE" 
 SOURCE_DIR = "全唐诗"
 TARGET_DIR = "全唐诗clean"
-BATCH_SIZE = 20
+BATCH_SIZE = 5
 MAX_RETRIES = 3
+MAX_WORKERS = 20  # 并发处理的文件数量
+PROGRESS_FILE = os.path.join(TARGET_DIR, "progress.json")  # 进度状态文件
+
+# 全局变量：用于优雅退出
+shutdown_event = threading.Event()
+progress_lock = threading.Lock()  # 进度文件的线程锁
+file_locks = {}  # 每个文件的独立锁
+
+def signal_handler(signum, frame):
+    """处理 Ctrl+C 信号，设置停止标志"""
+    print("\n\n⚠️  收到中断信号，正在优雅地停止所有任务...")
+    shutdown_event.set()
+
+def load_progress() -> Dict:
+    """加载进度文件"""
+    if os.path.exists(PROGRESS_FILE):
+        try:
+            with open(PROGRESS_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"⚠️  读取进度文件失败: {e}，将重新开始。")
+    return {}
+
+def save_progress(progress: Dict):
+    """保存进度文件（线程安全）"""
+    with progress_lock:
+        with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
+            json.dump(progress, f, ensure_ascii=False, indent=2)
+
+def update_file_progress(file_name: str, processed_count: int, total_count: int, status: str = "processing"):
+    """更新单个文件的进度（线程安全）"""
+    with progress_lock:
+        progress = load_progress()
+        progress[file_name] = {
+            "processed_count": processed_count,
+            "total_count": total_count,
+            "status": status,
+            "last_update": time.strftime("%Y-%m-%d %H:%M:%S")
+        }
+        with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
+            json.dump(progress, f, ensure_ascii=False, indent=2)
+
+def get_file_lock(file_name: str) -> threading.Lock:
+    """获取或创建文件的独立锁"""
+    with progress_lock:
+        if file_name not in file_locks:
+            file_locks[file_name] = threading.Lock()
+        return file_locks[file_name]
 
 def get_system_prompt():
     """读取 prompt.md 作为系统指令"""
@@ -122,60 +173,64 @@ def process_batch_with_completion(batch_to_send: List[Dict], max_retries=MAX_RET
             
     return final_ordered_list
 
-def main():
-    # 确保目标目录存在
-    if not os.path.exists(TARGET_DIR):
-        os.makedirs(TARGET_DIR)
-        
-    # 获取所有 poet 开头的 json 文件
-    source_pattern = os.path.join(SOURCE_DIR, "poet.*.json")
-    files = glob.glob(source_pattern)
+def process_single_file(file_path: str) -> bool:
+    """
+    处理单个文件（支持断点续传）
+    返回 True 表示完成，False 表示失败或被中断
+    """
+    file_name = os.path.basename(file_path)
+    target_path = os.path.join(TARGET_DIR, file_name)
+    file_lock = get_file_lock(file_name)
     
-    if not files:
-        print(f"未找到匹配的文件: {source_pattern}")
-        return
-
-    print(f"找到 {len(files)} 个待处理文件。")
+    # 检查是否需要停止
+    if shutdown_event.is_set():
+        return False
     
-    for file_path in files:
-        file_name = os.path.basename(file_path)
-        target_path = os.path.join(TARGET_DIR, file_name)
-        
+    with file_lock:
         # 加载已有进度（断点续传）
         processed_all = []
         if os.path.exists(target_path):
-            with open(target_path, "r", encoding="utf-8") as f:
-                try:
+            try:
+                with open(target_path, "r", encoding="utf-8") as f:
                     processed_all = json.load(f)
-                    print(f"发现已有进度 {file_name}，已处理 {len(processed_all)} 首，继续处理...")
-                except Exception as e:
-                    print(f"读取已有进度文件 {file_name} 失败: {e}，将重新开始处理。")
-                    processed_all = []
+                    print(f"📄 [{file_name}] 发现已有进度，已处理 {len(processed_all)} 首，继续处理...")
+            except Exception as e:
+                print(f"⚠️  [{file_name}] 读取已有进度失败: {e}，将重新开始处理。")
+                processed_all = []
 
         # 读取源文件
-        with open(file_path, "r", encoding="utf-8") as f:
-            try:
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
                 all_poems = json.load(f)
-            except Exception as e:
-                print(f"读取文件 {file_name} 失败: {e}")
-                continue
+        except Exception as e:
+            print(f"❌ [{file_name}] 读取源文件失败: {e}")
+            update_file_progress(file_name, 0, 0, "error")
+            return False
             
         num_poems = len(all_poems)
         processed_count = len(processed_all)
         
         if processed_count >= num_poems:
-            print(f"文件 {file_name} 已全部处理完成，跳过。")
-            continue
+            print(f"✅ [{file_name}] 已全部处理完成，跳过。")
+            update_file_progress(file_name, processed_count, num_poems, "completed")
+            return True
             
-        print(f"开始/继续处理 {file_name}，共 {num_poems} 首诗。")
+        print(f"🚀 [{file_name}] 开始/继续处理，共 {num_poems} 首诗，已处理 {processed_count} 首。")
+        update_file_progress(file_name, processed_count, num_poems, "processing")
         
         # 从断点开始循环
         for i in range(processed_count, num_poems, BATCH_SIZE):
+            # 检查是否需要停止
+            if shutdown_event.is_set():
+                print(f"⏸️  [{file_name}] 收到停止信号，保存当前进度后退出...")
+                update_file_progress(file_name, len(processed_all), num_poems, "paused")
+                return False
+            
             batch = all_poems[i : i + BATCH_SIZE]
             current_batch_num = i // BATCH_SIZE + 1
             total_batches = (num_poems - 1) // BATCH_SIZE + 1
             
-            print(f"  正在处理 batch {current_batch_num}/{total_batches} (索引 {i} 到 {min(i + BATCH_SIZE, num_poems)}) ...")
+            print(f"  📝 [{file_name}] 正在处理 batch {current_batch_num}/{total_batches} (索引 {i} 到 {min(i + BATCH_SIZE, num_poems)}) ...")
             
             # 提取 API 需要的字段
             batch_to_send = []
@@ -191,19 +246,125 @@ def main():
             if results:
                 processed_all.extend(results)
                 
-                # 每次处理完一个 batch 立即保存
+                # 每次处理完一个 batch 立即保存（线程安全）
                 with open(target_path, "w", encoding="utf-8") as f:
                     json.dump(processed_all, f, ensure_ascii=False, indent=4)
                 
-                print(f"    Batch {current_batch_num} 处理成功并已保存。")
+                # 更新进度文件
+                update_file_progress(file_name, len(processed_all), num_poems, "processing")
+                
+                print(f"    ✓ [{file_name}] Batch {current_batch_num} 处理成功并已保存。当前进度: {len(processed_all)}/{num_poems}")
             else:
-                print(f"    Batch {current_batch_num} 最终处理失败，停止处理该文件以防数据错位。")
-                break
+                print(f"    ❌ [{file_name}] Batch {current_batch_num} 最终处理失败，停止处理该文件以防数据错位。")
+                update_file_progress(file_name, len(processed_all), num_poems, "error")
+                return False
             
             # 适当延时
             time.sleep(1)
-            
-        print(f"文件 {file_name} 处理阶段结束。\n")
+        
+        print(f"✅ [{file_name}] 处理完成！共 {len(processed_all)} 首诗。\n")
+        update_file_progress(file_name, len(processed_all), num_poems, "completed")
+        return True
+
+
+def main():
+    """主函数：使用多线程并发处理多个文件"""
+    # 注册信号处理器（支持 Ctrl+C 优雅退出）
+    signal.signal(signal.SIGINT, signal_handler)
+    
+    # 确保目标目录存在
+    if not os.path.exists(TARGET_DIR):
+        os.makedirs(TARGET_DIR)
+        
+    # 获取所有 poet 开头的 json 文件
+    source_pattern = os.path.join(SOURCE_DIR, "poet.*.json")
+    files = glob.glob(source_pattern)
+    
+    if not files:
+        print(f"未找到匹配的文件: {source_pattern}")
+        return
+    
+    # 加载之前的进度，优先处理未完成的文件
+    progress = load_progress()
+    
+    # 根据进度排序：处理中/暂停的 > 未开始的 > 已完成的
+    # 优先处理那些已经开始但还没完成的文件
+    def file_priority(file_path):
+        file_name = os.path.basename(file_path)
+        if file_name not in progress:
+            return 1  # 未开始的次之
+        status = progress[file_name].get("status", "")
+        if status in ("processing", "paused", "error"):
+            return 0  # 处理中/暂停/出错的优先级最高（优先恢复）
+        if status == "completed":
+            return 2  # 已完成的最后
+        return 1
+    
+    files.sort(key=file_priority)
+    
+    # 过滤掉已完成的文件
+    pending_files = []
+    completed_count = 0
+    for file_path in files:
+        file_name = os.path.basename(file_path)
+        if file_name in progress and progress[file_name].get("status") == "completed":
+            completed_count += 1
+        else:
+            pending_files.append(file_path)
+    
+    print(f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print(f"📚 找到 {len(files)} 个文件，已完成 {completed_count} 个，待处理 {len(pending_files)} 个。")
+    print(f"🔧 并发线程数: {MAX_WORKERS}")
+    print(f"💾 进度文件: {PROGRESS_FILE}")
+    print(f"💡 提示: 按 Ctrl+C 可以优雅地停止并保存进度")
+    print(f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
+    
+    if not pending_files:
+        print("🎉 所有文件已处理完成！")
+        return
+    
+    # 使用线程池并发处理文件
+    success_count = 0
+    failed_count = 0
+    
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        # 提交所有任务
+        future_to_file = {executor.submit(process_single_file, file_path): file_path for file_path in pending_files}
+        
+        try:
+            for future in as_completed(future_to_file):
+                file_path = future_to_file[future]
+                file_name = os.path.basename(file_path)
+                
+                try:
+                    result = future.result()
+                    if result:
+                        success_count += 1
+                    else:
+                        failed_count += 1
+                except Exception as e:
+                    print(f"❌ [{file_name}] 处理时发生异常: {e}")
+                    failed_count += 1
+                
+                # 如果收到停止信号，取消剩余任务
+                if shutdown_event.is_set():
+                    print("\n⏹️  正在取消剩余任务...")
+                    for f in future_to_file:
+                        f.cancel()
+                    break
+                    
+        except KeyboardInterrupt:
+            print("\n\n⚠️  捕获到键盘中断，正在保存进度...")
+            shutdown_event.set()
+    
+    # 打印最终统计
+    print(f"\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print(f"📊 处理统计:")
+    print(f"   ✅ 成功: {success_count} 个文件")
+    print(f"   ❌ 失败/中断: {failed_count} 个文件")
+    if shutdown_event.is_set():
+        print(f"   💾 进度已保存，下次运行将从断点继续")
+    print(f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 
 
 if __name__ == "__main__":

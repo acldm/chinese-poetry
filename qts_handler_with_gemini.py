@@ -1,3 +1,4 @@
+
 import asyncio
 import os
 import json
@@ -6,16 +7,17 @@ import glob
 from pathlib import Path
 from typing import List, Dict
 from gemini_webapi import GeminiClient
+from gemini_webapi.constants import Model
 
 # 配置
 # 请从环境变量获取或直接填写
-GEMINI_1PSID = os.getenv("GEMINI_1PSID", "")
-GEMINI_1PSIDTS = os.getenv("GEMINI_1PSIDTS", "")
+GEMINI_1PSID = "g.a0004gjGL8pn20toy8awNBy71jQIpWG0Qde12hN39XxMhWwEBYwuc_hybJpptWhA8MXn5vmevAACgYKAakSARUSFQHGX2MiKzdToZ0VHOxO6Gd_qYI4gRoVAUF8yKqhcT5_sbqnHgBDPnCrJmqT0076"
+GEMINI_1PSIDTS = "sidts-CjIBflaCdUU8EGSVi4_wE7xdsXJlCm1DFoItYrZXDf9wBnsFY0f-lD8UiY-vFriu8LU17xAA"
 
 SOURCE_DIR = "全唐诗"
 TARGET_DIR = "全唐诗clean"
-BATCH_SIZE = 20
-MAX_RETRIES = 3
+BATCH_SIZE = 100
+MAX_RETRIES = 999
 
 def get_system_prompt():
     """读取 prompt.md 作为系统指令"""
@@ -34,7 +36,7 @@ async def process_poems_batch(client: GeminiClient, poems_batch: List[Dict]):
     
     # 调用 Gemini 生成内容
     # 使用 generate_content 进行单轮问答
-    response = await client.generate_content(full_prompt)
+    response = await client.generate_content(full_prompt, model=Model.G_3_0_FLASH_THINKING)
     
     content = response.text
     
@@ -124,10 +126,10 @@ async def main():
     
     # 如果 browser-cookie3 可用，可以不传 cookies
     # 但为了稳定性，建议传入 cookies
-    client = GeminiClient(GEMINI_1PSID, GEMINI_1PSIDTS)
+    client = GeminiClient(GEMINI_1PSID, GEMINI_1PSIDTS, proxy=None)
     
     # 初始化
-    await client.init(timeout=30, auto_close=False, close_delay=300, auto_refresh=True)
+    await client.init(timeout=300, auto_close=False, close_delay=300, auto_refresh=True)
     
     print("Gemini Client 初始化完成。")
 

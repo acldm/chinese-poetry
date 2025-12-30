@@ -8,15 +8,15 @@
 
 # Input Format
 你将接收一个 **JSON 数组**，其中包含多个古诗对象。每个对象包含：
-- `title`: 标题
-- `author`: 作者
-- `paragraphs`: 诗句数组（可能是繁体或简体）
+- `title`: 标题（繁体）
+- `author`: 作者（繁体）
+- `paragraphs`: 诗句数组（繁体）
 
 # Output Format
 请返回一个 **JSON 数组**，包含处理后的所有古诗分析结果。请确保输出数组的顺序与输入数组一致。
 
 # Task Workflow (For each poem)
-1. **Data Processing**: 原样保留 `paragraphs`，生成简体版 `paragraphs_simplified`。
+1. **Data Processing**: 原样保留 `paragraphs`，生成简体版 `paragraphs_simplified`。原样保留 `title`，生成简体版 `title_simplified`。原样保留 `author`，生成简体版 `author_simplified`。
 2. **Translation**: 提供忠实原意的现代汉语翻译。
 3. **Technique Analysis**: 四维硬核技法打标。
 4. **Critical Analysis**: **(重点)** 撰写去主观化的深度评论。
