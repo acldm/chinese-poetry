@@ -9,9 +9,10 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import List, Dict
 
 # 配置
-API_URL = "https://api.vectorengine.ai/v1/chat/completions"
+API_URL = "https://ai.juguang.chat/v1/chat/completions"
+# API_URL = "https://api.vectorengine.ai/v1/chat/completions"
 # 请在此处填写您的 token，或者从环境变量中读取
-TOKEN = "sk-l1mArhaBryu2OdqEexBxg97W8DnL78sgHCiWiOgpUfsW5WlE" 
+TOKEN = "sk-kgmWnVVjFT9ecA27fmyzfpAR4zKcRpCWqV5X6wZiN2YZeA83" 
 SOURCE_DIR = "全唐诗"
 TARGET_DIR = "全唐诗clean"
 BATCH_SIZE = 5
@@ -90,7 +91,7 @@ def process_poems_batch(poems_batch: List[Dict]):
                 "content": json.dumps(poems_batch, ensure_ascii=False)
             }
         ],
-        "model": "gemini-3-flash-preview-thinking",
+        "model": "gemini-3-flash-preview-thinking-minimal",
         "temperature": 0.3,
         "top_p": 1,
         "stream": False
