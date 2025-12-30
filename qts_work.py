@@ -17,6 +17,7 @@ TARGET_DIR = "全唐诗clean"
 BATCH_SIZE = 5
 MAX_RETRIES = 3
 MAX_WORKERS = 20  # 并发处理的文件数量
+CHUNK_SIZE = 200  # 每个分片文件保存的诗词数量
 PROGRESS_FILE = os.path.join(TARGET_DIR, "progress.json")  # 进度状态文件
 
 # 全局变量：用于优雅退出
@@ -173,10 +174,32 @@ def process_batch_with_completion(batch_to_send: List[Dict], max_retries=MAX_RET
             
     return final_ordered_list
 
+def get_chunk_file_path(base_path: str, chunk_index: int) -> str:
+    """
+    根据分片索引生成分片文件路径
+    chunk_index 0: poet.song.1000.json (基础文件，保存 0~199)
+    chunk_index 1: poet.song.1000.1.json (保存 200~399)
+    chunk_index 2: poet.song.1000.2.json (保存 400~599)
+    """
+    if chunk_index == 0:
+        return base_path
+    # 移除 .json 后缀，添加分片编号
+    base_without_ext = base_path[:-5]  # 移除 ".json"
+    return f"{base_without_ext}.{chunk_index}.json"
+
+
+
+
 def process_single_file(file_path: str) -> bool:
     """
-    处理单个文件（支持断点续传）
+    处理单个文件（支持断点续传和分片保存）
     返回 True 表示完成，False 表示失败或被中断
+    
+    分片规则：
+    - 每 CHUNK_SIZE (200) 首诗词保存到一个文件
+    - poet.song.1000.json 保存第 0~199 首
+    - poet.song.1000.1.json 保存第 200~399 首
+    - poet.song.1000.2.json 保存第 400~599 首
     """
     file_name = os.path.basename(file_path)
     target_path = os.path.join(TARGET_DIR, file_name)
@@ -187,16 +210,13 @@ def process_single_file(file_path: str) -> bool:
         return False
     
     with file_lock:
-        # 加载已有进度（断点续传）
-        processed_all = []
-        if os.path.exists(target_path):
-            try:
-                with open(target_path, "r", encoding="utf-8") as f:
-                    processed_all = json.load(f)
-                    print(f"📄 [{file_name}] 发现已有进度，已处理 {len(processed_all)} 首，继续处理...")
-            except Exception as e:
-                print(f"⚠️  [{file_name}] 读取已有进度失败: {e}，将重新开始处理。")
-                processed_all = []
+        # 从 progress.json 读取已处理数量
+        progress = load_progress()
+        file_progress = progress.get(file_name, {})
+        processed_count = file_progress.get("processed_count", 0)
+        
+        if processed_count > 0:
+            print(f"📄 [{file_name}] 发现已有进度，已处理 {processed_count} 首，继续处理...")
 
         # 读取源文件
         try:
@@ -208,7 +228,6 @@ def process_single_file(file_path: str) -> bool:
             return False
             
         num_poems = len(all_poems)
-        processed_count = len(processed_all)
         
         if processed_count >= num_poems:
             print(f"✅ [{file_name}] 已全部处理完成，跳过。")
@@ -218,12 +237,29 @@ def process_single_file(file_path: str) -> bool:
         print(f"🚀 [{file_name}] 开始/继续处理，共 {num_poems} 首诗，已处理 {processed_count} 首。")
         update_file_progress(file_name, processed_count, num_poems, "processing")
         
+        # 当前分片的数据缓存
+        current_chunk_index = processed_count // CHUNK_SIZE
+        chunk_start = current_chunk_index * CHUNK_SIZE
+        
+        # 加载当前分片已有的数据（如果存在）
+        current_chunk_path = get_chunk_file_path(target_path, current_chunk_index)
+        current_chunk_data = []
+        if os.path.exists(current_chunk_path):
+            try:
+                with open(current_chunk_path, "r", encoding="utf-8") as f:
+                    current_chunk_data = json.load(f)
+            except Exception:
+                current_chunk_data = []
+        
         # 从断点开始循环
         for i in range(processed_count, num_poems, BATCH_SIZE):
             # 检查是否需要停止
             if shutdown_event.is_set():
                 print(f"⏸️  [{file_name}] 收到停止信号，保存当前进度后退出...")
-                update_file_progress(file_name, len(processed_all), num_poems, "paused")
+                # 保存当前分片
+                with open(current_chunk_path, "w", encoding="utf-8") as f:
+                    json.dump(current_chunk_data, f, ensure_ascii=False, indent=4)
+                update_file_progress(file_name, processed_count, num_poems, "paused")
                 return False
             
             batch = all_poems[i : i + BATCH_SIZE]
@@ -244,26 +280,47 @@ def process_single_file(file_path: str) -> bool:
             results = process_batch_with_completion(batch_to_send)
             
             if results:
-                processed_all.extend(results)
+                # 添加结果到当前分片
+                current_chunk_data.extend(results)
+                processed_count += len(results)
                 
-                # 每次处理完一个 batch 立即保存（线程安全）
-                with open(target_path, "w", encoding="utf-8") as f:
-                    json.dump(processed_all, f, ensure_ascii=False, indent=4)
+                # 检查是否需要切换到下一个分片
+                new_chunk_index = (processed_count - 1) // CHUNK_SIZE if processed_count > 0 else 0
+                
+                if new_chunk_index > current_chunk_index:
+                    # 当前分片已满，保存并切换到新分片
+                    # 分割数据：前200首给当前分片，剩余的给新分片
+                    items_for_current = CHUNK_SIZE - (len(current_chunk_data) - len(results))
+                    
+                    # 保存满的分片
+                    with open(current_chunk_path, "w", encoding="utf-8") as f:
+                        json.dump(current_chunk_data[:CHUNK_SIZE - (len(current_chunk_data) - len(results)) + items_for_current - len(results)], f, ensure_ascii=False, indent=4)
+                    
+                    # 更新分片信息
+                    current_chunk_index = new_chunk_index
+                    chunk_start = current_chunk_index * CHUNK_SIZE
+                    current_chunk_path = get_chunk_file_path(target_path, current_chunk_index)
+                    # 新分片只包含溢出的数据
+                    current_chunk_data = current_chunk_data[CHUNK_SIZE:]
+                
+                # 保存当前分片
+                with open(current_chunk_path, "w", encoding="utf-8") as f:
+                    json.dump(current_chunk_data, f, ensure_ascii=False, indent=4)
                 
                 # 更新进度文件
-                update_file_progress(file_name, len(processed_all), num_poems, "processing")
+                update_file_progress(file_name, processed_count, num_poems, "processing")
                 
-                print(f"    ✓ [{file_name}] Batch {current_batch_num} 处理成功并已保存。当前进度: {len(processed_all)}/{num_poems}")
+                print(f"    ✓ [{file_name}] Batch {current_batch_num} 已保存到 {os.path.basename(current_chunk_path)}。当前进度: {processed_count}/{num_poems}")
             else:
                 print(f"    ❌ [{file_name}] Batch {current_batch_num} 最终处理失败，停止处理该文件以防数据错位。")
-                update_file_progress(file_name, len(processed_all), num_poems, "error")
+                update_file_progress(file_name, processed_count, num_poems, "error")
                 return False
             
             # 适当延时
             time.sleep(1)
         
-        print(f"✅ [{file_name}] 处理完成！共 {len(processed_all)} 首诗。\n")
-        update_file_progress(file_name, len(processed_all), num_poems, "completed")
+        print(f"✅ [{file_name}] 处理完成！共 {processed_count} 首诗。\n")
+        update_file_progress(file_name, processed_count, num_poems, "completed")
         return True
 
 
