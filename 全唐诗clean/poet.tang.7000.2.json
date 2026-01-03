@@ -1,0 +1,883 @@
+[
+    {
+        "title": "瓜洲驛重送梁郎中赴吉州",
+        "author": "劉長卿",
+        "paragraphs": [
+            "渺渺雲山去幾重，依依獨聽廣陵鐘。",
+            "明朝借問南來客，五馬雙旌何處逢。"
+        ],
+        "paragraphs_simplified": [
+            "渺渺云山去几重，依依独听广陵钟。",
+            "明朝借问南来客，五马双旌何处逢。"
+        ],
+        "translation": "渺渺的云山隔着几重山峦，我依依不舍地独自听着广陵的钟声。明天早晨请问南来的客人，哪里能遇到五马双旌的仪仗（指梁郎中的官仪）。广陵钟指扬州一带的钟声，五马双旌是古代高官出行的仪仗。",
+        "score": 3.8,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "惜别",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "设问"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先以云山钟声渲染离别氛围，后以问句收束，表达对重逢的期盼。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过云山和钟声构筑空寂的离别场景"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "以问句含蓄表达离愁与期盼"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "诗句结构工整，音韵和谐"
+                }
+            ]
+        },
+        "analysis": "此诗写瓜洲驿送别，意境苍茫。云山渺渺，钟声依依，构筑出空寂的离别场景。结尾以问句收束，不直说离愁，而离愁自现。技法纯熟，对仗工整，但意象略显陈旧，缺乏新意，整体在刘长卿作品中属平稳之作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "云山、钟声等意象烘托离别之情，不直露而余韵悠长。",
+                "realm": "能品",
+                "reason": "技法成熟，情感表达含蓄，但意境未达超逸之境。"
+            }
+        ],
+        "imagery": [
+            "云山",
+            "钟声",
+            "仪仗"
+        ],
+        "allusions": [
+            {
+                "phrase": "广陵钟",
+                "explanation": "指扬州一带的钟声，暗指离别之地"
+            },
+            {
+                "phrase": "五马双旌",
+                "explanation": "古代高官出行的仪仗，代指梁郎中"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以云山钟声营造苍茫意境，最具代表性。"
+        }
+    },
+    {
+        "title": "奉使鄂渚至烏江道中作",
+        "author": "劉長卿",
+        "paragraphs": [
+            "滄洲不復戀魚竿，白髮那堪戴鐵冠。",
+            "客路向南何處是，蘆花千里雪漫漫。"
+        ],
+        "paragraphs_simplified": [
+            "沧洲不复恋鱼竿，白发那堪戴铁冠。",
+            "客路向南何处是，芦花千里雪漫漫。"
+        ],
+        "translation": "不再留恋沧洲的钓鱼隐居生活，白发苍苍怎能再戴铁冠（指官帽）。旅途向南，何处是尽头？芦花千里，如雪漫漫。沧洲指隐居地，铁冠象征官职，芦花如雪比喻羁旅之景。",
+        "score": 3.7,
+        "subject": [
+            "羁旅诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "羁旅",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句直抒厌倦官场之情，次句以雪景结情，烘托羁旅愁绪。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "芦花比作雪，形象生动"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "雪景渲染苍凉氛围"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "千里雪漫漫强化空间感"
+                }
+            ]
+        },
+        "analysis": "此诗写奉使途中的羁旅之愁。首句以鱼竿与铁冠对比，直指官场厌倦；次句借芦花如雪的景象，构筑苍茫意境。技法上比喻生动，但立意老套，情感表达稍显直白，缺乏回甘之味。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "白发、铁冠、芦花等意象交织，折射乱世中的无奈与苍凉。",
+                "realm": "能品",
+                "reason": "情感真挚，但意象常见，未脱羁旅诗窠臼。"
+            }
+        ],
+        "imagery": [
+            "鱼竿",
+            "铁冠",
+            "芦花",
+            "雪"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "尾句以景结情，意境悠远，余韵更浓。"
+        }
+    },
+    {
+        "title": "新息道中作",
+        "author": "劉長卿",
+        "paragraphs": [
+            "蕭條獨向汝南行，客路多逢漢騎營。",
+            "古木蒼蒼離亂後，幾家同住一孤城。"
+        ],
+        "paragraphs_simplified": [
+            "萧条独向汝南行，客路多逢汉骑营。",
+            "古木苍苍离乱后，几家同住一孤城。"
+        ],
+        "translation": "萧条地独自向汝南行去，旅途中多遇到汉家的骑兵营地。古木苍苍在战乱之后，几户人家同住在一个孤城。汝南为地名，汉骑营指军队营地，离乱指战乱。",
+        "score": 3.6,
+        "subject": [
+            "羁旅诗",
+            "边塞诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先叙述独行与军营遭遇，后以古木孤城收束，烘托乱世悲凉。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "萧条景象与孤城渲染乱世之悲"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "汝南可能暗指历史地名"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "诗句结构工整"
+                }
+            ]
+        },
+        "analysis": "此诗写乱世羁旅，首句点出萧条独行，次句以古木苍苍、孤城同住收束，意境苍凉。技法上对仗工整，但意象陈旧，缺乏独特视角，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "古木、孤城等意象凝练，寄寓深沉的乱世感慨。",
+                "realm": "能品",
+                "reason": "情感深沉，但表达方式老套，未达高古之境。"
+            }
+        ],
+        "imagery": [
+            "汝南",
+            "汉骑营",
+            "古木",
+            "孤城"
+        ],
+        "allusions": [
+            {
+                "phrase": "汝南",
+                "explanation": "地名，可能暗指历史典故"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "尾句以古木孤城景象，凝练表达乱世荒凉。"
+        }
+    },
+    {
+        "title": "春日宴魏萬成湘水亭",
+        "author": "劉長卿",
+        "paragraphs": [
+            "何年家住此江濱，幾度門前北渚春。",
+            "白髮亂生相顧老，黃鶯自語豈知人。"
+        ],
+        "paragraphs_simplified": [
+            "何年家住此江滨，几度门前北渚春。",
+            "白发乱生相顾老，黄莺自语岂知人。"
+        ],
+        "translation": "何年何月家住在这江边，几次在门前看到北渚的春天。白发乱生，相互看着老去，黄莺自言自语，岂知人间事。北渚为地名，黄莺自语反衬人老之悲。",
+        "score": 3.5,
+        "subject": [
+            "宴饮诗",
+            "咏怀诗"
+        ],
+        "emotion": [
+            "闲适",
+            "感叹年华"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先忆旧日江滨生活，后以人老鸟鸣对比，抒发时光流逝之感。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "黄莺自语，赋予鸟鸣以情感"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "人老与鸟鸣不知形成反差"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "春景反衬年华老去"
+                }
+            ]
+        },
+        "analysis": "此诗写宴饮中的感伤，首句忆旧，次句以黄莺自语反衬人老，意境闲适中带悲凉。技法上拟人生动，但立意浅显，情感表达平淡，缺乏深度。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "江滨、春鸟等意象自然流露，构筑淡泊之境。",
+                "realm": "能品",
+                "reason": "语言自然，但情感挖掘不深，略显平庸。"
+            }
+        ],
+        "imagery": [
+            "江滨",
+            "北渚春",
+            "白发",
+            "黄莺"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "尾句以鸟鸣反衬人老，含蓄而富余韵。"
+        }
+    },
+    {
+        "title": "重送道標上人",
+        "author": "劉長卿",
+        "paragraphs": [
+            "衡陽千里去人稀，遙逐孤雲入翠微。",
+            "春草青青新覆地，深山無路若爲歸。"
+        ],
+        "paragraphs_simplified": [
+            "衡阳千里去人稀，遥逐孤云入翠微。",
+            "春草青青新覆地，深山无路若为归。"
+        ],
+        "translation": "衡阳千里之外，人烟稀少，远远地追逐孤云进入青翠的山色。春草青青新覆盖地面，深山无路如何归去。衡阳为地名，翠微指青翠山色，若为归意为如何归去。",
+        "score": 3.6,
+        "subject": [
+            "送别诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "惜别",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先写远行追逐孤云，后以春草深山设问，表达送别之情。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "春草深山烘托离别与迷茫"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "问归途表达不舍与无奈"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "孤云比作僧人远行"
+                }
+            ]
+        },
+        "analysis": "此诗送别僧人，首句写远行之景，次句以春草深山设问收束，意境清幽。技法上比喻生动，但情感表达稍弱，缺乏强烈感染力，整体平稳。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "孤云、翠微等意象清新，构筑出世之境。",
+                "realm": "能品",
+                "reason": "意境清幽，但情感深度不足，未达超诣。"
+            }
+        ],
+        "imagery": [
+            "衡阳",
+            "孤云",
+            "翠微",
+            "春草",
+            "深山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "尾句以深山无路设问，余韵悠长。"
+        }
+    },
+    {
+        "title": "送李判官之潤州行營",
+        "author": "劉長卿",
+        "paragraphs": [
+            "萬里辭家事鼓鼙，今陵驛路楚雲西。",
+            "江春不肯留歸客，草色青青送馬蹄。"
+        ],
+        "paragraphs_simplified": [
+            "万里辞家事鼓鼙，今陵驿路楚云西。",
+            "江春不肯留归客，草色青青送马蹄。"
+        ],
+        "translation": "离家万里去从事军务（鼓鼙指军鼓），如今在金陵驿路上，楚云西边。江边的春天不肯挽留归去的客人，青青的草色送别马蹄。",
+        "score": 3.5,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "惜别"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "以景结情"
+            ],
+            "structural_logic": "先写离家万里从军之事，再以驿路景色收束，通过拟人手法将离别情感寄托于自然景物。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“江春不肯留归客”赋予春天人的情感，强化离别无奈。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“草色青青送马蹄”以草色送别之景，间接表达惜别之情。"
+                }
+            ]
+        },
+        "analysis": "此诗以万里从军起笔，直陈事由，继而转入驿路楚云之景，末句以江春不客、草色送蹄作结。意象选取江春、草色、马蹄，清新自然，但立意未脱送别常套。拟人手法稍显灵动，然整体意境平实，缺乏深层开拓，技法娴熟而新意不足，属能品之列。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "江春、草色等意象取自眼前景，组合平淡，未达浑然天成之境。",
+                "realm": "能品",
+                "reason": "试图以自然景物含蓄抒情，但意象与情感结合稍显生硬，未能超脱常格。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "草",
+            "马"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句以景结情，草色送蹄之象较有余韵。"
+        }
+    },
+    {
+        "title": "將赴南巴至餘干別李十二",
+        "author": "劉長卿",
+        "paragraphs": [
+            "江上花催問禮人，鄱陽鶯報越鄉春。",
+            "誰憐此別悲歡異，萬里青山送逐臣。"
+        ],
+        "paragraphs_simplified": [
+            "江上花催问礼人，鄱阳莺报越乡春。",
+            "谁怜此别悲欢异，万里青山送逐臣。"
+        ],
+        "translation": "江边的花催促着问礼之人（指李十二），鄱阳的黄莺报知越乡的春色。谁怜惜这次离别悲欢各异，万里青山送别被贬的臣子。",
+        "score": 4.0,
+        "subject": [
+            "送别诗",
+            "贬谪诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以花鸟春色反衬离别，后两句直抒悲欢之异与逐臣之悲，以景起兴，以情收束。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "“悲欢异”对比离别双方情感差异。"
+                },
+                {
+                    "tag": "以乐衬哀",
+                    "explanation": "“江上花催”“鄱阳莺报”以春景乐情反衬逐臣之哀。"
+                }
+            ]
+        },
+        "analysis": "诗以江花、鄱莺起兴，春色盎然却暗含离别之悲。后两句点出悲欢异途，万里青山送逐臣，将个人贬谪之痛融入苍茫山水。意象鲜明，情感沉郁，以乐景写哀情，倍增其哀。整体构思工巧，情感真挚，属能品上乘。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "青山、逐臣意象构筑苍凉境界，折射贬谪之痛。",
+                "realm": "能品",
+                "reason": "试图以悲慨之情动人，但意象组合略显常见，未达神品之境。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "莺",
+            "青山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句“万里青山送逐臣”以景结情，境界开阔，情感深沉。"
+        }
+    },
+    {
+        "title": "時平後春日思歸",
+        "author": "劉長卿",
+        "paragraphs": [
+            "一尉何曾及布衣，時平却憶臥柴扉。",
+            "故園柳色催南客，春水桃花待北歸。"
+        ],
+        "paragraphs_simplified": [
+            "一尉何曾及布衣，时平却忆卧柴扉。",
+            "故园柳色催南客，春水桃花待北归。"
+        ],
+        "translation": "一个县尉哪里比得上平民，太平时节却忆起隐居柴门的日子。故乡的柳色催促南方的客子，春水桃花等待北方的归人。",
+        "score": 3.2,
+        "subject": [
+            "思乡诗"
+        ],
+        "emotion": [
+            "思乡",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "对比"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首句以设问对比官职与布衣，次句忆隐居；后两句虚写故乡春景待归，呼应思归主题。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "“一尉何曾及布衣”以反问强调官职不如隐居。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "“故园柳色”为虚想，“春水桃花”为实待，交织思归之情。"
+                }
+            ]
+        },
+        "analysis": "此诗直抒仕宦之倦与思归之切，首句对比鲜明，后两句以故乡柳色、桃花虚景催归，意象陈旧，立意浅显。虽结构工整，但情感流于表面，缺乏新意，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "柴扉、柳色、桃花意象试图营造隐逸之境，但组合平淡。",
+                "realm": "逸品",
+                "reason": "模仿冲淡风格而失败，意象堆砌，未能传达超然心境。"
+            }
+        ],
+        "imagery": [
+            "柳",
+            "桃花",
+            "柴扉"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句“春水桃花待北归”以景语作情语，稍具韵味。"
+        }
+    },
+    {
+        "title": "送陶十赴杭州攝掾",
+        "author": "劉長卿",
+        "paragraphs": [
+            "莫歎江城一掾卑，滄洲未是阻心期。",
+            "浙中山色千萬狀，門外潮聲朝暮時。"
+        ],
+        "paragraphs_simplified": [
+            "莫叹江城一掾卑，沧洲未是阻心期。",
+            "浙中山色千万状，门外潮声朝暮时。"
+        ],
+        "translation": "不要感叹江城一个小官职卑微，沧洲隐逸之地并非阻隔心志。浙中的山色千姿百态，门外潮声早晚响起。",
+        "score": 3.8,
+        "subject": [
+            "送别诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "豁达",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句劝慰莫叹官卑，次句言心志不阻；后两句以浙中山色潮声烘托，寄寓豁达情怀。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“浙中山色千万状，门外潮声朝暮时”对仗工整，写景壮阔。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "以山色潮声喻心志开阔，不因官职而限。"
+                }
+            ]
+        },
+        "analysis": "诗以劝慰起笔，直指官卑不足叹，后以浙中山色潮声之壮阔，托物言志，彰显豁达心期。意象雄浑，对偶工稳，情感积极，虽为送别酬唱，却无俗套，属能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "山色、潮声意象构筑壮阔境界，折射豁达胸襟。",
+                "realm": "能品",
+                "reason": "试图豪放，但情感表达稍显直白，未达雄浑之境。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "潮"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句“门外潮声朝暮时”以动态景语收束，余音不绝。"
+        }
+    },
+    {
+        "title": "使還七里瀨上逢薛承規赴江西貶官",
+        "author": "劉長卿",
+        "paragraphs": [
+            "遷客歸人醉晚寒，孤舟暫泊子陵灘。",
+            "憐君更去三千里，落日青山江上看。"
+        ],
+        "paragraphs_simplified": [
+            "迁客归人醉晚寒，孤舟暂泊子陵滩。",
+            "怜君更去三千里，落日青山江上看。"
+        ],
+        "translation": "贬谪之客与归人醉于晚寒，孤舟暂时停泊在子陵滩。怜惜你还要去三千里外，落日青山中在江上相看。",
+        "score": 4.2,
+        "subject": [
+            "送别诗",
+            "贬谪诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "同情"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "以景结情"
+            ],
+            "structural_logic": "前两句写相逢场景与孤舟暂泊，后两句虚写友人远去三千里，以落日青山之景收束，情感深沉。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“三千里”极言路途遥远，强化离别之悲。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“落日青山江上看”以苍茫景语寄托怜惜之情。"
+                }
+            ]
+        },
+        "analysis": "诗写贬谪相逢之悲，孤舟、子陵滩意象孤寂，后以三千里夸张远途，落日青山之景苍凉浑茫。情感真挚，意境深远，虚实相生，属能品上乘。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "孤舟、落日、青山意象凝重，渗透悲慨之情。",
+                "realm": "能品",
+                "reason": "试图沉著，但情感表达稍显直露，未达含蓄之境。"
+            }
+        ],
+        "imagery": [
+            "舟",
+            "日",
+            "青山"
+        ],
+        "allusions": [
+            "子陵滩（严子陵隐居处）"
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句“落日青山江上看”以景结情，境界宏阔，情感深沉。"
+        }
+    },
+    {
+        "title": "使回赴蘇州道中作",
+        "author": "劉長卿",
+        "paragraphs": [
+            "春風何事遠相催，路盡天涯始却回。",
+            "萬里無人空楚水，孤帆送客到魚臺。"
+        ],
+        "paragraphs_simplified": [
+            "春风何事远相催，路尽天涯始却回。",
+            "万里无人空楚水，孤帆送客到鱼台。"
+        ],
+        "translation": "春风为何要远远地催促？直到路途尽头才开始返回。万里行程空无人烟，只有楚水茫茫，一叶孤舟送客到达鱼台。首句设问春风催行，暗喻身不由己的宦游；末句以空水孤帆勾勒出天地苍茫的孤寂感。",
+        "score": 3.7,
+        "subject": [
+            "羁旅诗",
+            "送别诗"
+        ],
+        "emotion": [
+            "羁旅",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句以问句引发羁旅之思，次句承接天涯路尽；后联转写楚水孤帆之景，以空旷寂寥收束全篇。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "春风何事远相催，以疑问句式强化漂泊无常之感"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "万里无人空楚水，通过空阔水景渲染孤寂"
+                }
+            ]
+        },
+        "analysis": "此诗以设问开篇，直指羁旅之由。春风催行与天涯路尽形成时空张力，构筑出宦游的无奈感。后联转写楚水孤帆，空旷之景与孤客之心相映，不言愁而愁绪自现。全诗情景交融，意境苍茫，然意象略显陈套，未能脱出常格。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "春风、天涯、楚水、孤帆等意象疏朗而含悲凉",
+                "realm": "能品",
+                "reason": "技法纯熟，意境完整，但创新不足，未能臻于妙境"
+            }
+        ],
+        "imagery": [
+            "春风",
+            "天涯",
+            "楚水",
+            "孤帆",
+            "鱼台"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "设问句式开篇即奠定全诗羁旅基调"
+        }
+    }
+]

@@ -1,0 +1,536 @@
+[
+    {
+        "title": "潄玉齋前雜卉皆龍圖王至之所植各賦一章凡得八物或賞或否亦應乎至之意歟遂寫寄至之 蜀葵",
+        "author": "宋祁",
+        "paragraphs": [
+            "紅白相嗣繁，色純香亦淺。",
+            "相對庭戶間，俗尚焉能免。"
+        ],
+        "paragraphs_simplified": [
+            "红白相嗣繁，色纯香亦浅。",
+            "相对庭户间，俗尚焉能免。"
+        ],
+        "translation": "红白相间繁盛，颜色纯正但香气淡薄。相对庭院门户之间，世俗风尚怎能避免。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "批判",
+            "无奈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直接描述蜀葵外观，次句转入对世俗的评论。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "红白相嗣繁，色纯香亦浅形成对偶。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过蜀葵的平凡批判世俗。"
+                }
+            ]
+        },
+        "analysis": "此诗以蜀葵为题，首句描绘其红白相间的繁盛景象，但指出颜色纯正而香气浅淡，暗示其外表华丽却内涵不足。次句将视角转向庭院门户间的世俗风尚，批判其难以免俗。整体立意浅显，意象陈旧，缺乏新意，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图模仿典雅但实则浅显。",
+                "realm": "能品",
+                "reason": "语言平实，但缺乏深意，未能达到典雅之境。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "庭院"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直接描述，较为通顺。"
+        }
+    },
+    {
+        "title": "潄玉齋前雜卉皆龍圖王至之所植各賦一章凡得八物或賞或否亦應乎至之意歟遂寫寄至之 萱草",
+        "author": "宋祁",
+        "paragraphs": [
+            "修莖無附葉，繁萼攢庭首。",
+            "每欲問詩人，定得忘憂否。"
+        ],
+        "paragraphs_simplified": [
+            "修茎无附叶，繁萼攒庭首。",
+            "每欲问诗人，定得忘忧否。"
+        ],
+        "translation": "修长的茎干没有附叶，繁盛的花萼聚集在庭院顶端。每次想问诗人，是否一定能忘却忧愁。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "疑惑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "设问"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "首句描述萱草形态，次句用设问点出忘忧主题。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "定得忘忧否以问句结尾。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借萱草忘忧的典故表达情感。"
+                }
+            ]
+        },
+        "analysis": "此诗刻画萱草形态，茎干修长无附叶，花萼繁茂聚于庭首。次句以设问手法，质疑诗人是否真能借萱草忘忧。虽用典恰当，但语言直白，缺乏含蓄之美，情感流于表面，未能深入挖掘忘忧之真谛。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图模仿含蓄但实则直露。",
+                "realm": "能品",
+                "reason": "设问手法虽存，但意境浅显，未达含蓄之境。"
+            }
+        ],
+        "imagery": [
+            "茎",
+            "花萼",
+            "庭院"
+        ],
+        "allusions": [
+            {
+                "phrase": "忘忧",
+                "explanation": "萱草别名忘忧草，典故出自《诗经》。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句设问，较有意味。"
+        }
+    },
+    {
+        "title": "潄玉齋前雜卉皆龍圖王至之所植各賦一章凡得八物或賞或否亦應乎至之意歟遂寫寄至之 芍藥",
+        "author": "宋祁",
+        "paragraphs": [
+            "有名見鄭風，今賞異疇日。",
+            "采花當采根，可能治民疾。"
+        ],
+        "paragraphs_simplified": [
+            "有名见郑风，今赏异畴日。",
+            "采花当采根，可能治民疾。"
+        ],
+        "translation": "有名气可见于《郑风》，如今欣赏不同于往日。采花应当采根，或许能治疗民众疾病。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "赞美",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "用典"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首句用典，次句议论，末句点出药用价值。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "有名見鄭風引用《诗经》。"
+                },
+                {
+                    "tag": "议论",
+                    "explanation": "采花當采根，可能治民疾发表议论。"
+                }
+            ]
+        },
+        "analysis": "此诗引用《诗经·郑风》中芍药之名，对比古今赏花之异。末句以采根治病为喻，寄寓治民之思。然议论直白，意象跳跃，从赏花突转治民，缺乏自然过渡，整体略显生硬。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "试图模仿豪放但实则粗率。",
+                "realm": "凡品",
+                "reason": "立意虽高，但表达粗糙，未能达到豪放之境。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "根"
+        ],
+        "allusions": [
+            {
+                "phrase": "郑风",
+                "explanation": "指《诗经·郑风》，其中提及芍药。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句议论，点明主题。"
+        }
+    },
+    {
+        "title": "潄玉齋前雜卉皆龍圖王至之所植各賦一章凡得八物或賞或否亦應乎至之意歟遂寫寄至之 竹",
+        "author": "宋祁",
+        "paragraphs": [
+            "脩脩稍出類，辭卑不肯叢。",
+            "有節天容直，無心道與空。"
+        ],
+        "paragraphs_simplified": [
+            "修修稍出类，辞卑不肯丛。",
+            "有节天容直，无心道与空。"
+        ],
+        "translation": "修长挺拔稍显出众，言辞谦卑不肯丛生。有节操天容正直，无心机道与虚空。",
+        "score": 4.5,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "赞美",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "托物言志",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首句描述竹的外形与态度，次句升华至节操与道境。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "辞卑不肯丛赋予竹人性。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过竹表达节操与无心之境。"
+                }
+            ]
+        },
+        "analysis": "此诗刻画竹之形态，修长出众而谦卑不丛。次句以有节喻气节，无心指道家虚空之境。语言凝练，意象高洁，成功将竹人格化，寄托深远。情景契合，意境真切，堪称佳作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "以竹喻人，气节与道境交融。",
+                "realm": "妙品",
+                "reason": "艺术价值高，意境深远。"
+            },
+            {
+                "style": "劲健",
+                "imagery_analysis": "语言刚健，寄托坚贞。",
+                "realm": "妙品",
+                "reason": "技法成熟，情感真挚。"
+            }
+        ],
+        "imagery": [
+            "竹",
+            "节",
+            "道"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句升华主题，意境深远。"
+        }
+    },
+    {
+        "title": "潄玉齋前雜卉皆龍圖王至之所植各賦一章凡得八物或賞或否亦應乎至之意歟遂寫寄至之 菊",
+        "author": "宋祁",
+        "paragraphs": [
+            "纖莖寒始密，秀葉晚逾滋。",
+            "芳意君須識，羣葩摇落時。"
+        ],
+        "paragraphs_simplified": [
+            "纤茎寒始密，秀叶晚逾滋。",
+            "芳意君须识，群葩摇落时。"
+        ],
+        "translation": "纤细的茎在寒气中渐密，秀美的叶子在傍晚更显滋润。您须识得这芳意，在群花凋落之时。",
+        "score": 4.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先描摹菊之形貌，再点出其于群芳凋零时的独特芳意，由表及里。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "以纤茎、秀叶等细节勾勒菊之形态"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借芳意与摇落之对比，寄寓孤高情志"
+                }
+            ]
+        },
+        "analysis": "此诗以纤茎秀叶凝练秋菊之姿，寒中渐密、晚逾滋，彰显其坚韧之态。后句直指芳意，于群葩摇落之际独存，构筑出清奇之境。意象真切，情景交融，然立意稍显平直，未脱咏物常套。整体笔墨简练，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以纤茎、秀叶、芳意等意象，勾勒出秋菊清逸之姿，于摇落中独显奇趣。",
+                "realm": "能",
+                "reason": "技法纯熟，意境清朗，然深度未拓，略显常套。"
+            }
+        ],
+        "imagery": [
+            "茎",
+            "叶",
+            "花",
+            "群花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "点明芳意与摇落之对比，寄寓全诗主旨。"
+        }
+    },
+    {
+        "title": "潄玉齋前雜卉皆龍圖王至之所植各賦一章凡得八物或賞或否亦應乎至之意歟遂寫寄至之 芭蕉",
+        "author": "宋祁",
+        "paragraphs": [
+            "不枝惟葉茂，無幹信中空。",
+            "所以免摧折，爲依君子風。"
+        ],
+        "paragraphs_simplified": [
+            "不枝惟叶茂，无干信中空。",
+            "所以免摧折，为依君子风。"
+        ],
+        "translation": "不长枝条只有叶子茂盛，没有树干确实中间空虚。所以能够避免被摧折，是因为依附君子的风度。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先描述芭蕉无干中空的外形特征，再点明其依附君子以避摧折的寓意。",
+            "evidence": [
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过芭蕉无干中空的特性，寄托依附君子以避祸的寓意。"
+                }
+            ]
+        },
+        "analysis": "此诗以芭蕉为题，描摹其无干中空之态，寄寓依附君子以避摧折之意。意象选择流于俗套，立意未脱传统比兴之窠臼。语言直白，缺乏肌理与深层张力，未能构筑独特意境。整体流于应制之平庸，无甚可取。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "芭蕉意象陈旧，缺乏新意，未能通过物象传达深层意蕴。",
+                "realm": "能品",
+                "reason": "试图模仿含蓄风格，但表达直白，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "芭蕉",
+            "叶",
+            "风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "描述较为清晰，但整体平庸。"
+        }
+    },
+    {
+        "title": "春望雜詠 歸雁",
+        "author": "宋祁",
+        "paragraphs": [
+            "刷羽梁王池，春至欲言歸。",
+            "牽我東南恨，隨君西北飛。"
+        ],
+        "paragraphs_simplified": [
+            "刷羽梁王池，春至欲言归。",
+            "牵我东南恨，随君西北飞。"
+        ],
+        "translation": "在梁王池边梳理羽毛，春天到了想要归去。牵动我东南的离恨，随你向西北飞去。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "思乡"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先写归雁梳理羽毛之景，再抒发随雁飞而生的离恨之情。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "雁'欲言归'赋予人情，增强感染力。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过归雁景象抒发东南离恨。"
+                }
+            ]
+        },
+        "analysis": "借归雁之象，抒离恨之情。'牵我东南恨，随君西北飞'一句，情感真挚，对偶工整。意象虽不新颖，但虚实结合，构筑出空间上的张力。整体技法成熟，然意境未拓新域，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "归雁与离恨交织，情感指向明确，但意象常规。",
+                "realm": "能品",
+                "reason": "情感真挚但意象未脱俗套，技法熟练而无突破。"
+            }
+        ],
+        "imagery": [
+            "雁",
+            "池",
+            "羽",
+            "恨"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "情感凝聚，对偶工整，为全诗核心。"
+        }
+    }
+]

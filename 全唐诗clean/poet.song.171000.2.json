@@ -1,0 +1,735 @@
+[
+    {
+        "title": "桂隠紀詠 茂光臺",
+        "author": "張鎡",
+        "paragraphs": [
+            "風日清美時，月露澄爽際。",
+            "能來此徜徉，掃除聞見翳。"
+        ],
+        "paragraphs_simplified": [
+            "风日清美时，月露澄爽际。",
+            "能来此徜徉，扫除闻见翳。"
+        ],
+        "translation": "风和日丽之时，月露清澈爽朗之际。能来这里徜徉，扫除见闻的遮蔽。",
+        "score": 3.8,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "白描"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写景后抒情，通过自然景象引出心境。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过风日、月露的描写，寄托闲适之情。"
+                }
+            ]
+        },
+        "analysis": "此诗以简练笔触勾勒风日清美、月露澄爽之境，构筑出空灵澄澈的审美空间。扫除闻见翳之语，直指禅宗去蔽之旨，情景交融，不隔。整体意境清奇，情感回甘，非直露宣泄。定性为能品。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以风日、月露等意象，渲染清美之境。",
+                "realm": "能品",
+                "reason": "技法纯熟，但意象较为常见，缺乏惊人之笔。"
+            }
+        ],
+        "imagery": [
+            "风",
+            "日",
+            "月",
+            "露"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句写景生动，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "桂隠紀詠 安樂泉",
+        "author": "張鎡",
+        "paragraphs": [
+            "潛通大壑水，一杯千慮散。",
+            "只因都放下，如熟病得汗。"
+        ],
+        "paragraphs_simplified": [
+            "潜通大壑水，一杯千虑散。",
+            "只因都放下，如熟病得汗。"
+        ],
+        "translation": "暗通大壑之水，一杯水千虑散去。只因都放下，如熟病得汗。",
+        "score": 3.5,
+        "subject": [
+            "哲理诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "放下"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先写泉水功能，后点明放下之理。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "如熟病得汗，比喻放下后的轻松。"
+                }
+            ]
+        },
+        "analysis": "此诗以泉水为喻，直指放下千虑之理。比喻如熟病得汗虽形象，但略显俚俗，削弱了诗意。整体立意浅显，缺乏含蓄之美。情感宣泄直露，审美距离近。定性为凡品。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以水、汗等意象，构筑放下之境。",
+                "realm": "凡品",
+                "reason": "哲理表达直白，比喻不雅，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "水",
+            "杯",
+            "病",
+            "汗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句写水之潜通，有神秘感。"
+        }
+    },
+    {
+        "title": "桂隠紀詠 鵲泉",
+        "author": "張鎡",
+        "paragraphs": [
+            "鵲飲樹底泉，人立石邊路。",
+            "相親不相疑，所性平等故。"
+        ],
+        "paragraphs_simplified": [
+            "鹊饮树底泉，人立石边路。",
+            "相亲不相疑，所性平等故。"
+        ],
+        "translation": "鹊鸟饮树底泉水，人立石边路。相亲不相疑，因为本性平等。",
+        "score": 3.2,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "白描",
+                "议论"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "细节描写"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写景，后议论。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "鹊饮泉、人立路的细节。"
+                }
+            ]
+        },
+        "analysis": "此诗白描鹊与人共处之景，后点明平等之性。意象简单，立意浅显，缺乏深度。情感平淡，无回甘。整体为平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以鹊、泉、石等意象，描绘平等之境。",
+                "realm": "凡品",
+                "reason": "议论直露，缺乏诗意。"
+            }
+        ],
+        "imagery": [
+            "鹊",
+            "泉",
+            "树",
+            "石",
+            "人"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句写景生动。"
+        }
+    },
+    {
+        "title": "桂隠紀詠 樵逕",
+        "author": "張鎡",
+        "paragraphs": [
+            "路入前山處，蒼苔裹石稜。",
+            "不逢負薪叟，時見隔林僧。"
+        ],
+        "paragraphs_simplified": [
+            "路入前山处，苍苔裹石棱。",
+            "不逢负薪叟，时见隔林僧。"
+        ],
+        "translation": "路入前山之处，苍苔包裹石棱。不遇负薪叟，时见隔林僧。",
+        "score": 3.5,
+        "subject": [
+            "山水诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "白描",
+                "细节描写"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写路景，后写所见。",
+            "evidence": [
+                {
+                    "tag": "侧面烘托",
+                    "explanation": "通过不逢樵夫、时见僧人，烘托山林之幽。"
+                }
+            ]
+        },
+        "analysis": "此诗以白描手法勾勒山径幽景，苍苔石棱，隔林僧人，构筑出疏野之境。情感含蓄，有出世之思。但意象陈旧，缺乏新意。定性为能品。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "以路、苔、石、僧等意象，渲染山林之幽。",
+                "realm": "能品",
+                "reason": "技法纯熟，但意境未出新。"
+            }
+        ],
+        "imagery": [
+            "路",
+            "苍苔",
+            "石",
+            "薪叟",
+            "林僧"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句通过对比，深化幽静之感。"
+        }
+    },
+    {
+        "title": "桂隠紀詠 霞川",
+        "author": "張鎡",
+        "paragraphs": [
+            "方舟卧看化，丹霞二三里。",
+            "窮眼謝玄暉，休言餘散綺。"
+        ],
+        "paragraphs_simplified": [
+            "方舟卧看化，丹霞二三里。",
+            "穷眼谢玄晖，休言余散绮。"
+        ],
+        "translation": "方舟卧看变化，丹霞二三里。穷眼谢玄晖，休言余散绮。",
+        "score": 4.0,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写景，后用典抒情。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "谢玄晖指谢朓，借其诗才赞美景色。"
+                }
+            ]
+        },
+        "analysis": "此诗以方舟卧看丹霞起兴，后用谢玄晖之典，彰显景色之绮丽。用典自然，情景交融，意境开阔。情感回甘，有审美距离。定性为能品上。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "以方舟、丹霞等意象，构筑绚烂之境。",
+                "realm": "能品",
+                "reason": "用典恰当，但整体未达妙品。"
+            }
+        ],
+        "imagery": [
+            "方舟",
+            "丹霞",
+            "眼",
+            "散绮"
+        ],
+        "allusions": [
+            {
+                "phrase": "謝玄暉",
+                "explanation": "南朝诗人谢朓，以写景著称。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句写景生动，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "桂隠紀詠 檥蘋舟",
+        "author": "張鎡",
+        "paragraphs": [
+            "玉立蜻蜓小，香欺漫港秋。",
+            "百年清絕意，孤棹抵封侯。"
+        ],
+        "paragraphs_simplified": [
+            "玉立蜻蜓小，香欺漫港秋。",
+            "百年清绝意，孤棹抵封侯。"
+        ],
+        "translation": "玉立的蜻蜓小巧，香气弥漫覆盖秋港。百年清高绝俗的意趣，一只孤舟抵得上封侯。",
+        "score": 4.0,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句以细腻笔触勾勒秋港泛舟之景，后两句直抒清高意趣，通过景物与情感的自然衔接构筑意境。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "香欺漫港秋以香气欺漫秋港，喻指花香浓郁，强化嗅觉体验。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "孤棹抵封侯将孤舟价值夸张至封侯地位，寄寓超脱尘俗之志。"
+                }
+            ]
+        },
+        "analysis": "此诗以玉立蜻蜓与漫港香欺构筑秋日泛舟的微观景致，视觉与嗅觉通感交织，渲染出清绝之境。后联以孤棹比封侯，虽略显夸张，却凝练地折射出隐逸情怀。情景契合度高，意境真切不隔，情感含蓄而有回甘，整体技法成熟，属能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以蜻蜓、秋港、孤棹等意象构筑清幽奇崛之境，语言洗炼。",
+                "realm": "能品",
+                "reason": "意境清奇，但未达妙品之空灵，属技法纯熟之作。"
+            }
+        ],
+        "imagery": [
+            "蜻蜓",
+            "港",
+            "船"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "百年清絕意，孤棹抵封侯点明主旨，凝练超脱之志。"
+        }
+    },
+    {
+        "title": "戲答客問",
+        "author": "張鎡",
+        "paragraphs": [
+            "桂隠芙蓉盛，柴門日日開。",
+            "若無詩與酒，不請看花來。"
+        ],
+        "paragraphs_simplified": [
+            "桂隐芙蓉盛，柴门日日开。",
+            "若无诗与酒，不请看花来。"
+        ],
+        "translation": "桂隐芙蓉盛开，柴门天天开着。如果没有诗和酒，就不请看花来。",
+        "score": 2.5,
+        "subject": [
+            "酬唱诗",
+            "闲适诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "叙事"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句叙述柴门常开之景，后两句直陈生活态度，缺乏意象深化。",
+            "evidence": [
+                {
+                    "tag": "叙事",
+                    "explanation": "桂隐芙蓉盛，柴门日日开以白描手法叙述日常景象，语言浅显。"
+                }
+            ]
+        },
+        "analysis": "此诗直白如话，写桂隐花开与柴门常开，后联直言有诗酒才看花，语言缺乏意象深度，立意流于应酬。情感表达直露，无审美距离，整体堆砌辞藻，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以芙蓉、柴门等意象营造自然之趣，但语言浅白，未达冲淡之境。",
+                "realm": "凡品",
+                "reason": "模仿自然风格却流于浅俗，缺乏含蓄与真切感。"
+            }
+        ],
+        "imagery": [
+            "芙蓉",
+            "门",
+            "诗",
+            "酒",
+            "花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "若無詩與酒，不請看花來直接表达态度，但语言直白。"
+        }
+    },
+    {
+        "title": "題松身",
+        "author": "張鎡",
+        "paragraphs": [
+            "不見蟄根時，唯喜蒼陰覆。",
+            "借汝葉間聲，當我風信句。"
+        ],
+        "paragraphs_simplified": [
+            "不见蛰根时，唯喜苍阴覆。",
+            "借汝叶间声，当风信句。"
+        ],
+        "translation": "不见蛰伏根时，只喜苍翠树荫覆盖。借你叶间风声，当作我风信诗句。",
+        "score": 4.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句写松根与苍阴，后两句借叶间风声抒情，通过拟人手法实现物我交融。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "借汝叶间声将松树拟人化，赋予其灵性，增强情感渗透。"
+                }
+            ]
+        },
+        "analysis": "此诗题咏松身，以不见根而喜荫起兴，后借风声为诗，构筑物我交融之境。拟人手法使松树具有灵性，情感流露自然，意境真切不隔，含蓄之美中见清幽。技法纯熟，属能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以松根、苍阴、叶间声等意象勾勒清奇之境，语言凝练。",
+                "realm": "能品",
+                "reason": "意境清奇，情感含蓄，但未达超诣之境。"
+            }
+        ],
+        "imagery": [
+            "松树",
+            "根",
+            "荫",
+            "叶"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "借汝葉間聲，當我風信句点明主旨，拟人手法巧妙。"
+        }
+    },
+    {
+        "title": "前後植木犀樓上有月臺盡見諸山",
+        "author": "張鎡",
+        "paragraphs": [
+            "盛世適親逢，樓臺得地雄。",
+            "無形兼有象，俱在太和中。"
+        ],
+        "paragraphs_simplified": [
+            "盛世适亲逢，楼台得地雄。",
+            "无形兼有象，俱在太和中。"
+        ],
+        "translation": "盛世恰巧亲逢，楼台得地雄伟。无形兼有象，都在太和之中。",
+        "score": 2.0,
+        "subject": [
+            "应制诗",
+            "题咏诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句对偶写楼台雄伟，后两句议论太和，但意象空洞，缺乏情景支撑。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "盛世適親逢，樓臺得地雄对仗工整，但内容浮泛。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "太和可能指《易经》太和概念，但用典生硬，未融入情景。"
+                }
+            ]
+        },
+        "analysis": "此诗写楼台雄伟，寄寓盛世之象，但语言抽象，意象空洞。“太和”用典概念化，缺乏具体情景，情感浮泛无根。整体堆砌辞藻，立意浅显，属平庸应制之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以楼台、太和等意象构筑典雅之境，但实则空洞无物。",
+                "realm": "凡品",
+                "reason": "模仿典雅风格却流于概念化，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "楼台",
+            "和谐"
+        ],
+        "allusions": [
+            {
+                "phrase": "太和",
+                "explanation": "可能指《易经》中的太和，象征和谐，但用典生硬。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "無形兼有象，俱在太和中点明主题，但语言空洞。"
+        }
+    },
+    {
+        "title": "登春陌",
+        "author": "張鎡",
+        "paragraphs": [
+            "花柳燄通津，幽居日日春。",
+            "門前往來者，同是華封人。"
+        ],
+        "paragraphs_simplified": [
+            "花柳焰通津，幽居日日春。",
+            "门前往来者，同是华封人。"
+        ],
+        "translation": "花柳如焰通津渡，幽居天天如春。门前往来者，都是华封人。",
+        "score": 2.5,
+        "subject": [
+            "节令诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句写春景，后两句引入华封人典故，但衔接生硬，意象堆砌。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "花柳燄通津以花柳如焰比喻春色浓烈，但缺乏深度。"
+                }
+            ]
+        },
+        "analysis": "此诗写春陌景色，花柳如焰，幽居常春，但“华封人”典故突兀，与前文衔接生硬。意象堆砌，情感浅薄，缺乏审美回甘。整体辞藻浮华，立意平庸，属凡品之作。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "试图以花柳、华封人等意象营造绮丽之境，但实则堆砌。",
+                "realm": "凡品",
+                "reason": "模仿绮丽风格却流于浮华，典故运用不当。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "柳",
+            "渡口",
+            "居所",
+            "人"
+        ],
+        "allusions": [
+            {
+                "phrase": "华封人",
+                "explanation": "典出《庄子》，指华州封人祝福尧帝，但在此用得突兀。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "花柳燄通津，幽居日日春描绘景色，但语言堆砌。"
+        }
+    }
+]

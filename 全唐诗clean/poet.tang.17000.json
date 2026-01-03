@@ -1,0 +1,496 @@
+[
+    {
+        "title": "贈佳人",
+        "author": "武元衡",
+        "paragraphs": [
+            "步搖金翠玉搔頭，傾國傾城勝莫愁。",
+            "若逞仙姿遊洛浦，定知神女謝風流。"
+        ],
+        "paragraphs_simplified": [
+            "步摇金翠玉搔头，倾国倾城胜莫愁。",
+            "若逞仙姿游洛浦，定知神女谢风流。"
+        ],
+        "translation": "佳人头戴金翠步摇和玉簪，美貌倾国倾城胜过莫愁。如果她展示仙姿在洛浦游玩，定会让神女谢绝风流。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美",
+            "欣赏"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "用典"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句描绘佳人外貌细节，次句用典升华至仙境维度。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "倾国倾城比喻美貌极佳"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "莫愁、洛浦、神女等典故增强文化意蕴"
+                }
+            ]
+        },
+        "analysis": "此诗以浓墨重彩勾勒佳人形貌，首句以器物细节堆砌视觉华彩，次句直指其美艳无匹。后联引入洛浦神女之典，将世俗之美提升至仙境维度，虚实相生。然意象如金翠玉搔头略显陈旧，典故亦属熟套，整体虽工稳却少新意，属应酬诗中的平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "试图通过金翠玉搔头等意象构筑华美画面，但堆砌而失却神韵。",
+                "realm": "能品",
+                "reason": "辞藻华丽但意象陈旧，未能超越常规咏美范式。"
+            }
+        ],
+        "imagery": [
+            "头饰",
+            "美女",
+            "洛水"
+        ],
+        "allusions": [
+            {
+                "phrase": "莫愁",
+                "explanation": "古代美女莫愁"
+            },
+            {
+                "phrase": "洛浦",
+                "explanation": "洛水之滨，仙女出没之地"
+            },
+            {
+                "phrase": "神女",
+                "explanation": "巫山神女"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直接描绘佳人外貌，意象具体"
+        }
+    },
+    {
+        "title": "休暇日中書相公致齋禁省因以寄贈",
+        "author": "武元衡",
+        "paragraphs": [
+            "嘗聞聖主得賢臣，三接能令四海春。",
+            "月滿禁垣齋沐夜，清吟屬和更何人。"
+        ],
+        "paragraphs_simplified": [
+            "尝闻圣主得贤臣，三接能令四海春。",
+            "月满禁垣斋沐夜，清吟属和更何人。"
+        ],
+        "translation": "曾听说圣主得到贤臣，三次接见就能让四海如春。月光洒满禁宫斋戒沐浴的夜晚，清雅的吟咏和诗，还有谁呢？",
+        "score": 3.2,
+        "subject": [
+            "干谒诗"
+        ],
+        "emotion": [
+            "赞美",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首句用典赞美贤臣之功，次句转入月夜场景并以反问收束。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "圣主得贤臣典故"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "三接能令四海春"
+                }
+            ]
+        },
+        "analysis": "此诗以圣主得贤臣之典开篇，颂扬政治清明，次句以夸张笔法强化贤臣之功。后联转入月夜斋沐场景，清吟属和更何人流露孤高之意。然全诗立意平正，缺乏情感波澜，典故运用亦属常见，整体虽工整却乏味，属应制诗中的常规之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图通过圣主贤臣等意象构筑庄重氛围，但流于表面。",
+                "realm": "能品",
+                "reason": "用典得当但缺乏新意，情感表达克制而平淡。"
+            }
+        ],
+        "imagery": [
+            "贤臣",
+            "月光",
+            "禁宫"
+        ],
+        "allusions": [
+            {
+                "phrase": "圣主得贤臣",
+                "explanation": "明君得贤臣的典故"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句用典直接点题"
+        }
+    },
+    {
+        "title": "春興",
+        "author": "武元衡",
+        "paragraphs": [
+            "楊柳陰陰細雨晴，殘花落盡見流鶯。",
+            "春風一枝吹香夢，夢逐春風到洛城。"
+        ],
+        "paragraphs_simplified": [
+            "杨柳阴阴细雨晴，残花落尽见流莺。",
+            "春风一枝吹香梦，梦逐春风到洛城。"
+        ],
+        "translation": "杨柳茂密细雨初晴，残花落尽看见流莺。春风吹动一枝花吹散香梦，梦追逐春风到洛城。",
+        "score": 4.5,
+        "subject": [
+            "思乡诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "思乡",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句写春暮之景，后两句以拟人手法将梦境与春风结合，寄托思乡之情。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "梦逐春风"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过春景表达思乡之情"
+                }
+            ]
+        },
+        "analysis": "此诗以细腻笔触勾勒春暮之景，杨柳阴阴残花落尽营造寂寥氛围，流莺点缀其间反衬孤寂。后联突发奇想，春风一枝吹香梦将无形之梦具象化，梦逐春风到洛城以虚写实，寄托思乡之情。意象清新，虚实相生，情感含蓄而深远，属春景诗中的佳作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "通过杨柳残花流莺等意象构筑清新意境，虚实结合巧妙。",
+                "realm": "妙品",
+                "reason": "意象清新，虚实结合巧妙，情感表达含蓄。"
+            }
+        ],
+        "imagery": [
+            "柳树",
+            "残花",
+            "黄莺",
+            "春风",
+            "梦",
+            "洛阳"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "梦逐春风到洛城，虚实结合，情感深远"
+        }
+    },
+    {
+        "title": "酬裴起居西亭留題",
+        "author": "武元衡",
+        "paragraphs": [
+            "豔歌能起關山恨，紅燭偏凝寒塞情。",
+            "況是池塘風雨夜，不堪絲管盡離聲。"
+        ],
+        "paragraphs_simplified": [
+            "艳歌能起关山恨，红烛偏凝寒塞情。",
+            "况是池塘风雨夜，不堪丝管尽离声。"
+        ],
+        "translation": "艳歌能激起关山之恨，红烛偏偏凝聚寒塞之情。何况是池塘风雨之夜，不堪忍受丝管全是离别之声。",
+        "score": 3.5,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "离别"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "以乐衬哀",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句以对偶写音乐引发的情感，后句以环境风雨夜强化离愁。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "艳歌对红烛，关山恨对寒塞情"
+                },
+                {
+                    "tag": "以乐衬哀",
+                    "explanation": "艳歌反衬离恨"
+                }
+            ]
+        },
+        "analysis": "此诗以艳歌与红烛起兴，却反衬关山恨与寒塞情，形成强烈反差。次句况是池塘风雨夜以环境渲染，不堪丝管尽离声直抒离别之痛。对偶工整，情感沉郁，但意象如红烛丝管略显陈旧，整体虽动人却少新意，属离别诗中的常规之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图通过艳歌红烛等意象构筑悲凉氛围，但情感表达略显直白。",
+                "realm": "能品",
+                "reason": "对偶工整，但意象缺乏独创性。"
+            }
+        ],
+        "imagery": [
+            "音乐",
+            "蜡烛",
+            "边关",
+            "边塞",
+            "池塘",
+            "风雨",
+            "乐器"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "艳歌能起关山恨，以乐衬哀，对比强烈"
+        }
+    },
+    {
+        "title": "送張侍御赴京",
+        "author": "武元衡",
+        "paragraphs": [
+            "江南煙雨塞鴻飛，西府文章謝掾歸。",
+            "相送汀州蘭棹晚，菱歌一曲淚霑衣。"
+        ],
+        "paragraphs_simplified": [
+            "江南烟雨塞鸿飞，西府文章谢掾归。",
+            "相送汀州兰棹晚，菱歌一曲泪沾衣。"
+        ],
+        "translation": "江南的烟雨中，塞外的鸿雁飞翔；西府的文章，谢掾归来。在汀州相送，兰木的船桨在傍晚；唱一曲菱歌，泪水沾湿衣裳。",
+        "score": 3.8,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "惜别"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先以景物起兴，后转入送别场景，通过细节描写深化情感。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过江南烟雨、塞鸿飞等意象烘托离别氛围"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "菱歌一曲泪沾衣的细节刻画离别之痛"
+                }
+            ]
+        },
+        "analysis": "这首诗以江南烟雨和塞鸿飞起笔，勾勒出苍茫的离别背景。西府文章与谢掾归的提及，寄寓了友人的身份与归京之事。后两句聚焦于汀州送别的场景，兰棹晚与菱歌泪，将情感具象化。整体上，意象连贯，情景交融，情感在含蓄中流露，虽不脱送别诗传统，但技法纯熟，意境真切。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "通过烟雨、鸿雁等自然意象，含蓄地表达离别之情",
+                "realm": "能品",
+                "reason": "符合含蓄风格，但意象略显陈旧，未能达到妙品境界"
+            },
+            {
+                "style": "自然",
+                "imagery_analysis": "意象选取自然，情景融合",
+                "realm": "能品",
+                "reason": "语言自然流畅，但缺乏独特创新"
+            }
+        ],
+        "imagery": [
+            "烟雨",
+            "鸿雁",
+            "兰棹",
+            "菱歌",
+            "泪水"
+        ],
+        "allusions": [
+            {
+                "phrase": "谢掾",
+                "explanation": "可能指谢安或谢灵运，象征文人归京"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "菱歌一曲泪沾衣，情感直接而强烈，是全诗情感高潮"
+        }
+    },
+    {
+        "title": "鄂渚送友",
+        "author": "武元衡",
+        "paragraphs": [
+            "雲帆淼淼巴陵渡，煙樹蒼蒼故郢城。",
+            "江上梅花無數落，送君南浦不勝情。"
+        ],
+        "paragraphs_simplified": [
+            "云帆渺渺巴陵渡，烟树苍苍故郢城。",
+            "江上梅花无数落，送君南浦不胜情。"
+        ],
+        "translation": "第一句：云中的船帆在巴陵渡口渺茫远去，烟雾笼罩的树木在古老的郢城苍翠。第二句：江上的梅花纷纷落下，在南浦送别你，情感难以承受。解释：巴陵是地名，故郢城指古郢都，南浦是送别之地的典故。",
+        "score": 4.5,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "惜别",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句写景渲染苍茫氛围，次句直抒离别之情，通过意象叠加深化情感。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "云帆、烟树、梅花等意象间接表达离别之情"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "前后句结构对称，如'云帆渺渺'对'烟树苍苍'"
+                }
+            ]
+        },
+        "analysis": "此诗以巴陵渡口的云帆与故郢城的烟树起兴，构筑出辽远苍茫的空间意象。江上梅花的飘落既是实景，又暗喻离别的纷乱，南浦典故的运用深化了情感的厚度。全诗情景交融，意象清奇，不落俗套。情感表达含蓄而深沉，余韵悠长，整体定性为沧海遗珠。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "云帆、烟树、梅花等意象组合清冷奇崛，营造出独特的离别意境。",
+                "realm": "神",
+                "reason": "意象清奇，情景契合度高，情感含蓄深沉。"
+            }
+        ],
+        "imagery": [
+            "云帆",
+            "烟树",
+            "梅花"
+        ],
+        "allusions": [
+            {
+                "phrase": "南浦",
+                "explanation": "出自《楚辞》，指代送别之地"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "送君南浦不胜情直接抒发离别之情，情感真挚"
+        }
+    }
+]

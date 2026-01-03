@@ -1,0 +1,840 @@
+[
+    {
+        "title": "牡丹",
+        "author": "張舜民",
+        "paragraphs": [
+            "去年岐路遇春殘，滿院笙歌賞牡丹。",
+            "今歲杜陵千萬朵，却垂衰淚灑闌干。"
+        ],
+        "paragraphs_simplified": [
+            "去年岐路遇春残，满院笙歌赏牡丹。",
+            "今岁杜陵千万朵，却垂衰泪洒阑干。"
+        ],
+        "translation": "去年在岐路上遇到春末时节，满院笙歌喧闹，共同欣赏牡丹盛开；今年在杜陵之地，虽有千万朵牡丹绽放，却只能流着衰老的眼泪洒落在栏杆上。诗中通过今昔对比，描绘了从欢乐赏花到悲伤垂泪的情感转变。",
+        "score": 3.6,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "以时间对比为脉络，先写去年赏花之乐，后转今年垂泪之悲，情感递进自然。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "去年笙歌赏牡丹与今岁衰泪洒阑干形成强烈反差，凸显时光流逝之哀。"
+                }
+            ]
+        },
+        "analysis": "此诗构筑今昔场景的对照，以牡丹为媒介折射人生无常。意象从笙歌喧闹转为衰泪阑干，情感转折虽流畅，但立意囿于伤春悲秋之陈套，缺乏独创性。语言平实，未见精妙锤炼，属技法成熟却无新意之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以牡丹为核心，通过时间对比渲染悲凉，但意象组合未突破传统框架。",
+                "realm": "能品",
+                "reason": "情感真挚，然意象陈旧，未能超脱俗套。"
+            }
+        ],
+        "imagery": [
+            "牡丹",
+            "泪",
+            "栏杆"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以衰泪洒阑干收束，情感凝聚，点明主旨。"
+        }
+    },
+    {
+        "title": "木香花  其一",
+        "author": "張舜民",
+        "paragraphs": [
+            "庭前一架已離披，莫折長枝折短枝。",
+            "要待明年春盡後，臨風三嗅寄相思。"
+        ],
+        "paragraphs_simplified": [
+            "庭前一架已离披，莫折长枝折短枝。",
+            "要待明年春尽后，临风三嗅寄相思。"
+        ],
+        "translation": "庭前一架木香花已凋零散乱，不要折取长枝，只折短枝即可；要等到明年春尽之后，迎着风多次嗅闻，寄托相思之情。诗中表达对花的怜惜与未来相思的期待。",
+        "score": 3.9,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "相思",
+            "惜别"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句写当下折枝之抉择，后句展望未来寄情之行为，由实入虚，过渡自然。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“临风三嗅寄相思”赋予花以情感寄托，拟人化表达相思。"
+                }
+            ]
+        },
+        "analysis": "此诗以折枝待春为线索，将木香花与相思之情紧密勾连。语言质朴，情感内敛，通过“三嗅”细节展现审美距离，但意象较为单一，未充分展开。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "以折枝行为隐喻相思，情感表达迂回，意境真切。",
+                "realm": "能品",
+                "reason": "情感真挚，但意象挖掘不深，略显平淡。"
+            }
+        ],
+        "imagery": [
+            "木香花",
+            "枝",
+            "风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以嗅花寄相思，情感凝聚，点明主旨。"
+        }
+    },
+    {
+        "title": "木香花  其二",
+        "author": "張舜民",
+        "paragraphs": [
+            "廣寒宮闕月樓臺，露裏移根月裏栽。",
+            "品格雖同香氣俗，如何却共牡丹開。"
+        ],
+        "paragraphs_simplified": [
+            "广寒宫阙月楼台，露里移根月里栽。",
+            "品格虽同香气俗，如何却共牡丹开。"
+        ],
+        "translation": "广寒宫中的月楼台，在露水中移根，月光下栽种；品格虽然相同，但香气庸俗，为何却与牡丹一同绽放？诗中以神话背景对比木香花与牡丹，暗含批评。",
+        "score": 3.2,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "反问"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句以广寒宫营造高远背景，后句通过反问点出品格之疑，逻辑直白。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "以木香花与牡丹对比，突出其香气俗劣之弊。"
+                }
+            ]
+        },
+        "analysis": "此诗借广寒宫神话抬升意境，却以“香气俗”直贬木香花，反问句式强化批判。但意象拼凑生硬，批评流于表面，缺乏含蓄之美，属立意浅显之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以月宫意象构筑典雅，但“香气俗”破坏整体，画虎不成。",
+                "realm": "凡品",
+                "reason": "批评直白，意象俗套，未能达成典雅之境。"
+            }
+        ],
+        "imagery": [
+            "广寒宫",
+            "月",
+            "露",
+            "牡丹"
+        ],
+        "allusions": [
+            {
+                "phrase": "广寒宫",
+                "explanation": "月宫神话，象征高洁，此处反衬木香花之俗。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句反问点出矛盾，是全诗核心。"
+        }
+    },
+    {
+        "title": "柳花",
+        "author": "張舜民",
+        "paragraphs": [
+            "隨風墜露事輕儇，巧占人間欲夏天。",
+            "只恐障空飛似雪，從教糝徑白於綿。",
+            "未央宮暖粘歌袖，揚子江清惱客船。",
+            "老去强看愁底事，昏花滿眼意茫然。"
+        ],
+        "paragraphs_simplified": [
+            "随风坠露事轻儇，巧占人间欲夏天。",
+            "只恐障空飞似雪，从教糁径白于绵。",
+            "未央宫暖粘歌袖，扬子江清恼客船。",
+            "老去强看愁底事，昏花满眼意茫然。"
+        ],
+        "translation": "柳花随风飘落如露水般轻盈，巧妙地占据人间，欲入夏天；只恐怕它遮蔽天空飞似雪，任由它铺满路径白于棉絮。未央宫温暖，柳花粘住歌女的衣袖；扬子江清澈，柳花恼人客船。老去勉强观看，愁绪何事？昏花满眼，意思茫然。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两联写柳花飘飞之态，后两联转至宫廷江景与个人衰老，由物及人，层次分明。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“飞似雪”、“白于绵”以雪和棉喻柳花之色与态。"
+                }
+            ]
+        },
+        "analysis": "此诗从柳花飘飞写到宫廷江景，最终归于个人衰老，结构松散但意象丰富。比喻生动，然情感宣泄过度，缺乏审美距离，整体略显杂乱。",
+        "poetry_styles": [
+            {
+                "style": "流动",
+                "imagery_analysis": "以柳花为线索，串联自然与人事，但意象跳跃，未凝练统一。",
+                "realm": "能品",
+                "reason": "技法熟练，但结构松散，意境未臻高妙。"
+            }
+        ],
+        "imagery": [
+            "柳花",
+            "雪",
+            "绵",
+            "宫",
+            "江"
+        ],
+        "allusions": [
+            {
+                "phrase": "未央宫",
+                "explanation": "汉代宫殿名，此处借指宫廷场景。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句以昏花茫然收束，情感深沉，点明人生迟暮之叹。"
+        }
+    },
+    {
+        "title": "真珠花",
+        "author": "張舜民",
+        "paragraphs": [
+            "千璣萬琲照庭除，細雨斜風拂座隅。",
+            "莫道長安貧似磬，緣階繞砌盡真珠。"
+        ],
+        "paragraphs_simplified": [
+            "千玑万琲照庭除，细雨斜风拂座隅。",
+            "莫道长安贫似磬，缘阶绕砌尽真珠。"
+        ],
+        "translation": "千颗万颗珍珠照亮了庭院和台阶，细雨和斜风轻轻拂过座位角落。不要说长安贫穷得像磬一样空无一物，沿着台阶绕着砌体到处都是珍珠。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写珍珠与风雨之景，后转折反讽，以景衬情。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“贫似磬”比喻贫穷空乏。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过“千玑万琲照庭除”的珍珠景象，暗含对富足的赞美。"
+                }
+            ]
+        },
+        "analysis": "此诗以真珠花为题，构筑珍珠照庭、细雨斜风之境，意象密集而富丽。后句以“莫道长安贫似磬”反跌，凸显“缘阶绕砌尽真珠”的铺张，暗含对世俗贫富观念的讽喻。语言华美，但情感流于表面，缺乏深层意蕴，整体属辞藻堆砌之作。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "珍珠、细雨、斜风、庭院，渲染出璀璨富丽的画面。",
+                "realm": "能品",
+                "reason": "技法娴熟，辞藻华美，但立意浅显，未达妙境。"
+            }
+        ],
+        "imagery": [
+            "珍珠",
+            "雨",
+            "风",
+            "庭院"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“千玑万琲照庭除”形象生动，点明主题。"
+        }
+    },
+    {
+        "title": "荔枝",
+        "author": "張舜民",
+        "paragraphs": [
+            "柳江六月水如湯，江邊荔枝紅且黄。",
+            "摘時須是带枝葉，滿盤璀璨堆琳瑯。"
+        ],
+        "paragraphs_simplified": [
+            "柳江六月水如汤，江边荔枝红且黄。",
+            "摘时须是带枝叶，满盘璀璨堆琳瑯。"
+        ],
+        "translation": "柳江六月的水像沸水一样热，江边的荔枝红中带黄。摘的时候必须带着枝叶，满盘璀璨堆满了像美玉一样的荔枝。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "细节描写"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写夏日江景，后描述荔枝采摘与盛况，直白铺陈。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“水如汤”喻水热，“堆琳瑯”喻荔枝如美玉。"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "“摘时须是带枝叶”刻画采摘细节。"
+                }
+            ]
+        },
+        "analysis": "此诗单纯咏荔枝，以柳江暑热为背景，突出荔枝红黄之色与采摘之状。语言直白，意象鲜明，但仅止于状物，未见情感寄托或意境升华。整体流畅而平庸，缺乏艺术感染力。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "荔枝、江水、枝叶，构成夏日果熟图景。",
+                "realm": "能品",
+                "reason": "描写具体，但立意常规，无甚新意。"
+            }
+        ],
+        "imagery": [
+            "荔枝",
+            "水",
+            "枝叶"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“滿盤璀璨堆琳瑯”形象描绘荔枝丰盛。"
+        }
+    },
+    {
+        "title": "木瓜  其一",
+        "author": "張舜民",
+        "paragraphs": [
+            "商州楚地戶，宛在江漢偏。",
+            "草木已漸包，果實尤可憐。",
+            "木瓜大如拳，橙橘家家懸。",
+            "隔崖有宿葉，黄紫凝霜烟。",
+            "高秋萬嶂出，一望通鄖川。",
+            "都邑雖僻陋，來者多名賢。"
+        ],
+        "paragraphs_simplified": [
+            "商州楚地户，宛在江汉偏。",
+            "草木已渐包，果实尤可怜。",
+            "木瓜大如拳，橙橘家家悬。",
+            "隔崖有宿叶，黄紫凝霜烟。",
+            "高秋万嶂出，一望通郧川。",
+            "都邑虽僻陋，来者多名贤。"
+        ],
+        "translation": "商州是楚地的门户，宛如在江汉的偏远之地。草木已经逐渐包裹，果实尤其可爱。木瓜大如拳头，橙橘家家户户悬挂。隔着山崖有隔夜的叶子，黄紫色凝结着霜烟。高秋时节万山叠嶂出现，一望通向郧川。城邑虽然偏僻简陋，来的人多是名贤。",
+        "score": 3.2,
+        "subject": [
+            "咏物诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "细节描写"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "从地理到草木果实，再写秋景人文，层层递进。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“木瓜大如拳”比喻木瓜大小。"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "“隔崖有宿叶，黄紫凝霜烟”刻画秋景细节。"
+                }
+            ]
+        },
+        "analysis": "此诗以木瓜为引，描绘商州风物，从地理、草木到秋景，最后落脚人文。意象丰富，如“木瓜大如拳”生动具体，但语言平淡，情感流露不足。结构虽完整，却缺乏情感高潮，整体属平实咏物之作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "木瓜、草木、霜烟、山嶂，勾勒秋日山乡清丽之景。",
+                "realm": "能品",
+                "reason": "描写细致，但意境未达高远。"
+            }
+        ],
+        "imagery": [
+            "木瓜",
+            "草木",
+            "霜",
+            "山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "“木瓜大如拳”简洁生动，突出特征。"
+        }
+    },
+    {
+        "title": "木瓜  其二",
+        "author": "張舜民",
+        "paragraphs": [
+            "古言疾癘由卑濕，木實能醫見藥書。",
+            "有力與人銷患難，無心望爾報瓊琚。"
+        ],
+        "paragraphs_simplified": [
+            "古言疾癘由卑湿，木实能医见药书。",
+            "有力与人销患难，无心望尔报琼琚。"
+        ],
+        "translation": "古话说疾病由卑湿引起，木瓜能医病，见于药书。有力气帮助人消除患难，无心希望你回报美玉。",
+        "score": 3.8,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先引古言，再写木瓜药用，最后点明无私品德。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“琼琚”暗合《诗经》投桃报李之典。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过木瓜药用，寄托助人不求回报之志。"
+                }
+            ]
+        },
+        "analysis": "此诗借木瓜议论，从药用价值引申至助人无私的品德。用典自然，“琼琚”深化主题，语言简练而立意高远。但议论直白，缺乏形象渲染，艺术性稍逊，整体属说理清晰之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "木瓜、药书、琼琚，象征医德与回报。",
+                "realm": "能品",
+                "reason": "用典恰当，但诗意渲染不足。"
+            }
+        ],
+        "imagery": [
+            "木瓜",
+            "书",
+            "玉"
+        ],
+        "allusions": [
+            {
+                "phrase": "琼琚",
+                "explanation": "源自《诗经·卫风·木瓜》，象征回报。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“有力與人銷患難，無心望爾報瓊琚”直接表达主旨。"
+        }
+    },
+    {
+        "title": "櫻桃",
+        "author": "張舜民",
+        "paragraphs": [
+            "雲陽初獻滿筠籠，黄蠟新衣色半紅。",
+            "今日嶺邊空對酒，偷將淚眼望秦中。"
+        ],
+        "paragraphs_simplified": [
+            "云阳初献满筠笼，黄蜡新衣色半红。",
+            "今日岭边空对酒，偷将泪眼望秦中。"
+        ],
+        "translation": "云阳初次进献，满竹笼的樱桃。黄蜡新衣颜色半红。今日在岭边空对着酒，偷偷用泪眼望向秦中。",
+        "score": 4.5,
+        "subject": [
+            "咏物诗",
+            "羁旅诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "思乡"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "今昔对比"
+            ],
+            "structural_logic": "前写昔日樱桃进献之盛，后转今日岭边独饮之悲，形成强烈反差。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“黄蜡新衣”比喻樱桃颜色。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“今日岭边空对酒”通过饮酒场景抒发思乡之情。"
+                }
+            ]
+        },
+        "analysis": "此诗以樱桃起兴，前两句写昔日云阳进献樱桃的鲜艳盛况，后两句急转至今日岭边独饮、泪眼望乡的凄凉。意象对比鲜明，情感真挚，“偷将泪眼”的细节刻画入微，转折自然，艺术感染力强，堪称佳作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "樱桃、竹笼、酒、泪眼，构成今昔悲欢的画卷。",
+                "realm": "妙品",
+                "reason": "意象生动，情感深刻，结构紧凑。"
+            }
+        ],
+        "imagery": [
+            "樱桃",
+            "竹笼",
+            "酒",
+            "眼"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“偷將淚眼望秦中”细腻刻画思乡之情。"
+        }
+    },
+    {
+        "title": "石楠",
+        "author": "張舜民",
+        "paragraphs": [
+            "六代喬楠二百齡，分柯中有異枝生。",
+            "孤根自合藏幽處，瑞子何期應太平。"
+        ],
+        "paragraphs_simplified": [
+            "六代乔楠二百龄，分柯中有异枝生。",
+            "孤根自合藏幽处，瑞子何期应太平。"
+        ],
+        "translation": "六代的乔木楠树已有两百年树龄，分出的枝条中长出了奇异的枝条。孤根自然应该隐藏在幽深之处，瑞子（指吉祥的果实）何时能应验太平之世。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先写树龄与异枝，再写孤根与瑞子，通过物象寄寓对太平的期待。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以瑞子喻指吉祥果实，暗含对盛世的期盼。"
+                }
+            ]
+        },
+        "analysis": "此诗咏石楠，首联写树龄与异枝，勾勒其古老与独特；尾联以孤根藏幽、瑞子应太平寄寓隐逸之志与对盛世的期盼。意象陈旧，立意浅显，缺乏新意，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以幽静意象营造淡泊之境，但意象单薄，未能深入。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，意象陈旧，缺乏真切感。"
+            }
+        ],
+        "imagery": [
+            "乔楠",
+            "孤根",
+            "瑞子"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句较通顺，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "靈壽木",
+        "author": "張舜民",
+        "paragraphs": [
+            "曲木天然性，叨名席上珍。",
+            "節高工礙手，倚壁快扶人。",
+            "莫問西來意，終爲竈下薪。",
+            "他時俘頡利，拜賜敢忘身。"
+        ],
+        "paragraphs_simplified": [
+            "曲木天然性，叨名席上珍。",
+            "节高工碍手，倚壁快扶人。",
+            "莫问西来意，终为灶下薪。",
+            "他时俘颉利，拜赐敢忘身。"
+        ],
+        "translation": "弯曲的木头是天然本性，却被称为席上珍品。节瘤高耸工匠碍手，倚靠墙壁却能快意扶人。不要问西来的寓意，最终只能成为灶下的柴薪。他日俘虏颉利，拜谢赏赐岂敢忘身。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先写木的天然与珍贵，再写其功能与最终命运，尾联用典抒发报国之志。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "以颉利指代敌人，引用唐太宗俘虏颉利可汗的典故，表达忠诚。"
+                }
+            ]
+        },
+        "analysis": "此诗以灵寿木为题，首联写其天然曲性与席上珍名，颔联刻画节瘤碍手却能扶人，颈联转折写其终为灶薪，尾联用颉利典故抒发报国之志。技法娴熟，情感深沉，但立意稍显老套。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以曲木、灶薪等意象构筑命运无常之感，情感深沉。",
+                "realm": "能",
+                "reason": "情感真挚，但用典略显直白，未能完全含蓄。"
+            }
+        ],
+        "imagery": [
+            "曲木",
+            "席",
+            "节",
+            "壁",
+            "灶",
+            "薪",
+            "颉利"
+        ],
+        "allusions": [
+            {
+                "phrase": "颉利",
+                "explanation": "指突厥首领颉利可汗，典出唐太宗俘虏颉利，喻指报国之志。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "尾联用典精妙，点明全诗主旨。"
+        }
+    }
+]

@@ -1,0 +1,710 @@
+[
+    {
+        "title": "和顔長官百詠 客路 其六",
+        "author": "朱繼芳",
+        "paragraphs": [
+            "身如海燕傍誰門，別淚雙垂不見親。",
+            "惟有一條邛竹杖，相隨萬里共艱辛。"
+        ],
+        "paragraphs_simplified": [
+            "身如海燕傍谁门，别泪双垂不见亲。",
+            "惟有一条邛竹杖，相随万里共艰辛。"
+        ],
+        "translation": "身如海燕傍谁门，别泪双垂不见亲。惟有一条邛竹杖，相随万里共艰辛。",
+        "score": 3.8,
+        "subject": [
+            "羁旅诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "孤独",
+            "悲伤"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先以海燕喻漂泊，后以竹杖寄托相依，卒章显志。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以海燕喻身世漂泊"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "竹杖象征陪伴与艰辛"
+                }
+            ]
+        },
+        "analysis": "此诗以海燕起兴，勾勒漂泊无依之态，别泪细节感人。竹杖作为物象，寄寓万里艰辛中的慰藉。情感深沉，意境真切，但意象略显单薄。整体结构紧凑，卒章显志，技法稳健。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "海燕、竹杖等意象沉痛有力",
+                "realm": "能",
+                "reason": "情感沉著，但未达高古"
+            }
+        ],
+        "imagery": [
+            "海燕",
+            "泪",
+            "竹杖"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "竹杖相随，点出相依之情"
+        }
+    },
+    {
+        "title": "和顔長官百詠 客路 其七",
+        "author": "朱繼芳",
+        "paragraphs": [
+            "是處人家搗練忙，天寒日短路偏長。",
+            "蛬聲四壁無時歇，不遣覊人夢到鄉。"
+        ],
+        "paragraphs_simplified": [
+            "是处人家捣练忙，天寒日短路偏长。",
+            "蛬声四壁无时歇，不遣羁人梦到乡。"
+        ],
+        "translation": "到处人家在捣练忙碌，天寒日短路却偏长。蟋蟀声四壁不停，不让羁旅之人梦到家乡。",
+        "score": 3.8,
+        "subject": [
+            "羁旅诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "羁旅",
+            "思乡",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以捣练和路长勾勒寒夜羁旅之景，后以蟋蟀声扰梦点出思乡之情。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "不遣覊人夢到鄉赋予蟋蟀以人的意志，强化羁旅之苦。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过寒夜捣练和蟋蟀声的景物描写，寄托思乡情感。"
+                }
+            ]
+        },
+        "analysis": "此诗以'捣练忙'与'路偏长'的对举，勾勒出寒日羁旅的时空压迫感。蛬声的无歇渗透于四壁，以声写寂，构筑出听觉上的孤绝空间。末句拟人手法将蟋蟀声转化为阻断归梦的主动力量，使外在景物与内在乡愁形成戏剧性对抗。情感表达含蓄，避免了直露的感伤，但在意象选择上未脱传统羁旅诗的窠臼，整体呈现工稳而缺乏突破的能品特质。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "捣练与蛬声意象交织，折射羁旅之悲与思乡之慨。",
+                "realm": "能",
+                "reason": "技法纯熟，情感真切，但意象略显陈旧，未达妙品之境。"
+            }
+        ],
+        "imagery": [
+            "捣练",
+            "寒夜",
+            "道路",
+            "蟋蟀",
+            "梦境"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句以拟人手法点明主题，情感最为集中。"
+        }
+    },
+    {
+        "title": "和顔長官百詠 客路 其八",
+        "author": "朱繼芳",
+        "paragraphs": [
+            "送窮不去奈窮何，山有荆榛水有波。",
+            "萬物得時人自老，梁鴻頭白五噫歌。"
+        ],
+        "paragraphs_simplified": [
+            "送穷不去奈穷何，山有荆榛水有波。",
+            "万物得时人自老，梁鸿头白五噫歌。"
+        ],
+        "translation": "送穷不去奈穷何，山有荆棘水有波。万物得时人自老，梁鸿头白五噫歌。",
+        "score": 3.0,
+        "subject": [
+            "羁旅诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "无奈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以送穷困境起兴，后两句借梁鸿典故点出人世沧桑，暗含讽喻。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“梁鸿头白五噫歌”引用东汉梁鸿作《五噫歌》讽世之典。"
+                }
+            ]
+        },
+        "analysis": "典故运用尚可，但立意浅显，未能深入挖掘羁旅与命运之关系。意象如荆榛、水波流于表面，情感表达缺乏层次，整体流于说教。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以典故寄托悲愤，但意象与典故衔接生硬，未能浑然一体。",
+                "realm": "凡",
+                "reason": "典故堆砌，缺乏内在情感驱动。"
+            }
+        ],
+        "imagery": [
+            "荆榛",
+            "水波",
+            "梁鸿"
+        ],
+        "allusions": [
+            {
+                "phrase": "梁鸿五噫歌",
+                "explanation": "东汉梁鸿过京师作《五噫歌》讽世，后以此典抒发愤世之情。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“万物得时人自老”以自然规律反衬人生无奈，具哲理意味。"
+        }
+    },
+    {
+        "title": "和顔長官百詠 客路 其九",
+        "author": "朱繼芳",
+        "paragraphs": [
+            "屈指秋風與鴈期，陽關西去到何時。",
+            "側身一望腸堪斷，天似穹廬碧四垂。"
+        ],
+        "paragraphs_simplified": [
+            "屈指秋风与雁期，阳关西去到何时。",
+            "侧身一望肠堪断，天似穹庐碧四垂。"
+        ],
+        "translation": "屈指计算秋风与大雁的约定，西出阳关何时能归？侧身一望，肠断，天空如穹庐碧蓝四垂。",
+        "score": 3.8,
+        "subject": [
+            "边塞诗",
+            "羁旅诗"
+        ],
+        "emotion": [
+            "悲愤",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首句设问归期，尾句以景结情，首尾呼应强化绝望感。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“天似穹庐碧四垂”以穹庐喻天，形象开阔苍茫。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "“阳关西去到何时”以问句增强情感张力。"
+                }
+            ]
+        },
+        "analysis": "情感强烈，比喻新颖，将天空比作穹庐，构筑出苍茫辽阔的边塞意境。但“肠堪断”稍显直白，整体结构紧凑，虚实结合，展现出一定的艺术张力。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以秋风、雁、阳关等意象勾勒边塞苍凉，情感深沉。",
+                "realm": "能品",
+                "reason": "技法成熟，意境真切，符合悲慨风格之骨力。"
+            }
+        ],
+        "imagery": [
+            "秋风",
+            "雁",
+            "阳关",
+            "穹庐"
+        ],
+        "allusions": [
+            {
+                "phrase": "阳关",
+                "explanation": "源自王维《送元二使安西》，代指边塞离别之地。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句比喻独特，意境宏大，以景结情余韵悠长。"
+        }
+    },
+    {
+        "title": "和顔長官百詠 客路 其一○",
+        "author": "朱繼芳",
+        "paragraphs": [
+            "高鳥翩翩去未窮，行人擾擾復西東。",
+            "何須華表千年鶴，城郭重來便不同。"
+        ],
+        "paragraphs_simplified": [
+            "高鸟翩翩去未穷，行人扰扰复西东。",
+            "何须华表千年鹤，城郭重来便不同。"
+        ],
+        "translation": "高鸟翩翩去未穷，行人扰扰复西东。何须华表千年鹤，城郭重来便不同。",
+        "score": 3.5,
+        "subject": [
+            "羁旅诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "对比"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以飞鸟行人起兴，后两句用华表鹤典，对比物是人非之理。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“华表千年鹤”引用丁令威化鹤归辽东之典。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "“何须”与“便不同”形成虚实对照。"
+                }
+            ]
+        },
+        "analysis": "典故运用较巧妙，但“城郭重来便不同”立意浅显，未能深入时空变迁之思。意象如高鸟、行人普通，整体哲理表达不够透彻。",
+        "poetry_styles": [
+            {
+                "style": "旷达",
+                "imagery_analysis": "试图以物是人非之典达观世事，但典故与实景衔接生硬。",
+                "realm": "能",
+                "reason": "技法成熟但意境未超逸。"
+            }
+        ],
+        "imagery": [
+            "高鸟",
+            "行人",
+            "华表鹤",
+            "城郭"
+        ],
+        "allusions": [
+            {
+                "phrase": "华表鹤",
+                "explanation": "丁令威学道化鹤，归辽东叹城郭如故人民非。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“城郭重来便不同”以简语道出世事变迁，具哲理余味。"
+        }
+    },
+    {
+        "title": "和顔長官百詠 邊庭 其一",
+        "author": "朱繼芳",
+        "paragraphs": [
+            "年年塞草欲秋時，左右紅旗說戰機。",
+            "介胄粗官應有語，而今宰相好吟詩。"
+        ],
+        "paragraphs_simplified": [
+            "年年塞草欲秋时，左右红旗说战机。",
+            "介胄粗官应有语，而今宰相好吟诗。"
+        ],
+        "translation": "年年塞草欲秋时，左右红旗说战机。介胄粗官应有语，而今宰相好吟诗。",
+        "score": 3.8,
+        "subject": [
+            "边塞诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "讽刺"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句以塞草红旗勾勒边庭战备，后两句借介胄与宰相对比，讽刺文恬武嬉。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "“介胄粗官”代指武将，“宰相”代指文官。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "“应有语”与“好吟诗”形成职责与现状的尖锐对照。"
+                }
+            ]
+        },
+        "analysis": "讽刺手法直接有力，但意象如塞草、红旗陈旧，缺乏新意。情感表达偏于说教，艺术升华不足，整体停留在时事评议层面。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以边塞实景与官场对比显批判力度，但意象未脱俗套。",
+                "realm": "能",
+                "reason": "技法娴熟但意境未臻高格。"
+            }
+        ],
+        "imagery": [
+            "塞草",
+            "红旗",
+            "介胄",
+            "宰相"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“而今宰相好吟诗”以反语直刺时弊，讽刺尖锐。"
+        }
+    },
+    {
+        "title": "和顔長官百詠 邊庭 其二",
+        "author": "朱繼芳",
+        "paragraphs": [
+            "角聲吹裂肺肝愁，說與將軍莫逗留。",
+            "男子生當侯萬里，死判馬革海西頭。"
+        ],
+        "paragraphs_simplified": [
+            "角声吹裂肺肝愁，说与将军莫逗留。",
+            "男子生当侯万里，死判马革海西头。"
+        ],
+        "translation": "号角声吹得肺肝都要裂开，充满愁苦，告诉将军不要逗留。男子汉生应当封侯于万里之外，死则用马皮裹尸在海西头。",
+        "score": 3.0,
+        "subject": [
+            "边塞诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "悲壮"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以角声渲染愁苦氛围，次句直抒男儿沙场赴死的豪情，形成情感转折。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“角声吹裂肺肝”以夸张手法强化边塞愁苦。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "“马革”借代战死沙场。"
+                }
+            ]
+        },
+        "analysis": "此诗以角声起兴，勾勒边塞的凄厉氛围，后两句转为豪迈宣言，意象选择典型但立意老套，情感转折略显生硬，缺乏细腻铺垫，属于边塞诗常见主题的平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "角声、马革意象直接，但缺乏新意，试图营造豪迈却流于粗犷。",
+                "realm": "能品",
+                "reason": "技法成熟，但情感表达直白，缺乏含蓄之美。"
+            }
+        ],
+        "imagery": [
+            "号角",
+            "将军",
+            "战马"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以夸张手法渲染愁苦，更具感染力。"
+        }
+    },
+    {
+        "title": "和顔長官百詠 邊庭 其三",
+        "author": "朱繼芳",
+        "paragraphs": [
+            "一劍沙場獨苦辛，天陰殺氣作黄塵。",
+            "沉思鳥盡弓無用，肘後纍纍却顧身。"
+        ],
+        "paragraphs_simplified": [
+            "一剑沙场独苦辛，天阴杀气作黄尘。",
+            "沉思鸟尽弓无用，肘后累累却顾身。"
+        ],
+        "translation": "一把剑在沙场上独自辛苦，天阴时杀气化作黄尘。沉思鸟尽弓藏的道理，肘后累累（指官印）却顾惜自身。",
+        "score": 3.5,
+        "subject": [
+            "边塞诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "首句写战场艰辛，次句用典表达功成身退的思考，形成虚实对比。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“鸟尽弓藏”出自史记，暗示官场险恶。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "“肘后累累”借代官印。"
+                }
+            ]
+        },
+        "analysis": "此诗通过沙场与官场的对比，运用“鸟尽弓藏”典故，暗示功高震主的危险。意象较为凝练，但“肘后累累”稍显晦涩，典故运用略显生硬，整体立意较深但表达不够流畅。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "剑、黄尘、弓、官印意象凝练，试图深沉含蓄。",
+                "realm": "能品",
+                "reason": "技法成熟，但典故运用生硬，缺乏自然流动。"
+            }
+        ],
+        "imagery": [
+            "剑",
+            "尘土",
+            "弓",
+            "官印"
+        ],
+        "allusions": [
+            {
+                "phrase": "鸟尽弓藏",
+                "explanation": "比喻功成后被抛弃，出自《史记》。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句用典深刻，揭示官场隐患。"
+        }
+    },
+    {
+        "title": "和顔長官百詠 邊庭 其四",
+        "author": "朱繼芳",
+        "paragraphs": [
+            "探使歸來半信疑，帳前相語怕人知。",
+            "沉香霧裏嬌絃暖，莫遣邊愁到兩眉。"
+        ],
+        "paragraphs_simplified": [
+            "探使归来半信疑，帐前相语怕人知。",
+            "沉香雾里娇弦暖，莫遣边愁到两眉。"
+        ],
+        "translation": "探使回来半信半疑，帐前相语怕人知道。沉香雾中娇弦温暖，不要让边愁到两眉。",
+        "score": 2.5,
+        "subject": [
+            "边塞诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "双关",
+                "对比"
+            ],
+            "presentation_tags": [
+                "细节描写",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首句写秘密对话，次句以享乐场景衬托逃避边愁的心态，形成讽刺对比。",
+            "evidence": [
+                {
+                    "tag": "双关",
+                    "explanation": "“边愁”既指边塞愁苦，也指眉头愁绪。"
+                },
+                {
+                    "tag": "以乐衬哀",
+                    "explanation": "“娇弦暖”衬托边愁的悲凉。"
+                }
+            ]
+        },
+        "analysis": "此诗描绘军中秘密对话与享乐场景，通过“沉香雾”与“边愁”的对比，讽刺将领苟安心态。意象细腻但立意浅显，辞藻堆砌，缺乏深度，属于常见讽刺边塞诗的平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "沉香雾、娇弦意象华丽，但内容空洞。",
+                "realm": "凡品",
+                "reason": "试图绮丽，但立意浅显，流于辞藻堆砌。"
+            }
+        ],
+        "imagery": [
+            "使者",
+            "帐篷",
+            "香雾",
+            "琴",
+            "眉头"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句营造悬念，更具张力。"
+        }
+    }
+]

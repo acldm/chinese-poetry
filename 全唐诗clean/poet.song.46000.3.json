@@ -1,0 +1,1996 @@
+[
+    {
+        "title": "永安宮",
+        "author": "蘇軾",
+        "paragraphs": [
+            "千古陵谷變，故宮安得存。",
+            "徘徊問耆老，惟有永安門。",
+            "遊人雜楚蜀，車馬晚喧喧。",
+            "不見重樓好，誰知昔日尊。",
+            "吁嗟蜀先主，兵敗此亡魂。",
+            "只應法正死，使公去遭燔。"
+        ],
+        "paragraphs_simplified": [
+            "千古陵谷变，故宫安得存。",
+            "徘徊问耆老，惟有永安门。",
+            "游人杂楚蜀，车马晚喧喧。",
+            "不见重楼好，谁知昔日尊。",
+            "吁嗟蜀先主，兵败此亡魂。",
+            "只应法正死，使公去遭燔。"
+        ],
+        "translation": "千古山河变迁，故宫怎能保存。徘徊询问老人，只有永安门还在。游人混杂楚蜀，车马夜晚喧闹。不见高楼美好，谁知昔日尊荣。叹息蜀先主，兵败此处亡魂。只因法正已死，使公（刘备）去遭焚烧。",
+        "score": 3.2,
+        "subject": [
+            "怀古诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "从景物描写切入，通过询问老人引出历史，最后以叹息结束。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "‘谁知昔日尊’以反问强调今昔对比"
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "通过刘备兵败典故，暗讽时政"
+                }
+            ]
+        },
+        "analysis": "意象陈旧，局限于陵谷、故宫等传统符号，未能构筑独特意境。情感流于表面，缺乏对历史沧桑的深刻挖掘。整体为应酬式怀古，技法规范却无突破，立意浅显。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以传统意象营造古雅氛围，但缺乏新意。",
+                "realm": "能品",
+                "reason": "用典规范，但情感空洞，未能传达真正的悲慨。"
+            }
+        ],
+        "imagery": [
+            "陵谷",
+            "故宫",
+            "永安门",
+            "车马",
+            "重楼"
+        ],
+        "allusions": [
+            {
+                "phrase": "蜀先主",
+                "explanation": "指刘备"
+            },
+            {
+                "phrase": "法正",
+                "explanation": "刘备谋士"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 4,
+            "reason": "情感最直接，点出亡魂之悲。"
+        }
+    },
+    {
+        "title": "戲作賈梁道詩",
+        "author": "蘇軾",
+        "paragraphs": [
+            "嵇紹似康爲有子，郗超叛鑒是無孫。",
+            "如今更恨賈梁道，不殺公閭殺子元。"
+        ],
+        "paragraphs_simplified": [
+            "嵇绍似康为有子，郗超叛鉴是无孙。",
+            "如今更恨贾梁道，不杀公闾杀子元。"
+        ],
+        "translation": "嵇绍像嵇康是因为有子，郗超背叛郗鉴是无孙。如今更恨贾梁道，不杀公闾（贾充）杀子元（司马师）。",
+        "score": 3.5,
+        "subject": [
+            "咏史诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直接对比历史人物，表达对贾梁道的恨意。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前两句工整对仗"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用嵇绍、郗超等历史人物"
+                }
+            ]
+        },
+        "analysis": "用典密集，但过于晦涩，缺乏诗意铺垫。情感强烈却流于直白说教，未能平衡讽刺与艺术性。意象单薄，缺乏审美回味。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以典故展现力度，但意象不足。",
+                "realm": "能品",
+                "reason": "语言有力，但缺乏含蓄与深度。"
+            }
+        ],
+        "imagery": [],
+        "allusions": [
+            {
+                "phrase": "嵇绍",
+                "explanation": "嵇康之子"
+            },
+            {
+                "phrase": "郗超",
+                "explanation": "郗鉴之孙"
+            },
+            {
+                "phrase": "贾梁道",
+                "explanation": "历史人物"
+            },
+            {
+                "phrase": "公闾",
+                "explanation": "贾充字"
+            },
+            {
+                "phrase": "子元",
+                "explanation": "司马师字"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "情感最集中，直指恨意。"
+        }
+    },
+    {
+        "title": "嘲子由",
+        "author": "蘇軾",
+        "paragraphs": [
+            "堆几盞埃簡，攻之如蠹蟲。",
+            "誰知聖人意，不盡書籍中。",
+            "曲盡弦猶在，器成機見空。",
+            "妙哉斲輪手，堂下笑桓公。"
+        ],
+        "paragraphs_simplified": [
+            "堆几盏埃简，攻之如蠹虫。",
+            "谁知圣人意，不尽书籍中。",
+            "曲尽弦犹在，器成机见空。",
+            "妙哉斲轮手，堂下笑桓公。"
+        ],
+        "translation": "堆满积尘的简牍，攻读如蛀虫。谁知圣人之意，不全在书籍中。曲子弹完弦还在，机器制成机关空。妙啊斲轮手，堂下笑桓公。",
+        "score": 4.5,
+        "subject": [
+            "哲理诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "从读书现象入手，引出对学问的见解，最后以典故收尾。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘攻之如蠹虫’比喻死读书"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "以斲轮手喻实践出真知"
+                }
+            ]
+        },
+        "analysis": "意象新颖，蠹虫、斲轮等符号生动，批判教条主义透彻。语言凝练，典故运用自然，哲理层层递进。情景契合度高，意境真切，有回甘之妙。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "意象精炼，直指核心矛盾。",
+                "realm": "妙品",
+                "reason": "语言简洁，哲理深刻，艺术价值高。"
+            }
+        ],
+        "imagery": [
+            "埃简",
+            "蠹虫",
+            "弦",
+            "器",
+            "斲轮"
+        ],
+        "allusions": [
+            {
+                "phrase": "斲轮手",
+                "explanation": "出自《庄子》，喻技艺高超"
+            },
+            {
+                "phrase": "桓公",
+                "explanation": "可能指桓温"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "最富哲理，体现弦空之妙。"
+        }
+    },
+    {
+        "title": "題永叔會老堂",
+        "author": "蘇軾",
+        "paragraphs": [
+            "三朝出處共雍容，歲晚交情見二公。",
+            "乘興不辭千里遠，放懷還喜一樽同。",
+            "嘉謀定國垂青史，盛事傳家有素風。",
+            "自顧塵纓猶未濯，九霄終日羨冥鴻。"
+        ],
+        "paragraphs_simplified": [
+            "三朝出处共雍容，岁晚交情见二公。",
+            "乘兴不辞千里远，放怀还喜一樽同。",
+            "嘉谋定国垂青史，盛事传家有素风。",
+            "自顾尘缨犹未濯，九霄终日羡冥鸿。"
+        ],
+        "translation": "三朝为官从容不迫，岁晚交情见于二公。乘兴不辞千里远，放怀还喜一杯同。嘉谋定国垂青史，盛事传家有素风。自顾尘缨未濯，终日羡慕九霄冥鸿。",
+        "score": 3.0,
+        "subject": [
+            "酬唱诗",
+            "题壁诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "羡慕"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "赞颂二公功绩，转而自嘲未脱俗务。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "全诗对仗工整"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "‘尘缨’喻官场俗务"
+                }
+            ]
+        },
+        "analysis": "意象典雅，但情感流于客套，堆砌赞词。作为应酬诗，缺乏真挚内核，立意平庸。技法规范却无突破，整体为平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以青史、冥鸿等营造高雅氛围。",
+                "realm": "能品",
+                "reason": "情感空洞，应酬痕迹重。"
+            }
+        ],
+        "imagery": [
+            "三朝",
+            "千里",
+            "一樽",
+            "青史",
+            "素风",
+            "尘缨",
+            "冥鸿"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "情感相对真实，表达羡慕之意。"
+        }
+    },
+    {
+        "title": "留題徐氏花園二首  其一",
+        "author": "蘇軾",
+        "paragraphs": [
+            "莫尋羣玉山頭路，莫看劉郎觀裏花。",
+            "但解閉門留我住，主人休問是誰家。"
+        ],
+        "paragraphs_simplified": [
+            "莫寻群玉山头路，莫看刘郎观里花。",
+            "但解闭门留我住，主人休问是谁家。"
+        ],
+        "translation": "莫寻群玉山头路，莫看刘郎观里花。只要闭门留我住，主人休问是谁家。",
+        "score": 2.8,
+        "subject": [
+            "题园诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "设问"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直接表达留恋之情，以反问结束。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前两句工整"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过花、路等意象表达情感"
+                }
+            ]
+        },
+        "analysis": "语言简洁，但意象陈旧，缺乏独特景致。情感直白，未深入挖掘园中情趣。整体泛泛而谈，无艺术亮点。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以群玉山、刘郎等营造闲适氛围。",
+                "realm": "凡品",
+                "reason": "语言通顺，但无审美深度。"
+            }
+        ],
+        "imagery": [
+            "群玉山",
+            "刘郎观",
+            "花",
+            "门"
+        ],
+        "allusions": [
+            {
+                "phrase": "群玉山",
+                "explanation": "神话中的仙山"
+            },
+            {
+                "phrase": "刘郎",
+                "explanation": "可能指刘禹锡"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "情感最直接，表达留恋。"
+        }
+    },
+    {
+        "title": "留題徐氏花園二首  其二",
+        "author": "蘇軾",
+        "paragraphs": [
+            "退之身外無窮事，子美樽前欲盡花。",
+            "更有多情君未識，不隨柳絮落人家。"
+        ],
+        "paragraphs_simplified": [
+            "退之身外无穷事，子美樽前欲尽花。",
+            "更多情君未识，不随柳絮落人家。"
+        ],
+        "translation": "韩愈身外有无穷俗事，杜甫酒樽前想要赏尽花朵。更有深情你未曾识得，不随柳絮飘落寻常人家。",
+        "score": 4.5,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以韩愈、杜甫典故起笔，奠定文人雅趣基调；次句以柳絮喻随波逐流，转折出不染尘俗之志，逻辑自然递进。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用退之（韩愈）、子美（杜甫）的典故，彰显文人传统"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "以柳絮落人家比喻世俗随流，暗含超脱之意"
+                }
+            ]
+        },
+        "analysis": "此诗以韩愈、杜甫典故构筑文人雅趣，后联以柳絮喻随波逐流，彰显不染尘俗之志。意象清雅，用典自然，情感含蓄而有回甘。情景契合度高，意境真切，审美距离适中，整体为妙品之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "典故与自然意象融合，营造高雅氛围",
+                "realm": "妙",
+                "reason": "用典高雅，意境清逸，艺术水准极高"
+            },
+            {
+                "style": "清奇",
+                "imagery_analysis": "柳絮与花意象独特，超脱流俗",
+                "realm": "妙",
+                "reason": "立意新颖，不落窠臼"
+            }
+        ],
+        "imagery": [
+            "文人",
+            "花",
+            "柳絮"
+        ],
+        "allusions": [
+            {
+                "phrase": "退之",
+                "explanation": "指唐代文学家韩愈"
+            },
+            {
+                "phrase": "子美",
+                "explanation": "指唐代诗人杜甫"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句用典奠定基调，浓缩文人精神"
+        }
+    },
+    {
+        "title": "遊靈隠寺戲贈開軒李居士",
+        "author": "蘇軾",
+        "paragraphs": [
+            "推倒垣牆也不難，一軒復作兩軒看。",
+            "若教從此成千里，巧歷如今也被謾。"
+        ],
+        "paragraphs_simplified": [
+            "推倒垣墙也不难，一轩复作两轩看。",
+            "若教从此成千里，巧历如今也被谩。"
+        ],
+        "translation": "推倒围墙也不难，一间轩廊再作两间看。如果从此变成千里之遥，巧妙的历算如今也被欺骗。",
+        "score": 2.5,
+        "subject": [
+            "酬唱诗",
+            "打油诗"
+        ],
+        "emotion": [
+            "欢乐",
+            "戏谑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "设问"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "首句写推墙扩轩的空间变化，次句以夸张假设成千里，讽刺历算虚妄，逻辑直白但缺乏深度。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "推倒围墙变成千里，夸大空间变化"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "若教从此成千里，以问句增强戏谑效果"
+                }
+            ]
+        },
+        "analysis": "此诗以推墙扩轩起笔，构筑空间变化之趣，后联以夸张假设讽刺历算虚妄。语言诙谐，意象具体，但立意浅显，缺乏审美深度。情景生硬拼凑，情感直露无回甘，整体为平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "建筑意象直白，缺乏修饰",
+                "realm": "凡",
+                "reason": "试图模仿豪放但实则粗鄙，语言直白无文采"
+            }
+        ],
+        "imagery": [
+            "墙",
+            "廊",
+            "路"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直白叙述，最通顺易懂"
+        }
+    },
+    {
+        "title": "錢道人有詩云直須認取主人翁作兩絕戲之  其一",
+        "author": "蘇軾",
+        "paragraphs": [
+            "首斷故應無斷者，冰銷那復有冰知。",
+            "主人若苦令儂認，認主人人竟是誰。"
+        ],
+        "paragraphs_simplified": [
+            "首断故应无断者，冰销那复有冰知。",
+            "主人若苦令侬认，认主人人竟是谁。"
+        ],
+        "translation": "头断了本应无断者，冰消了哪还有冰知。主人若苦令我认，认主人的人究竟是谁。",
+        "score": 4.0,
+        "subject": [
+            "禅理诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "超脱"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "设问"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首句以断首冰销喻虚幻本体，次句设问主人是谁，直指心性探讨，逻辑递进至禅理核心。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "认主人人竟是谁，以问句深化主题"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "冰销喻虚幻，强化无常之感"
+                }
+            ]
+        },
+        "analysis": "此诗以断首冰销之喻构筑禅理境界，后联设问主人本体，直指心性。意象玄奥，逻辑严密，情感超脱。情景契合度高，意境真切，有回甘之味，整体为能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "超诣",
+                "imagery_analysis": "断首与冰销意象超脱现实",
+                "realm": "妙",
+                "reason": "禅理深邃，意境超脱"
+            },
+            {
+                "style": "飘逸",
+                "imagery_analysis": "心性探讨轻盈无滞",
+                "realm": "妙",
+                "reason": "情感淡泊，艺术水准高"
+            }
+        ],
+        "imagery": [
+            "头",
+            "冰",
+            "主人"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句设问深刻，点明禅理核心"
+        }
+    },
+    {
+        "title": "錢道人有詩云直須認取主人翁作兩絕戲之  其二",
+        "author": "蘇軾",
+        "paragraphs": [
+            "有主還須更有賓，不如無境自無塵。",
+            "只從半夜安心後，失却當前覺痛人。"
+        ],
+        "paragraphs_simplified": [
+            "有主还须更有宾，不如无境自无尘。",
+            "只从半夜安心后，失却当前觉痛人。"
+        ],
+        "translation": "有主还须更有宾，不如无境自然无尘。只从半夜安心后，失却当前觉痛人。",
+        "score": 4.2,
+        "subject": [
+            "禅理诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "超脱"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首句论主宾之辩，次句写半夜安心后失却觉痛，从实境转向虚境，逻辑暗合禅宗顿悟。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "有主宾 vs 无境无尘，凸显心境差异"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "觉痛人喻烦恼，虚实结合"
+                }
+            ]
+        },
+        "analysis": "此诗以主宾之辩起笔，构筑禅理境界，后联以半夜安心后失却觉痛，暗合顿悟。意象精妙，逻辑递进，情感淡泊。情景契合，意境真切，审美距离适中，整体为能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "超诣",
+                "imagery_analysis": "安心与觉痛意象超脱尘世",
+                "realm": "妙",
+                "reason": "禅理深邃，艺术水准高"
+            },
+            {
+                "style": "冲淡",
+                "imagery_analysis": "无境无尘营造淡泊氛围",
+                "realm": "妙",
+                "reason": "情感内敛，有回甘之味"
+            }
+        ],
+        "imagery": [
+            "主人",
+            "客人",
+            "环境",
+            "灰尘",
+            "夜",
+            "痛苦"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句写安心后失却觉痛，禅意深刻"
+        }
+    },
+    {
+        "title": "趙成伯家有麗人僕忝鄉人不肯開樽徒吟春雪美句次韵一笑",
+        "author": "蘇軾",
+        "paragraphs": [
+            "繡簾朱戶未曾開，誰見梅花落鏡臺。",
+            "試問高吟三十韵，何如低唱兩三杯。",
+            "莫言衰鬢聊相映，須得纖腰與共回。",
+            "知道文君隔青瑣，梁園賦客肯言才。"
+        ],
+        "paragraphs_simplified": [
+            "绣帘朱户未曾开，谁见梅花落镜台。",
+            "试问高吟三十韵，何如低唱两三杯。",
+            "莫言衰鬓聊相映，须得纤腰与共回。",
+            "知道文君隔青琐，梁园赋客肯言才。"
+        ],
+        "translation": "绣帘朱户未曾开，谁见梅花落镜台。试问高吟三十韵，何如低唱两三杯。莫言衰鬓聊相映，须得纤腰与共回。知道文君隔青琐，梁园赋客肯言才。",
+        "score": 3.0,
+        "subject": [
+            "宴饮诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "欢乐",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "抒情"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "起承转合"
+            ],
+            "structural_logic": "首联写丽人未开，次联问吟诗与饮酒，三联写衰鬓与纤腰，尾联用典文君梁园，结构完整但堆砌。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "文君、梁园典故，自比才子"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "衰鬓与纤腰对仗，形式工整"
+                }
+            ]
+        },
+        "analysis": "此诗以绣帘朱户起笔，构筑丽人形象，后联以文君梁园典故自诩。辞藻华丽，用典丰富，但情感浮夸，意象陈旧。情景生硬拼凑，缺乏真切感，整体为平庸应酬之作。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "绣帘、朱户、梅花意象华丽",
+                "realm": "凡",
+                "reason": "辞藻堆砌，立意浅显"
+            },
+            {
+                "style": "典雅",
+                "imagery_analysis": "典故运用但缺乏深度",
+                "realm": "凡",
+                "reason": "画虎不成反类犬，空有形式"
+            }
+        ],
+        "imagery": [
+            "帘",
+            "门",
+            "花",
+            "镜",
+            "才女",
+            "园林"
+        ],
+        "allusions": [
+            {
+                "phrase": "文君",
+                "explanation": "指卓文君，喻才女"
+            },
+            {
+                "phrase": "梁园",
+                "explanation": "汉代梁孝王的园林，喻文人雅集之地"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句写景最通顺，奠定画面"
+        }
+    },
+    {
+        "title": "成伯家宴造坐無由輒欲效顰而酒已盡入夜不欲煩擾戲作小詩求數酌而已",
+        "author": "蘇軾",
+        "paragraphs": [
+            "道士令嚴難繼和，僧伽帽小却空迴。",
+            "隔籬不喚鄰翁飲，抱甕須防吏部來。"
+        ],
+        "paragraphs_simplified": [
+            "道士令严难继和，僧伽帽小却空回。",
+            "隔篱不唤邻翁饮，抱瓮须防吏部来。"
+        ],
+        "translation": "道士的命令严格难以应和，僧伽帽小却空手而回。隔着篱笆不叫邻居老翁来喝酒，抱着瓮须防备吏部的人来。",
+        "score": 2.5,
+        "subject": [
+            "杂诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "闲适",
+            "无奈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以道士、僧伽比喻酒局结束之无奈，再以抱瓮防吏部表达不想再添麻烦之意，直截了当点明戏谑主题。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "道士令严比喻酒局约束，僧伽帽小比喻酒尽"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "吏部代指官府或麻烦"
+                }
+            ]
+        },
+        "analysis": "此诗为席间戏谑之作，语言俚俗，意象陈旧，道士、僧伽、吏部等物象堆砌，立意浅显，仅为表达酒尽不欲烦扰之意。技法上借典故与比喻略作修饰，然整体流于表面，缺乏情感深度与意境营造，纯属应酬游戏之笔，无甚艺术价值。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "试图以疏野之态呈现随意之趣，但意象粗陋，缺乏自然真趣。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，意象陈旧，立意浅显，仅为打油之流。"
+            }
+        ],
+        "imagery": [
+            "道士",
+            "僧伽",
+            "篱笆",
+            "邻翁",
+            "瓮",
+            "吏部"
+        ],
+        "allusions": [
+            {
+                "phrase": "吏部",
+                "explanation": "可能指唐代吏部官职，泛指官府或麻烦"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点题，以比喻道出酒局结束之无奈。"
+        }
+    },
+    {
+        "title": "成伯席上贈所出妓川人楊姐",
+        "author": "蘇軾",
+        "paragraphs": [
+            "坐來真箇好相宜，深注脣兒淺畫眉。",
+            "須信楊家佳麗種，洛川自有浴妃池。"
+        ],
+        "paragraphs_simplified": [
+            "坐来真个好相宜，深注唇儿浅画眉。",
+            "须信杨家佳丽种，洛川自有浴妃池。"
+        ],
+        "translation": "坐来确实很相宜，深涂嘴唇浅画眉。须信杨家是佳丽种，洛川自有浴妃池。",
+        "score": 3.0,
+        "subject": [
+            "宴饮诗",
+            "赠妓诗"
+        ],
+        "emotion": [
+            "赞美",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写外貌之相宜，再以洛神典故抬高其出身，结构简单，直白赞美。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "洛川浴妃池比喻杨姐如洛神"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "洛川、浴妃池指洛水女神沐浴处"
+                }
+            ]
+        },
+        "analysis": "此赠妓诗语言直白，意象限于画眉、洛神等常见物象，立意浅显，仅为应酬赞美。虽用典故，但未深化意境，情感流于表面，技法平庸，缺乏艺术感染力，属典型宴席酬唱之作，无甚审美价值。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "试图以绮丽之辞描绘美色，但意象俗艳，缺乏含蓄之美。",
+                "realm": "凡",
+                "reason": "意象陈旧，仅为外貌铺陈，无深层情感寄托。"
+            }
+        ],
+        "imagery": [
+            "唇",
+            "眉",
+            "杨家",
+            "洛川",
+            "浴妃池"
+        ],
+        "allusions": [
+            {
+                "phrase": "洛川浴妃池",
+                "explanation": "指洛神沐浴之典故，喻杨姐之美"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句用典，抬高其出身，为全诗核心。"
+        }
+    },
+    {
+        "title": "奉和成伯大雨中會客解嘲",
+        "author": "蘇軾",
+        "paragraphs": [
+            "樂事難并真實語，坐排用意多乖誤。",
+            "興來取次或成歡，瓦鉤却勝黄金注。",
+            "我生禍患久不擇，肯爲一時風雨阻。",
+            "天公變化豈有常，明月行看照歸路。"
+        ],
+        "paragraphs_simplified": [
+            "乐事难并真实语，坐排用意多乖误。",
+            "兴来取次或成欢，瓦钩却胜黄金注。",
+            "我生祸患久不择，肯为一时风雨阻。",
+            "天公变化岂有常，明月行看照归路。"
+        ],
+        "translation": "乐事难同时真实，坐排用意多错误。兴来随意或成欢，瓦钩却胜黄金注。我生祸患久不选择，肯为一时风雨阻。天公变化岂有常，明月行看照归路。",
+        "score": 4.5,
+        "subject": [
+            "酬唱诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "豁达",
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "设问"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先论乐事难全与简陋之乐，再抒不惧祸患之胸怀，末以天公明月收束，彰显豁达之志，层层递进。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "瓦钩却胜黄金注，对比简陋与贵重"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "天公变化、明月照归路，抒发豁达之情"
+                }
+            ]
+        },
+        "analysis": "此和诗以大雨会客为背景，语言凝练，意象鲜明，风雨与明月形成对比，构筑出由困顿至豁达的情感脉络。结构严谨，卒章显志，明月归路之喻拓宽意境，折射苏轼超然物外之胸襟。技法上融合议论与写景，情感回甘深厚，堪称妙品。",
+        "poetry_styles": [
+            {
+                "style": "旷达",
+                "imagery_analysis": "以风雨明月之变，显豁达不羁之境，意象开阔，情感真挚。",
+                "realm": "妙",
+                "reason": "意境真切，结构完整，情感有回甘。"
+            }
+        ],
+        "imagery": [
+            "乐事",
+            "坐排",
+            "瓦钩",
+            "黄金",
+            "祸患",
+            "风雨",
+            "天公",
+            "明月"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句以明月照归路收束，卒章显志，升华全诗。"
+        }
+    },
+    {
+        "title": "泗州過倉中劉景文老兄戲贈一絕",
+        "author": "蘇軾",
+        "paragraphs": [
+            "既聚伏波米，還數魏舒籌。",
+            "應笑蘇夫子，僥倖得湖州。"
+        ],
+        "paragraphs_simplified": [
+            "既聚伏波米，还数魏舒筹。",
+            "应笑苏夫子，侥幸得湖州。"
+        ],
+        "translation": "既聚集了伏波米，还数魏舒筹。应笑苏夫子，侥幸得到湖州。",
+        "score": 3.0,
+        "subject": [
+            "酬唱诗",
+            "戏赠诗"
+        ],
+        "emotion": [
+            "自嘲",
+            "幽默"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先用伏波、魏舒典故铺垫，再以自嘲收尾，结构简短直白。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "伏波米指马援，魏舒筹指魏舒筹算"
+                },
+                {
+                    "tag": "自嘲",
+                    "explanation": "应笑苏夫子，侥幸得湖州"
+                }
+            ]
+        },
+        "analysis": "此戏赠诗以典故堆砌，语言简练但立意浅显，仅为表达侥幸得官之自嘲。意象依赖历史人物，缺乏生动性，情感流于表面，技法平庸，属文人应酬游戏之作，无甚艺术深度。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以典雅之辞用典，但意象生硬，未能自然融入。",
+                "realm": "凡",
+                "reason": "用典但立意浅，仅为戏谑，无深层寄托。"
+            }
+        ],
+        "imagery": [
+            "伏波米",
+            "魏舒筹",
+            "湖州"
+        ],
+        "allusions": [
+            {
+                "phrase": "伏波米",
+                "explanation": "指东汉伏波将军马援"
+            },
+            {
+                "phrase": "魏舒筹",
+                "explanation": "指晋代魏舒善筹算"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句自嘲，点明全诗主旨。"
+        }
+    },
+    {
+        "title": "次韵回文三首  其一",
+        "author": "蘇軾",
+        "paragraphs": [
+            "春機滿織回文錦，粉淚揮殘露井桐。",
+            "人遠寄情書字小，柳絲低日晚庭空。"
+        ],
+        "paragraphs_simplified": [
+            "春机满织回文锦，粉泪挥残露井桐。",
+            "人远寄情书字小，柳丝低日晚庭空。"
+        ],
+        "translation": "春机满织回文锦，粉泪挥残露井桐。人远寄情书字小，柳丝低日晚庭空。",
+        "score": 4.0,
+        "subject": [
+            "闺怨诗",
+            "回文诗"
+        ],
+        "emotion": [
+            "相思",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先以春机织锦喻相思，再以柳丝日暮烘托空寂，首尾呼应，情景交融。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "春机、粉泪、柳丝、日暮抒发相思之情"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "回文锦比喻相思缠绵"
+                }
+            ]
+        },
+        "analysis": "此回文诗以春机、粉泪等意象构筑闺怨之境，语言优美，情感含蓄。技法上借景抒情，柳丝低日之拟人化增强生动性，结构工整，首尾呼应。虽为回文体，但意境连贯，情感真切，属技法成熟之作。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "以春机、回文锦等意象渲染绮丽之色，情感深沉。",
+                "realm": "能",
+                "reason": "意境真切，技法娴熟，但未达妙品之超诣。"
+            }
+        ],
+        "imagery": [
+            "春机",
+            "回文锦",
+            "粉泪",
+            "井桐",
+            "柳丝",
+            "日",
+            "庭"
+        ],
+        "allusions": [
+            {
+                "phrase": "回文锦",
+                "explanation": "指苏蕙织回文诗之典故，喻相思"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句用典丰富，意象密集，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "次韵回文三首  其二",
+        "author": "蘇軾",
+        "paragraphs": [
+            "紅箋短寫空深恨，錦句新翻欲斷腸。",
+            "風葉落殘驚夢蝶，戍邊回雁寄情郎。"
+        ],
+        "paragraphs_simplified": [
+            "红笺短写空深恨，锦句新翻欲断肠。",
+            "风叶落残惊梦蝶，戍边回雁寄情郎。"
+        ],
+        "translation": "红笺短写空留深恨，锦句新翻欲断肠。风叶落残惊醒梦蝶，戍边回雁寄情郎。",
+        "score": 3.8,
+        "subject": [
+            "闺怨诗",
+            "爱情诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "相思"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句以红笺锦句直指离恨，后句借风叶回雁转接梦境与现实，形成情感递进。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“欲断肠”以身体痛感喻心理悲伤"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“风叶落残”与“戍边回雁”烘托孤寂氛围"
+                }
+            ]
+        },
+        "analysis": "此回文小品以闺怨为核，构筑双重时空：笺句写恨是当下实境，梦蝶寄情是虚幻遐思。意象选择精当，红笺与锦句形成色彩对冲，风叶与戍雁构成动静对照。虽囿于回文体式，然“惊梦蝶”化用庄周典故不着痕迹，使机械文字产生迷离美感。情感表达在欲断肠的直露与寄情郎的含蓄间取得平衡，末句戍边回雁尤将私情拓宽至家国层面，平添苍茫。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "红笺、风叶等意象经回文重构，产生镜像般的审美延宕",
+                "realm": "能",
+                "reason": "技法纯熟但立意未脱闺阁，以形式巧思弥补意境深度"
+            }
+        ],
+        "imagery": [
+            "纸",
+            "诗",
+            "叶",
+            "蝶",
+            "雁",
+            "人"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“戍边回雁寄情郎”将私情与边塞意象嫁接，拓开想象空间"
+        }
+    },
+    {
+        "title": "次韵回文三首  其三",
+        "author": "蘇軾",
+        "paragraphs": [
+            "羞雲斂慘傷春暮，細縷詩成織意深。",
+            "頭畔枕屏山掩恨，日昏塵暗玉窗琴。"
+        ],
+        "paragraphs_simplified": [
+            "羞云敛惨伤春暮，细缕诗成织意深。",
+            "头畔枕屏山掩恨，日昏尘暗玉窗琴。"
+        ],
+        "translation": "羞云敛惨伤春暮，细缕诗成织意深。头畔枕屏山掩恨，日昏尘暗玉窗琴。",
+        "score": 3.7,
+        "subject": [
+            "闺怨诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "伤春"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "以伤春起笔，中嵌织诗细节，终以昏日尘琴收束，形成暮色笼罩的闭环结构。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“羞云”赋予自然物以人情"
+                },
+                {
+                    "tag": "侧面烘托",
+                    "explanation": "“玉窗琴”尘暗暗示主人无心抚弄"
+                }
+            ]
+        },
+        "analysis": "此诗以春暮为经，闺情为纬，编织出一幅晦暗的仕女图。羞云敛惨开篇即定调，细缕诗成暗喻相思如织锦般绵密。枕屏山掩恨将私密空间与山水意象叠合，拓展心理纵深。日昏尘暗的收束堪称妙笔，玉窗琴本是雅器，却蒙尘于昏光中，物象的衰败折射心境的枯寂。全诗未着一“愁”字，而愁绪渗透于每个意象的褶皱里。",
+        "poetry_styles": [
+            {
+                "style": "委曲",
+                "imagery_analysis": "云、诗、屏、琴等意象经回文重组，产生幽咽顿挫的韵律感",
+                "realm": "能",
+                "reason": "情感脉络曲折有致，但意象略显重复"
+            }
+        ],
+        "imagery": [
+            "云",
+            "诗",
+            "屏",
+            "山",
+            "琴"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“日昏尘暗玉窗琴”以物象衰飒写心境，含蓄深沉"
+        }
+    },
+    {
+        "title": "數日前夢一僧出二鏡求詩僧以鏡置日中其影甚異其一如芭蕉其一如蓮花夢中與作詩",
+        "author": "蘇軾",
+        "paragraphs": [
+            "君家有二鏡，光景如湛盧。",
+            "或長如芭蕉，或圓如芙蕖。",
+            "飛電著子壁，明月入我廬。",
+            "月下合三璧，日月跳明珠。",
+            "問子是非我，我是非文殊。"
+        ],
+        "paragraphs_simplified": [
+            "君家有二镜，光景如湛卢。",
+            "或长如芭蕉，或圆如芙蕖。",
+            "飞电著子壁，明月入我庐。",
+            "月下合三璧，日月跳明珠。",
+            "问子是非我，我是非文殊。"
+        ],
+        "translation": "君家有二镜，光景如湛卢。或长如芭蕉，或圆如芙蕖。飞电著子壁，明月入我庐。月下合三璧，日月跳明珠。问子是非我，我是非文殊。",
+        "score": 4.2,
+        "subject": [
+            "哲理诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "从实写二镜光景，到虚写月下合璧，终以哲学设问收束，由物及理层层递进。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“文殊”借佛教智慧菩萨点破虚实之辨"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“如芭蕉”“如芙蕖”以植物形态喻镜影奇状"
+                }
+            ]
+        },
+        "analysis": "此梦中得镜诗展现苏轼对物我关系的哲学思辨。湛卢剑光、芭蕉长影、芙蕖圆姿等意象群，构筑出光怪陆离的超现实图景。飞电著壁与明月入庐的动静对照，暗示时空的扭曲。最妙在尾联的禅机问答，以“是非我”“非文殊”破除主客二元，将镜影之异升华为存在之惑。全诗在游仙外壳下暗藏般若空观，意象跳跃而逻辑严密，堪称宋诗理趣的典范。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "镜影、芭蕉、芙蕖等意象经禅理点化，产生空灵澄澈之境",
+                "realm": "妙",
+                "reason": "以奇幻意象承载深邃哲思，形神兼备"
+            }
+        ],
+        "imagery": [
+            "镜",
+            "光",
+            "芭蕉",
+            "莲花",
+            "电",
+            "月",
+            "日",
+            "珠",
+            "菩萨"
+        ],
+        "allusions": [
+            {
+                "phrase": "文殊",
+                "explanation": "佛教智慧菩萨，象征对虚实之辨的超越"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 4,
+            "reason": "“问子是非我，我是非文殊”以禅机点破物我两忘，境界全出"
+        }
+    },
+    {
+        "title": "贈人",
+        "author": "蘇軾",
+        "paragraphs": [
+            "別後休論信息疏，仙凡自古亦殊途。",
+            "蓬山路遠人難到，霜柏威高道轉孤。",
+            "舊賞未應忘楚國，新詩聞已滿皇都。",
+            "誰憐澤畔行吟者，目斷長安貌欲枯。"
+        ],
+        "paragraphs_simplified": [
+            "别后休论信息疏，仙凡自古亦殊途。",
+            "蓬山路远人难到，霜柏威高道转孤。",
+            "旧赏未应忘楚国，新诗闻已满皇都。",
+            "谁怜泽畔行吟者，目断长安貌欲枯。"
+        ],
+        "translation": "别后休论信息疏，仙凡自古亦殊途。蓬山路远人难到，霜柏威高道转孤。旧赏未应忘楚国，新诗闻已满皇都。谁怜泽畔行吟者，目断长安貌欲枯。",
+        "score": 4.0,
+        "subject": [
+            "送别诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁",
+            "思乡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首联破题别后，颔联以仙凡殊途喻距离，颈联转写双方境遇，尾联聚焦行吟者形象，情感渐次收紧。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“蓬山”指仙山，喻难以企及；“楚国”暗引屈原放逐"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“霜柏威高”喻友人品格孤高"
+                }
+            ]
+        },
+        "analysis": "此赠别诗以仙凡之隔起笔，将地理距离升华为存在论层面的隔绝。蓬山霜柏的意象对举，既写对方风骨，又暗含自况。颈联“旧赏”“新诗”的时空对照，巧妙维系情感纽带。尾联泽畔行吟化用屈原典故，目断长安的枯槁形象，将私谊拓展至士人集体命运。全诗用典如盐入水，情感在典雅修辞中愈发沉郁。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "蓬山、霜柏、泽畔等意象承载着士人失意的集体记忆",
+                "realm": "能",
+                "reason": "情感真挚但略显套路，典故运用稍欠新意"
+            }
+        ],
+        "imagery": [
+            "山",
+            "柏",
+            "国",
+            "都",
+            "泽",
+            "城"
+        ],
+        "allusions": [
+            {
+                "phrase": "蓬山",
+                "explanation": "蓬莱仙山，喻远不可及"
+            },
+            {
+                "phrase": "楚国",
+                "explanation": "暗指屈原，寄托贬谪之悲"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "“谁怜泽畔行吟者，目断长安貌欲枯”将个人离愁凝为历史剪影"
+        }
+    },
+    {
+        "title": "寄子由",
+        "author": "蘇軾",
+        "paragraphs": [
+            "厭暑多應一向慵，銀鈎秀句益疏通。",
+            "也知堆案文書滿，未暇開軒硯墨中。",
+            "湖面新荷空照水，城頭高柳漫摇風。",
+            "吏曹不是尊賢事，誰把前言語化工。"
+        ],
+        "paragraphs_simplified": [
+            "厌暑多应一向慵，银钩秀句益疏通。",
+            "也知堆案文书满，未暇开轩砚墨中。",
+            "湖面新荷空照水，城头高柳漫摇风。",
+            "吏曹不是尊贤事，谁把前言语化工。"
+        ],
+        "translation": "厌暑多应一向慵，银钩秀句益疏通。也知堆案文书满，未暇开轩砚墨中。湖面新荷空照水，城头高柳漫摇风。吏曹不是尊贤事，谁把前言语化工。",
+        "score": 4.1,
+        "subject": [
+            "酬唱诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "闲适",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "反问",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两联写慵懒与公务矛盾，后两联转写自然景物与官场批判，以景衬情，由私及公。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“新荷”“高柳”的闲适反衬案牍劳形"
+                },
+                {
+                    "tag": "反问",
+                    "explanation": "“谁把前言语化工”质问官场对贤才的压抑"
+                }
+            ]
+        },
+        "analysis": "此寄弟诗以暑慵起笔，银钩秀句暗赞子由文采。堆案文书与开轩砚墨的对峙，揭示文人吏身份的撕裂。湖荷城柳的写景句看似闲笔，实为对“未暇”的无声抗议。尾联陡然转峻，吏曹非尊贤的直斥，与谁把前言语化工的反问，将个人牢骚升华为对体制的批判。全诗在闲适表象下暗藏锋芒，形成外松内紧的张力结构。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "新荷高柳的自然意象与吏曹文书的世俗意象形成疏离对照",
+                "realm": "能",
+                "reason": "讽喻意图明确，但语言稍欠含蓄"
+            }
+        ],
+        "imagery": [
+            "暑",
+            "笔",
+            "书",
+            "窗",
+            "墨",
+            "湖",
+            "荷",
+            "城",
+            "柳",
+            "官"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "“吏曹不是尊贤事，谁把前言语化工”以反问直指官场积弊，力透纸背"
+        }
+    },
+    {
+        "title": "題沈君琴",
+        "author": "蘇軾",
+        "paragraphs": [
+            "若言琴上有琴聲，放在匣中何不鳴。",
+            "若言聲在指頭上，何不於君指上聽。"
+        ],
+        "paragraphs_simplified": [
+            "若言琴上有琴声，放在匣中何不鸣。",
+            "若言声在指头上，何不于君指上听。"
+        ],
+        "translation": "如果说琴上有琴声，放在匣子里为什么不响？如果说声音在指头上，为什么不直接在指头上听？",
+        "score": 4.5,
+        "subject": [
+            "哲理诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "豁达",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "反问"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "通过两个设问句，层层递进，探讨琴声的来源，最终指向人与物的结合，蕴含哲理。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "以“何不鸣”“何不于君指上听”引发思考，强化逻辑性。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借琴与手指的关系，隐喻事物相互依存的道理。"
+                }
+            ]
+        },
+        "analysis": "此诗以琴声为喻，构筑出精妙的哲理空间。意象简洁，琴与手指的对应暗合主客交融之境。语言洗练，无冗余修饰，通过设问直指核心，避免直白说教。意境真切，不隔于物，情感含蓄而有回甘，彰显苏轼对万物关系的通透洞察。整体如一件素瓷，质朴中见深邃，属妙品之列。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "琴、手指、声音构成核心意象，归一化后凸显物我合一的禅意。",
+                "realm": "妙",
+                "reason": "以日常物象阐发玄理，手法天成，毫无斧凿痕。"
+            }
+        ],
+        "imagery": [
+            "琴",
+            "手",
+            "声"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以设问破题，奠定全诗思辨基调。"
+        }
+    },
+    {
+        "title": "洗兒戲作",
+        "author": "蘇軾",
+        "paragraphs": [
+            "人皆養子望聰明，我被聰明誤一生。",
+            "惟願孩兒愚且魯，無災無難到公卿。"
+        ],
+        "paragraphs_simplified": [
+            "人皆养子望聪明，我被聪明误一生。",
+            "惟愿孩儿愚且鲁，无灾无难到公卿。"
+        ],
+        "translation": "人们养孩子都希望聪明，我却被聪明误了一生。只愿孩子愚笨且迟钝，无灾无难做到公卿。",
+        "score": 4.0,
+        "subject": [
+            "讽喻诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "无奈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "抑扬结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先立普遍观念，再反自身经历，最后以反常愿望收束，形成强烈反讽。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "“聪明”与“愚鲁”的对照，突显对世俗价值的质疑。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“无灾无难到公卿”以荒诞语刺骨现实。"
+                }
+            ]
+        },
+        "analysis": "此诗以反讽笔法，撕破世俗对聪明的迷信。语言直白如话，却暗藏机锋，愚鲁与公卿的并置构筑出荒诞的张力。情感宣泄直接，缺乏含蓄之美，但立意尖锐，折射出对官场生态的冷峻观察。整体如一把钝刀，虽无精致雕琢，却能见血，属能品中之悍作者。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "子嗣、聪明、公卿等意象归一化后，指向对功名体系的解构。",
+                "realm": "能",
+                "reason": "以俚俗语写深刻题，虽失雅驯，却得真趣。"
+            }
+        ],
+        "imagery": [
+            "子",
+            "聪明",
+            "愚鲁",
+            "公卿"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以悖论式愿望，将讽喻推向高潮。"
+        }
+    },
+    {
+        "title": "贈江州景德長老",
+        "author": "蘇軾",
+        "paragraphs": [
+            "白足高僧解達觀，安排春事滿幽欄。",
+            "不須天女來相試，總把空花眼裏看。"
+        ],
+        "paragraphs_simplified": [
+            "白足高僧解达观，安排春事满幽栏。",
+            "不须天女来相试，总把空花眼里看。"
+        ],
+        "translation": "白足高僧通达观，安排春事满幽栏。不需要天女来试探，总把空花眼里看。",
+        "score": 4.7,
+        "subject": [
+            "禅理诗",
+            "赠答诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句写高僧日常境界，后句用典点破禅心，由实入虚，层层剥笋。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“天女”出自《维摩诘经》，以佛典喻外境诱惑。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“空花”喻虚幻之相，直指禅宗空观。"
+                }
+            ]
+        },
+        "analysis": "此诗赠长老，以春事与禅理交融，意象清幽绝俗。天女典故的运用不着痕迹，空花之喻更显禅机透彻。语言凝练，意境超诣，情感渗透着对高僧境界的钦慕。整体如古井无波，却深不可测，堪称妙品中之逸作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "高僧、春栏、天女、空花归一化后，构筑出离尘脱俗的禅境。",
+                "realm": "妙",
+                "reason": "典故与景物浑然一体，淡而愈浓。"
+            }
+        ],
+        "imagery": [
+            "僧",
+            "春",
+            "栏",
+            "女",
+            "花"
+        ],
+        "allusions": [
+            {
+                "phrase": "天女",
+                "explanation": "出自《维摩诘经》，象征试探与诱惑。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以“空花”收束，禅意全出。"
+        }
+    }
+]

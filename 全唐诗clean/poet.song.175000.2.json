@@ -1,0 +1,850 @@
+[
+    {
+        "title": "寄題真愛堂三首  其一",
+        "author": "裘萬頃",
+        "paragraphs": [
+            "終南佳處暫栖遲，堪笑唐朝左拾遺。",
+            "渠但借山爲捷徑，山中滋味豈曾知。"
+        ],
+        "paragraphs_simplified": [
+            "终南佳处暂栖迟，堪笑唐朝左拾遗。",
+            "渠但借山为捷径，山中滋味岂曾知。"
+        ],
+        "translation": "终南山的好地方暂时停留栖息，可笑唐朝那位左拾遗（指唐代诗人杜甫，曾任左拾遗）。他只是借山作为仕途的捷径，哪里真正懂得山中的真滋味。",
+        "score": 2.5,
+        "subject": [
+            "怀古诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "嘲讽"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句以终南山起兴，借古讽今；后两句通过对比揭示主题，结构直白。",
+            "evidence": [
+                {
+                    "tag": "借古讽今",
+                    "explanation": "借唐朝左拾遗典故，讽刺当代伪隐士。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "‘借山为捷径’与‘山中滋味’形成鲜明对照。"
+                }
+            ]
+        },
+        "analysis": "此诗以终南山为切入点，直指伪隐士之流弊。语言直露，缺乏含蓄之美。意象陈旧，仅停留在对历史典故的简单挪用，未构筑出新的意境。情感宣泄过于直白，缺乏审美距离，整体立意浅显，属于平庸的讽喻之作。",
+        "poetry_styles": [
+            {
+                "style": "直露",
+                "imagery_analysis": "意象组合生硬，未能形成有机整体。",
+                "realm": "劣",
+                "reason": "试图模仿讽刺风格，但流于表面，缺乏艺术深度。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "终南山"
+        ],
+        "allusions": [
+            {
+                "phrase": "左拾遗",
+                "explanation": "指唐代诗人杜甫，曾任左拾遗，此处借指伪隐士。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点题，相对完整。"
+        }
+    },
+    {
+        "title": "寄題真愛堂三首  其二",
+        "author": "裘萬頃",
+        "paragraphs": [
+            "真實愛山今有誰，此心猨鶴亦難欺。",
+            "看來却是朱居士，不媿昌黎五字詩。"
+        ],
+        "paragraphs_simplified": [
+            "真实爱山今有谁，此心猿鹤亦难欺。",
+            "看来却是朱居士，不愧昌黎五字诗。"
+        ],
+        "translation": "真正爱山的人现在还有谁？这颗心连猿猴和仙鹤都难以欺骗。看来只有朱居士一人，才不愧于韩愈（昌黎）的五言诗。",
+        "score": 3.0,
+        "subject": [
+            "酬唱诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "用典"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句设问引出主题，后句以典故作答，结构紧凑。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "‘猿鹤亦难欺’赋予自然物以人性。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "‘昌黎’指韩愈，借其诗才衬托朱居士。"
+                }
+            ]
+        },
+        "analysis": "此诗以猿鹤拟人化手法烘托爱山之真，但意象组合缺乏新意。用典虽显学识，却未深化主题，流于表面恭维。情感表达直白，缺乏回味空间，整体停留在应酬层面，未触及深层意境。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "典故堆砌，未能自然融入诗意。",
+                "realm": "能",
+                "reason": "试图追求典雅，但略显生硬，未能达到含蓄之境。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "猿",
+            "鹤"
+        ],
+        "allusions": [
+            {
+                "phrase": "昌黎",
+                "explanation": "指唐代文学家韩愈，世称昌黎先生。"
+            },
+            {
+                "phrase": "朱居士",
+                "explanation": "可能指朱熹或某位隐士，具体未详。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句设问，更具张力。"
+        }
+    },
+    {
+        "title": "寄題真愛堂三首  其三",
+        "author": "裘萬頃",
+        "paragraphs": [
+            "築堂誰不要看山，往往襟期了不關。",
+            "欲識此翁高絕處，一心長在白雲間。"
+        ],
+        "paragraphs_simplified": [
+            "筑堂谁不要看山，往往襟期了不关。",
+            "欲识此翁高绝处，一心长在白云间。"
+        ],
+        "translation": "筑堂的人谁不想看山？但往往胸怀与此毫不相关。想了解这翁的高绝之处，只因他一心长在白云之间。",
+        "score": 2.8,
+        "subject": [
+            "山水诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "设问"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句批判世俗，后句点明高洁，层层递进。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "‘筑堂看山’与‘襟期不关’形成反差。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "‘白云间’象征超脱心境。"
+                }
+            ]
+        },
+        "analysis": "此诗通过对比揭示真隐与伪隐之别，意境较为真切。但‘白云’意象陈旧，缺乏独特视角。情感流于表面豁达，未深入挖掘隐逸之趣，整体立意平庸，未能脱俗。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "意象单一，未能构筑深远境界。",
+                "realm": "凡",
+                "reason": "试图模仿冲淡风格，但意境浅显，缺乏余味。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "白云"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句点题，相对完整。"
+        }
+    },
+    {
+        "title": "安樂窩三首  其一",
+        "author": "裘萬頃",
+        "paragraphs": [
+            "天闕飛來三大字，雲山留住一閒身。",
+            "老仙駕鶴蓬萊去，丹竈而今屬後人。"
+        ],
+        "paragraphs_simplified": [
+            "天阙飞来三大字，云山留住一闲身。",
+            "老仙驾鹤蓬莱去，丹灶而今属后人。"
+        ],
+        "translation": "天阙（指匾额）飞来三大字，云山留住一闲散之身。老仙驾鹤去了蓬莱，丹灶如今属于后人。",
+        "score": 3.2,
+        "subject": [
+            "游仙诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "超脱"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "借代"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "用典"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句写现状，后句忆仙踪，虚实相生。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "‘驾鹤蓬莱’借用道教仙游典故。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "‘天阙飞字’为虚，‘云山留身’为实。"
+                }
+            ]
+        },
+        "analysis": "此诗借用道教意象，试图营造飘逸之境，但‘驾鹤’‘丹灶’等词陈腐不堪，缺乏新意。情感表达模糊，意境未能真切，整体流于形式，未见独特艺术价值。",
+        "poetry_styles": [
+            {
+                "style": "飘逸",
+                "imagery_analysis": "意象陈旧，未能超脱俗套。",
+                "realm": "凡",
+                "reason": "试图模仿飘逸，但意象堆砌，反显呆板。"
+            }
+        ],
+        "imagery": [
+            "云山",
+            "鹤",
+            "丹灶",
+            "蓬莱"
+        ],
+        "allusions": [
+            {
+                "phrase": "驾鹤蓬莱",
+                "explanation": "道教典故，指仙人乘鹤飞升至蓬莱仙境。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句起势，相对生动。"
+        }
+    },
+    {
+        "title": "安樂窩三首  其二",
+        "author": "裘萬頃",
+        "paragraphs": [
+            "孤山嘗試一登臨，歸夢紛然繞故林。",
+            "箇是平生安樂處，清泉白石總關心。"
+        ],
+        "paragraphs_simplified": [
+            "孤山尝试一登临，归梦纷然绕故林。",
+            "箇是平生安乐处，清泉白石总关心。"
+        ],
+        "translation": "孤山尝试一登临，归梦纷纷绕故林。这里就是平生安乐处，清泉白石总关心。",
+        "score": 3.5,
+        "subject": [
+            "山水诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "思乡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句写登临与归梦，后句点明安乐之源，由景入情。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "‘清泉白石’寄托安乐心境。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "‘总关心’赋予自然物以情感。"
+                }
+            ]
+        },
+        "analysis": "此诗以登临孤山起兴，融入归梦之思，情感较为真切。‘清泉白石’意象虽常见，但组合自然，略显清新。整体意境平和，但缺乏深刻洞察，属于中规中矩之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "意象组合流畅，但未突破传统。",
+                "realm": "能",
+                "reason": "接近自然风格，但意境深度不足。"
+            }
+        ],
+        "imagery": [
+            "孤山",
+            "归梦",
+            "清泉",
+            "白石"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句情感真挚，更具感染力。"
+        }
+    },
+    {
+        "title": "安樂窩三首  其三",
+        "author": "裘萬頃",
+        "paragraphs": [
+            "生來歲晚寄南窗，燕坐常聞御墨香。",
+            "却笑到天亭上客，日將茗粥攪枯腸。"
+        ],
+        "paragraphs_simplified": [
+            "生来岁晚寄南窗，燕坐常闻御墨香。",
+            "却笑到天亭上客，日将茗粥搅枯肠。"
+        ],
+        "translation": "生来晚年寄托在南窗，静坐时常闻到御墨的香气。却嘲笑那些到天亭上的客人，每天用茶粥搅乱枯肠。",
+        "score": 3.8,
+        "subject": [
+            "闲适诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先描述自身闲适生活，再对比他人忙碌，凸显超脱心境。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "以南窗静坐与天亭客的忙碌形成对照，强化闲适主题。"
+                }
+            ]
+        },
+        "analysis": "此诗通过南窗燕坐与天亭客的对比，构筑了一种超脱的闲适境界。御墨香与茗粥的意象渲染出文人雅趣，情感回甘，不隔。整体定性为能品之作，技法成熟但意象略显陈旧。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "南窗、御墨香等意象构筑静谧氛围，符合冲淡之境。",
+                "realm": "能",
+                "reason": "试图模仿冲淡风格，但对比手法稍显刻意，未达浑然天成。"
+            }
+        ],
+        "imagery": [
+            "南窗",
+            "御墨",
+            "茗粥"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点题，直接勾勒闲适生活场景。"
+        }
+    },
+    {
+        "title": "有感二首  其一",
+        "author": "裘萬頃",
+        "paragraphs": [
+            "絕憐修竹知人意，更愛雙泉不世情。",
+            "回首舊遊渾似夢，却因多難悟無生。"
+        ],
+        "paragraphs_simplified": [
+            "绝怜修竹知人意，更爱双泉不世情。",
+            "回首旧游浑似梦，却因多难悟无生。"
+        ],
+        "translation": "非常怜惜修竹能知人意，更爱双泉不世故的情怀。回首旧游仿佛如梦，却因为多难而悟到无生。",
+        "score": 3.5,
+        "subject": [
+            "哲理诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "孤独",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句以物寄情，后两句由梦入悟，层层递进。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "修竹被赋予知人意，双泉喻不世情，物我交融。"
+                }
+            ]
+        },
+        "analysis": "修竹与双泉被赋予人情，构筑物我交融的意境，后两句由旧游之梦转入无生之悟，情感深沉但略显抽象。意象选择虽雅，但缺乏新意，整体定性为凡品。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "通过物象间接流露情感，符合含蓄特征。",
+                "realm": "能",
+                "reason": "试图含蓄，但无生之悟稍显直白，未达深婉。"
+            }
+        ],
+        "imagery": [
+            "修竹",
+            "双泉",
+            "旧游"
+        ],
+        "allusions": [
+            {
+                "phrase": "无生",
+                "解释": "佛教概念，指不生不灭之境。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句拟人生动，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "有感二首  其二",
+        "author": "裘萬頃",
+        "paragraphs": [
+            "三四知音總道山，荷鋤吾獨在田間。",
+            "人言病驥猶堪秣，伏櫪何心十二閑。"
+        ],
+        "paragraphs_simplified": [
+            "三四知音总道山，荷锄吾独在田间。",
+            "人言病骥犹堪秣，伏枥何心十二闲。"
+        ],
+        "translation": "三四个知音总在道山，我独自荷锄在田间。人说病骥还能吃草料，伏枥何心十二闲。",
+        "score": 3.2,
+        "subject": [
+            "田园诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "孤独",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先对比知音与隐逸，再以病骥喻己，直抒胸臆。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以病骥自比，表达壮志未酬之愤。"
+                }
+            ]
+        },
+        "analysis": "以荷锄与道山对比，凸显隐逸之志，病骥之喻直指愤懑情感。但意象陈旧，缺乏深度，整体定性为平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "病骥意象试图表现刚健，但情感流于表面。",
+                "realm": "凡",
+                "reason": "模仿劲健风格，但比喻生硬，反显粗浅。"
+            }
+        ],
+        "imagery": [
+            "知音",
+            "田间",
+            "病骥"
+        ],
+        "allusions": [
+            {
+                "phrase": "伏枥",
+                "解释": "化用曹操《龟虽寿》老骥伏枥，表壮志。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以反问强化愤懑，情感强烈。"
+        }
+    },
+    {
+        "title": "高安別蘇野塘三首  其一",
+        "author": "裘萬頃",
+        "paragraphs": [
+            "獨立每憐陶靖節，北窗終日傲羲皇。",
+            "如今我亦無儕輩，遠把心期付野塘。"
+        ],
+        "paragraphs_simplified": [
+            "独立每怜陶靖节，北窗终日傲羲皇。",
+            "如今我亦无侪辈，远把心期付野塘。"
+        ],
+        "translation": "独立时常怜惜陶靖节，北窗终日傲对羲皇。如今我也没有同伴，远把心期寄托给野塘。",
+        "score": 3.7,
+        "subject": [
+            "送别诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "孤独",
+            "思乡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先怀古喻志，后写今之孤独，首尾以野塘呼应。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "陶靖节、羲皇典故构筑高古之境。"
+                }
+            ]
+        },
+        "analysis": "引用陶渊明典故，构筑高古之境，后两句直抒孤独，情感真挚但稍显直白。意象如北窗、野塘清新，整体定性为能品。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "陶靖节意象拉近历史距离，符合高古特征。",
+                "realm": "能",
+                "reason": "典故运用自然，但情感表达略欠含蓄。"
+            }
+        ],
+        "imagery": [
+            "北窗",
+            "野塘"
+        ],
+        "allusions": [
+            {
+                "phrase": "陶靖节",
+                "解释": "指陶渊明，表隐逸之志。"
+            },
+            {
+                "phrase": "羲皇",
+                "解释": "伏羲，表上古淳朴。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句用典精准，奠定高古基调。"
+        }
+    },
+    {
+        "title": "高安別蘇野塘三首  其二",
+        "author": "裘萬頃",
+        "paragraphs": [
+            "胸中泉石真成癖，紙上雲煙總是詩。",
+            "分我漁舟三四箇，故山歸去弄漣漪。"
+        ],
+        "paragraphs_simplified": [
+            "胸中泉石真成癖，纸上云烟总是诗。",
+            "分我渔舟三四箇，故山归去弄涟漪。"
+        ],
+        "translation": "胸中泉石真成癖好，纸上云烟总是诗。分我渔舟三四个，故山归去弄涟漪。",
+        "score": 4.2,
+        "subject": [
+            "送别诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写癖好，后两句显归隐之志，层层推进。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "泉石成癖喻山水之爱，云烟喻诗情。"
+                }
+            ]
+        },
+        "analysis": "以泉石、云烟构筑诗画意境，后两句表达归隐之志，情感洒脱，意象清新。情景契合度高，整体定性为能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "渔舟、涟漪意象浑然天成，符合自然风格。",
+                "realm": "能",
+                "reason": "语言流畅，意境真切，暗合自然之境。"
+            }
+        ],
+        "imagery": [
+            "泉石",
+            "云烟",
+            "渔舟",
+            "涟漪"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以弄涟漪收束，余韵悠长。"
+        }
+    },
+    {
+        "title": "高安別蘇野塘三首  其三",
+        "author": "裘萬頃",
+        "paragraphs": [
+            "交蓋纔傾便語離，絕憐立馬送君時。",
+            "梅花未必堪相寄，待倩郵筒寄小詩。"
+        ],
+        "paragraphs_simplified": [
+            "交盖才倾便语离，绝怜立马送君时。",
+            "梅花未必堪相寄，待倩邮筒寄小诗。"
+        ],
+        "translation": "刚一交谈就要离别，可怜我立马送你的时候。梅花或许不值得作为寄托，等请邮筒寄一首小诗。",
+        "score": 3.8,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "惜别",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写离别场景，后写寄托情感。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "梅花未必堪相寄，将梅花拟人化，赋予情感寄托。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过梅花和小诗表达离别之情。"
+                }
+            ]
+        },
+        "analysis": "此诗以简练笔触勾勒离别瞬间，情感内敛而真切。梅花意象的运用，暗含寄托之难，转而以小诗代之，流露文人雅趣。整体结构紧凑，但意象稍显陈旧，未能突破传统送别诗的窠臼。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "梅花与邮筒构成寄托的象征，情感表达迂回。",
+                "realm": "能品",
+                "reason": "情感真挚但意象平庸，缺乏惊艳之笔。"
+            }
+        ],
+        "imagery": [
+            "车",
+            "马",
+            "梅花",
+            "信",
+            "诗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "直接描绘离别场景，情感真切。"
+        }
+    }
+]

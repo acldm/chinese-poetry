@@ -1,0 +1,997 @@
+[
+    {
+        "title": "粹中自郴江瑩中與南歸時余在龍山容泯齋爲誦唐詩入郭随緣住思山破夏歸之句爲韻十首  其一○",
+        "author": "釋德洪",
+        "paragraphs": [
+            "千峰夕陽外，空翠揺煙霏。",
+            "終古無求處，相看一笑歸。"
+        ],
+        "paragraphs_simplified": [
+            "千峰夕阳外，空翠摇烟霏。",
+            "终古无求处，相看一笑归。"
+        ],
+        "translation": "千峰在夕阳的余晖之外，空灵的翠绿色摇曳着如烟雾般的云气。在永恒无求的境地里，彼此相视一笑便悠然归去。此诗描绘夕阳下的山峰景色，空翠指空灵的翠绿，摇烟霏形容云雾缭绕；终古无求处指超脱尘世的永恒之境，相看一笑归则表现禅者之间的默契与回归自然。",
+        "score": 4.5,
+        "subject": [
+            "山水诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以夕阳千峰勾勒外景，次句转入无求一笑的内心境界，从实写景物到虚写心境，形成情景交融的脉络。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过夕阳山峰的景色表达无求的心境"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "烟霏比喻云雾缭绕的虚无感"
+                }
+            ]
+        },
+        "analysis": "此诗以夕阳千峰为背景，构筑空灵的山水意境。空翠摇烟霏的描写，渲染出一种虚无缥缈的氛围，与终古无求处的心境相呼应。相看一笑归的动作，凝练了禅意中的超脱与自在，折射出物我两忘的境界。情景契合度高，意境真切，情感含蓄而深远，整体呈现冲淡自然的审美回甘。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "夕阳、山峰、烟雾等意象营造出淡远的禅境，契合无求之旨。",
+                "realm": "神品",
+                "reason": "意境深远，语言凝练，禅意与自然完美融合，艺术造诣极高。"
+            }
+        ],
+        "imagery": [
+            "山峰",
+            "夕阳",
+            "烟雾"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "相看一笑归，凝练禅意超脱，情感自然流露。"
+        }
+    },
+    {
+        "title": "和昭默堂五首  其一",
+        "author": "釋德洪",
+        "paragraphs": [
+            "相見自完全，分明透語言。",
+            "衲僧猶聽瑩，入户不知門。"
+        ],
+        "paragraphs_simplified": [
+            "相见自完全，分明透语言。",
+            "衲僧犹听莹，入户不知门。"
+        ],
+        "translation": "相见时自然圆满，语言分明透彻。衲僧还在听莹（指听法或沉浸状态），进入门户却不知门在何处。此诗表达禅宗直指人心的境界，相见自完全指相见时本性圆满；分明透语言指语言清晰传达；衲僧指僧人；听莹可能指听法后的澄明；入户不知门比喻禅机深奥，入门却不知门。",
+        "score": 4.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "禅意"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "双关",
+                "设问"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写相见和语言的表象，后两句以衲僧听莹和不知门转入深层禅理，从显到隐，揭示语言与实相的悖论。",
+            "evidence": [
+                {
+                    "tag": "双关",
+                    "explanation": "门字双关实际门户和禅门"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过衲僧听法表达禅悟境界"
+                }
+            ]
+        },
+        "analysis": "此诗以相见和语言为起点，构筑禅宗的直指人心。分明透语言与入户不知门形成对比，折射出语言与实相的悖论。衲僧听莹的细节，渲染出禅机的微妙与深奥。整体立意深邃，但语言稍显晦涩，意境有隔，情感距离较远，需细品方能体会其禅理。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "通过相见、语言、衲僧、门等意象，深藏禅理，不直露。",
+                "realm": "妙品",
+                "reason": "禅意深刻，表达曲折，符合含蓄风格，但略欠自然。"
+            }
+        ],
+        "imagery": [
+            "相见",
+            "语言",
+            "衲僧",
+            "门"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "入户不知门，点出禅机核心，意在言外。"
+        }
+    },
+    {
+        "title": "和昭默堂五首  其二",
+        "author": "釋德洪",
+        "paragraphs": [
+            "道骨清如玉，閑拳瘦策時。",
+            "鈍根并鶻眼，到此自分岐。"
+        ],
+        "paragraphs_simplified": [
+            "道骨清如玉，闲拳瘦策时。",
+            "钝根并鹘眼，到此自分岐。"
+        ],
+        "translation": "修道之骨清透如玉，闲时握拳持瘦杖。钝根与鹘眼（锐利的眼），到此自然分出开悟与迷惘。此诗描绘修道者的境界，道骨清如玉比喻修道纯真；闲拳瘦策时指日常持杖修行；钝根指愚钝根性；鹘眼指锐利悟性；分岐指根性差异导致的开悟分歧。",
+        "score": 3.5,
+        "subject": [
+            "禅理诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对比"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "对比"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以道骨清如玉刻画修道者形象，后句以钝根与鹘眼对比根性差异，从整体到局部，直指修道本质。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "道骨清如玉比喻修道之纯"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "钝根与鹘眼对比根性差异"
+                }
+            ]
+        },
+        "analysis": "此诗以道骨清如玉开篇，勾勒出修道者的超凡形象。闲拳瘦策时的细节，增添生活气息与实感。后句以钝根与鹘眼对比，直指修道根性的开悟差异。整体意象鲜明，技法熟练，但立意稍显直白，情感流于表面，意境不够深远，未能充分渲染禅理的幽微。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "道骨、钝根等意象展现修道的刚健与差异。",
+                "realm": "能品",
+                "reason": "技法成熟，但意境浅显，未能深入禅理内核。"
+            }
+        ],
+        "imagery": [
+            "道骨",
+            "玉",
+            "拳",
+            "杖",
+            "钝根",
+            "鹘眼"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "道骨清如玉，形象鲜明，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "和昭默堂五首  其三",
+        "author": "釋德洪",
+        "paragraphs": [
+            "此堂常說法，亦是主中賓。",
+            "無地容啗啄，緣渠徹骨貧。"
+        ],
+        "paragraphs_simplified": [
+            "此堂常说法，亦是主中宾。",
+            "无地容啗啄，缘渠彻骨贫。"
+        ],
+        "translation": "此堂常讲佛法，也是主中宾（禅宗主宾关系）。无地容啄食（比喻无立足之地），因他彻骨贫穷。此诗以说法堂为背景，主中宾指禅宗的主宾互动；无地容啗啄形容无法容身；彻骨贫指极度贫穷却自在。",
+        "score": 3.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "孤独",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "双关"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句写堂说法和主宾关系，后句以无地容身和彻骨贫转入本质，从表象到深层禅意，揭示贫穷中的自在。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "主中宾可能出自禅宗公案"
+                },
+                {
+                    "tag": "双关",
+                    "explanation": "啗啄双关啄食和禅机"
+                }
+            ]
+        },
+        "analysis": "此诗以说法堂为场景，主中宾的术语点出禅宗互动。无地容啗啄与彻骨贫的描写，渲染出极端贫穷却超脱的禅境。整体立意深，但语言晦涩，意象生硬，情感有隔，未能充分传达禅理的圆融，意境稍显隔膜。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "说法堂、贫穷等意象展现自然疏放的禅境。",
+                "realm": "能品",
+                "reason": "禅理深，但表达曲折，略欠流畅。"
+            }
+        ],
+        "imagery": [
+            "堂",
+            "说法",
+            "主宾",
+            "啗啄",
+            "贫"
+        ],
+        "allusions": [
+            {
+                "phrase": "主中宾",
+                "explanation": "禅宗术语，指主宾关系"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "无地容啗啄，形象表达贫穷与自在的矛盾。"
+        }
+    },
+    {
+        "title": "和昭默堂五首  其四",
+        "author": "釋德洪",
+        "paragraphs": [
+            "睡餘供潄盥，齒頬带茶甘。",
+            "兄弟知家法，從教鶖子慚。"
+        ],
+        "paragraphs_simplified": [
+            "睡余供漱盥，齿颊带茶甘。",
+            "兄弟知家法，从教鹙子惭。"
+        ],
+        "translation": "睡醒后供漱洗，齿颊带着茶的甘甜。兄弟知道家法，任凭鹙子（佛弟子）羞惭。此诗叙述日常起居，睡余供漱盥指睡醒后漱洗；齿颊带茶甘指喝茶后齿颊留香；兄弟知家法指兄弟遵守家规；从教鹙子惭指任凭佛弟子羞惭，可能暗指道德自律。",
+        "score": 3.0,
+        "subject": [
+            "禅理诗",
+            "家训诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "细节描写",
+                "用典"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句写睡余漱盥和茶甘的日常细节，后句转入兄弟家法与鹙子惭的道德层面，从生活到伦理，自然过渡。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "睡余漱盥、齿颊茶甘的生动细节"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "鹙子可能指佛弟子舍利弗"
+                }
+            ]
+        },
+        "analysis": "此诗以睡余漱盥和齿颊茶甘的细节，勾勒出清雅的日常生活。兄弟知家法与从教鹙子惭的对比，折射出道德自律与外在羞惭。整体意境闲适，但立意浅显，情感平淡，意象琐碎，缺乏深度，未能升华至高远禅境。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "睡余、茶甘等意象展现生活化的自然流露。",
+                "realm": "凡品",
+                "reason": "立意浅显，技法平庸，缺乏艺术张力。"
+            }
+        ],
+        "imagery": [
+            "睡余",
+            "漱盥",
+            "齿颊",
+            "茶",
+            "兄弟",
+            "鹙子"
+        ],
+        "allusions": [
+            {
+                "phrase": "鹙子",
+                "explanation": "可能指佛弟子舍利弗"
+            }
+        ],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "齿颊带茶甘，细节生动，富有生活气息。"
+        }
+    },
+    {
+        "title": "和昭默堂五首  其五",
+        "author": "釋德洪",
+        "paragraphs": [
+            "倦依蒲褐坐，脱體露全機。",
+            "曲篆風窗細，煙横一縷微。"
+        ],
+        "paragraphs_simplified": [
+            "倦依蒲褐坐，脱体露全机。",
+            "曲篆风窗细，烟横一缕微。"
+        ],
+        "translation": "疲倦地依靠在蒲草褐衣上坐着，身体超脱，显露全部的禅机。弯曲的篆字在风窗上显得细小，烟横斜着一缕微弱的痕迹。",
+        "score": 3.8,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以人物状态切入，勾勒超脱之姿，再转入环境细节，通过风窗烟缕的微景渲染静谧禅意，形成由实入虚的脉络。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "通过'曲篆風窗細'等词精细刻画窗格与烟缕的细微动态"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "以'煙横一縷微'的景物寄托淡泊心境"
+                }
+            ]
+        },
+        "analysis": "此诗构筑了一幅禅坐图景，首句以'倦依蒲褐'勾勒出僧人形骸虽倦而神思超脱之态，'脱體露全機'直指禅宗顿悟的机锋。次句转写环境，'曲篆風窗'与'煙横一縷'以细微意象渲染空寂氛围，虚实相生，情景交融。意境真切而不隔，情感含蓄有回甘，但'曲篆'意象稍显晦涩，略损通透性。整体技法成熟，属能品之列。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以蒲褐、风窗、微烟等淡泊意象构筑疏朗境界",
+                "realm": "能",
+                "reason": "意境淡远，但意象组合稍欠新奇，未能臻于妙境"
+            },
+            {
+                "style": "超诣",
+                "imagery_analysis": "脱体露机之语直指超凡脱俗之境",
+                "realm": "能",
+                "reason": "有超脱之志，然表达略显直白，未达空灵极致"
+            }
+        ],
+        "imagery": [
+            "蒲褐",
+            "风窗",
+            "烟"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句以'曲篆風窗細，煙横一縷微'的细微景物描写，更具画面感和禅意韵味"
+        }
+    },
+    {
+        "title": "又次韻五首  其一",
+        "author": "釋德洪",
+        "paragraphs": [
+            "擬心成剩法，况復更随言。",
+            "試憑堂中几，閑看窈窕門。"
+        ],
+        "paragraphs_simplified": [
+            "拟心成剩法，况复更随言。",
+            "试凭堂中几，闲看窈窕门。"
+        ],
+        "translation": "刻意追求心念反而成为多余的方法，何况又更随言语流转。试着凭靠堂中的几案，闲看那幽深玄妙的门径。",
+        "score": 2.9,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句批判刻意求法的虚妄，后句以闲看门景的动作承接，试图在日常中顿悟，但转折生硬。",
+            "evidence": [
+                {
+                    "tag": "议论",
+                    "explanation": "首句直接议论'擬心成剩法'的禅理"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "末句借'閑看窈窕門'的景物暗示悟道"
+                }
+            ]
+        },
+        "analysis": "此诗前句直指禅宗破执之旨，'擬心成剩法'批判刻意求法之弊，但表达抽象，缺乏意象支撑。后句转入'試憑堂中几'的日常动作，试图以'窈窕門'隐喻悟境，然衔接突兀，意境模糊。整体立意虽存禅机，但语言干涩，情景割裂，未能营造真切之境。属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以堂几、门等寻常物象营造淡泊氛围",
+                "realm": "劣",
+                "reason": "意象单薄，未能有效传达冲淡之趣，反显枯槁"
+            }
+        ],
+        "imagery": [
+            "几案",
+            "门"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句'試憑堂中几，閑看窈窕門'相对具象，但整体仍显空洞"
+        }
+    },
+    {
+        "title": "又次韻五首  其二",
+        "author": "釋德洪",
+        "paragraphs": [
+            "智識不到處，言詮路絕時。",
+            "欲藏還露骨，叶带更多歧。"
+        ],
+        "paragraphs_simplified": [
+            "智识不到处，言诠路绝时。",
+            "欲藏还露骨，叶带更多歧。"
+        ],
+        "translation": "智慧知识无法触及的境地，言语诠释之路断绝之时。想要隐藏却还露出骨头，枝叶带来更多分歧。",
+        "score": 2.3,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "双关"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句陈述不可言说的禅境，后句以矛盾修辞揭示悟道之难，但逻辑跳跃，意象混乱。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "'欲藏還露骨'以骨喻禅机之不可掩"
+                },
+                {
+                    "tag": "双关",
+                    "explanation": "'叶带更多歧'既指枝叶，又暗喻歧路"
+                }
+            ]
+        },
+        "analysis": "此诗试图描绘禅宗言语道断的境界，'智識不到處'点出主题，但后句'欲藏還露骨'与'叶带更多歧'意象突兀，逻辑断裂。'露骨'与'叶带'的组合晦涩难解，未能有效传达禅意，反显造作。整体意境隔膜，情感表达混乱，属劣质堆砌。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图以隐晦意象暗示禅理",
+                "realm": "劣",
+                "reason": "含蓄过度沦为晦涩，未能达成言外之意"
+            }
+        ],
+        "imagery": [
+            "骨",
+            "叶"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句'智識不到處，言詮路絕時'相对直白，但全诗无佳句"
+        }
+    },
+    {
+        "title": "又次韻五首  其三",
+        "author": "釋德洪",
+        "paragraphs": [
+            "瘦容無住著，舉手評来賓。",
+            "不是無言說，雖窮不諱貧。"
+        ],
+        "paragraphs_simplified": [
+            "瘦容无住著，举手评来宾。",
+            "不是无言说，虽穷不讳贫。"
+        ],
+        "translation": "瘦弱的面容无所执着，举手评价来访宾客。并非无话可说，虽然贫穷却不忌讳贫寒。",
+        "score": 3.1,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "直抒胸臆"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句叙事描写僧人外貌与动作，后句直陈心态，平铺直叙，缺乏转折。",
+            "evidence": [
+                {
+                    "tag": "直接抒情",
+                    "explanation": "末句'雖窮不諱貧'直接表达豁达态度"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "两句结构对称，但内容重复"
+                }
+            ]
+        },
+        "analysis": "此诗刻画僧人贫困而自在的形象，'瘦容無住著'有生动细节，但后句'不是無言說'转为直白议论，削弱了意象的感染力。整体语言平实，缺乏提炼，情感表达流于表面，未能深入禅悦之境。虽存淡泊之志，但艺术性不足，属凡品。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "以瘦容、贫寒等意象试图展现疏放之态",
+                "realm": "劣",
+                "reason": "疏野沦为粗率，缺乏自然韵味"
+            }
+        ],
+        "imagery": [
+            "瘦容",
+            "贫"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句'瘦容無住著'稍具形象感，但全诗整体平庸"
+        }
+    },
+    {
+        "title": "又次韻五首  其四",
+        "author": "釋德洪",
+        "paragraphs": [
+            "夢裏尋音響，教休定不甘。",
+            "忽知眉蓋眼，開著替人慚。"
+        ],
+        "paragraphs_simplified": [
+            "梦里寻音响，教休定不甘。",
+            "忽知眉盖眼，开著替人惭。"
+        ],
+        "translation": "在梦里寻找音响，教停止却定不甘心。忽然知道眉毛盖住眼睛，开着替人感到惭愧。",
+        "score": 1.8,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "悔恨",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句写梦中求悟的执着，后句写醒悟后的惭愧，但逻辑断裂，'眉蓋眼'比喻突兀。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "'眉蓋眼'可能比喻遮蔽真性"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "梦境与醒悟的虚实转换"
+                }
+            ]
+        },
+        "analysis": "此诗描述梦中求悟与醒悟后的惭愧，但语言混乱，'教休定不甘'语法别扭，'眉蓋眼'意象不明，'開著替人慚'更是逻辑不通。全诗缺乏清晰意象和情感脉络，禅意表达晦涩难懂，整体结构松散，属劣作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以梦、惭等意象传达悲慨之情",
+                "realm": "劣",
+                "reason": "意象破碎，未能形成悲慨之境，反显杂乱"
+            }
+        ],
+        "imagery": [
+            "梦",
+            "眉",
+            "眼"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句'夢裏尋音響'相对可读，但全诗无佳句"
+        }
+    },
+    {
+        "title": "又次韻五首  其五",
+        "author": "釋德洪",
+        "paragraphs": [
+            "言語皆爲病，全提却物機。",
+            "更無遮掩處，兀坐笑微微。"
+        ],
+        "paragraphs_simplified": [
+            "言语皆为病，全提却物机。",
+            "更无遮掩处，兀坐笑微微。"
+        ],
+        "translation": "言语都是毛病，完全提起却物之机（禅机，指不执着于外物）。更无遮掩之处，兀自坐着微微笑着。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先否定言语，再描述禅悟状态，逻辑直白。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "两句结构相似，言语对遮掩，病对机，形成工整对应。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "物机暗合禅宗公案，指超越物相的机锋。"
+                }
+            ]
+        },
+        "analysis": "此诗以禅语入题，构筑对言语的否定与静坐的意象。意象抽象，如言语、物机、兀坐，缺乏具体物象支撑，流于概念化。情景契合度低，禅悟境界未通过生动细节传达，显得空洞。情感的审美距离近于宣泄，缺乏回甘余韵。整体定性为平庸之作，立意浅显，未能深入禅理肌理。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以静坐微笑呈现淡泊，但意象稀薄，未能构筑深远境界。",
+                "realm": "能",
+                "reason": "技法尚工，但意境不真切，画虎不成反类犬，流于表面冲淡。"
+            }
+        ],
+        "imagery": [
+            "言语",
+            "物机",
+            "坐",
+            "笑"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "兀坐笑微微以动作细节稍显生动，但整体仍平庸。"
+        }
+    },
+    {
+        "title": "李成德畫理髪搔背刺噴䎳耳爲四暢圖乞詩作此四首  其一",
+        "author": "釋德洪",
+        "paragraphs": [
+            "經月得樓颼，頭懶垢不靧。",
+            "樹間一梳理，道與精神會。"
+        ],
+        "paragraphs_simplified": [
+            "经月得楼飕，头懒垢不靧。",
+            "树间一梳理，道与精神会。"
+        ],
+        "translation": "经月得到楼飕（可能指风或寒意），头懒不洗垢污。树间一梳理，道与精神相会。",
+        "score": 2.0,
+        "subject": [
+            "咏物诗",
+            "题画诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先述头垢不洗的懒态，再转梳理动作与精神会通，逻辑简单。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "头懒垢不靧刻画理发前的邋遢状态。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过梳理头发寄托精神会道的意图。"
+                }
+            ]
+        },
+        "analysis": "此诗描述理发场景，但语言生硬，楼飕一词生僻，意象模糊。情景拼凑，头垢与精神会之间缺乏自然过渡，意境不真切。情感流于闲适表象，未见深层审美距离。整体定性为平庸之作，辞藻堆砌，立意老套，未能通过物象传达哲理。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "试图以树间梳理呈现疏放，但意象琐碎，未能达到自然之趣。",
+                "realm": "劣",
+                "reason": "技法拙劣，语言晦涩，疏野风格失败，反显粗陋。"
+            }
+        ],
+        "imagery": [
+            "楼飕",
+            "头",
+            "垢",
+            "树",
+            "梳理",
+            "道",
+            "精神"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "树间一梳理稍有动作感，但整体平淡。"
+        }
+    },
+    {
+        "title": "李成德畫理髪搔背刺噴䎳耳爲四暢圖乞詩作此四首  其二",
+        "author": "釋德洪",
+        "paragraphs": [
+            "痒處搔不及，賴有童子手。",
+            "精微不可傳，齬齒一轉首。"
+        ],
+        "paragraphs_simplified": [
+            "痒处搔不及，赖有童子手。",
+            "精微不可传，齬齿一转首。"
+        ],
+        "translation": "痒处搔不到，依靠童子的手帮忙。精微之处不可言传，齬齿（咬牙或牙齿不齐）一转头。",
+        "score": 2.0,
+        "subject": [
+            "咏物诗",
+            "题画诗"
+        ],
+        "emotion": [
+            "无奈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "细节描写"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直述搔背问题与童子协助，后以动作收尾，逻辑线性。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "精微不可传夸大搔背的微妙感受。"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "痒处搔不及刻画具体不适。"
+                }
+            ]
+        },
+        "analysis": "此诗聚焦搔背细节，但齬齿一词生僻，意象混乱，破坏整体流畅。情景生硬，童子手与转首动作缺乏诗意升华。情感直露，无审美距离。整体定性为平庸之作，语言粗糙，立意浅显，仅为生活琐事的直白记录。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以童子手呈现自然之态，但意象粗陋，未能洗炼。",
+                "realm": "劣",
+                "reason": "技法失败，语言不畅，自然风格沦为口水话。"
+            }
+        ],
+        "imagery": [
+            "痒",
+            "童子手",
+            "精微",
+            "齬齿"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "痒处搔不及较直接，但整体平庸。"
+        }
+    }
+]

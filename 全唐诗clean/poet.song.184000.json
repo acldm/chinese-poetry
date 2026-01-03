@@ -1,0 +1,729 @@
+[
+    {
+        "title": "題馬遠踏歌圖",
+        "author": "宋寧宗",
+        "paragraphs": [
+            "宿雨清畿甸，朝陽麗帝城。",
+            "豐年人樂業，壠上踏歌行。"
+        ],
+        "paragraphs_simplified": [
+            "宿雨清畿甸，朝阳丽帝城。",
+            "丰年人乐业，垄上踏歌行。"
+        ],
+        "translation": "夜雨洗净了京城郊野，朝阳照耀着帝都城墙。丰收之年人们安居乐业，在田垄上踏歌而行。",
+        "score": 3.5,
+        "subject": [
+            "山水诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句写景，后两句写人，由景及人展现太平景象。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "宿雨清畿甸，朝阳丽帝城 对仗工整，音韵和谐。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过雨后朝阳的景色抒发对盛世的赞美。"
+                }
+            ]
+        },
+        "analysis": "此诗以简练笔触勾勒雨后帝都的清新与繁华，意象选择典型，如宿雨、朝阳、踏歌，营造丰年乐业的氛围。语言洗炼，情景交融，但立意平实，缺乏深层意蕴，属于工稳的应制诗。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "雨后清景与踏歌行人的动静结合，展现浑然天成的意境。",
+                "realm": "能品",
+                "reason": "技法成熟，但意象陈旧，缺乏独特视角。"
+            }
+        ],
+        "imagery": [
+            "雨",
+            "太阳",
+            "城市",
+            "田地",
+            "音乐"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "宿雨清畿甸，朝阳丽帝城 以景开篇，气象开阔，对仗工整。"
+        }
+    },
+    {
+        "title": "贈朱質",
+        "author": "宋寧宗",
+        "paragraphs": [
+            "袖手長才世路輕，愛閑那有鬻榮名。",
+            "挂冠便欲辭丹闕，策杖還歸老故城。",
+            "適喜不求三仕喜，傳家惟有十分清。",
+            "林間佳處真恬退，好向廉泉自濯纓。"
+        ],
+        "paragraphs_simplified": [
+            "袖手长才世路轻，爱闲那有鬻荣名。",
+            "挂冠便欲辞丹阙，策杖还归老故城。",
+            "适喜不求三仕喜，传家惟有十分清。",
+            "林间佳处真恬退，好向廉泉自濯缨。"
+        ],
+        "translation": "袖手旁观，才华横溢却视世路为轻；喜爱闲适，哪有出卖荣名之心。挂冠辞别朝廷，策杖回归故城养老。恰喜不求三次出仕，传家唯有十分清廉。林间佳处真能恬淡退隐，好向廉泉自洗冠缨。",
+        "score": 3.2,
+        "subject": [
+            "酬唱诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两联叙事，后两联抒情，层层递进表达退隐之志。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "濯缨化用楚辞典故，表达清高志趣。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过归隐行为寄托淡泊名利之志。"
+                }
+            ]
+        },
+        "analysis": "此诗赠友直抒胸臆，语言平实，用典自然，结构由叙事到抒情。但部分词句如三仕喜略显直白，情感流于表面，缺乏深沉感染力，属于应酬诗中的平实之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "通过挂冠、策杖等动作勾勒隐士形象，情感淡泊。",
+                "realm": "能品",
+                "reason": "技法稳妥，但意象普通，缺乏艺术张力。"
+            }
+        ],
+        "imagery": [
+            "冠冕",
+            "手杖",
+            "故城",
+            "林间",
+            "泉水"
+        ],
+        "allusions": [
+            {
+                "phrase": "濯缨",
+                "explanation": "出自楚辞渔父篇，比喻清高自守。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "好向廉泉自濯缨 用典贴切，点明主旨。"
+        }
+    },
+    {
+        "title": "山居  其一",
+        "author": "龔大明",
+        "paragraphs": [
+            "山居好，山居好，鶴唳猿啼餞昏曉。",
+            "碧窗柏子炷爐香，趺坐蒲團誦黄老。"
+        ],
+        "paragraphs_simplified": [
+            "山居好，山居好，鹤唳猿啼饯昏晓。",
+            "碧窗柏子炷炉香，趺坐蒲团诵黄老。"
+        ],
+        "translation": "山居好，山居好，鹤鸣猿啼送走黄昏清晨。碧窗下柏子点燃炉香，趺坐蒲团诵读黄老之书。",
+        "score": 1.8,
+        "subject": [
+            "禅理诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "反复",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "重章叠句"
+            ],
+            "structural_logic": "首句反复强调，后两句具体描写山居生活，动静结合。",
+            "evidence": [
+                {
+                    "tag": "反复",
+                    "explanation": "山居好重复，强化情感。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "饯昏晓将自然现象人格化。"
+                }
+            ]
+        },
+        "analysis": "此诗以口语化语言开篇，反复咏叹山居之好，后两句转入具体场景，意象如鹤唳、猿啼、炉香、蒲团营造清幽修道氛围。但语言过于直白，缺乏诗味，近乎打油诗，艺术价值较低。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "以声音与静修对比，突出山居之趣，但语言直率不拘。",
+                "realm": "劣品",
+                "reason": "反复咏叹冗余，意象组合生硬。"
+            }
+        ],
+        "imagery": [
+            "鹤",
+            "猿",
+            "窗",
+            "炉香",
+            "蒲团"
+        ],
+        "allusions": [
+            {
+                "phrase": "黄老",
+                "explanation": "黄帝老子之学，指道家经典。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "山居好 虽重复但直接表达主题。"
+        }
+    },
+    {
+        "title": "山居  其二",
+        "author": "龔大明",
+        "paragraphs": [
+            "山居好，山居好，門對青山水環遶。",
+            "一榻煙霞夢寐清，我以不貪爲至寶。"
+        ],
+        "paragraphs_simplified": [
+            "山居好，山居好，门对青山水环绕。",
+            "一榻烟霞梦寐清，我以不贪为至宝。"
+        ],
+        "translation": "山居好，山居好，门对青山，水环绕。一榻烟霞，梦寐清幽，我以不贪为至宝。",
+        "score": 1.9,
+        "subject": [
+            "哲理诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "反复",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "重章叠句"
+            ],
+            "structural_logic": "首句反复，后两句写景与抒情结合，表达不贪之志。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "门对青山与水环绕形成对仗。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过不贪表达清高志趣。"
+                }
+            ]
+        },
+        "analysis": "此诗结构与前首相似，首句反复，后写山水环境与心境。意象如青山、水、烟霞较为陈套，情感表达直露，如我以不贪为至宝近乎说教。整体缺乏新意，艺术感染力弱。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "山水与烟霞烘托清幽，但组合平庸。",
+                "realm": "劣品",
+                "reason": "立意浅显，反复句式单调。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "水",
+            "榻",
+            "烟霞",
+            "梦"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "一榻烟霞梦寐清 意境稍佳。"
+        }
+    },
+    {
+        "title": "山居  其三",
+        "author": "龔大明",
+        "paragraphs": [
+            "山居好，山居好，竹杖芒鞋恣幽討。",
+            "坐分苔石樹陰涼，閒數落花聽啼鳥。"
+        ],
+        "paragraphs_simplified": [
+            "山居好，山居好，竹杖芒鞋恣幽讨。",
+            "坐分苔石树阴凉，闲数落花听啼鸟。"
+        ],
+        "translation": "山居好，山居好，竹杖芒鞋恣意幽探。坐分苔石树阴凉，闲数落花听啼鸟。",
+        "score": 2.5,
+        "subject": [
+            "山水诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "反复",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "重章叠句"
+            ],
+            "structural_logic": "首句反复，后两句以对仗句描绘山居活动与景物。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "坐分苔石与闲数落花对仗工整。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "坐分静与听啼鸟动结合。"
+                }
+            ]
+        },
+        "analysis": "此诗语言稍好，首句反复后，后两句以对仗句描绘山居闲适生活。意象如竹杖、芒鞋、苔石、落花、啼鸟组合自然，营造悠然意境。但整体受限于重复句式，艺术高度有限。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "通过具体动作与景物展现隐逸之趣，意象清新。",
+                "realm": "能品",
+                "reason": "语言流畅，但立意与前两首雷同。"
+            }
+        ],
+        "imagery": [
+            "竹杖",
+            "芒鞋",
+            "苔石",
+            "树阴",
+            "落花",
+            "鸟"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "坐分苔石树阴凉，闲数落花听啼鸟 画面感强。"
+        }
+    },
+    {
+        "title": "山居  其四",
+        "author": "龔大明",
+        "paragraphs": [
+            "山居好，山居好，斸月鋤雲種瑶草。",
+            "泠泠碧澗響寒泉，蔌蔌落花風自掃。"
+        ],
+        "paragraphs_simplified": [
+            "山居好，山居好，斸月锄云种瑶草。",
+            "泠泠碧涧响寒泉，蔌蔌落花风自扫。"
+        ],
+        "translation": "山居真好，山居真好，锄月耕云种瑶草。泠泠碧涧响寒泉，蔌蔌落花风自扫。",
+        "score": 3.8,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以重复句式总写山居之好，再以对仗句具体描绘景物，动静相衬。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“泠泠碧澗響寒泉，蔌蔌落花風自掃”声色对仗，工整自然。"
+                }
+            ]
+        },
+        "analysis": "此诗以白描手法勾勒山居幽境，动词“斸”“種”“響”“掃”赋予静态意象以动态生机，构筑出清寂之趣。重复句式虽显直白，但“泠泠”“蔌蔌”叠音词渲染出声韵层次，使寒泉落花之景如在耳畔。整体意境疏朗，然“山居好”三叠略损含蓄，未臻浑然天成之境。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以云月瑶草等意象构筑超然物外之境，符合“素处以默”的冲淡特质。",
+                "realm": "能",
+                "reason": "意境清奇但句式重复，稍滞于表象。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "月",
+            "云",
+            "草",
+            "泉",
+            "花",
+            "风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“泠泠碧澗響寒泉，蔌蔌落花風自掃”声景交融，动静相宜。"
+        }
+    },
+    {
+        "title": "贈道友雪崖朱先生",
+        "author": "龔大明",
+        "paragraphs": [
+            "清高絕，雪崖翁，向上元機頓觀通。",
+            "金鼎有丹成九轉，凝然宴坐白雲中。"
+        ],
+        "paragraphs_simplified": [
+            "清高绝，雪崖翁，向上元机顿观通。",
+            "金鼎有丹成九转，凝然宴坐白云中。"
+        ],
+        "translation": "清高绝顶，雪崖翁，向上元机顿观通。金鼎有丹成九转，凝然宴坐白云中。",
+        "score": 3.5,
+        "subject": [
+            "赠友诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先赞道友清高境界，再以丹鼎意象点明修道成果，终归于静坐白云之超然。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“金鼎有丹”喻指内丹修炼的圆满境界。"
+                }
+            ]
+        },
+        "analysis": "此诗以道教意象赞颂道友，语言凝练。“向上元機顿观通”直指修道顿悟之境，“凝然宴坐”勾勒静定之态。然术语如“九转”“金鼎”堆砌，意象较隔，未脱方巾气。整体立意浅显，缺乏诗意转化，流于说明。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图以“雪崖”“白云”构筑超逸之境，但“金鼎”等词偏于实指。",
+                "realm": "能",
+                "reason": "模仿高古而失之生硬，未能虚实相生。"
+            }
+        ],
+        "imagery": [
+            "雪",
+            "崖",
+            "鼎",
+            "丹",
+            "云"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“金鼎有丹成九轉，凝然宴坐白雲中”具象化修炼境界。"
+        }
+    },
+    {
+        "title": "贈道友怡雲潘先生",
+        "author": "龔大明",
+        "paragraphs": [
+            "九轉工夫真妙絕，丹爐進火徐徐熱。",
+            "離龍坎虎自歸降，姹女嬰兒共歡悅。",
+            "天機密運造元微，精采神光迥然別。",
+            "枝頭結果有時紅，驂鸞跨鶴神仙列。"
+        ],
+        "paragraphs_simplified": [
+            "九转工夫真妙绝，丹炉进火徐徐热。",
+            "离龙坎虎自归降，姹女婴儿共欢悦。",
+            "天机密运造元微，精采神光迥然别。",
+            "枝头结果有时红，骖鸾跨鹤神仙列。"
+        ],
+        "translation": "九转工夫真妙绝，丹炉进火徐徐热。离龙坎虎自归降，姹女婴儿共欢悦。天机密运造元微，精采神光迥然别。枝头结果有时红，骖鸾跨鹤神仙列。",
+        "score": 2.5,
+        "subject": [
+            "赠友诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "赞美",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "层层递进"
+            ],
+            "structural_logic": "从炼丹工夫起笔，逐步描述火候、归降、天机，终以结果与仙列作结，逻辑连贯。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "“离龙坎虎”借代道教水火既济之理。"
+                }
+            ]
+        },
+        "analysis": "全诗堆砌道教术语，如“离龙坎虎”“姹女婴儿”，意象密集却缺乏诗意转化。情感直露，审美距离近而无回甘。虽试图构筑玄妙境界，但流于炼丹过程的说明文，辞藻堆砌而立意浅显。",
+        "poetry_styles": [
+            {
+                "style": "缜密",
+                "imagery_analysis": "术语繁复却未形成意境，徒具形式之密。",
+                "realm": "劣",
+                "reason": "试图“精神”而实则“缜密”过头，形似神滞。"
+            }
+        ],
+        "imagery": [
+            "炉",
+            "火",
+            "龙",
+            "虎",
+            "女",
+            "童",
+            "枝",
+            "鸟",
+            "鹤"
+        ],
+        "allusions": [
+            {
+                "phrase": "离龙坎虎",
+                "explanation": "道教内丹术语，喻指水火调和。"
+            },
+            {
+                "phrase": "姹女婴儿",
+                "explanation": "内丹术语，指代阴阳二气。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“九转工夫真妙絕，丹爐進火徐徐熱”相对直白，点明主题。"
+        }
+    },
+    {
+        "title": "南湖",
+        "author": "龔大明",
+        "paragraphs": [
+            "梅霖初歇水平湖，湖上青山展畫圖。",
+            "更著樓臺相掩映，風流端不減西湖。"
+        ],
+        "paragraphs_simplified": [
+            "梅霖初歇水平湖，湖上青山展画图。",
+            "更著楼台相掩映，风流端不减西湖。"
+        ],
+        "translation": "梅雨初停水平湖，湖上青山展画图。更著楼台相掩映，风流端不减西湖。",
+        "score": 4.0,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "赞美",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以梅雨初歇点明时令，再以画图喻景，末以对比收束，拓宽意境。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“湖上青山展畫圖”将山水比作画卷。"
+                }
+            ]
+        },
+        "analysis": "此诗以“梅霖初歇”起笔，点明春末夏初之景，后以“展畫圖”虚实相生，勾勒湖山如画。末句对比西湖，不落窠臼。整体语言清丽，意象衔接自然，虽“风流”一词稍泛，但不失为能品。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以梅雨、青山、楼台构筑清新奇逸之境。",
+                "realm": "能",
+                "reason": "符合“清奇”之“如月之曙”，但未达超诣。"
+            }
+        ],
+        "imagery": [
+            "雨",
+            "湖",
+            "山",
+            "楼"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“梅霖初歇水平湖，湖上青山展畫圖”起笔点题，意象清新。"
+        }
+    }
+]

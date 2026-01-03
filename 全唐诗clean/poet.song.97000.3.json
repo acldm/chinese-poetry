@@ -1,0 +1,2895 @@
+[
+    {
+        "title": "攜稚幼看桃花",
+        "author": "王洋",
+        "paragraphs": [
+            "人面看花花笑人，春風吹絮絮催春。",
+            "韶華雖好多頭緒，何似秋空不受塵。"
+        ],
+        "paragraphs_simplified": [
+            "人面看花花笑人，春风吹絮絮催春。",
+            "韶华虽好多头绪，何似秋空不受尘。"
+        ],
+        "translation": "带着幼童看桃花，人脸与花相映，花仿佛在笑人；春风吹动柳絮，柳絮似乎在催促春天到来。美好春光虽多，却头绪纷乱，不如秋日天空那般清澈无尘。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句以拟人手法描绘春景之繁杂，后两句通过秋空与春景的对比，表达对清净的向往，形成转折。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“花笑人”赋予花以人的情感，增强生动性"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "实写春景，虚写秋空，拓展意境"
+                }
+            ]
+        },
+        "analysis": "此诗以春景与秋空的对比构筑意象，前两句借拟人手法渲染春日繁杂，后两句直指秋空之净，折射出对尘世纷扰的厌倦。意象虽常见，但“花笑人”与“絮催春”的细节勾勒出情景的短暂契合；情感流露含蓄，未过度宣泄，却因转折生硬而削弱了意境的连贯性。整体上，立意浅显，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以“秋空不受尘”凸显清奇之境，但春景的繁杂意象削弱了整体统一性。",
+                "realm": "能品",
+                "reason": "试图通过对比展现清奇，但意象堆砌，转折突兀，未能达到高古之境。"
+            }
+        ],
+        "imagery": [
+            "人脸",
+            "花",
+            "柳絮",
+            "天空"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "拟人手法巧妙，赋予自然以情感，生动性强。"
+        }
+    },
+    {
+        "title": "賞瑞香催海棠五首  其一",
+        "author": "王洋",
+        "paragraphs": [
+            "鄭人蘭佩不須誇，自别團香擅國華。",
+            "客枕莫疑無好夢，年年同有瑞香花。"
+        ],
+        "paragraphs_simplified": [
+            "郑人兰佩不须夸，自别团香擅国华。",
+            "客枕莫疑无好梦，年年同有瑞香花。"
+        ],
+        "translation": "郑国人佩戴兰花不必夸耀，瑞香花自身团香独占国华。客居之人莫疑枕上无好梦，因年年都有瑞香花相伴。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "自信",
+            "慰藉"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以郑人兰佩为衬托，突出瑞香的独特；后两句转向客居慰藉，卒章点明瑞香的恒常陪伴。",
+            "evidence": [
+                {
+                    "tag": "托物言志",
+                    "explanation": "借瑞香花“擅国华”表达自信与独特"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“郑人兰佩”可能引用《诗经》典故，以古喻今"
+                }
+            ]
+        },
+        "analysis": "此诗咏瑞香花，前两句以郑人兰佩为反衬，勾勒出瑞香独占国华的意象，后两句以慰藉之语收束，情感从自信转向安宁。意象如“团香”“客枕”虽贴合主题，但前后情感跳跃，削弱了情景的交融。整体技法成熟，但立意未脱咏物常轨，属能品。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "“郑人兰佩”与“团香擅国华”构筑典雅意象，但后两句的直白慰藉略损含蓄。",
+                "realm": "能品",
+                "reason": "用典与托物手法娴熟，但情感转折生硬，未达高古之境。"
+            }
+        ],
+        "imagery": [
+            "兰花",
+            "香料",
+            "花",
+            "枕头"
+        ],
+        "allusions": [
+            {
+                "phrase": "郑人兰佩",
+                "explanation": "可能指《诗经》中郑风高洁意象，象征传统美德。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“年年同有瑞香花”以平实语言传递恒常慰藉，亲切动人。"
+        }
+    },
+    {
+        "title": "賞瑞香催海棠五首  其二",
+        "author": "王洋",
+        "paragraphs": [
+            "生無飛頷老蒿萊，慚愧君侯客燕開。",
+            "面带凄凉無酒色，誰人信道賞花來。"
+        ],
+        "paragraphs_simplified": [
+            "生无飞颔老蒿莱，惭愧君侯客燕开。",
+            "面带凄凉无酒色，谁人信道赏花来。"
+        ],
+        "translation": "生来无飞黄腾达之运，老于草野；惭愧君侯作为客人宴饮。脸上带着凄凉，毫无酒色，谁人相信是来赏花的。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "羁旅诗"
+        ],
+        "emotion": [
+            "失意",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "设问"
+            ],
+            "presentation_tags": [
+                "以乐衬哀",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直陈落魄，次句写惭愧，后两句以凄凉面容反衬赏花之乐，开门见山点明失意。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "“飞颔”与“老蒿莱”对比，凸显命运落差"
+                },
+                {
+                    "tag": "以乐衬哀",
+                    "explanation": "赏花之乐衬托面容凄凉，强化哀情"
+                }
+            ]
+        },
+        "analysis": "此诗直抒失意之情，意象如“蒿莱”“凄凉”直白浅露，缺乏含蓄之美。前两句叙事，后两句以设问收束，情感宣泄直接，未形成审美距离。情景契合度低，赏花与凄凉面容生硬拼凑。整体语言平庸，立意老套，属凡品。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "“老蒿莱”与“凄凉”试图营造悲慨，但表达直露，缺乏深沉回甘。",
+                "realm": "劣作",
+                "reason": "情感宣泄过度，意象陈旧，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "草野",
+            "贵族",
+            "酒",
+            "花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“生无飞颔老蒿莱”直接点明主题，语言简洁。"
+        }
+    },
+    {
+        "title": "賞瑞香催海棠五首  其三",
+        "author": "王洋",
+        "paragraphs": [
+            "魯國諸儒走月題，甘於聖學飽羹蔾。",
+            "不知荷篠人歸後，誰似張侯爲割雞。"
+        ],
+        "paragraphs_simplified": [
+            "鲁国诸儒走月题，甘于圣学饱羹藜。",
+            "不知荷篠人归后，谁似张侯为割鸡。"
+        ],
+        "translation": "鲁国儒生们奔走仕途，甘心于圣学，满足于粗茶淡饭。不知隐士归隐后，谁像张侯那样做小事（割鸡）。",
+        "score": 2.0,
+        "subject": [
+            "怀古诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "用典"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句写儒生追求圣学，后句用典故设问，承上启下表达对隐逸的向往与讽刺。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“鲁国诸儒”指孔子弟子，“张侯割鸡”出自《论语》，反用其意"
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "通过典故讽刺当代儒生奔走，推崇隐逸"
+                }
+            ]
+        },
+        "analysis": "此诗堆砌典故，意象如“羹藜”“荷篠”晦涩难懂，立意模糊。前句写儒生，后句用张侯割鸡典故，试图表达哲理，但典故运用生硬，缺乏清晰脉络。情感上迷茫与遗憾交织，却因用典过度而显得做作。整体上，典故掩盖了诗意，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "“鲁国诸儒”与“张侯割鸡”试图营造高古，但典故堆砌，意境破碎。",
+                "realm": "劣作",
+                "reason": "用典生硬，立意不清，未能达到高古之境。"
+            }
+        ],
+        "imagery": [
+            "儒生",
+            "粗饭",
+            "隐士",
+            "小事"
+        ],
+        "allusions": [
+            {
+                "phrase": "鲁国诸儒",
+                "explanation": "指孔子弟子，象征传统儒学追求。"
+            },
+            {
+                "phrase": "张侯割鸡",
+                "explanation": "出自《论语·阳货》，子游为武城宰事，反用指小事大材。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“谁似张侯为割鸡”用典巧妙，但整体晦涩。"
+        }
+    },
+    {
+        "title": "賞瑞香催海棠五首  其四",
+        "author": "王洋",
+        "paragraphs": [
+            "刺繡窗前午夢驚，驪駒堂上禮初成。",
+            "旁無粉黛燈籠錦，頓解饑寒瓠子羹。"
+        ],
+        "paragraphs_simplified": [
+            "刺绣窗前午梦惊，骊驹堂上礼初成。",
+            "旁无粉黛灯笼锦，顿解饥寒瓠子羹。"
+        ],
+        "translation": "刺绣窗前午梦被惊醒，骊驹堂上礼节初成。旁边没有美女华服，只有解饥寒的瓠子羹。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "叙事诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "正午"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "借代"
+            ],
+            "presentation_tags": [
+                "以乐衬哀",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句写午梦惊醒与礼成，后句以粉黛灯笼锦与瓠子羹对比，首尾呼应现实与清贫。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "“粉黛灯笼锦”与“瓠子羹”对比，突出清贫"
+                },
+                {
+                    "tag": "以乐衬哀",
+                    "explanation": "礼成之乐衬托无华服美食之哀"
+                }
+            ]
+        },
+        "analysis": "此诗以细节描写见长，意象如“刺绣”“午梦”“瓠子羹”生动具体，情景契合度较高。对比手法鲜明，情感从礼成的喜悦转向恬淡的遗憾，审美距离适中，有回甘之味。整体技法熟练，但立意未脱常轨，属能品。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "“刺绣窗前”与“瓠子羹”构筑自然场景，对比增强真实感。",
+                "realm": "能品",
+                "reason": "细节生动，但情感转折略显平庸。"
+            }
+        ],
+        "imagery": [
+            "刺绣",
+            "梦",
+            "马",
+            "美女",
+            "华服",
+            "粗食"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“刺绣窗前午梦惊”细节真实，画面感强。"
+        }
+    },
+    {
+        "title": "賞瑞香催海棠五首  其五",
+        "author": "王洋",
+        "paragraphs": [
+            "卜晝彌文卜夜遲，前人明訓後人師。",
+            "海棠不守春秋法，髙燭偏宜照睡時。"
+        ],
+        "paragraphs_simplified": [
+            "卜昼弥文卜夜迟，前人明训后人师。",
+            "海棠不守春秋法，高烛偏宜照睡时。"
+        ],
+        "translation": "白天的文采繁复，夜晚的占卜迟缓，前人的明训是后人的师表。海棠花不遵守春秋的法则，高高的蜡烛偏偏适合照亮睡眠的时候。",
+        "score": 3.6,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句陈述常规教诲，后两句以海棠行为形成对比。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "海棠不守春秋法赋予海棠人性特质"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过海棠的自然行为表达对规范与自然的思考"
+                }
+            ]
+        },
+        "analysis": "此诗以海棠为意象核心，通过对比人文规范与自然本性，构筑出一种静观自得的意境。前两句铺陈传统教诲的庄重，后两句以海棠不守季节法则、高烛照睡之景，暗喻对拘泥成法的超越。语言凝练，意象简洁，但立意未脱常规，缺乏更深层的审美回甘。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "海棠与高烛构成自然与人文的对照",
+                "realm": "能品",
+                "reason": "技法娴熟，但意境未达超逸之境"
+            }
+        ],
+        "imagery": [
+            "海棠",
+            "春秋",
+            "蜡烛",
+            "睡眠"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "海棠不守春秋法，高烛偏宜照睡时，生动体现自然与规范的冲突"
+        }
+    },
+    {
+        "title": "和吉父賦海棠三首  其一",
+        "author": "王洋",
+        "paragraphs": [
+            "畫手三川著色濃，黄昏更在獨圍中。",
+            "佳期落日連雲合，艷采垂絲带縷紅。"
+        ],
+        "paragraphs_simplified": [
+            "画手三川著色浓，黄昏更在独围中。",
+            "佳期落日连云合，艳采垂丝带缕红。"
+        ],
+        "translation": "画家用浓墨重彩描绘三川，黄昏时分更在独自环绕之中。美好的时光与落日连云相合，艳丽的色彩垂下丝缕般的红色。",
+        "score": 3.7,
+        "subject": [
+            "题画诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句描绘画家与黄昏之景，后句延伸至落日与色彩的融合。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "艳采垂丝带缕红以丝缕比喻色彩的垂落"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过黄昏落日之景寄托恬淡心境"
+                }
+            ]
+        },
+        "analysis": "诗作以画家视角切入，渲染三川的浓艳色彩与黄昏独处的氛围。后句将佳期、落日、云霞与垂丝红彩交织，构筑出视觉丰富的画面。意象堆砌稍显繁复，情感流露含蓄，但整体意境真切感不足，未能突破常规题画诗的框架。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "浓色与垂丝红彩体现纤秾特质",
+                "realm": "能品",
+                "reason": "色彩描写细腻，但意境未达高妙"
+            }
+        ],
+        "imagery": [
+            "画手",
+            "三川",
+            "黄昏",
+            "落日",
+            "云",
+            "垂丝",
+            "红"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "佳期落日連雲合，艷采垂絲带縷紅，融合自然与色彩，画面感强"
+        }
+    },
+    {
+        "title": "和吉父賦海棠三首  其二",
+        "author": "王洋",
+        "paragraphs": [
+            "我愧留髠花惱客，君矜止廣尉貪公。",
+            "傳呼徑去孤風景，幸好看時不暫同。"
+        ],
+        "paragraphs_simplified": [
+            "我愧留髠花恼客，君矜止广尉贪公。",
+            "传呼径去孤风景，幸好看时不同暂同。"
+        ],
+        "translation": "我愧于留髡让花恼客，你矜持于止广尉贪公。传呼径去孤独风景，幸好看时不同暂同。",
+        "score": 3.2,
+        "subject": [
+            "酬唱诗"
+        ],
+        "emotion": [
+            "孤独",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句通过典故表达愧疚与矜持，后句叙述离别后的孤独与遗憾。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "留髠可能指历史人物，增添文化深度"
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "通过典故暗喻当下人际的疏离"
+                }
+            ]
+        },
+        "analysis": "此诗以典故入笔，语言晦涩，涉及留髡等历史意象，表达愧疚与矜持之情。后句以传呼径去、孤风景写离别，情感隐晦。全诗用典过密，导致意脉不畅，意境隔膜，未能清晰传达情感，整体流于堆砌。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "典故与孤独风景交织",
+                "realm": "能品",
+                "reason": "用典虽工，但表达不够自然，略显生硬"
+            }
+        ],
+        "imagery": [
+            "花",
+            "客",
+            "风景"
+        ],
+        "allusions": [
+            {
+                "phrase": "留髠",
+                "explanation": "可能指历史人物，但具体含义不明"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "傳呼徑去孤風景，幸好看時不暫同，传达离别后的孤独感"
+        }
+    },
+    {
+        "title": "和吉父賦海棠三首  其三",
+        "author": "王洋",
+        "paragraphs": [
+            "斫竹移松傍淺樊，牡丹時節尚輕寒。",
+            "向家庭院花如錦，獨爲窮忙未得看。"
+        ],
+        "paragraphs_simplified": [
+            "斫竹移松傍浅樊，牡丹时节尚轻寒。",
+            "向家庭院花如锦，独为穷忙未得看。"
+        ],
+        "translation": "砍竹移松靠近浅樊，牡丹时节尚且轻寒。向家庭院花如锦，独为穷忙未得看。",
+        "score": 3.4,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句描述园艺活动与季节，后句以花如锦对比穷忙未看，突出遗憾。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "花如锦与穷忙未得看形成鲜明反差"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过庭院花景抒发错过之憾"
+                }
+            ]
+        },
+        "analysis": "诗作从斫竹移松的日常活动切入，点明牡丹时节的轻寒，后句以庭院花如锦之美景，反衬因穷忙而未能观赏的遗憾。语言平实，情感真挚，但主题常见，缺乏新意，整体停留在表面叙事，未深入挖掘情感层次。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "园艺与花景体现自然生活",
+                "realm": "能品",
+                "reason": "情感真实，但意境浅显，未达深致"
+            }
+        ],
+        "imagery": [
+            "竹",
+            "松",
+            "牡丹",
+            "庭院",
+            "花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "向家庭院花如锦，独为穷忙未得看，直接表达遗憾之情"
+        }
+    },
+    {
+        "title": "題范子濟雙頭芍藥二首  其一",
+        "author": "王洋",
+        "paragraphs": [
+            "春風隨律入花房，三月淮南春晝長。",
+            "聞道傳呼催近侍，雙垂羅袖引花王。"
+        ],
+        "paragraphs_simplified": [
+            "春风随律入花房，三月淮南春昼长。",
+            "闻道传呼催近侍，双垂罗袖引花王。"
+        ],
+        "translation": "春风随着律令进入花房，三月淮南春日漫长。听说传呼催促近侍，双垂罗袖引领花王。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "点染结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句铺陈春风入花房的春景，后句聚焦引花王的仪式性动作。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "花王比喻芍药，凸显其尊贵"
+                },
+                {
+                    "tag": "点染结合",
+                    "explanation": "春景为点，引花王为染，层次分明"
+                }
+            ]
+        },
+        "analysis": "此诗以春风律动和淮南春长为背景，描绘双头芍药的盛放场景。后句通过传呼近侍、双垂罗袖引花王的细节，赋予芍药以王者气象。语言典雅，意象庄重，但情感表达较为表面，未能深入花王的象征意义，整体工稳而少灵动。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "春风与花王构成典雅春景",
+                "realm": "能品",
+                "reason": "技法规范，但意境未达超逸"
+            }
+        ],
+        "imagery": [
+            "春风",
+            "花房",
+            "三月",
+            "淮南",
+            "罗袖",
+            "花王"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "聞道傳呼催近侍，雙垂羅袖引花王，生动展现引花王的仪式感"
+        }
+    },
+    {
+        "title": "題范子濟雙頭芍藥二首  其二",
+        "author": "王洋",
+        "paragraphs": [
+            "趙家姊妹在椒房，宫漏春遲午夢長。",
+            "淡拂蛾眉減脂粉，一般裝束奉君王。"
+        ],
+        "paragraphs_simplified": [
+            "赵家姊妹在椒房，宫漏春迟午梦长。",
+            "淡拂蛾眉减脂粉，一般装束奉君王。"
+        ],
+        "translation": "赵家姐妹身处椒房（后妃居所），宫中的漏壶在春日显得迟缓，午梦漫长。她们淡淡地描画蛾眉，减少脂粉，以同样的装束侍奉君王。",
+        "score": 3.5,
+        "subject": [
+            "宫词",
+            "闺怨诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "午"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "前句以椒房、宫漏勾勒深宫环境，后句通过淡拂蛾眉的细节暗示后妃为迎合君王而丧失个性，整体借古讽今。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "以“赵家姊妹”代指后宫妃嫔，暗含历史典故。"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "“淡拂蛾眉减脂粉”以细微动作折射心理状态。"
+                }
+            ]
+        },
+        "analysis": "此诗以赵家姊妹喻指后宫女子，借椒房、宫漏等意象构筑深宫春日的慵懒氛围。淡拂蛾眉的细节与一般装束的对比，折射出后宫生活对个体的消解。语言凝练但意象陈旧，缺乏新意，属于宫怨诗中的常套之作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图通过意象暗示情感，但流于表面，未能深入。",
+                "realm": "能",
+                "reason": "借古讽今但立意浅显，未能达到含蓄蕴藉之境。"
+            }
+        ],
+        "imagery": [
+            "椒房",
+            "宫漏",
+            "蛾眉",
+            "脂粉",
+            "君王"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点明环境，意象丰富，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "紅蓮",
+        "author": "王洋",
+        "paragraphs": [
+            "池塘雨漲暑風微，弄水紅粧出水遲。",
+            "五日便當分六月，韶村道上見開時。"
+        ],
+        "paragraphs_simplified": [
+            "池塘雨涨暑风微，弄水红妆出水迟。",
+            "五日便当分六月，韶村道上见开时。"
+        ],
+        "translation": "池塘因雨涨水，暑风微弱，弄水的红妆（指荷花）出水缓慢。五天后就该进入六月，在韶村道上看见花开之时。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "期待"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句写雨后池塘与荷花初绽之态，后句以时间推移表达对花开的期待，整体通过红莲生长过程抒发闲适之情。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“弄水红妆”将荷花拟作戏水女子，生动形象。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过红莲景象传达对自然时序的观察。"
+                }
+            ]
+        },
+        "analysis": "此诗以红莲为题，描绘池塘雨后荷花初绽的景象。弄水红妆的拟人手法虽巧，但五日分六月的表述略显生硬，整体意境清新但缺乏深度，属咏物诗中的平浅之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图捕捉自然瞬间，但语言稍显雕琢，未达浑然天成之境。",
+                "realm": "逸",
+                "reason": "拟人生动但立意平浅，未能升华至自然高致。"
+            }
+        ],
+        "imagery": [
+            "池塘",
+            "雨",
+            "风",
+            "荷花",
+            "水",
+            "六月",
+            "道路"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句意象生动，拟人手法突出，画面感强。"
+        }
+    },
+    {
+        "title": "題前寺中洲茶",
+        "author": "王洋",
+        "paragraphs": [
+            "中洲絕品舊聞名，瀹以寒泉雪乳輕。",
+            "怪得道人長不睡，一甌喚醒夢魂清。"
+        ],
+        "paragraphs_simplified": [
+            "中洲绝品旧闻名，瀹以寒泉雪乳轻。",
+            "怪得道人长不睡，一瓯唤醒梦魂清。"
+        ],
+        "translation": "中洲茶是绝品，旧时闻名，用寒泉冲泡，雪乳轻盈。难怪道人长久不睡，一瓯茶唤醒梦魂，使人清醒。",
+        "score": 3.8,
+        "subject": [
+            "咏物诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "赞美",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "前句写茶之品质与冲泡之法，后句以道人不睡反衬茶之提神功效，整体通过茶事表达精神追求。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“雪乳轻”喻茶汤之清轻，形象贴切。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“唤醒梦魂清”极言茶之提神效果。"
+                }
+            ]
+        },
+        "analysis": "此诗题咏中洲茶，以寒泉雪乳喻茶汤之清轻，后联以道人不睡反衬茶之提神功效。语言明快，意象集中，但“唤醒梦魂清”稍显直白，整体属能品，技法熟练而立意一般。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "茶意象清雅，但情感宣泄过直，未达含蓄之境。",
+                "realm": "能",
+                "reason": "比喻生动，但末句直露，削弱了回味。"
+            }
+        ],
+        "imagery": [
+            "中洲茶",
+            "寒泉",
+            "雪乳",
+            "道人",
+            "瓯",
+            "梦魂"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句点出茶之功效，生动有力，凸显主题。"
+        }
+    },
+    {
+        "title": "鄰園花成欲具旬會病未果二首  其一",
+        "author": "王洋",
+        "paragraphs": [
+            "嬌春意謂已堅牢，次第千林散錦袍。",
+            "恐有天魔妬妍好，遽連風雨作粗豪。"
+        ],
+        "paragraphs_simplified": [
+            "娇春意谓已坚牢，次第千林散锦袍。",
+            "恐有天魔妒妍好，遽连风雨作粗豪。"
+        ],
+        "translation": "娇春（春日）以为已经坚牢（花已开好），但千林依次散落锦袍（花瓣）。恐怕有天魔嫉妒妍好，突然连风雨作粗豪（猛烈）。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "伏笔铺垫"
+            ],
+            "structural_logic": "前句写花盛之景，后句以天魔风雨喻摧残之烈，整体通过花事表达无常之感。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“天魔妒”将自然力量人格化，强化情感冲突。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“散锦袍”喻花瓣飘落，形象生动。"
+                }
+            ]
+        },
+        "analysis": "此诗写邻园花开花落，以娇春坚牢喻花开之盛，后联以天魔妒、风雨粗豪喻摧残之烈。意象生动但“遽连风雨作粗豪”稍显生硬，情感转折突兀，属平庸之作，立意老套。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图表达花落之悲，但语言粗豪，缺乏沉郁顿挫。",
+                "realm": "劣",
+                "reason": "比喻虽巧，但情感表达直白，未能达到悲慨之境。"
+            }
+        ],
+        "imagery": [
+            "娇春",
+            "千林",
+            "锦袍",
+            "天魔",
+            "风雨"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句意象丰富，比喻生动，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "鄰園花成欲具旬會病未果二首  其二",
+        "author": "王洋",
+        "paragraphs": [
+            "年從脹脈冷侵肌，强欲尋春怯自疑。",
+            "衰病固知無可奈，不須妨我看花時。"
+        ],
+        "paragraphs_simplified": [
+            "年从胀脉冷侵肌，强欲寻春怯自疑。",
+            "衰病固知无可奈，不须妨我看花时。"
+        ],
+        "translation": "年岁从胀脉（身体不适）冷侵肌肤，勉强想寻春但怯于自疑。衰病固然知道无可奈何，但不妨碍我看花之时。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "豁达",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "直抒胸臆"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "前句写病体之苦，后句以衰病无可奈何反衬看花之决心，整体通过对比表达豁达心态。",
+            "evidence": [
+                {
+                    "tag": "直接抒情",
+                    "explanation": "“衰病固知无可奈”直白表达对疾病的无奈。"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "“冷侵肌”以身体感受写病痛。"
+                }
+            ]
+        },
+        "analysis": "此诗写病中寻春，以胀脉冷侵肌写身体之苦，后联以衰病无可奈何反衬看花之决心。语言质朴，情感真挚，但缺乏意象营造，近乎口语，属平庸之作，诗意稀薄。",
+        "poetry_styles": [
+            {
+                "style": "旷达",
+                "imagery_analysis": "试图表达豁达，但语言直白，缺乏审美距离。",
+                "realm": "劣",
+                "reason": "情感直接，但无诗意升华，近乎白话。"
+            }
+        ],
+        "imagery": [
+            "胀脉",
+            "肌",
+            "春",
+            "衰病",
+            "花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句表达豁达，情感真挚，虽直白但有力。"
+        }
+    },
+    {
+        "title": "明日沈幹送花二枝續一章",
+        "author": "王洋",
+        "paragraphs": [
+            "暖風吹得也輕狂，連夜爭開有底忙。",
+            "困恨蘭宵留宿酒，笑濡曉露試新粧。"
+        ],
+        "paragraphs_simplified": [
+            "暖风吹得也轻狂，连夜争开有底忙。",
+            "困恨兰宵留宿酒，笑濡晓露试新妆。"
+        ],
+        "translation": "暖风吹拂得花儿也显得轻狂，连夜争相开放，究竟在忙些什么呢？困倦中怨恨兰宵（指夜晚）留下的宿酒，笑着沾湿晨露尝试新妆。前两句以拟人手法写花之动态，后两句转写人情，以宿酒与晨露对照，暗示从夜至晨的时光流转。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "闲适",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前联写花之狂放，后联写人之情态，以时间推移连接场景。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“暖风吹得也轻狂”赋予花以人的轻狂之态。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "“连夜争开”写动，“笑濡晓露”写静，形成对比。"
+                }
+            ]
+        },
+        "analysis": "此诗以送花为题，意象轻快，但立意浅显，缺乏深层寄托。暖风、夜花、宿酒、晓露等物象堆砌，虽有拟人之趣，却未构筑独特意境。情感流于表面，无回甘之韵，整体流于平庸。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "辞藻华丽，但意象陈旧，缺乏新意。",
+                "realm": "能品",
+                "reason": "试图模仿绮丽风格，但仅止于辞藻堆砌，未能达到神妙境界。"
+            }
+        ],
+        "imagery": [
+            "风",
+            "花",
+            "酒",
+            "露"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句拟人生动，为全诗最具表现力之句。"
+        }
+    },
+    {
+        "title": "問松",
+        "author": "王洋",
+        "paragraphs": [
+            "歲晚孤松輒自娛，排行金朵映蒼鬚。",
+            "不知風雨摧殘後，曾有心情管領無。"
+        ],
+        "paragraphs_simplified": [
+            "岁晚孤松辄自娱，排行金朵映苍须。",
+            "不知风雨摧残后，曾有心情管领无。"
+        ],
+        "translation": "岁末时分，孤松自得其乐，排列如金的松针映照着苍劲的松枝。不知在风雨摧残之后，是否还有心情来管领（关注）自身？前两句写松之孤傲形态，后两句以问句形式，质疑风雨后的心理状态。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "孤独",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前联描绘松之形态，后联以问句深化主题，揭示风雨后的心理变化。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "“曾有心情管领无”以问句引发思考。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借孤松象征坚韧与孤独，寄托人生感慨。"
+                }
+            ]
+        },
+        "analysis": "此诗以问松为题，意象凝练，孤松与风雨构成对比，折射出坚韧与迷茫的交织。后联设问直指内心，情感含蓄，有回甘之韵。整体构思工整，但略显直白，意境未达超诣之境。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "以松喻人，情感内敛，但问句稍显直露。",
+                "realm": "能品",
+                "reason": "试图模仿含蓄风格，但后联议论过显，未能完全隐藏意图。"
+            }
+        ],
+        "imagery": [
+            "松",
+            "风雨"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句设问深刻，点出全诗哲理核心。"
+        }
+    },
+    {
+        "title": "逢伯氏舊鶴代賦",
+        "author": "王洋",
+        "paragraphs": [
+            "引啄苔池浴素翎，野田人遠見精神。",
+            "羽翰未到青霄路，料汝猶能憶故人。"
+        ],
+        "paragraphs_simplified": [
+            "引啄苔池浴素翎，野田人远见精神。",
+            "羽翰未到青霄路，料汝犹能忆故人。"
+        ],
+        "translation": "引领啄食苔池，沐浴洁白的羽毛，在野田远处仍可见其精神。羽翼尚未飞达青霄之路，料想你还能忆起故人。前两句写鹤之形态与精神，后两句以鹤喻人，表达对故人的怀念。",
+        "score": 3.2,
+        "subject": [
+            "咏物诗",
+            "怀旧诗"
+        ],
+        "emotion": [
+            "怀念",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前联写鹤之现状，后联写鹤之记忆，以物寄情。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以鹤喻故人，表达怀念之情。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "“羽翰未到”写实，“忆故人”写虚，形成对比。"
+                }
+            ]
+        },
+        "analysis": "此诗借鹤怀人，意象清雅，但立意平庸，缺乏新意。苔池、野田等物象陈旧，情感流于表面，无深刻寄托。整体技法熟练，但未脱俗套，属凡品之作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "鹤之形象清奇，但整体构思未达高妙。",
+                "realm": "能品",
+                "reason": "试图模仿清奇风格，但意象堆砌，未能构筑独特意境。"
+            }
+        ],
+        "imagery": [
+            "鹤",
+            "苔池",
+            "野田"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以鹤忆故人，情感真挚，为全诗亮点。"
+        }
+    },
+    {
+        "title": "琵琶洲",
+        "author": "王洋",
+        "paragraphs": [
+            "塞外風煙能記否，天涯淪落自心知。",
+            "眼中風物參差是，只欠江州司馬詩。"
+        ],
+        "paragraphs_simplified": [
+            "塞外风烟能记否，天涯沦落自心知。",
+            "眼中风物参差是，只欠江州司马诗。"
+        ],
+        "translation": "塞外的风烟你还能记得吗？天涯沦落的心情只有自己知道。眼中的风物参差不齐，只欠江州司马（白居易）的诗来描绘。前两句以问句形式回忆塞外，后两句以风物对比，引用白居易典故，表达缺憾。",
+        "score": 4.0,
+        "subject": [
+            "怀古诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "思乡",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "用典"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前联设问忆旧，后联以典故点题，揭示心中缺憾。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“江州司马”指白居易，借其诗才反衬自身缺憾。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "“塞外风烟能记否”引发对往事的追忆。"
+                }
+            ]
+        },
+        "analysis": "此诗以琵琶洲为题，融入塞外记忆与白居易典故，意象深远，情感真挚。风物与沦落的对比，构筑出时空交错的意境，含蓄中见深沉。虽有典故支撑，但整体未达妙品之境，仍显刻意。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "塞外风烟与沦落心境，渲染悲慨氛围。",
+                "realm": "妙品",
+                "reason": "成功融合典故与情感，达到悲慨风格的较高境界。"
+            }
+        ],
+        "imagery": [
+            "风烟",
+            "风物",
+            "江州司马"
+        ],
+        "allusions": [
+            {
+                "phrase": "江州司马",
+                "explanation": "指唐代诗人白居易，曾贬江州司马，以诗才著称。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句用典精当，点出全诗核心缺憾。"
+        }
+    },
+    {
+        "title": "熙臺",
+        "author": "王洋",
+        "paragraphs": [
+            "不將臺榭壓城闉，爭奈長淮四面春。",
+            "聞道公餘一吟嘯，滿天風月助精神。"
+        ],
+        "paragraphs_simplified": [
+            "不将台榭压城闉，争奈长淮四面春。",
+            "闻道公余一吟啸，满天风月助精神。"
+        ],
+        "translation": "不将台榭建得高耸压城，怎奈长淮四面春色盎然。听说公务之余一声吟啸，满天风月都来助兴精神。前两句写台榭与春色的关系，后两句写吟啸之趣，风月助兴。",
+        "score": 3.0,
+        "subject": [
+            "山水诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前联写台榭与春色，后联写吟啸之乐，以风月助兴收尾。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“满天风月助精神”赋予风月以人的情感。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“争奈长淮四面春”夸大春色之盛。"
+                }
+            ]
+        },
+        "analysis": "此诗以熙台为题，描写春景与吟啸之乐，意象开阔，但情感平淡，缺乏深度。风月助兴之句虽生动，却未脱俗套，整体立意浅显，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "风月春色自然流畅，但构思未见新奇。",
+                "realm": "能品",
+                "reason": "试图模仿自然风格，但流于表面，未能达到洒脱境界。"
+            }
+        ],
+        "imagery": [
+            "台榭",
+            "长淮",
+            "风月"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句拟人生动，为全诗最具表现力之句。"
+        }
+    },
+    {
+        "title": "瓊花",
+        "author": "王洋",
+        "paragraphs": [
+            "愛奇造物剪瓊瑰，爲鎮靈祠特地栽。",
+            "事紀揚州千古勝，名居天下萬花魁。",
+            "何人斵却依然在，甚處移來不肯開。",
+            "浪說八仙模樣似，八仙安得有香來。"
+        ],
+        "paragraphs_simplified": [
+            "爱奇造物剪琼瑰，为镇灵祠特地栽。",
+            "事纪扬州千古胜，名居天下万花魁。",
+            "何人斫却依然在，甚处移来不肯开。",
+            "浪说八仙模样似，八仙安得有香来。"
+        ],
+        "translation": "爱好新奇的造物主剪下琼瑰美玉，为了镇守灵祠特意栽种。事迹记载扬州千古胜景，名声位居天下万花之首。何人砍斫却依然存在，从何处移来却不肯开花。徒然说八仙模样相似，八仙怎会有香气来。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问",
+                "反问"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先描述琼花的来历和名声，然后质疑其现状，最后用典故反问显志。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "将琼花比作剪下的琼瑰"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "何人斵却依然在"
+                },
+                {
+                    "tag": "反问",
+                    "explanation": "八仙安得有香來"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "提及八仙"
+                }
+            ]
+        },
+        "analysis": "诗题琼花，首联以造物主剪琼瑰喻其珍贵，点出镇灵祠之用。颔联赞其扬州胜景与天下花魁之名。颈联转折，质疑砍斫仍存、移来不开之矛盾。尾联用八仙典故反问，暗讽虽美无实。全诗意象陈旧，立意浅显，辞藻堆砌，尾联反问稍有力，但整体平庸，属凡品之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以琼瑰、灵祠等意象构筑典雅之境，但流于表面。",
+                "realm": "能品",
+                "reason": "模仿典雅风格，但缺乏深度，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "玉",
+            "祠",
+            "扬州",
+            "花",
+            "仙"
+        ],
+        "allusions": [
+            {
+                "phrase": "八仙",
+                "explanation": "道教八仙，常用于比喻或典故。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "尾联反问有力，点出琼花无香之实。"
+        }
+    },
+    {
+        "title": "觀中芙蓉盛開",
+        "author": "王洋",
+        "paragraphs": [
+            "秋木日動搖，秋容日脩整。",
+            "況復白琳宮，焚香事幽屏。",
+            "胡爲彼美人，犯此清凈境。",
+            "仙官儼環珮，注目朝倒景。",
+            "豈容正法眼，泛愛冶色靚。",
+            "得非葉太清，宿念未灰冷。",
+            "北斗春已足，三山夢初醒。",
+            "曰鱗貴女子，俗目未可騁。",
+            "慣聽步虛詞，生便浮館靜。",
+            "那知羽衣人，文成僞心猛。",
+            "記語東方兒，偷桃不可幸。",
+            "共待月滿除，蕭蕭散疏影。"
+        ],
+        "paragraphs_simplified": [
+            "秋木日动摇，秋容日修整。",
+            "况复白琳宫，焚香事幽屏。",
+            "胡为彼美人，犯此清净境。",
+            "仙官俨环佩，注目朝倒景。",
+            "岂容正法眼，泛爱冶色靓。",
+            "得非叶太清，宿念未灰冷。",
+            "北斗春已足，三山梦初醒。",
+            "曰鳞贵女子，俗目未可骋。",
+            "惯听步虚词，生便浮馆静。",
+            "那知羽衣人，文成伪心猛。",
+            "记语东方儿，偷桃不可幸。",
+            "共待月满除，萧萧散疏影。"
+        ],
+        "translation": "秋日的树木在摇动，秋色日益修整。况且在白琳宫中，焚香静处。为何那美人（指芙蓉），侵犯这清净境地。仙官俨然带着环佩，注目朝向倒影。岂容正法眼，泛爱冶色靓。得非叶太清，宿念未灰冷。北斗春已足，三山梦初醒。曰鳞贵女子，俗目未可骋。惯听步虚词，生便浮馆静。那知羽衣人，文成伪心猛。记语东方儿，偷桃不可幸。共待月满除，萧萧散疏影。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "闲适",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先写秋景和宫中环境，引入芙蓉，再用仙官等比喻，最后以典故作结。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "将芙蓉比作美人、仙官。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用步虚词、偷桃等道教典故。"
+                }
+            ]
+        },
+        "analysis": "此诗观芙蓉盛开，开篇以秋木起兴，营造清幽氛围。继而引入芙蓉，以'美人'、'仙官'等喻其美，但后文转折，质疑其侵犯清净境地，并用典故暗示虚伪。全诗意象繁复，用典较多，但结构稍显松散，情感表达不够集中，意境有隔。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以道教意象构筑仙境，但略显堆砌。",
+                "realm": "能品",
+                "reason": "技法熟练，但立意不够新颖。"
+            }
+        ],
+        "imagery": [
+            "秋木",
+            "白琳宫",
+            "芙蓉",
+            "仙官",
+            "步虚词",
+            "偷桃"
+        ],
+        "allusions": [
+            {
+                "phrase": "步虚词",
+                "explanation": "道教仪式中吟唱的词曲。"
+            },
+            {
+                "phrase": "偷桃",
+                "explanation": "东方朔偷桃的典故，指仙桃。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以秋木起兴，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "句",
+        "author": "僊上人",
+        "paragraphs": [
+            "男兒三十未有立，人世百年徒自勞。"
+        ],
+        "paragraphs_simplified": [
+            "男儿三十未有立，人世百年徒自劳。"
+        ],
+        "translation": "男子三十岁还没有立业，人生百年只是白白地自我劳累。",
+        "score": 2.5,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "议论"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直接议论人生哲理。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "两句对仗工整。"
+                }
+            ]
+        },
+        "analysis": "此诗直言三十未立、百年徒劳的感慨，语言直白，缺乏意象和修辞，情感宣泄直接，但无回甘，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "无具体意象，纯议论。",
+                "realm": "凡品",
+                "reason": "立意浅显，缺乏艺术性。"
+            }
+        ],
+        "imagery": [],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点明主题。"
+        }
+    },
+    {
+        "title": "修修窗前蘆",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "修修窗前蘆，孤瘦倚青玉。",
+            "心虚知夜凉，風葉亂相觸。",
+            "使我入幽夢，如在江湖宿。",
+            "方兹困炎曦，愛爾眼中綠。",
+            "奈何柔脆姿，行犯秋氣肅。",
+            "霏霏霜露中，菱荷等摧覆。",
+            "大抵無勁節，不及歲寒竹。"
+        ],
+        "paragraphs_simplified": [
+            "修修窗前芦，孤瘦倚青玉。",
+            "心虚知夜凉，风叶乱相触。",
+            "使我入幽梦，如在江湖宿。",
+            "方兹困炎曦，爱尔眼中绿。",
+            "奈何柔脆姿，行犯秋气肃。",
+            "霏霏霜露中，菱荷等摧覆。",
+            "大抵无劲节，不及岁寒竹。"
+        ],
+        "translation": "修剪修剪窗前的芦苇，孤独瘦弱地倚靠在青玉旁。心虚知道夜凉，风叶杂乱相触。使我进入幽梦，如同在江湖住宿。正困于炎热的阳光，爱它眼中的绿色。无奈柔弱的姿态，行将触犯秋气的肃杀。霏霏霜露之中，菱荷等都被摧残覆盖。大抵没有劲节，比不上岁寒的竹子。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "对比"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先写芦苇的形态和感受，再转折写其脆弱，最后与竹子对比，点明主题。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "赋予芦苇以心虚、柔脆等人性。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "末句与岁寒竹对比，突出芦苇无劲节。"
+                }
+            ]
+        },
+        "analysis": "此诗咏窗前芦苇，开篇描绘其孤瘦形态和夜凉风叶之声，营造幽静意境。后文转折，写其柔脆难敌秋肃，最终以竹子作比，揭示其缺乏坚韧品质。全诗结构清晰，意象生动，情感从闲适转向遗憾，有审美距离。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以芦苇为象，表达对柔弱的惋惜。",
+                "realm": "能品",
+                "reason": "意境冲淡，但立意常见。"
+            }
+        ],
+        "imagery": [
+            "芦苇",
+            "青玉",
+            "风叶",
+            "霜露",
+            "竹"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 6,
+            "reason": "末句对比点题，有力。"
+        }
+    },
+    {
+        "title": "砌下兩修竹",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "砌下兩修竹，翠色含烟新。",
+            "盡日肯相對，蕭然如可人。",
+            "清風動搖虚，亦不厭我貧。",
+            "時時一相過，吹拂席上塵。",
+            "二物有嘉意，慰我窮悴身。",
+            "常觀有道者，尚與鹿豕群。",
+            "奚必廣團聚，鬨鬨如飛蚊。",
+            "清風與修竹，吾不失所親。"
+        ],
+        "paragraphs_simplified": [
+            "砌下两修竹，翠色含烟新。",
+            "尽日肯相对，萧然如可人。",
+            "清风动摇虚，亦不厌我贫。",
+            "时时一相过，吹拂席上尘。",
+            "二物有嘉意，慰我穷悴身。",
+            "常观有道者，尚与鹿豕群。",
+            "奚必广团聚，哄哄如飞蚊。",
+            "清风与修竹，吾不失所亲。"
+        ],
+        "translation": "台阶下的两株修竹，翠色含烟清新。整日肯相对，萧然如同可人。清风动摇虚空，也不厌弃我贫穷。时时互相过往，吹拂席上的尘土。二物有美好意趣，慰藉我穷困憔悴的身躯。常看有道之人，尚且与鹿猪为群。何必广泛团聚，哄哄如飞蚊。清风与修竹，我不失所亲。",
+        "score": 4.0,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先写竹的形态和与己的亲近，再通过对比表达哲理，最后点明主题。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "竹'不厌我贫'、'如可人'。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "团聚如飞蚊，反衬竹的清雅。"
+                }
+            ]
+        },
+        "analysis": "此诗咏修竹，开篇以翠色含烟描绘其美，继而写竹与己的亲近，不嫌贫寒，时时慰藉。后文以有道者与鹿豕群为比，批评世俗团聚的喧闹，最终以清风修竹为亲，表达超脱世俗的豁达情怀。全诗语言自然，意象清雅，情感闲适，有道家风范。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以竹为友，构筑清雅境界。",
+                "realm": "妙品",
+                "reason": "语言自然，意境超脱。"
+            }
+        ],
+        "imagery": [
+            "修竹",
+            "翠色",
+            "清风",
+            "席尘",
+            "鹿豕"
+        ],
+        "allusions": [
+            {
+                "phrase": "有道者",
+                "explanation": "指有道德的人，可能泛指隐士。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 7,
+            "reason": "末句点明与竹为亲，表达豁达。"
+        }
+    },
+    {
+        "title": "讀坡詩",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "公詩如春風，著物便新好。",
+            "春風常自然，初不費雕巧。",
+            "又如荆山玉，不問多與少。",
+            "傳流落人間，皆作希世寶。",
+            "吾獨恨造物，生我殊不早。",
+            "不得拜堂下，朝夕事洒埽。",
+            "追扳邈難及，清淚出幽抱。"
+        ],
+        "paragraphs_simplified": [
+            "公诗如春风，著物便新好。",
+            "春风常自然，初不费雕巧。",
+            "又如荆山玉，不问多与少。",
+            "传流落人间，皆作希世宝。",
+            "吾独恨造物，生我殊不早。",
+            "不得拜堂下，朝夕事洒埽。",
+            "追扳邈难及，清泪出幽抱。"
+        ],
+        "translation": "您的诗像春风一样，触及万物便焕然一新。春风总是自然而然，从不费力雕琢。又像荆山的美玉，无论多少都珍贵。流传到人间，都当作稀世珍宝。我独自遗憾造物主，让我出生太晚。不能在堂下拜见您，早晚侍奉洒扫。追随攀附遥不可及，清泪从幽深的怀抱中流出。",
+        "score": 3.5,
+        "subject": [
+            "酬唱诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "前四句以春风和荆山玉比喻诗作，赞其自然珍贵；后三句转写个人遗憾，情感递进。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以“春风”喻诗作之清新，以“荆山玉”喻诗作之珍贵。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“希世宝”极言诗作价值，强化敬仰之情。"
+                }
+            ]
+        },
+        "analysis": "此诗以春风和荆山玉为喻，构筑对苏轼诗作的赞美，意象选择传统，情感表达直白。前段铺陈自然流畅，后段抒情略显直露，缺乏含蓄之美。整体技法成熟，但立意未脱前人窠臼，意象陈旧，未能突破常规。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "以自然物象（春风、玉）烘托诗作高雅，但流于表面，未达深境。",
+                "realm": "能",
+                "reason": "试图模仿典雅风格，但比喻缺乏新意，情感表达稍显直白。"
+            }
+        ],
+        "imagery": [
+            "风",
+            "玉",
+            "泪"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句开门见山，以春风喻诗，形象生动。"
+        }
+    },
+    {
+        "title": "書齋夏日",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "五月困暑濕，衆謂如蒸炊。",
+            "惟我坐幽堂，心志適所怡。",
+            "開窗面西山，野水平清池。",
+            "菱荷間蒲葦，秀色相因依。",
+            "幽禽蔭嘉木，水鳥時翻飛。",
+            "文書任討探，風靜香如絲。",
+            "此殆有至樂，難令俗子知。"
+        ],
+        "paragraphs_simplified": [
+            "五月困暑湿，众谓如蒸炊。",
+            "惟我坐幽堂，心志适所怡。",
+            "開窗面西山，野水平清池。",
+            "菱荷间蒲苇，秀色相因依。",
+            "幽禽荫嘉木，水鸟时翻飞。",
+            "文书任讨探，风静香如丝。",
+            "此殆有至乐，难令俗子知。"
+        ],
+        "translation": "五月受暑湿困扰，众人说像蒸煮一样。只有我坐在幽静的堂中，心情愉悦。开窗面对西山，野外水面清澈如池。菱角荷花间杂蒲苇，秀色相互依偎。幽静的鸟儿在嘉树下乘凉，水鸟不时翻飞。文书随意探讨，风静香气如丝。这大概有极致的快乐，难以让俗人知晓。",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "闲适诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应",
+                "对比"
+            ],
+            "structural_logic": "开头写众人对暑湿的抱怨，对比自身在幽堂的怡然；中间描写书斋景物，动静相宜；结尾点出至乐，呼应开头。",
+            "evidence": [
+                {
+                    "tag": "动静结合",
+                    "explanation": "“幽禽荫嘉木”为静，“水鸟时翻飞”为动，动静相衬。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "众人“如蒸炊”与“我坐幽堂”形成鲜明对比。"
+                }
+            ]
+        },
+        "analysis": "此诗描绘书斋夏日之景，以白描手法勾勒清幽环境，动静结合，情景交融。意象如西山、清池、菱荷等，营造出闲适氛围。但语言平实，缺乏惊艳之笔，意境真切却未达高远，整体安于恬淡，无强烈情感波动。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以清幽景物（山、水、禽鸟）烘托心境，但描写略显平淡，缺乏升华。",
+                "realm": "能",
+                "reason": "试图追求冲淡之境，但意象堆砌，未显超逸。"
+            }
+        ],
+        "imagery": [
+            "暑湿",
+            "堂",
+            "山",
+            "水",
+            "荷",
+            "鸟",
+            "文书"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "“開窗面西山，野水平清池”意象清新，动静相宜。"
+        }
+    },
+    {
+        "title": "寄别左與言",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "寒生坐孤窮，浪迹遠羈寓。",
+            "千金買卜龜，所用良失措。",
+            "如聞過瓜期，騫揚引雄翥。",
+            "放直州縣腰，闊作臺省步。",
+            "念欲拜公别，心往足不赴。",
+            "銘肌荷恩知，癡坐乖禮數。",
+            "可但顔甲厚，頗亦背芒負。",
+            "梅雨五月寒，洄洄綠烟樹。",
+            "二嶺遮夢魂，不到船行處。",
+            "安得赴雙槳，翩翩若鷗鷺。"
+        ],
+        "paragraphs_simplified": [
+            "寒生坐孤穷，浪迹远羁寓。",
+            "千金买卜龟，所用良失措。",
+            "如闻过瓜期，骞扬引雄翥。",
+            "放直州县腰，阔作台省步。",
+            "念欲拜公别，心往足不赴。",
+            "铭肌荷恩知，痴坐乖礼数。",
+            "可但颜甲厚，颇亦背芒负。",
+            "梅雨五月寒，洄洄绿烟树。",
+            "二岭遮梦魂，不到船行处。",
+            "安得赴双桨，翩翩若鸥鹭。"
+        ],
+        "translation": "贫寒书生独坐孤穷，漂泊远居他乡。花千金买占卜龟甲，所用实在失策。听说您过了任期，高飞如雄鸟。放下州县的腰身，迈开台省的步伐。想拜别您，心去脚不往。铭记恩情，却痴坐失礼。不仅脸皮厚，也背负芒刺。梅雨五月寒冷，绿烟树朦胧。二岭遮住梦魂，到不了船行处。怎能乘双桨，翩翩如鸥鹭。",
+        "score": 3.2,
+        "subject": [
+            "送别诗",
+            "羁旅诗"
+        ],
+        "emotion": [
+            "羁旅",
+            "遗憾",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先写自身漂泊困境，再写友人升迁与离别之思，最后以景结情，表达向往自由。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“翩翩若鸥鹭”以鸥鹭喻自由，反衬现实羁绊。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“千金买卜龟”极言失策之甚。"
+                }
+            ]
+        },
+        "analysis": "此诗情感真挚，但意象杂乱，如“梅雨”、“二岭”等堆砌，缺乏统一意境。叙事直白，抒情过度，未能保持审美距离。结构松散，从个人境遇到离别再到景物，转折生硬，整体流于平庸。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以寒雨、岭树等意象渲染悲凉，但情感宣泄过度，未达深沉。",
+                "realm": "凡",
+                "reason": "试图模仿悲慨，但意象陈旧，情感直露。"
+            }
+        ],
+        "imagery": [
+            "寒生",
+            "浪迹",
+            "梅雨",
+            "绿烟树",
+            "船",
+            "鸥鹭"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 7,
+            "reason": "“梅雨五月寒，洄洄绿烟树”情景交融，稍有诗意。"
+        }
+    },
+    {
+        "title": "寄贈張叔靖",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "堂堂張侯好眉宇，照人冰玉無塵土。",
+            "憶初解後共杯盤，姓字未通心已許。",
+            "參商别後各天涯，屈指流年不勝數。",
+            "何知策馬忽東來，扣我柴扉叙寒暑。",
+            "相親顔色愈敷腴，不俗胸懷細傾吐。",
+            "使人頻歲饑渴心，如飲甘泉餉腵脯。",
+            "吾生寒苦衆所知，眼髙無人人不與。",
+            "技窮漸覺蒲柳衰，進取一塗方首鼠。",
+            "有心斸治土田園，束手抽身事農圃。",
+            "荷鉏今亦粗成趣，頗有嘉蔬待春雨。",
+            "所恨松根長茯苓，僻寂無人堪共煮。",
+            "安得溪霜素月高，促膝與公長夜語。"
+        ],
+        "paragraphs_simplified": [
+            "堂堂张侯好眉宇，照人冰玉无尘土。",
+            "忆初解后共杯盘，姓字未通心已许。",
+            "参商别后各天涯，屈指流年不胜数。",
+            "何知策马忽东来，扣我柴扉叙寒暑。",
+            "相亲颜色愈敷腴，不俗胸怀细倾吐。",
+            "使人频岁饥渴心，如饮甘泉饷腵脯。",
+            "吾生寒苦众所知，眼高无人人不与。",
+            "技穷渐觉蒲柳衰，进取一途方首鼠。",
+            "有心斸治土田园，束手抽身事农圃。",
+            "荷锄今亦粗成趣，颇有嘉蔬待春雨。",
+            "所恨松根长茯苓，僻寂无人堪共煮。",
+            "安得溪霜素月高，促膝与公长夜语。"
+        ],
+        "translation": "堂堂的张侯眉宇轩昂，容貌照人如同冰玉一般没有尘土。回忆当初相遇后共饮杯盘，姓名未通心意已相许。分别后如参商各在天涯，屈指计算岁月不胜其多。谁知他策马忽然东来，敲我柴门叙说寒暑别情。相见时脸色愈发丰润，不俗的胸怀细细倾吐。使人多年饥渴的心，如同饮甘泉食肉干般满足。我生平寒苦众所周知，眼界高无人能及。技艺穷尽渐觉如蒲柳衰败，进取之路正犹豫不决。有心整治土田园林，束手抽身从事农耕。荷锄如今也粗成趣味，颇有好菜等待春雨。遗憾松根长出茯苓，僻静无人可共享。怎能得到溪霜素月高照，促膝与您长夜长谈。",
+        "score": 3.5,
+        "subject": [
+            "酬唱诗",
+            "赠友诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "闲适",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "诗从赞美友人风姿起笔，回忆初遇与别离，叙述重逢之喜，自述寒苦与归隐之志，最后以月下长语的愿望收尾，情感层层递进。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "如'如飲甘泉'以甘泉喻重逢之悦，'冰玉'喻友人高洁"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "如'參商别後各天涯，屈指流年不勝數'对仗工整，强化时空感"
+                }
+            ]
+        },
+        "analysis": "此诗以寄赠为题，直抒胸臆，起笔以冰玉之喻勾勒张侯高洁形象。忆昔初遇，心许未通，参商别离，流年暗数，重逢之喜如饮甘泉。诗人自述寒苦技穷，寄情田园，荷锄待雨，然僻寂无人，唯愿素月长夜语。全诗结构清晰，情感真挚，由外而内，由喜而思。然意象如'冰玉'、'甘泉'稍显陈旧，归隐之志亦属常见，虽有真情，但未脱俗套，艺术创新不足，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "意象如冰玉、田园、素月等，试图营造高古意境，但略显陈旧。",
+                "realm": "能品",
+                "reason": "情感真挚，结构工整，但意象和主题缺乏新意，未达高古之妙境。"
+            }
+        ],
+        "imagery": [
+            "玉",
+            "泉",
+            "田",
+            "锄",
+            "雨",
+            "月"
+        ],
+        "allusions": [
+            {
+                "phrase": "參商",
+                "explanation": "参星与商星，比喻亲友分离，此出彼没。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 11,
+            "reason": "末句'安得溪霜素月高，促膝與公長夜語'以景结情，意境悠远，寄托深切愿望。"
+        }
+    },
+    {
+        "title": "謝潘令衛惠松木",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "子美欲得廣厦千萬間，大庇天下寒士俱歡顔。",
+            "嗟我一室久疏陋，風飄雨剝堵不環。",
+            "欲具茅茨小編葺，斤斧四顧家無山。",
+            "誰謂潘郎坐華屋，肯爲湫隘興永嘆。",
+            "惠以南山好松柏，翦伐既就皆丸丸。",
+            "我今樸斵遂有日，居處可望庵冗寬。",
+            "方知廣厦庇寒士，子美之論非髙談。",
+            "古人骨朽髙義盡，習爲鄙吝風俗慳。",
+            "皆使如公眼青白，古人風義當復還。",
+            "吾聞淵明謝主人，冥報止謂因盤餐。",
+            "公今飯我德何啻，淵明詩來猶可攀。"
+        ],
+        "paragraphs_simplified": [
+            "子美欲得广厦千万间，大庇天下寒士俱欢颜。",
+            "嗟我一室久疏陋，风雨飘剥堵不环。",
+            "欲具茅茨小编葺，斤斧四顾家无山。",
+            "谁谓潘郎坐华屋，肯为湫隘兴永叹。",
+            "惠以南山好松柏，翦伐既就皆丸丸。",
+            "我今朴斵遂有日，居处可望庵冗宽。",
+            "方知广厦庇寒士，子美之论非高谈。",
+            "古人骨朽高义尽，习为鄙吝风俗悭。",
+            "皆使如公眼青白，古人风义当复还。",
+            "吾闻渊明谢主人，冥报止谓因盘餐。",
+            "公今饭我德何啻，渊明诗来犹可攀。"
+        ],
+        "translation": "杜甫想得广厦千万间，庇护天下寒士俱欢颜。叹我一室长久简陋，风雨飘摇墙壁不全。想用茅草小修，斧头四顾家无山。谁说潘郎坐华屋，肯为低湿之地长叹。惠赠南山好松柏，砍伐后都成圆木。我今砍削终有日，居处可望庵屋宽敞。方知广厦庇寒士，杜甫之论非高谈。古人骨朽高义尽，习成鄙吝风俗悭。都使如公眼青白，古人风义当复还。我闻渊明谢主人，冥报只说因盘餐。公今饭我德何止，渊明诗来犹可攀。",
+        "score": 4.5,
+        "subject": [
+            "酬唱诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "感激",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "开头引用杜甫诗，引出自身困境；中间写潘令赠松木之恩，对比古今；结尾以渊明典故升华，表达感激。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用杜甫“广厦”诗和陶渊明谢主人典，增强厚重感。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "“古人骨朽”与“公今饭我”对比，凸显潘令高义。"
+                }
+            ]
+        },
+        "analysis": "此诗以杜甫广厦诗起兴，自然引入受惠之事，用典恰当，情感真挚。结构严谨，从困境到感恩再到古今对比，层层深入。意象如松柏、南山等，归一化为木、山，烘托高洁情谊。整体立意高远，技法娴熟，但后段议论稍显冗长。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "以广厦、松柏等意象构筑典雅氛围，用典自然，情感深沉。",
+                "realm": "妙",
+                "reason": "成功融合典故与现实，彰显古人风义。"
+            }
+        ],
+        "imagery": [
+            "广厦",
+            "寒士",
+            "松木",
+            "南山",
+            "盘餐"
+        ],
+        "allusions": [
+            {
+                "phrase": "子美",
+                "explanation": "指杜甫，其诗有“广厦千万间”句。"
+            },
+            {
+                "phrase": "渊明",
+                "explanation": "指陶渊明，曾作诗谢主人。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“子美欲得廣厦千萬間，大庇天下寒士俱歡顔”用典点题，立意高远。"
+        }
+    },
+    {
+        "title": "罪回祿",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "回祿爲火神，威權尤貴重。",
+            "年來何失職，權爲盜所弄。",
+            "此盜假爾威，蜂蟻聚徒衆。",
+            "煌煌萬炬光，灼燎隨所縱。",
+            "烟氛障白日，烘炙盛騷動。",
+            "老幼哭無家，禍虐人所共。",
+            "使人不見此，聰明欲何用。",
+            "神而審其然，可得亡制控。",
+            "忍使盜意滿，生民負焦痛。",
+            "爾過不可文，反躬當自訟。"
+        ],
+        "paragraphs_simplified": [
+            "回禄为火神，威权尤贵重。",
+            "年来何失职，权为盗所弄。",
+            "此盗假尔威，蜂蚁聚徒众。",
+            "煌煌万炬光，灼燎随所纵。",
+            "烟氛障白日，烘炙盛骚动。",
+            "老幼哭无家，祸虐人所共。",
+            "使人不见此，聪明欲何用。",
+            "神而审其然，可得亡制控。",
+            "忍使盗意满，生民负焦痛。",
+            "尔过不可文，反躬当自訟。"
+        ],
+        "translation": "回禄作为火神，威权极其贵重。近年来为何失职，权力被盗贼玩弄。此盗借你威势，如蜂蚁聚集徒众。煌煌万道炬光，灼烧放纵随意。烟雾遮蔽白日，烘烤炙热引发骚动。老幼哭号无家可归，祸害虐待众人皆见。若使人看不见此景，聪明又有何用。神明若审察实情，可得亡制控吗？忍使盗贼意满，百姓背负焦灼痛苦。你之过失不可掩饰，反身应当自我责备。",
+        "score": 3.5,
+        "subject": [
+            "讽喻诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "反问",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "以责问火神回禄开篇，描述火灾惨状，继而质问神明失职，最后勒令其自省，形成层层递进的批判脉络。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "将回禄拟人化为失职者，赋予神明以人性弱点。"
+                },
+                {
+                    "tag": "反问",
+                    "explanation": "“聪明欲何用”以反问强化对神明不作为的谴责。"
+                }
+            ]
+        },
+        "analysis": "此诗以神话为外衣，实则讽喻现实。开篇“权为盗所弄”直指核心，语言犀利；中段“煌煌万炬光”以夸张笔法渲染火灾之烈，意象惨烈而具冲击力。情感表达直接而激烈，如“老幼哭无家”句，白描中透出悲愤。然议论偏多，意象稍显单一，缺乏含蓄之美。末句“反躬当自讼”虽有力，但整体构思未脱说教框架，艺术张力有限。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以“哭无家”“焦痛”等意象传达民生疾苦，契合悲慨之境。",
+                "realm": "凡品",
+                "reason": "情感充沛但流于表面，意象堆砌而少精炼。"
+            }
+        ],
+        "imagery": [
+            "火神",
+            "盗贼",
+            "炬光",
+            "烟氛",
+            "老幼",
+            "生民"
+        ],
+        "allusions": [
+            {
+                "phrase": "回禄",
+                "解释": "典出《左传》，指火神，常借代火灾。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 5,
+            "reason": "“老幼哭无家，祸虐人所共”以简练语勾勒灾民惨状，情感真实。"
+        }
+    },
+    {
+        "title": "辨畢方",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "比屋皆良民，爲盜豈無以。",
+            "富足義所生，貧窮盜之始。",
+            "凍餓家無儲，追呼官不已。",
+            "妖幻隨鼓之，安得不群起。",
+            "縱火資盜威，勢固自應爾。",
+            "可笑說者愚，輙欲效柳子。",
+            "赤文而白章，召禍豈其理。",
+            "東南瓦礫墟，所向輒千里。",
+            "如何好事者，逐此不逐彼。"
+        ],
+        "paragraphs_simplified": [
+            "比屋皆良民，为盗岂无以。",
+            "富足义所生，贫穷盗之始。",
+            "冻饿家无储，追呼官不已。",
+            "妖幻随鼓之，安得不群起。",
+            "纵火资盗威，势固自应尔。",
+            "可笑说者愚，辄欲效柳子。",
+            "赤文而白章，召祸岂其理。",
+            "东南瓦砾墟，所向辄千里。",
+            "如何好事者，逐此不逐彼。"
+        ],
+        "translation": "家家户户都是良民，为何为盗岂无原因。富足由义产生，贫穷是盗贼的开始。冻饿家中无储粮，官府追呼不停。妖异幻术随鼓动而起，怎能不群起造反。纵火助长盗贼威势，形势本应如此。可笑议论者愚昧，动辄欲效仿柳子。赤文白章的怪异，召祸岂有道理。东南瓦砾废墟，所向辄达千里。为何好事之徒，追逐此而不追逐彼。",
+        "score": 3.2,
+        "subject": [
+            "讽喻诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "反问",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "对比"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以设问开篇，分析盗贼成因，继而批判愚昧议论，最后以现实惨状收尾，形成因果论证的脉络。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "“为盗岂无以”以设问引出贫困根源的探讨。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "“富足义所生，贫穷盗之始”对比义与盗的关联。"
+                }
+            ]
+        },
+        "analysis": "此诗直指社会矛盾，以逻辑推演见长。开篇设问犀利，中段“冻饿家无储”等句以白描揭示民生困苦，具现实感。然意象偏重抽象议论，如“妖幻随鼓之”稍显晦涩，缺乏生动画面。情感表达压抑而少起伏，整体结构平铺直叙，未见波澜。末句“逐此不逐彼”虽含讽刺，但收束仓促，艺术感染力不足。",
+        "poetry_styles": [
+            {
+                "style": "实境",
+                "imagery分析": "以“冻饿”“追呼”等现实场景入诗，试图呈现真实境况。",
+                "realm": "凡品",
+                "reason": "立意虽切中时弊，但语言枯燥，意象缺乏提炼。"
+            }
+        ],
+        "imagery": [
+            "良民",
+            "盗贼",
+            "冻饿",
+            "妖幻",
+            "瓦砾",
+            "东南"
+        ],
+        "allusions": [
+            {
+                "phrase": "柳子",
+                "解释": "可能指柳宗元，但未明示典故，暂存疑。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“富足义所生，贫穷盗之始”以简练语点明社会矛盾，逻辑清晰。"
+        }
+    },
+    {
+        "title": "前山尋蘭",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "眼債未全無，惜春心尚有。",
+            "喜聞幽蘭臭，尋過東山口。",
+            "披叢見孤芳，正似得佳友。",
+            "小鍤破蒼蘚，護致歸座右。",
+            "秀色逼塵埃，清芳動窗牖。",
+            "愛媚固無厭，嗟惜亦云久。",
+            "今爲花木者，貴重無與偶。",
+            "第能吐青紅，貢獻率奔走。",
+            "官舟塞古汴，往往載蒲柳。",
+            "爾何守幽林，國香空自負。",
+            "所幸無改芳，可使名不朽。"
+        ],
+        "paragraphs_simplified": [
+            "眼债未全无，惜春心尚有。",
+            "喜闻幽兰臭，寻过东山口。",
+            "披丛见孤芳，正似得佳友。",
+            "小锸破苍藓，护致归座右。",
+            "秀色逼尘埃，清芳动窗牖。",
+            "爱媚固无厌，嗟惜亦云久。",
+            "今为花木者，贵重无与偶。",
+            "第能吐青红，贡献率奔走。",
+            "官舟塞古汴，往往载蒲柳。",
+            "尔何守幽林，国香空自負。",
+            "所幸无改芳，可使名不朽。"
+        ],
+        "translation": "眼债未全消，惜春心尚存。喜闻幽兰香气，寻访过东山口。拨开丛草见孤芳，正似得佳友。小锸破开苍苔，护持归至座右。秀色逼退尘埃，清香扰动窗牖。爱媚本无厌足，嗟叹惋惜亦已久。现今花木之中，贵重无与伦比。只知吐露青红，贡献争相奔走。官舟塞满古汴河，往往载运蒲柳。你为何守幽林，国香空自負。所幸未改芬芳，可使名声不朽。",
+        "score": 4.0,
+        "subject": [
+            "咏物诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美",
+            "惜别"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人",
+                "对比"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "以寻兰起笔，描写得兰之喜与护兰之诚，继而对比世俗花木之媚，最后赞幽兰不改其芳，形成由事及物及理的脉络。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“正似得佳友”以友喻兰，赋予物以人情。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "“第能吐青红”与“国香空自負”对比，凸显幽兰高洁。"
+                }
+            ]
+        },
+        "analysis": "此诗以寻兰为线，构筑起幽兰的高洁形象。开篇“披丛见孤芳”以动作细节带出惊喜，情感真挚；中段“秀色逼尘埃”以通感手法写兰之清雅，意象脱俗。对比世俗花木的媚俗，深化主题。末句“可使名不朽”点出兰之精神价值，余韵悠长。全诗情景交融，无生硬之弊，尤其“清芳动窗牖”一句，以动态写静物，颇具匠心。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery分析": "以“幽兰”“孤芳”等意象构筑超俗之境，符合清奇派崇尚的澄澈。",
+                "realm": "妙品",
+                "reason": "意象精炼，情感含蓄，托物言志自然。"
+            }
+        ],
+        "imagery": [
+            "幽兰",
+            "东山",
+            "苍藓",
+            "尘埃",
+            "窗牖",
+            "蒲柳"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 6,
+            "reason": "“秀色逼尘埃，清芳动窗牖”以精妙对仗写兰之清雅，动静结合。"
+        }
+    }
+]

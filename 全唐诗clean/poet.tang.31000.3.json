@@ -1,0 +1,545 @@
+[
+    {
+        "title": "火爐前坐",
+        "author": "李羣玉",
+        "paragraphs": [
+            "孤燈照不寐，風雨滿西林。",
+            "多少關心事，書灰到夜深。"
+        ],
+        "paragraphs_simplified": [
+            "孤灯照不寐，风雨满西林。",
+            "多少关心事，书灰到夜深。"
+        ],
+        "translation": "孤灯照着无法入睡的人，风雨充满了西边的树林。多少关心的事情，在炉灰上写字直到深夜。",
+        "score": 2.5,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先写环境不寐，再写心事深沉，以景起情收。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过风雨孤灯的景象抒发孤独心境"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "书灰到夜深的细节刻画深夜无眠"
+                }
+            ]
+        },
+        "analysis": "此诗以孤灯风雨构筑寂寥之境，书灰细节直指深夜无眠之苦。意象陈旧，无新意，情感流于表面，缺乏深度回甘。整体平庸，属凡品。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图模仿悲慨，但情感直露，无含蓄之美。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，实则平淡无奇。"
+            }
+        ],
+        "imagery": [
+            "灯",
+            "风雨",
+            "林",
+            "灰"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句意境更佳，点明不寐之境。"
+        }
+    },
+    {
+        "title": "古詞",
+        "author": "李羣玉",
+        "paragraphs": [
+            "一合相思淚，臨江灑素秋。",
+            "碧波如會意，却與向西流。"
+        ],
+        "paragraphs_simplified": [
+            "一合相思泪，临江洒素秋。",
+            "碧波如会意，却与向西流。"
+        ],
+        "translation": "一捧相思的眼泪，面对着江水洒在素秋时节。碧绿的波水好像懂得心意，却与泪水一同向西流去。",
+        "score": 3.8,
+        "subject": [
+            "思乡诗",
+            "爱情诗"
+        ],
+        "emotion": [
+            "相思",
+            "悲伤"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先写泪洒秋江，再写波水会意西流，以情起景收。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "碧波如会意赋予水以人的情感"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过江水西流寄托相思之情"
+                }
+            ]
+        },
+        "analysis": "此诗以相思泪与碧波会意构筑意境，拟人手法增添生动，但意象素秋碧波略显陈旧。情感真挚，但缺乏独特视角，技法成熟而未达高妙。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "接近含蓄，因借景抒情，但未达高妙。",
+                "realm": "能",
+                "reason": "技法熟练，但意境未出新。"
+            }
+        ],
+        "imagery": [
+            "泪",
+            "江",
+            "秋",
+            "水"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "碧波会意更富诗意，体现拟人之妙。"
+        }
+    },
+    {
+        "title": "嘲賣藥翁",
+        "author": "李羣玉",
+        "paragraphs": [
+            "斸盡春山土，辛勤賣藥翁。",
+            "莫拋破笠子，留作敗天公。"
+        ],
+        "paragraphs_simplified": [
+            "斸尽春山土，辛勤卖药翁。",
+            "莫抛破笠子，留作败天公。"
+        ],
+        "translation": "挖尽了春山的泥土，辛勤卖药的老翁。不要扔掉破斗笠，留着用来补破天公。",
+        "score": 2.2,
+        "subject": [
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "双关"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先写卖药翁的辛苦，再写嘲讽建议，以事起议收。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "斸尽春山土夸大劳动强度"
+                },
+                {
+                    "tag": "双关",
+                    "explanation": "败天公一语双关，既指破天又指天公"
+                }
+            ]
+        },
+        "analysis": "此诗以夸张叙事起，双关嘲讽收，立意新颖，但语言粗俗，缺乏诗意。嘲讽过直，失之含蓄，整体俚俗无雅致。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图模仿自然，但实则粗鄙，因用语直白无雅致。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，立意浅显。"
+            }
+        ],
+        "imagery": [
+            "土",
+            "人",
+            "斗笠",
+            "天"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "留作败天公有双关巧思。"
+        }
+    },
+    {
+        "title": "傷小女癡兒",
+        "author": "李羣玉",
+        "paragraphs": [
+            "哭爾春日短，支頤長歎嗟。",
+            "不如半死樹，猶吐一枝花。"
+        ],
+        "paragraphs_simplified": [
+            "哭尔春日短，支颐长叹嗟。",
+            "不如半死树，犹吐一枝花。"
+        ],
+        "translation": "哭你春日短暂，支着下巴长叹息。不如半死的树，还能吐出一枝花。",
+        "score": 2.8,
+        "subject": [
+            "悼亡诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对比"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先写伤女之悲，再以树花对比强化，以情起比收。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "人不如半死树，突出生命无常"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借树吐花寄托哀思"
+                }
+            ]
+        },
+        "analysis": "此诗以哭女起，树花对比收，情感真挚，但意象突兀，半死树喻人欠妥。立意虽悲，但表达生硬，缺乏审美距离。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图模仿悲慨，但实则直露，因对比过于直白。",
+                "realm": "劣",
+                "reason": "情感宣泄过度，无含蓄回甘。"
+            }
+        ],
+        "imagery": [
+            "日",
+            "树",
+            "花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "对比句有冲击力，凸显生命无常。"
+        }
+    },
+    {
+        "title": "青鷁",
+        "author": "李羣玉",
+        "paragraphs": [
+            "獨立蒹葭雨，低飛浦嶼風。",
+            "須知毛色下，莫入鷺鷥叢。"
+        ],
+        "paragraphs_simplified": [
+            "独立蒹葭雨，低飞浦屿风。",
+            "须知毛色下，莫入鹭鸶丛。"
+        ],
+        "translation": "独自站在蒹葭雨中，在浦屿风中低飞。要知道毛色之下，不要进入鹭鸶的群中。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先写青鷁的环境与行为，再写告诫，以景起理收。",
+            "evidence": [
+                {
+                    "tag": "借物喻人",
+                    "explanation": "以青鷁喻人，告诫自知之明"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "独立静态与低飞动态对比"
+                }
+            ]
+        },
+        "analysis": "此诗以青鷁独立风雨起，告诫莫入同类收，意象清新，但说理直白，缺乏含蓄之美。托物喻人，但立意浅显，技法平实。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "接近自然，因语言平实，但未达高古。",
+                "realm": "能",
+                "reason": "技法熟练，但立意未出新。"
+            }
+        ],
+        "imagery": [
+            "鸟",
+            "草",
+            "雨",
+            "风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "独立蒹葭雨意境佳，动静结合生动。"
+        }
+    },
+    {
+        "title": "池塘晚景",
+        "author": "李羣玉",
+        "paragraphs": [
+            "風荷珠露傾，驚起睡鵁鶄。",
+            "月落池塘靜，金刀剪一聲。"
+        ],
+        "paragraphs_simplified": [
+            "风荷珠露倾，惊起睡鵁鶄。",
+            "月落池塘静，金刀剪一声。"
+        ],
+        "translation": "风吹荷叶，露珠倾泻，惊醒了沉睡的水鸟。月亮落下，池塘一片寂静，突然传来一声如同金刀剪断的声音。",
+        "score": 3.0,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先动后静，以声衬静，通过动态的惊鸟和静态的月落池塘形成对比，最后以突兀的声音打破寂静。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "用'金刀剪'比喻突然的声响，形象生动。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "'驚起'表示动态，'池塘靜'表示静态，两者结合增强画面感。"
+                }
+            ]
+        },
+        "analysis": "此诗描绘池塘晚景，风荷露珠与惊鸟构成动态画面，月落池塘则归于静谧。'金刀剪一聲'的比喻虽具创意，但与前文意象衔接略显生硬，整体意境清幽却缺乏深层情感渗透。作为写景小品，技法熟练但未达高妙之境。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "意象如风、荷、露、月、池塘等自然元素组合，但'金刀'的引入稍显突兀。",
+                "realm": "能品",
+                "reason": "试图以自然意象营造意境，但比喻的运用破坏了整体的和谐，未能完全实现'自然'的流畅。"
+            }
+        ],
+        "imagery": [
+            "风",
+            "荷",
+            "露",
+            "鸟",
+            "月",
+            "池塘",
+            "声"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句以声音打破寂静，意象独特，更具表现力。"
+        }
+    },
+    {
+        "title": "投從叔",
+        "author": "李羣玉",
+        "paragraphs": [
+            "可惜出羣蹄，毛焦久臥泥。",
+            "孫陽如不顧，騏驥向誰嘶。"
+        ],
+        "paragraphs_simplified": [
+            "可惜出群蹄，毛焦久卧泥。",
+            "孙阳如不顾，骐骥向谁嘶。"
+        ],
+        "translation": "可惜这匹出众的马，毛发焦黑长久卧在泥中。如果孙阳不看顾，这骏马向谁嘶鸣呢？",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句描述马的困境，后两句通过设问引出对识才者的呼唤，点明主题。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以马喻人，暗指自身怀才不遇。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "通过反问强调无人赏识的困境。"
+                }
+            ]
+        },
+        "analysis": "此诗以马喻人，直抒胸臆。'毛焦久臥泥'形象刻画了才士被埋没的惨状，'孫陽'典故的运用增强了历史厚重感。然而，全诗立意浅显，情感表达过于直白，缺乏含蓄之美。作为干谒诗，意图明显但艺术性不足。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以马为核心意象，辅以泥、孙阳等，构建怀才不遇的悲愤场景。",
+                "realm": "能品",
+                "reason": "情感真挚但流于表面，未能通过意象深化悲慨之境。"
+            }
+        ],
+        "imagery": [
+            "马",
+            "泥",
+            "孙阳"
+        ],
+        "allusions": [
+            {
+                "phrase": "孫陽",
+                "explanation": "指古代善相马者伯乐，喻指能识才的贤人。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以设问作结，点明全诗主旨，情感强烈。"
+        }
+    }
+]

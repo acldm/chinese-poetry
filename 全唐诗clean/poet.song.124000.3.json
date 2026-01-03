@@ -1,0 +1,690 @@
+[
+    {
+        "title": "春日書事五首  其四",
+        "author": "韓元吉",
+        "paragraphs": [
+            "憶上金華第一峰，相君官重酒樽同。",
+            "夢尋絕壑誰重到，零落山桃小院風。"
+        ],
+        "paragraphs_simplified": [
+            "忆上金华第一峰，相君官重酒樽同。",
+            "梦寻绝壑谁重到，零落山桃小院风。"
+        ],
+        "translation": "回忆登上金华第一峰，丞相官职重，酒樽相同。梦寻绝壑谁重到，零落山桃小院风。",
+        "score": 3.8,
+        "subject": [
+            "忆旧诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "怀旧",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句回忆登高饮酒之乐，后两句转入梦境追寻与现实凋零的对比，以景结情。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "相君官重酒樽同与零落山桃小院风形成今昔盛衰对比"
+                }
+            ]
+        },
+        "analysis": "此诗以回忆开篇，构筑往昔登高之乐，后转入梦境追寻，以零落山桃与小院风收束，虚实相生。意象虽不新奇，但结构紧凑，流露淡淡孤寂，情景契合度尚可，然意境未脱窠臼。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "山峰、酒樽、山桃、风",
+                "realm": "能",
+                "reason": "试图以景结情，但意象陈旧，未能超脱凡俗"
+            }
+        ],
+        "imagery": [
+            "山峰",
+            "酒",
+            "山桃",
+            "风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "零落山桃小院风以景结情，余味悠长"
+        }
+    },
+    {
+        "title": "春日書事五首  其五",
+        "author": "韓元吉",
+        "paragraphs": [
+            "溪邊亂石蛟鼉卧，煙裏千花錦繡圍。",
+            "記得年時作寒食，山橋吹笛雨中歸。"
+        ],
+        "paragraphs_simplified": [
+            "溪边乱石蛟鼍卧，烟里千花锦绣围。",
+            "记得年时作寒食，山桥吹笛雨中归。"
+        ],
+        "translation": "溪边乱石如蛟鼍卧，烟里千花锦绣围。记得去年寒食时，山桥吹笛雨中归。",
+        "score": 4.0,
+        "subject": [
+            "节令诗",
+            "忆旧诗"
+        ],
+        "emotion": [
+            "闲适",
+            "怀旧"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句写景，以比喻勾勒溪边花石；后两句转入寒食回忆，由景入情。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "乱石蛟鼍卧以蛟鼍喻溪石之奇崛"
+                }
+            ]
+        },
+        "analysis": "此诗前两句以比喻勾勒溪边景色，生动如画；后两句转入寒食回忆，吹笛雨中归，意境悠然。情景交融，无生硬之弊，意象鲜活，结构自然。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "溪、石、花、山桥、笛、雨",
+                "realm": "妙",
+                "reason": "写景自然，回忆真切，无雕琢痕"
+            }
+        ],
+        "imagery": [
+            "溪",
+            "石",
+            "花",
+            "山桥",
+            "笛",
+            "雨"
+        ],
+        "allusions": [
+            {
+                "phrase": "寒食",
+                "explanation": "清明前一日，传统节日"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "记得年时作寒食，山桥吹笛雨中归，画面感强，情感真挚"
+        }
+    },
+    {
+        "title": "晨興",
+        "author": "韓元吉",
+        "paragraphs": [
+            "北窗松竹夜蕭騷，詩就呼兒進濁醪。",
+            "睡美不知新雨足，曉來南澗水聲高。"
+        ],
+        "paragraphs_simplified": [
+            "北窗松竹夜萧骚，诗就呼儿进浊醪。",
+            "睡美不知新雨足，晓来南涧水声高。"
+        ],
+        "translation": "北窗松竹夜萧骚，诗成呼儿进浊酒。睡美不知新雨足，晓来南涧水声高。",
+        "score": 4.2,
+        "subject": [
+            "闲适诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "白描"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句写夜景，次句写诗酒，后两句写睡醒后闻水声，由静入动，层次分明。",
+            "evidence": [
+                {
+                    "tag": "动静结合",
+                    "explanation": "夜萧骚（静）与水声高（动）形成对比"
+                }
+            ]
+        },
+        "analysis": "此诗以白描手法勾勒晨起情景，松竹夜色与诗酒之乐，后以新雨足、水声高点醒，动静相宜。语言质朴，意境闲适，情景契合度高，无堆砌之弊。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "松竹、夜、酒、雨、涧、水声",
+                "realm": "妙",
+                "reason": "白描自然，不加雕饰，直指闲适之趣"
+            }
+        ],
+        "imagery": [
+            "松竹",
+            "酒",
+            "雨",
+            "涧",
+            "水声"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "睡美不知新雨足，晓来南涧水声高，以动衬静，妙趣横生"
+        }
+    },
+    {
+        "title": "聽雨",
+        "author": "韓元吉",
+        "paragraphs": [
+            "吚軋籃輿不計肩，五更殘夢尚悠然。",
+            "紅油蓋重聽朝雨，却似西江坐釣船。"
+        ],
+        "paragraphs_simplified": [
+            "咿轧篮舆不计肩，五更残梦尚悠然。",
+            "红油盖重听朝雨，却似西江坐钓船。"
+        ],
+        "translation": "咿轧篮舆不计肩，五更残梦尚悠然。红油盖重听朝雨，却似西江坐钓船。",
+        "score": 3.7,
+        "subject": [
+            "闲适诗"
+        ],
+        "emotion": [
+            "悠然"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写旅途残梦，后两句写听雨似坐钓船，以比喻点题，由实入虚。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "听朝雨似西江坐钓船，以钓船喻听雨之境"
+                }
+            ]
+        },
+        "analysis": "此诗写旅途听雨，以篮舆、残梦起兴，后以钓船比喻，虽有巧思，但意象普通，未能脱俗。情景契合度一般，意境浅显，缺乏深层回甘。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "篮舆、梦、雨、钓船",
+                "realm": "能",
+                "reason": "试图冲淡，但比喻略显生硬，未达高古之境"
+            }
+        ],
+        "imagery": [
+            "篮舆",
+            "梦",
+            "雨",
+            "钓船"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "却似西江坐钓船，比喻生动，但整体平庸"
+        }
+    },
+    {
+        "title": "題張幾仲所藏醉道士圖",
+        "author": "韓元吉",
+        "paragraphs": [
+            "何須坐客總能文，呼酒相逢日暮雲。",
+            "醉倒儘如狂道士，夜歸誰問故將軍。"
+        ],
+        "paragraphs_simplified": [
+            "何须坐客总能文，呼酒相逢日暮云。",
+            "醉倒尽如狂道士，夜归谁问故将军。"
+        ],
+        "translation": "何须坐客总能文，呼酒相逢日暮云。醉倒尽如狂道士，夜归谁问故将军。",
+        "score": 3.0,
+        "subject": [
+            "题画诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "自嘲"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句质疑坐客文才，次句写呼酒，后两句以狂道士与故将军对比，直指世态炎凉。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "狂道士与故将军对比，暗示今昔荣辱不同"
+                }
+            ]
+        },
+        "analysis": "此诗以议论开篇，直指坐客无文，后以醉倒狂道士与夜归故将军对比，讽喻尖锐。但意象贫乏，近乎说教，情景脱节，缺乏审美距离。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "坐客、酒、日暮云、狂道士、故将军",
+                "realm": "劣",
+                "reason": "试图豪放，但流于粗鄙，画虎不成反类犬"
+            }
+        ],
+        "imagery": [
+            "坐客",
+            "酒",
+            "云",
+            "道士",
+            "将军"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "醉倒尽如狂道士，夜归谁问故将军，对比强烈，但整体立意浅显"
+        }
+    },
+    {
+        "title": "浙江觀潮",
+        "author": "韓元吉",
+        "paragraphs": [
+            "江翻海涌勢難平，鼇擲鵬鶱自不停。",
+            "端爲君王洗兵馬，參旗井鉞萬雷霆。"
+        ],
+        "paragraphs_simplified": [
+            "江翻海涌势难平，鳌掷鹏鶱自不停。",
+            "端为君王洗兵马，参旗井钺万雷霆。"
+        ],
+        "translation": "江水翻腾海浪汹涌势头难以平息，巨鳌抛掷大鹏飞翔自然不停。端的是为君王洗刷兵马，参旗井钺星宿如万道雷霆。",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "边塞诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先以动态意象铺陈潮水之势，后转入军事象征，点明主旨。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“鼇擲鵬鶱”以神话生物喻潮水奔腾之态。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“萬雷霆”极言声势浩大，强化听觉冲击。"
+                }
+            ]
+        },
+        "analysis": "此诗构筑潮水翻涌之壮景，前两句以江海对举，渲染出难以遏制的动势，意象宏大而真切。后两句突转君王洗兵马之喻，虽试图升华，但略显生硬，情景契合度稍欠。整体意境雄浑，然情感直露，缺乏含蓄回甘，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "以江海潮汐为基，辅以神话意象，构筑磅礴空间。",
+                "realm": "能",
+                "reason": "气势充沛但转折突兀，未能浑然一体。"
+            }
+        ],
+        "imagery": [
+            "江",
+            "海",
+            "潮",
+            "雷霆"
+        ],
+        "allusions": [
+            {
+                "phrase": "參旗井鉞",
+                "explanation": "星宿名，借指军事阵仗。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句动态意象鲜活，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "太湖秋晚",
+        "author": "韓元吉",
+        "paragraphs": [
+            "片帆幾日下西風，湖色秋容暮靄中。",
+            "買得鱸魚弔張翰，卧聽欵乃度垂虹。"
+        ],
+        "paragraphs_simplified": [
+            "片帆几日下西风，湖色秋容暮霭中。",
+            "买得鲈鱼吊张翰，卧听欸乃度垂虹。"
+        ],
+        "translation": "孤帆数日乘西风而下，湖光秋色笼罩于暮霭之中。买来鲈鱼凭吊张翰，卧听橹声度过垂虹桥。",
+        "score": 4.2,
+        "subject": [
+            "山水诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "闲适",
+            "思乡"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前联写景，后联用典抒情，由实入虚，情景交融。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“弔張翰”暗引张翰思乡典故，寄托归隐之志。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "“卧聽欵乃”以听觉虚写，呼应前联视觉实景。"
+                }
+            ]
+        },
+        "analysis": "此诗以太湖秋暮为背景，片帆、湖色勾勒出空灵画卷，意境清逸不隔。后联巧用张翰典故，将思乡之情寓于渔隐之乐，情感含蓄而隽永。情景契合度高，整体流露疏野之趣，属妙品佳作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "秋湖暮霭与鲈鱼垂虹，构筑出幽远澄澈之境。",
+                "realm": "妙",
+                "reason": "意象清新，典故运用自然，无斧凿痕。"
+            }
+        ],
+        "imagery": [
+            "帆",
+            "湖",
+            "秋",
+            "暮霭",
+            "鲈鱼",
+            "桥"
+        ],
+        "allusions": [
+            {
+                "phrase": "弔張翰",
+                "explanation": "西晋张翰见秋风起思吴中莼鲈，辞官归乡。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“湖色秋容暮霭中”融情于景，画面感极强。"
+        }
+    },
+    {
+        "title": "海門斜照",
+        "author": "韓元吉",
+        "paragraphs": [
+            "雲夢懸知八九吞，銀山萬疊漲天門。",
+            "長江日落魚龍舞，古寺煙深鳥雀喧。"
+        ],
+        "paragraphs_simplified": [
+            "云梦悬知八九吞，银山万叠涨天门。",
+            "长江日落鱼龙舞，古寺烟深鸟雀喧。"
+        ],
+        "translation": "云梦泽仿佛能吞吐八九个，银色山峦万叠涨满天门。长江日落时鱼龙起舞，古寺烟霭深处鸟雀喧哗。",
+        "score": 4.0,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "豁达",
+            "惊奇"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "动静结合",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首联极言海门壮阔，颔联以日落鱼龙与古寺鸟雀动静相映，拓展空间层次。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“八九吞”夸大云梦泽的吞吐量。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "“魚龍舞”赋予鱼龙以动态生命。"
+                }
+            ]
+        },
+        "analysis": "此诗聚焦海门夕照，首联以“银山万叠”渲染视觉冲击，意象雄奇。后联转入鱼龙舞与鸟雀喧，动静交织，虚实相生。整体意境开阔，但“云梦”句稍显堆砌，情感流于表面，未能深掘。属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "以山海鱼龙为骨，构筑刚健有力的画面。",
+                "realm": "能",
+                "reason": "气势充沛但意象略杂，缺乏凝练。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "山",
+            "江",
+            "日",
+            "鱼",
+            "龙",
+            "寺",
+            "鸟"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“長江日落魚龍舞”动静相宜，画面生动。"
+        }
+    },
+    {
+        "title": "武昌春色",
+        "author": "韓元吉",
+        "paragraphs": [
+            "樊山宮殿已成陳，煙雨陰晴到處春。",
+            "花柳不知興廢事，隔江相倚鬭時新。"
+        ],
+        "paragraphs_simplified": [
+            "樊山宫殿已成陈，烟雨阴晴到处春。",
+            "花柳不知兴废事，隔江相倚斗时新。"
+        ],
+        "translation": "樊山宫殿已成陈迹，烟雨阴晴中处处是春。花柳不懂兴亡旧事，隔江相倚竞逐时新。",
+        "score": 3.5,
+        "subject": [
+            "怀古诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前联写宫殿成陈而春色依旧，后联以花柳拟人，反衬历史无情，点明兴废之叹。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“花柳不知興廢事”赋予花柳以无知之态。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "宫殿陈迹与处处春色形成今昔对比。"
+                }
+            ]
+        },
+        "analysis": "此诗以武昌春色为题，首联点出历史沧桑与自然永恒之对照，立意常见。后联拟人化花柳，虽有趣味，但情感表达浅显，意象陈旧，缺乏深刻回甘。整体流于表面感慨，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以宫殿残迹与花柳争新构筑对比，但未能深化悲慨。",
+                "realm": "逸",
+                "reason": "试图悲慨但意象浮泛，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "宫殿",
+            "烟雨",
+            "春",
+            "花柳",
+            "江"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“樊山宮殿已成陳”直接点题，奠定怀古基调。"
+        }
+    }
+]

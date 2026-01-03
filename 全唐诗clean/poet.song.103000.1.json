@@ -1,0 +1,669 @@
+[
+    {
+        "title": "雁",
+        "author": "曹緯",
+        "paragraphs": [
+            "雲飛水宿過炎凉，回想來時道路長。",
+            "夜月照驚惟弔影，朔風吹斷不成行。",
+            "人間無處逃矰繳，歲晚何曾飽稻粱。",
+            "儻以能鳴免烹死，繫書猶可到衡陽。"
+        ],
+        "paragraphs_simplified": [
+            "云飞水宿过炎凉，回想来时道路长。",
+            "夜月照惊惟吊影，朔风吹断不成行。",
+            "人间无处逃矰缴，岁晚何曾饱稻粱。",
+            "傥以能鸣免烹死，系书犹可到衡阳。"
+        ],
+        "translation": "云中飞水边宿历经炎凉，回想来时道路漫长。夜月照下惊心只余吊影，北风吹来雁行被吹散。人间无处可逃弓箭矰缴，岁末何曾吃饱稻粱。倘若能鸣叫免于烹死，系上书信尚可到达衡阳。",
+        "score": 4.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "愤懑",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "双关"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先写雁的迁徙艰辛，再写其面临的危险与困境，最后以典故寄托幸免与沟通的希望，层层递进。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "能鸣免烹死出自《庄子》，系书指苏武雁足传书"
+                },
+                {
+                    "tag": "双关",
+                    "explanation": "矰缴既指猎具，也隐喻人间迫害"
+                }
+            ]
+        },
+        "analysis": "此诗以雁为喻，写尽生存之艰险。云飞水宿的漂泊，夜月朔风的凄厉，矰缴稻粱的威胁，构成多重压迫。尾联陡转，用《庄子》中能鸣免死的典故与苏武系书的传说，在绝望中投下一缕微光。全诗意象密集，情感沉郁，将咏物与讽世完美结合，堪称曹纬的代表作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "通过雁的苦难折射人世险恶，情感激越",
+                "realm": "妙品",
+                "reason": "悲而不伤，慨而有节，深得悲慨之旨"
+            },
+            {
+                "style": "含蓄",
+                "imagery_analysis": "典故的运用使批判更为深沉",
+                "realm": "妙品",
+                "reason": "言近旨远，意在言外"
+            }
+        ],
+        "imagery": [
+            "云",
+            "水",
+            "月",
+            "风",
+            "雁",
+            "矰缴",
+            "稻粱",
+            "书"
+        ],
+        "allusions": [
+            {
+                "phrase": "能鸣免烹死",
+                "explanation": "出自《庄子·山木》，喻以才避祸"
+            },
+            {
+                "phrase": "系书",
+                "explanation": "化用苏武雁足系书典故"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "人间无处逃矰缴，岁晚何曾饱稻粱：直指生存困境，具有普遍的社会批判意义"
+        }
+    },
+    {
+        "title": "清溪亭",
+        "author": "曹緯",
+        "paragraphs": [
+            "波平渺渺草萋萋，遠目非昏望欲迷。",
+            "敢以安閒侵白鳥，聊將衰病照清溪。",
+            "百年無事雙蓬鬢，萬里歸心獨杖藜。",
+            "徙倚無人見牢落，水流東去夕陽西。"
+        ],
+        "paragraphs_simplified": [
+            "波平渺渺草萋萋，远目非昏望欲迷。",
+            "敢以安闲侵白鸟，聊将衰病照清溪。",
+            "百年无事双蓬鬓，万里归心独杖藜。",
+            "徙倚无人见牢落，水流东去夕阳西。"
+        ],
+        "translation": "水面平静渺茫，草木茂盛，远望并不昏暗但视野迷离。敢于用安闲侵扰白鸟，暂且将衰病之身映照在清溪中。百年无事，两鬓蓬白，万里归心，独自拄着藜杖。徘徊无人，见其孤独，水流向东去，夕阳向西沉。",
+        "score": 4.0,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "以景起兴，转入个人病老之叹，最后以水流夕阳收束，点明时光流逝之悲。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "百年無事雙蓬鬢，萬里歸心獨杖藜使用平行结构。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过清溪、白鸟等景物抒发孤独情感。"
+                }
+            ]
+        },
+        "analysis": "此诗以清溪为背景，勾勒出波平草萋的宁静画面，却暗含望眼欲迷的迷离感。颔联以安闲侵鸟、衰病照溪的细节，折射出诗人内心的矛盾与衰颓。颈联与尾联将个人身世之叹融入自然流转之中，水流东去、夕阳西下的意象，凝练地传达了岁月无情的悲慨。整体意境真切，情感回甘，非泛泛之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以平淡的水草、溪鸟意象构筑宁静境界",
+                "realm": "能品",
+                "reason": "技法成熟，但情感深度稍欠，未能达至高古之境"
+            }
+        ],
+        "imagery": [
+            "水",
+            "草",
+            "鸟",
+            "溪",
+            "鬓",
+            "杖",
+            "河流",
+            "太阳"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "水流东去夕阳西以景结情，余味悠长。"
+        }
+    },
+    {
+        "title": "次韻曹好謙負春",
+        "author": "曹緯",
+        "paragraphs": [
+            "作計尋芳不屬貧，可憐風物自良辰。",
+            "飛花有意能留客，啼鳥多情解喚人。",
+            "涉世乍驚翻手薄，論交多語白頭新。",
+            "十年異縣傷流落，來往山州枉過春。"
+        ],
+        "paragraphs_simplified": [
+            "作计寻芳不属贫，可怜风物自良辰。",
+            "飞花有意能留客，啼鸟多情解唤人。",
+            "涉世乍惊翻手薄，论交多语白头新。",
+            "十年异县伤流落，往来山州枉过春。"
+        ],
+        "translation": "计划寻芳不属于贫穷的我，可怜风物在良辰自好。飞花有意能留住客人，啼鸟多情懂得呼唤人。涉世之初乍惊世态炎凉，论交情时多语却白发新生。十年在异县伤感流落，来往山州枉然度过春天。",
+        "score": 2.5,
+        "subject": [
+            "山水诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首联写景，颔联拟人化景物，颈联转写世事，尾联总结流落。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "飞花有意、啼鸟多情"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "飞花有意能留客，啼鸟多情解唤人"
+                }
+            ]
+        },
+        "analysis": "此诗以春日风物起兴，彰显诗人流落之悲。飞花啼鸟之拟人，折射出世态炎凉之叹。颈联翻手薄、白头新，直指人情冷暖。尾联十年异县，伤感溢于言表。整体意境真切，情感回甘，然意象稍显陈旧，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "通过飞花、啼鸟等意象，构筑流落之悲。",
+                "realm": "能品",
+                "reason": "试图悲慨但意象陈旧，技法成熟但缺乏新意。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "鸟",
+            "风景",
+            "山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "拟人手法生动，体现借景抒情。"
+        }
+    },
+    {
+        "title": "春日憶西湖簡家弟元寵",
+        "author": "曹緯",
+        "paragraphs": [
+            "天涯孤客意堪哀，病眼逢春只强開。",
+            "閉戶不知花老去，捲簾方覺燕歸來。",
+            "風休潩水光如拭，雨霽箕山翠作堆。",
+            "遥想西湖圖畫裏，幾多車馬踏青回。"
+        ],
+        "paragraphs_simplified": [
+            "天涯孤客意堪哀，病眼逢春只强开。",
+            "闭户不知花老去，卷帘方觉燕归来。",
+            "风休潩水光如拭，雨霁箕山翠作堆。",
+            "遥想西湖图画里，几多车马踏青回。"
+        ],
+        "translation": "天涯孤客心情悲哀，病眼逢春勉强睁开。闭户不知花已老去，卷帘方觉燕子归来。风停潩水光如擦拭，雨后箕山翠绿堆积。遥想西湖图画之中，多少车马踏青归来。",
+        "score": 4.3,
+        "subject": [
+            "山水诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "孤独",
+            "思乡"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "起笔直指孤客之哀，中二联以闭户卷帘、风雨山水勾勒景物变迁，尾联虚写西湖车马，情感由实入虚，首尾暗合孤客与遥想之呼应。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "第二联‘閉戶不知花老去，捲簾方覺燕歸來’工整对仗，强化时光流逝之感。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "第三联‘風休潩水光如拭’以擦拭喻水光澄澈，渲染雨后清景。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "尾联‘遥想西湖圖畫裏’由实境转入虚想，拓宽意境空间。"
+                }
+            ]
+        },
+        "analysis": "此诗以孤客病眼为切入点，构筑春日哀婉之境。闭户卷帘之细节，折射出花老燕归的时光无情；潩水箕山之景，凝练而清丽，与西湖虚想形成空间张力。情感渗透于物象之中，不直露而有余韵，情景契合度高，意境真切不隔。整体技法缜密，属能品之佳作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "孤客、病眼、花老等意象交织，流露深沉的羁旅之悲与时光之叹。",
+                "realm": "能",
+                "reason": "情感深挚，但意象未脱常套，未达神品之超诣。"
+            },
+            {
+                "style": "含蓄",
+                "imagery_analysis": "借燕归、山水等景物间接抒情，情感委婉，不落言筌。",
+                "realm": "能",
+                "reason": "表达蕴藉，然虚实转换稍显平顺，缺乏奇崛。"
+            }
+        ],
+        "imagery": [
+            "客",
+            "春",
+            "花",
+            "燕",
+            "水",
+            "山",
+            "湖",
+            "车马"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "此句以闭户卷帘之动态细节，暗喻时光流逝与燕归之对比，情感含蓄而真切，全诗枢机所在。"
+        }
+    },
+    {
+        "title": "句 其一",
+        "author": "曹緯",
+        "paragraphs": [
+            "水带斷槎流。"
+        ],
+        "paragraphs_simplified": [
+            "水带断槎流。"
+        ],
+        "translation": "水带着断木筏流动。",
+        "score": 1.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "白描"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [],
+            "structure_tags": [],
+            "structural_logic": "单一描述性语句，无结构可言。",
+            "evidence": []
+        },
+        "analysis": "此句仅为景物描写，缺乏情感与意境，作为诗句过于单薄，无审美价值。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "简单描述水与槎",
+                "realm": "劣品",
+                "reason": "过于简略，不成诗体"
+            }
+        ],
+        "imagery": [
+            "水",
+            "木筏"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一一句，但无甚特色。"
+        }
+    },
+    {
+        "title": "句 其二",
+        "author": "曹緯",
+        "paragraphs": [
+            "天涯少知遇。"
+        ],
+        "paragraphs_simplified": [
+            "天涯少知遇。"
+        ],
+        "translation": "天涯缺少知音。",
+        "score": 1.5,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [],
+            "structure_tags": [],
+            "structural_logic": "直抒胸臆，无结构。",
+            "evidence": []
+        },
+        "analysis": "此句直白表达孤独，但缺乏意象与修饰，作为诗句过于浅显，无艺术性。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图含蓄但失败",
+                "realm": "劣品",
+                "reason": "语言直白，毫无含蓄之美"
+            }
+        ],
+        "imagery": [
+            "天边"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一一句，但过于直白。"
+        }
+    },
+    {
+        "title": "句  其三",
+        "author": "曹緯",
+        "paragraphs": [
+            "日依平野沒。"
+        ],
+        "paragraphs_simplified": [
+            "日依平野没。"
+        ],
+        "translation": "太阳在平野上消失。",
+        "score": 2.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以简练笔触直接勾勒日落平野的荒凉景象，无转折铺垫。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "日依平野没"
+                }
+            ]
+        },
+        "analysis": "此句采用白描技法，直述日没平野之景，意象选取平庸，仅停留于表面物象罗列。情感渗透稀薄，未能构筑深远意境，整体呈现一种浅显的直观描写，缺乏审美回甘。作为残句，其艺术价值有限，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "日、平野等意象试图营造冲淡之境，但组合单薄，未能形成完整画面。",
+                "realm": "劣",
+                "reason": "模仿自然风格却流于平淡，意象缺乏张力，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "太阳",
+            "田野"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一句子，直接呈现核心意象。"
+        }
+    },
+    {
+        "title": "句  其四",
+        "author": "曹緯",
+        "paragraphs": [
+            "登臨獨立時。"
+        ],
+        "paragraphs_simplified": [
+            "登临独立时。"
+        ],
+        "translation": "登高独立之时。",
+        "score": 2.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直述登高独立的状态，无修饰或铺陈，结构扁平。",
+            "evidence": [
+                {
+                    "tag": "直接抒情",
+                    "explanation": "登臨獨立時"
+                }
+            ]
+        },
+        "analysis": "单句以叙事口吻点出登临独立之态，情感表达直白，却未依托具体景物深化意境。意象空泛，缺乏细节支撑，导致情感流于口号式宣泄。整体构思简陋，未能展现诗歌应有的凝练与含蓄，属凡品。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "登临、独立等词试图构筑高远之境，但缺乏意象填充，显得空洞。",
+                "realm": "劣",
+                "reason": "追求高古风骨却失之粗疏，未能达到苍劲或超诣之境。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "独立"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一句子，直接点明主题。"
+        }
+    },
+    {
+        "title": "句  其五",
+        "author": "曹緯",
+        "paragraphs": [
+            "孤芳高節共亭亭。"
+        ],
+        "paragraphs_simplified": [
+            "孤芳高节共亭亭。"
+        ],
+        "translation": "孤高的花芳与高洁的节操共同亭亭玉立。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "通过拟人化手法，将花芳与高节并置，直接寄托人格理想，无转折。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "孤芳高節共亭亭"
+                }
+            ]
+        },
+        "analysis": "此句以拟人手法将物象人格化，试图通过孤芳与高节传达高洁志向。然辞藻稍显堆砌，‘亭亭’一词重复使用，削弱了意象的精准度。情感表达虽正面，但立意未脱传统咏物窠臼，缺乏新意与深度，整体为能品。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "孤芳、高节等意象试图营造典雅氛围，但组合略显生硬，未达浑然一体。",
+                "realm": "能",
+                "reason": "技法成熟但意境平庸，未能升华至含蓄或绮丽之境。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "节操",
+            "姿态"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一句子，集中体现咏物主题。"
+        }
+    }
+]

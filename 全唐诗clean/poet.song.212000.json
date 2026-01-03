@@ -1,0 +1,741 @@
+[
+    {
+        "title": "堪笑  其三",
+        "author": "方岳",
+        "paragraphs": [
+            "堪笑劉安苦學僊，雲中雞犬事茫然。",
+            "早知官職乃如許，悔不人間差自賢。"
+        ],
+        "paragraphs_simplified": [
+            "堪笑刘安苦学仙，云中鸡犬事茫然。",
+            "早知官职乃如许，悔不人间差自贤。"
+        ],
+        "translation": "可笑刘安苦苦学习成仙，云中鸡犬的事情茫然不可知。早知道官职就像这样，后悔不在人间稍微自以为贤能。此诗讽刺求仙之虚妄，转而议论官职之无谓，以典故起兴，直指世态。",
+        "score": 2.5,
+        "subject": [
+            "讽喻诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先引刘安学仙之典，后发官职不如自贤之议论，结构直白。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用刘安学仙得道、鸡犬升天的典故，讽刺求仙虚妄。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "将官职之许与人间自贤对比，凸显悔意。"
+                }
+            ]
+        },
+        "analysis": "此诗以刘安学仙之典起兴，构筑讽刺之局，意象陈旧，立意浅显。云中鸡犬与官职之对比，流于表面，缺乏含蓄之韵。情感直露，无审美回甘，整体为平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "讽喻",
+                "imagery_analysis": "试图以典故讽世，但意象堆砌，未能达到深刻境界。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，讽刺流于粗浅，缺乏艺术感染力。"
+            }
+        ],
+        "imagery": [
+            "仙",
+            "云中鸡犬",
+            "官职"
+        ],
+        "allusions": [
+            {
+                "phrase": "劉安苦學僊",
+                "explanation": "淮南王刘安求仙得道，鸡犬升天之事，喻指虚妄。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点题，直接引出典故，为全诗核心。"
+        }
+    },
+    {
+        "title": "堪笑  其四",
+        "author": "方岳",
+        "paragraphs": [
+            "堪笑山陽漢鼎移，智如文若豈難知。",
+            "定嫌佐命居人後，略一昌言死亦癡。"
+        ],
+        "paragraphs_simplified": [
+            "堪笑山阳汉鼎移，智如文若岂难知。",
+            "定嫌佐命居人后，略一昌言死亦痴。"
+        ],
+        "translation": "可笑山阳汉鼎转移，智慧像文若难道难知？定嫌辅佐之命在人后，略微一说忠言死也痴。借汉末山阳公之事，讽刺荀彧之智，议论直白，缺乏深意。",
+        "score": 2.8,
+        "subject": [
+            "讽喻诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "轻蔑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "反问"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先述山阳汉鼎之典，后以反问与议论收尾，结构紧凑但浅显。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用山阳汉鼎转移与文若（荀彧）之智，讽喻佐命之愚。"
+                },
+                {
+                    "tag": "反问",
+                    "explanation": "“智如文若岂难知”以反问增强讽刺语气。"
+                }
+            ]
+        },
+        "analysis": "此诗借汉末典故，直指佐命之愚，意象陈旧，议论粗浅。反问修辞虽用，但未能深化情感，流于表面。整体缺乏含蓄与回甘，为平庸应酬之作。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "试图以豪放笔调讽古，但实则粗鄙，缺乏雄浑之气。",
+                "realm": "劣",
+                "reason": "模仿豪放失败，沦为直白说教，无艺术价值。"
+            }
+        ],
+        "imagery": [
+            "汉鼎",
+            "文若",
+            "佐命"
+        ],
+        "allusions": [
+            {
+                "phrase": "山陽漢鼎移",
+                "explanation": "指汉献帝禅位于曹丕，山阳公之事，喻政权转移。"
+            },
+            {
+                "phrase": "文若",
+                "explanation": "荀彧字文若，三国智者，此处讽其佐命之愚。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点出典故，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "堪笑  其五",
+        "author": "方岳",
+        "paragraphs": [
+            "堪笑張華死不休，謾精象數古無儔。",
+            "中台星拆何曾識，祗識龍泉動斗牛。"
+        ],
+        "paragraphs_simplified": [
+            "堪笑张华死不休，谩精象数古无俦。",
+            "中台星拆何曾识，只识龙泉动斗牛。"
+        ],
+        "translation": "可笑张华死不休，空自精通象数古无双。中台星拆何曾认识，只识龙泉剑气冲斗牛。讽刺张华精通天文象数却不知自身祸患，典故密集，立意模糊。",
+        "score": 3.0,
+        "subject": [
+            "讽喻诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "轻蔑",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先举张华精通象数之典，后以星拆与剑气对比，结构紧凑但解释不清。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用张华、中台星拆、龙泉剑气等典故，讽喻知天文却不知祸患。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "中台星拆（自身祸）与龙泉动斗牛（外物知）对比，凸显讽刺。"
+                }
+            ]
+        },
+        "analysis": "此诗堆砌张华典故，象数与星拆之对比，意象密集却解释不清，立意模糊。情感浅露，缺乏审美距离，整体为辞藻堆砌之作。",
+        "poetry_styles": [
+            {
+                "style": "缜密",
+                "imagery_analysis": "试图以缜密用典讽世，但实则堆砌，未能达缜密之境。",
+                "realm": "劣",
+                "reason": "典故堆砌，逻辑混乱，画虎不成。"
+            }
+        ],
+        "imagery": [
+            "象数",
+            "中台星",
+            "龙泉",
+            "斗牛"
+        ],
+        "allusions": [
+            {
+                "phrase": "張華",
+                "explanation": "西晋学者，精通天文象数，此处讽其不知身祸。"
+            },
+            {
+                "phrase": "中台星拆",
+                "explanation": "预示三公之祸，张华因此被杀。"
+            },
+            {
+                "phrase": "龍泉動斗牛",
+                "explanation": "龙泉剑气冲斗牛，喻张华只知外物不知自身。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点出讽刺对象，为全诗核心。"
+        }
+    },
+    {
+        "title": "入閩  其一",
+        "author": "方岳",
+        "paragraphs": [
+            "山雲底事夜來雨，藏却奇峰不與看。",
+            "政說雨中看更好，劃然捲起出晴巒。"
+        ],
+        "paragraphs_simplified": [
+            "山云底事夜来雨，藏却奇峰不与看。",
+            "政说雨中看更好，划然卷起出晴峦。"
+        ],
+        "translation": "山云为何夜里下雨，藏起奇峰不让人看。正说雨中看更好，突然卷起露出晴日山峦。描绘山雨奇景，动静结合，意境自然真切。",
+        "score": 4.2,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先写雨藏峰之静，后写卷起见晴之动，结构流畅，动静相生。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“藏却奇峰”赋予山云人性，生动有趣。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "“划然卷起”从静到动，展现自然变化。"
+                }
+            ]
+        },
+        "analysis": "此诗勾勒山雨奇景，拟人修辞使意象鲜活，动静结合构筑自然之境。情感闲适，情景交融，意境真切，整体为能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以自然笔触描绘山水，动静相宜，达清新之境。",
+                "realm": "能",
+                "reason": "技法成熟，意境真切，无斧凿痕。"
+            },
+            {
+                "style": "清奇",
+                "imagery_analysis": "雨晴对比，奇峰隐现，营造清奇之境。",
+                "realm": "能",
+                "reason": "意象独特，情感含蓄。"
+            }
+        ],
+        "imagery": [
+            "山云",
+            "奇峰",
+            "雨",
+            "晴峦"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "第三句转折，点出雨中看更好，为全诗亮点。"
+        }
+    },
+    {
+        "title": "入閩  其二",
+        "author": "方岳",
+        "paragraphs": [
+            "雪龍怒吼出山去，二十里雲行上天。",
+            "老去極知詩力退，只將日曆記山川。"
+        ],
+        "paragraphs_simplified": [
+            "雪龙怒吼出山去，二十里云行上天。",
+            "老去极知诗力退，只将日历记山川。"
+        ],
+        "translation": "雪龙怒吼出山去，二十里云行上天。老去深知诗力退，只用日历记录山川。前两句气势磅礴，后两句转写老去诗力退，情感真挚。",
+        "score": 4.0,
+        "subject": [
+            "山水诗",
+            "叙事诗"
+        ],
+        "emotion": [
+            "豁达",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先写雪云实景，后抒老去诗退之情，以日历记山川收尾，虚实相生。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“雪龙”比喻雪崩或雪景，形象生动。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“二十里云行上天”极言云势之广。"
+                }
+            ]
+        },
+        "analysis": "此诗前两句以比喻夸张写景，气势恢宏，后两句转写老去诗退，情感豁达。虚实结合，意象生动，整体为能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "雪龙怒吼，云行上天，构筑豪放之境。",
+                "realm": "能",
+                "reason": "气势足，但后两句稍显直白。"
+            },
+            {
+                "style": "自然",
+                "imagery_analysis": "以日历记山川，流露自然闲适之情。",
+                "realm": "能",
+                "reason": "情感真挚，无雕琢。"
+            }
+        ],
+        "imagery": [
+            "雪龙",
+            "云",
+            "山川",
+            "日历"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句比喻夸张，气势磅礴，为全诗精华。"
+        }
+    },
+    {
+        "title": "遊九曲  其一",
+        "author": "方岳",
+        "paragraphs": [
+            "掀蓬仰看玉崢嶸，借得漁船一日晴。",
+            "九曲水窮山雨急，老僊於我豈無情。"
+        ],
+        "paragraphs_simplified": [
+            "掀蓬仰看玉峥嵘，借得渔船一日晴。",
+            "九曲水穷山雨急，老仙于我岂无情。"
+        ],
+        "translation": "掀开船篷仰望玉石般的山峰峥嵘，借来渔船享受一日晴朗。九曲溪水尽头山雨急骤，老仙对我难道没有情义？",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "闲适",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先写景后抒情，从仰望山峰到感受山雨，最后以仙人情感作结。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'玉崢嶸'比喻山峰的峥嵘之态。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "将'老僊'拟人化，赋予其情感。"
+                }
+            ]
+        },
+        "analysis": "此诗以掀蓬仰看动作切入，勾勒山峰如玉的峥嵘形象，借渔船晴日营造闲适氛围。次句转写山雨急骤，却以'老仙岂无情'收束，将自然拟人化，流露出对仙缘的期待。意象如'玉崢嶸'、'山雨急'生动，但立意稍显常见，情感表达含蓄，有回甘之味。技法上动静结合，然未见突破，整体情景契合，意境真切。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "景物描写流畅，如行云流水。",
+                "realm": "能",
+                "reason": "语言自然，但情感深度不足，未达高妙。"
+            }
+        ],
+        "imagery": [
+            "船",
+            "山",
+            "雨",
+            "仙"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "以拟人手法收束，点出情感，较有深意。"
+        }
+    },
+    {
+        "title": "遊九曲  其二",
+        "author": "方岳",
+        "paragraphs": [
+            "鶴怨空山久勒文，買船又訪武夷君。",
+            "一聲鐵笛不知處，但覺滿身生白雲。"
+        ],
+        "paragraphs_simplified": [
+            "鹤怨空山久勒文，买船又访武夷君。",
+            "一声铁笛不知处，但觉满身生白云。"
+        ],
+        "translation": "鹤在空山怨恨久被勒石留名，买船又去拜访武夷君。一声铁笛不知从何处传来，只觉得满身生出白云。",
+        "score": 4.0,
+        "subject": [
+            "游仙诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "豁达",
+            "向往"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先写鹤怨引出访仙动机，再写听笛生云的幻觉感受。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "以'鹤怨'赋予鹤情感，表达隐逸向往。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "'满身生白云'夸张游仙幻境。"
+                }
+            ]
+        },
+        "analysis": "此诗以'鹤怨'起笔，化用典故表达对隐逸的向往，次句直写访武夷君。铁笛声与白云幻境交织，营造出飘逸之感。意象如'铁笛'、'白云'空灵，但'鹤怨久勒文'稍显晦涩，整体意境超诣，然情感深度不足，有堆砌之嫌。情景契合度较高，但审美距离稍远，回甘不足。",
+        "poetry_styles": [
+            {
+                "style": "飘逸",
+                "imagery_analysis": "白云幻境轻盈超脱。",
+                "realm": "妙",
+                "reason": "意境空灵，但首句稍弱，未达浑然。"
+            }
+        ],
+        "imagery": [
+            "鹤",
+            "山",
+            "船",
+            "笛",
+            "云"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "夸张手法生动，体现游仙幻境。"
+        }
+    },
+    {
+        "title": "遊九曲  其三",
+        "author": "方岳",
+        "paragraphs": [
+            "莫問神僊定有無，地靈斷不著凡夫。",
+            "我來便覺芒鞋好，飛上前山不用扶。"
+        ],
+        "paragraphs_simplified": [
+            "莫问神仙定有无，地灵断不著凡夫。",
+            "我来便觉芒鞋好，飞上前山不用扶。"
+        ],
+        "translation": "不要问神仙是否真有，地灵绝不沾染凡夫。我来便觉得草鞋舒适，飞上前山不用搀扶。",
+        "score": 2.5,
+        "subject": [
+            "山水诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "豁达",
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "反问",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先否定神仙之问，再写自身感受，最后以行动作结。",
+            "evidence": [
+                {
+                    "tag": "反问",
+                    "explanation": "以'莫问神仙定有无'反问，强调地灵非凡。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "'飞上前山不用扶'夸张行动，体现自信。"
+                }
+            ]
+        },
+        "analysis": "此诗开篇以反问否定神仙之问，强调地灵非凡，次句写芒鞋轻健，飞升自如。意象简练，情感直率，有豪放之气，但'飞上前山'夸张过度，立意浅显，缺乏深层意蕴。技法上反问与夸张结合，然整体未脱俗套，情景生硬，意境不真切。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "试图豪放，但夸张失度。",
+                "realm": "凡",
+                "reason": "画虎不成反类犬，实则粗鄙。"
+            }
+        ],
+        "imagery": [
+            "仙",
+            "地",
+            "鞋",
+            "山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "动作生动，体现自信，但夸张过度。"
+        }
+    },
+    {
+        "title": "又和晦翁櫂歌  其一",
+        "author": "方岳",
+        "paragraphs": [
+            "燒藥爐存草亦靈，煮茶竈冷水猶清。",
+            "老僊一去無消息，只有飛泉落珮聲。"
+        ],
+        "paragraphs_simplified": [
+            "烧药炉存草亦灵，煮茶灶冷水犹清。",
+            "老仙一去无消息，只有飞泉落佩声。"
+        ],
+        "translation": "烧药炉留存草药也灵验，煮茶灶冷但水仍清澈。老仙一去没有消息，只有飞泉如佩玉落下的声音。",
+        "score": 3.7,
+        "subject": [
+            "游仙诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "孤独",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先写仙去后遗物，再写自然之声，以景结情。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'飞泉落佩声'比喻泉声清越。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "将'老仙'拟人化，表达其离去。"
+                }
+            ]
+        },
+        "analysis": "此诗以'烧药炉'、'煮茶灶'起笔，暗示仙人遗迹，飞泉佩声喻其清越，意境幽深。情感含蓄，流露出对仙踪的追忆。意象如'草亦灵'、'水犹清'细腻，但'老仙一去'稍显直白，整体有典雅之风，然深度不足，未能充分展开。情景契合，意境真切，但情感回甘有限。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "仙人遗物与自然之声交融。",
+                "realm": "能",
+                "reason": "技法娴熟，但未达高妙。"
+            }
+        ],
+        "imagery": [
+            "炉",
+            "草",
+            "灶",
+            "水",
+            "仙",
+            "泉",
+            "玉"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "比喻生动，以景结情，含蓄深远。"
+        }
+    }
+]

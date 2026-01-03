@@ -1,0 +1,2126 @@
+[
+    {
+        "title": "靈巖",
+        "author": "趙師秀",
+        "paragraphs": [
+            "忽有千巖聚，禪宮得土慳。",
+            "古來雲是海，天下別無山。",
+            "久立增寒思，初看損壯顔。",
+            "曾聞斤石剝，夜落半空間。"
+        ],
+        "paragraphs_simplified": [
+            "忽有千岩聚，禅宫得土悭。",
+            "古来云是海，天下别无山。",
+            "久立增寒思，初看损壮颜。",
+            "曾闻斤石剥，夜落半空间。"
+        ],
+        "translation": "忽然有千岩聚集，禅宫所得的土地吝啬。古来传说云是海，天下没有别的山。久立增加寒思，初看损伤壮颜。曾听说斤石剥落，夜晚落在半空间。",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "孤寂",
+            "忧愁",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "从眼前岩聚之景引入，转以古云为海的传说拓宽时空，继而抒发久立寒思与初看损颜的个人感受，终以斤石剥落的听闻收束，形成由实入虚、由景及情的脉络。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“古來雲是海”以云喻海，构筑虚实相生的意境。"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "“久立增寒思”通过身体感受勾勒心理状态。"
+                }
+            ]
+        },
+        "analysis": "此诗以灵岩山为题，意象凝练，禅宫与千岩的并置折射出空间的局促与自然的磅礴。古云为海的传说拓宽了历史纵深，而久立寒思与斤石剥落的细节，则渗透出人对永恒与无常的体悟。整体构筑了一种清冷而疏离的山水境界，意象虽不落俗套，但情感表达稍显内敛，未能完全突破传统山水诗的范式，流露出一种淡远的怅惘。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以简练笔触勾勒山岩与禅宫，意境疏朗，不刻意渲染浓烈情感。",
+                "realm": "能品",
+                "reason": "技法纯熟，但意象组合略显常规，未能达到超逸之境。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "禅宫",
+            "云",
+            "海",
+            "石"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“古來雲是海，天下別無山”以夸张手法凸显山的独特，最具概括力。"
+        }
+    },
+    {
+        "title": "杜鵑",
+        "author": "趙師秀",
+        "paragraphs": [
+            "三月江頭花正開，啼教花片委青苔。",
+            "若嫌此地非君土，今度歸時莫要來。"
+        ],
+        "paragraphs_simplified": [
+            "三月江头花正开，啼教花片委青苔。",
+            "若嫌此地非君土，今度归时莫要来。"
+        ],
+        "translation": "三月江头花正开，啼声使花片落青苔。若嫌此地非君土，今度归时莫要来。",
+        "score": 4.0,
+        "subject": [
+            "咏物诗",
+            "送别诗"
+        ],
+        "emotion": [
+            "惜别",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先写春景与杜鹃啼鸣，再以拟人化口吻规劝，情感由景入情，直指归别主题。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "啼教花片委青苔赋予杜鹃啼声以影响力。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "杜鹃常寓哀愁与离别，深化主题。"
+                }
+            ]
+        },
+        "analysis": "此诗借杜鹃啼鸣与春花凋落的景象，暗喻离别的无奈。啼声催花落的拟人手法，将自然动态与情感紧密结合，营造出伤春氛围。后两句以直接劝诫收尾，语气看似决绝，实则流露挽留之意。语言平实，但意象典型，情感含蓄，体现了宋代绝句的凝练风格，然立意稍显常见。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "杜鹃、落花、青苔等意象交织，烘托出春暮别愁。",
+                "realm": "能品",
+                "reason": "以物寄情，情感表达迂回，但未脱传统咏别窠臼。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "苔藓",
+            "杜鹃"
+        ],
+        "allusions": [
+            {
+                "phrase": "杜鹃",
+                "explanation": "象征哀怨与离别，常见于诗词中。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "三月江頭花正開，啼教花片委青苔以景起兴，画面感强烈。"
+        }
+    },
+    {
+        "title": "樓上",
+        "author": "趙師秀",
+        "paragraphs": [
+            "曉雨微微灑物華，牽牛初發傍牆花。",
+            "數聲野鶴無尋處，只在樓西有竹家。"
+        ],
+        "paragraphs_simplified": [
+            "晓雨微微洒物华，牵牛初发傍墙花。",
+            "数声野鹤无寻处，只在楼西有竹家。"
+        ],
+        "translation": "晓雨微微洒物华，牵牛初发傍墙花。数声野鹤无寻处，只在楼西有竹家。",
+        "score": 4.6,
+        "subject": [
+            "山水诗",
+            "闲适诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句写雨中春景，次句引入鹤声与竹居，由静转动，以声衬静，营造幽居意境。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "两句结构工整，音韵和谐。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "雨洒花发为静，鹤声寻处为动，相映成趣。"
+                }
+            ]
+        },
+        "analysis": "此诗以晓雨洒落、牵牛初发的细腻画面开篇，勾勒出清晨的湿润与生机。野鹤声声却无处寻觅，转折至楼西竹家，以虚写实，拓展了空间想象。全诗动静相宜，视听交融，语言清新自然，意境空灵幽远。无一字直抒胸臆，却尽显隐逸之乐，堪称情景两忘的佳作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "雨、花、鹤、竹等意象融合，构筑出恬静的隐居图景。",
+                "realm": "妙品",
+                "reason": "意境清奇，语言洗练，深得自然之趣。"
+            }
+        ],
+        "imagery": [
+            "雨",
+            "花",
+            "鹤",
+            "竹"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "數聲野鶴無尋處，只在樓西有竹家以声引境，余味无穷。"
+        }
+    },
+    {
+        "title": "吹臺曲",
+        "author": "趙師秀",
+        "paragraphs": [
+            "天門玉鑰雙龍開，霓旌羽蓋天上來。",
+            "管弦嘈雜入霄漢，美人侍讌黄金臺。",
+            "羽觴行歌歡未足，燕姬成行列紅玉。",
+            "梁王半醉起更衣，夜按玉簫親度曲。",
+            "曲終舉袂俱爭妍，拜舞樽前稱萬年，三山玉女朝羣仙。",
+            "當時弄玉飛上天，至今臺下草成煙。"
+        ],
+        "paragraphs_simplified": [
+            "天门玉钥双龙开，霓旌羽盖天上来。",
+            "管弦嘈杂入霄汉，美人侍宴黄金台。",
+            "羽觞行歌欢未足，燕姬成行列红玉。",
+            "梁王半醉起更衣，夜按玉箫亲度曲。",
+            "曲终举袂俱争妍，拜舞樽前称万年，三山玉女朝群仙。",
+            "当时弄玉飞上天，至今台下草成烟。"
+        ],
+        "translation": "天门用玉钥匙双龙打开，霓虹旌旗和羽毛车盖从天而降。管弦乐声嘈杂直入云霄，美人在黄金台上侍奉宴饮。羽觞传酒，歌声不断，欢乐未尽，燕国女子排成行列，如红玉般艳丽。梁王半醉起身更衣，夜间按玉箫亲自度曲。曲终举袖争艳，樽前拜舞称万年，三山玉女朝拜群仙。当时弄玉飞上天，至今台下草如烟。",
+        "score": 3.8,
+        "subject": [
+            "怀古诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "怀古",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "从天门开篇，描写宴饮盛况，到梁王度曲，最后以弄玉飞仙的典故收尾，暗示盛衰无常。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "末句引用弄玉飞仙的典故，暗示盛衰。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "燕姬成行列红玉，以红玉比喻女子艳丽。"
+                }
+            ]
+        },
+        "analysis": "此诗以吹台宴饮为题材，首联以天门开、霓旌来构筑华丽场景，颔联颈联铺陈管弦美人、羽觞燕姬之盛况，尾联借梁王度曲与弄玉飞仙之典，转出怀古之思。意象虽富丽，然多袭旧，如霓旌羽盖、黄金台等，缺乏新意。整体技法圆熟，但情感表达稍显直露，未能于繁华中透出深沉之悲慨，止于寻常怀古之作。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "试图以富丽意象构筑华美场景，但未能超脱陈套。",
+                "realm": "能品",
+                "reason": "技法成熟，但意象堆砌，未能达到高古或悲慨之境。"
+            }
+        ],
+        "imagery": [
+            "天门",
+            "霓旌",
+            "黄金台",
+            "梁王",
+            "弄玉",
+            "台",
+            "草"
+        ],
+        "allusions": [
+            {
+                "phrase": "弄玉飞上天",
+                "explanation": "引用弄玉乘龙飞天的典故，暗示盛衰无常。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 5,
+            "reason": "末句以弄玉飞仙的典故收尾，点出怀古主题，意境深远。"
+        }
+    },
+    {
+        "title": "題方興化塋舍",
+        "author": "趙師秀",
+        "paragraphs": [
+            "使君如玉不雕鎸，可惜埋藏已十年。",
+            "佳兆昔令人入夢，遺經今有子能傳。",
+            "紫藤附暖應生地，蒼柏凌空欲到天。",
+            "要識德源無盡處，一池清甚發淵泉。"
+        ],
+        "paragraphs_simplified": [
+            "使君如玉不雕镌，可惜埋藏已十年。",
+            "佳兆昔令人入梦，遗经今有子能传。",
+            "紫藤附暖应生地，苍柏凌空欲到天。",
+            "要识德源无尽处，一池清甚发渊泉。"
+        ],
+        "translation": "使君如玉不雕镌，可惜埋藏已十年。佳兆昔令人入梦，遗经今有子能传。紫藤附暖应生地，苍柏凌空欲到天。要识德源无尽处，一池清甚发渊泉。",
+        "score": 3.5,
+        "subject": [
+            "悼亡诗",
+            "题咏诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首联以玉喻人，叹其埋没；颔联写遗泽后世；颈联以藤柏象征德行；尾联点明德源如泉，绵延不绝。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "使君如玉以玉比德，突出高洁。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "紫藤附暖与苍柏凌空形成工整对仗。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "遗经可能暗指儒家经典传承。"
+                }
+            ]
+        },
+        "analysis": "此诗为题咏茔舍之作，以玉德起兴，表达对逝者的敬仰与惋惜。紫藤苍柏的意象对仗工稳，象征德行的滋养与高远。尾联以渊泉喻德源，升华主题。全诗结构清晰，用语庄重，但情感表达较为直白，意象选择略显常规，属于应酬体中的合格之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "玉、藤、柏、泉等意象传达出庄重肃穆的纪念意味。",
+                "realm": "能品",
+                "reason": "符合题咏规范，但缺乏惊艳之笔，意境平实。"
+            }
+        ],
+        "imagery": [
+            "玉",
+            "藤",
+            "柏",
+            "池",
+            "泉"
+        ],
+        "allusions": [
+            {
+                "phrase": "遗经",
+                "explanation": "可能指代传承的儒家经典或先人遗训。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "要識德源無盡處，一池清甚發淵泉以泉喻德，含蓄点题。"
+        }
+    },
+    {
+        "title": "書李氏園亭",
+        "author": "趙師秀",
+        "paragraphs": [
+            "坐久思行步，因而上野亭。",
+            "日兼梅雨落，山接稻田青。",
+            "何術銷終訟，連朝役瘦形。",
+            "早知還走俗，不用學通經。"
+        ],
+        "paragraphs_simplified": [
+            "坐久思行步，因而上野亭。",
+            "日兼梅雨落，山接稻田青。",
+            "何術銷終訟，連朝役瘦形。",
+            "早知還走俗，不用學通經。"
+        ],
+        "translation": "久坐生倦意，欲行步，遂登野亭。日间梅雨兼落，山色连接稻田青翠。有何方法能终结诉讼？连日奔走使我身形消瘦。早知如此奔波世俗，不如当初不学通经。",
+        "score": 2.8,
+        "subject": [
+            "闲适诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "疲惫"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "细节描写"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首联叙事登亭，颔联写景，颈联转写诉讼烦恼，尾联直抒胸臆，结构平铺直叙。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "颔联‘日兼梅雨落，山接稻田青’对仗工整，但意境普通。"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "‘役瘦形’以细节刻画奔波之苦。"
+                }
+            ]
+        },
+        "analysis": "此诗以登亭起兴，勾勒出闲适与俗务的冲突。梅雨与稻田的景致描写虽具画面感，但意象陈旧，缺乏新意。颈联直诉诉讼之苦，情感流于表面，未见深层回甘。整体立意浅显，辞藻平实，属平庸之作，未能构筑独特意境。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以田园景物营造淡泊氛围，但因情感直露而破坏冲淡之境。",
+                "realm": "能",
+                "reason": "技法尚熟，但意境未达冲淡之妙，流于浅显。"
+            }
+        ],
+        "imagery": [
+            "野亭",
+            "梅雨",
+            "稻田"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "颔联写景较有画面感，为全诗稍佳处。"
+        }
+    },
+    {
+        "title": "奉賦朱新父足庵",
+        "author": "趙師秀",
+        "paragraphs": [
+            "人欲難窮極，於中覺者稀。",
+            "但令無過分，何處有危機。",
+            "長日書千冊，清風竹一園。",
+            "東南坤勢闕，子計不爲非。"
+        ],
+        "paragraphs_simplified": [
+            "人欲难穷极，于中觉者稀。",
+            "但令无过分，何处有危机。",
+            "长日书千册，清风竹一园。",
+            "东南坤势阙，子计不为非。"
+        ],
+        "translation": "人欲难以穷尽，其中觉悟者稀少。只要不过分，何处会有危机？长日读书千卷，清风吹拂竹园。东南地势有缺，你的计划并非错误。",
+        "score": 3.2,
+        "subject": [
+            "哲理诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首联论人欲与觉悟，颔联设问回应，颈联写读书竹园之景，尾联点明计划无误，结构由理入景再归理。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "‘何处有危機’以问句引发思考。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "‘清风竹一园’以竹园象征清雅志趣。"
+                }
+            ]
+        },
+        "analysis": "此诗以议论开篇，探讨人欲与觉悟，逻辑清晰但缺乏诗意深度。颈联写景稍显清雅，但整体偏重说理，情感流于教条。尾联直接肯定计划，立意浅显，未见艺术回甘。虽技法成熟，但意象平淡，属能品中平庸者。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图以哲理议论营造高古格调，但因缺乏意象支撑而显空洞。",
+                "realm": "能",
+                "reason": "议论直白，未达高古之含蓄。"
+            }
+        ],
+        "imagery": [
+            "书",
+            "竹",
+            "清风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "‘长日书千册，清风竹一园’景理结合稍好。"
+        }
+    },
+    {
+        "title": "北戶",
+        "author": "趙師秀",
+        "paragraphs": [
+            "曉開北戶得新晴，木末猶橫一兩星。",
+            "滿地綠苔看不見，細花如雪落冬青。"
+        ],
+        "paragraphs_simplified": [
+            "晓开北户得新晴，木末犹横一两星。",
+            "满地绿苔看不见，细花如雪落冬青。"
+        ],
+        "translation": "清晨打开北窗迎来新晴，树梢还挂着一两颗星。满地绿苔难以看清，细花如雪般落在冬青上。",
+        "score": 4.1,
+        "subject": [
+            "山水诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句叙事开窗得晴，次句写星悬树梢，后两句以苔隐花落勾勒静景，结构紧凑，由动入静。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘细花如雪’以雪喻花，形象生动。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "‘开北户’与‘花落’动静相映。"
+                }
+            ]
+        },
+        "analysis": "此诗以白描手法勾勒晨景，开窗得晴与星悬树梢的细节捕捉精准，后联以苔隐花落营造静谧意境。比喻‘如雪’增添画面感，情景交融，不隔而真切。情感含蓄，回甘悠长，整体凝练，属佳作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以‘细花如雪’等意象构筑清奇之境，动静结合，意境真切。",
+                "realm": "妙",
+                "reason": "技法纯熟，意境清幽，暗合清奇之品。"
+            }
+        ],
+        "imagery": [
+            "北户",
+            "星",
+            "绿苔",
+            "细花",
+            "冬青"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘细花如雪落冬青’比喻精妙，为全诗亮点。"
+        }
+    },
+    {
+        "title": "庵西",
+        "author": "趙師秀",
+        "paragraphs": [
+            "數里庵西路，東風去更吹。",
+            "稻寒生葉細，松老作花遲。",
+            "小憇嫌無侶，曾游憶有詩。",
+            "新螢光尚小，未暗出空池。"
+        ],
+        "paragraphs_simplified": [
+            "数里庵西路，东风去更吹。",
+            "稻寒生叶细，松老作花迟。",
+            "小憩嫌无侣，曾游忆有诗。",
+            "新萤光尚小，未暗出空池。"
+        ],
+        "translation": "数里庵西小路，东风吹拂而去。稻因寒生叶细，松老开花迟缓。小憩嫌无伴侣，曾游忆起有诗。新萤光尚微小，未暗时飞出空池。",
+        "score": 3.5,
+        "subject": [
+            "山水诗",
+            "游记诗"
+        ],
+        "emotion": [
+            "孤独",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "首联写景起兴，颔联对偶描物，颈联转写孤独忆旧，尾联以萤火收束，结构由景入情。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "‘稻寒生叶细，松老作花迟’对仗工整，刻画物候。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "‘曾游忆有诗’虚写回忆，与实景相映。"
+                }
+            ]
+        },
+        "analysis": "此诗以庵西小路起笔，东风与物候的描写细致，但意象如稻叶、松花略显陈旧。颈联抒发孤独忆旧，情感平淡，未见深意。尾联萤火微小，虽具细节，但整体立意浅显，缺乏艺术张力，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以田园景物营造淡泊，但因情感直露而未能深入冲淡之境。",
+                "realm": "能",
+                "reason": "技法平稳，但意境未达冲淡之妙。"
+            }
+        ],
+        "imagery": [
+            "庵路",
+            "东风",
+            "稻",
+            "松",
+            "萤",
+            "池"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "颔联对偶工整，刻画物候较细致。"
+        }
+    },
+    {
+        "title": "石門寺",
+        "author": "趙師秀",
+        "paragraphs": [
+            "寺外山皆石，門因鑿石開。",
+            "野花黄類菊，寒笋綠黏苔。",
+            "官爲看田至，僧方乞食回。",
+            "一雙簷際鴿，空覷出生臺。"
+        ],
+        "paragraphs_simplified": [
+            "寺外山皆石，门因凿石开。",
+            "野花黄类菊，寒笋绿黏苔。",
+            "官为看田至，僧方乞食回。",
+            "一双檐际鸽，空觑出生台。"
+        ],
+        "translation": "寺外山全是石，门因凿石而开。野花黄似菊，寒笋绿黏苔。官员为看田而来，僧人正乞食而回。一双檐际鸽，空望着出生台。",
+        "score": 3.0,
+        "subject": [
+            "山水诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "孤寂"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "白描",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首联写寺门由来，颔联描景，颈联叙事官僧活动，尾联以鸽觑台收束，结构平实。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘野花黄类菊’以菊喻花，但显平淡。"
+                },
+                {
+                    "tag": "侧面烘托",
+                    "explanation": "‘官至僧回’侧面反映寺庙日常。"
+                }
+            ]
+        },
+        "analysis": "此诗以石门寺为题，白描山石、野花、寒笋等景，意象陈旧，缺乏新意。颈联叙事官僧活动，虽具生活气息，但情感浅显，未见禅意深度。尾联鸽觑台，略显空洞。整体技法平庸，立意未脱俗套，属凡品。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以白描手法呈现自然，但因意象堆砌而未达自然之趣。",
+                "realm": "能",
+                "reason": "描写直白，缺乏自然之妙。"
+            }
+        ],
+        "imagery": [
+            "寺",
+            "山",
+            "石",
+            "野花",
+            "笋",
+            "苔",
+            "鸽",
+            "台"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "颔联‘野花黄类菊，寒笋绿黏苔’对仗尚可。"
+        }
+    },
+    {
+        "title": "無言師還道院求詩",
+        "author": "趙師秀",
+        "paragraphs": [
+            "師已無言矣，今吾何所云。",
+            "惟知佛照子，曾管雁山雲。",
+            "天下閒爲寶，人間熱似焚。",
+            "筠州郡齋近，安坐過秋分。"
+        ],
+        "paragraphs_simplified": [
+            "师已无言矣，今吾何所云。",
+            "惟知佛照子，曾管雁山云。",
+            "天下闲为宝，人间热似焚。",
+            "筠州郡斋近，安坐过秋分。"
+        ],
+        "translation": "师父已经无言了，现在我还能说什么呢。只知道佛照子，曾经管理雁山的云。天下闲适是宝，人间热得像焚烧。筠州郡斋近，安坐度过秋分。",
+        "score": 2.8,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以师无言起兴，引出自身语塞；中间两句转入佛照子典故与天下闲适之论；末句以郡斋安坐点出秋分时节的淡泊心境。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "人间热似焚，以焚烧喻尘世喧嚣。"
+                }
+            ]
+        },
+        "analysis": "此诗以无言师为引，构筑禅理框架，但意象陈旧，雁山云与人间热似焚的对比生硬，缺乏情景交融的真切感。情感流于表面，未达含蓄之境，整体立意浅显，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以秋分、郡斋营造淡泊之境，但佛照子典故突兀，未能浑然一体。",
+                "realm": "能",
+                "reason": "技法尚熟，但意境隔膜，未能臻于冲淡之妙。"
+            }
+        ],
+        "imagery": [
+            "师",
+            "佛",
+            "山",
+            "云",
+            "人间",
+            "郡斋",
+            "秋分"
+        ],
+        "allusions": [
+            {
+                "phrase": "佛照子",
+                "explanation": "可能指禅宗人物，但具体未明，典故运用模糊。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "天下闲为宝，人间热似焚一句，以对比凸显主题，稍具张力。"
+        }
+    },
+    {
+        "title": "送謝耘之無爲",
+        "author": "趙師秀",
+        "paragraphs": [
+            "雙旌雖有舊，道路亦勞形。",
+            "不用携書尺，惟當带酒瓶。",
+            "柘空淮繭白，梅近楚秧青。",
+            "爾以親爲請，仁人豈厭聽。"
+        ],
+        "paragraphs_simplified": [
+            "双旌虽有旧，道路亦劳形。",
+            "不用携书尺，惟当带酒瓶。",
+            "柘空淮茧白，梅近楚秧青。",
+            "尔以亲为请，仁人岂厌听。"
+        ],
+        "translation": "双旌虽有旧，道路也劳形。不用带书尺，只应当带酒瓶。柘空淮茧白，梅近楚秧青。你以亲为请，仁人岂厌听。",
+        "score": 2.5,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "惜别",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "细节描写"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首联点明送别与劳形，颔联劝以酒代书，颈联以景物烘托时令，尾联以仁人纳请作结。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "柘空淮茧白，梅近楚秧青，工整对仗，描绘地方风物。"
+                }
+            ]
+        },
+        "analysis": "此诗送别，意象堆砌如双旌、酒瓶、柘茧、楚秧，缺乏情感深度。颈联写景生硬，未能与离情交融。立意老套，纯属应酬之作，辞藻平庸。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以柘茧、楚秧等物象呈现自然，但拼凑痕迹明显，未达浑成。",
+                "realm": "凡",
+                "reason": "技法简单，意境浅显，模仿自然却流于直白。"
+            }
+        ],
+        "imagery": [
+            "旌旗",
+            "路",
+            "酒瓶",
+            "柘",
+            "茧",
+            "梅",
+            "秧"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "柘空淮茧白，梅近楚秧青一句，对偶工整，画面感稍强。"
+        }
+    },
+    {
+        "title": "秋日遊棲霞菴",
+        "author": "趙師秀",
+        "paragraphs": [
+            "乘興入孤村，神凝秋水間。",
+            "菊開嫌徑小，荷盡覺池寬。",
+            "林影懸崖屋，鐘聲何處山。",
+            "清遊殊未倦，初月照松關。"
+        ],
+        "paragraphs_simplified": [
+            "乘兴入孤村，神凝秋水间。",
+            "菊开嫌径小，荷尽觉池宽。",
+            "林影悬崖屋，钟声何处山。",
+            "清游殊未倦，初月照松关。"
+        ],
+        "translation": "乘兴进入孤村，神凝在秋水间。菊花开嫌径小，荷叶尽觉池宽。林影悬在崖屋，钟声从何处山。清游未倦，初月照松关。",
+        "score": 4.2,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首联点题入村，颔联以菊荷拟人写景，颈联以林影钟声绘声色，尾联以初月照关呼应清游未倦。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "菊开嫌径小，赋予菊花情感，生动传神。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "钟声何处山，以声衬静，拓宽意境。"
+                }
+            ]
+        },
+        "analysis": "此诗情景交融，菊开嫌径小以拟人勾勒幽径之趣，钟声何处山以声写静，构筑空灵之境。初月照松关收束全篇，清游之致回甘悠长。意象真切，技法缜密，属能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "孤村、秋水、菊荷、钟声、初月，意象清冷奇崛，浑然一体。",
+                "realm": "妙",
+                "reason": "意境真切，动静相生，深得清奇之旨。"
+            }
+        ],
+        "imagery": [
+            "孤村",
+            "秋水",
+            "菊",
+            "径",
+            "荷",
+            "池",
+            "林影",
+            "崖屋",
+            "钟声",
+            "山",
+            "初月",
+            "松关"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "菊开嫌径小，荷尽觉池宽一句，拟人巧妙，以小见大，尽显秋意。"
+        }
+    },
+    {
+        "title": "夜宿江浦聞元八改官寄此",
+        "author": "趙師秀",
+        "paragraphs": [
+            "君遊丹陛已三遷，我泛滄浪亦二年。",
+            "劍佩曉趨雙鳳闕，煙波夜宿一漁船。",
+            "交親盡在青雲上，鄉曲都拋白日邊。",
+            "若報生涯應笑殺，結茆栽芋種畬田。"
+        ],
+        "paragraphs_simplified": [
+            "君游丹陛已三迁，我泛沧浪亦二年。",
+            "剑佩晓趋双凤阙，烟波夜宿一渔船。",
+            "交亲尽在青云上，乡曲都抛白日边。",
+            "若报生涯应笑杀，结茆栽芋种畬田。"
+        ],
+        "translation": "君在丹陛已三迁，我泛沧浪亦二年。剑佩晓趋双凤阙，烟波夜宿一渔船。交亲尽在青云上，乡曲都抛白日边。若报生涯应笑杀，结茆栽芋种畬田。",
+        "score": 3.7,
+        "subject": [
+            "酬唱诗"
+        ],
+        "emotion": [
+            "孤独",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "对比",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "点染结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首联以君我对比起笔，颔联以剑佩与烟波渲染宦隐之别，颈联以青云白日喻人情，尾联以笑杀结茆点出超脱之志。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "青云喻高位，白日喻世俗，意象鲜明。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "君游丹陛已三迁，我泛沧浪亦二年，工整对比。"
+                }
+            ]
+        },
+        "analysis": "此诗以宦海浮沉为背景，剑佩晓趋与烟波夜宿的意象对比强烈，折射出仕隐矛盾。青云白日之喻，暗含讽喻，尾联结茆种田，豁达中见无奈。技法成熟，但情感稍显直露，未能含蓄。",
+        "poetry_styles": [
+            {
+                "style": "旷达",
+                "imagery_analysis": "丹陛、沧浪、凤阙、渔船，意象对立，构筑超脱之境。",
+                "realm": "能",
+                "reason": "对比鲜明，但情感宣泄过多，未达旷达之妙。"
+            }
+        ],
+        "imagery": [
+            "丹陛",
+            "沧浪",
+            "剑佩",
+            "凤阙",
+            "烟波",
+            "渔船",
+            "青云",
+            "白日",
+            "茆",
+            "芋",
+            "畬田"
+        ],
+        "allusions": [
+            {
+                "phrase": "沧浪",
+                "explanation": "化用《楚辞·渔父》沧浪之水，喻隐逸。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "剑佩晓趋双凤阙，烟波夜宿一渔船一句，以昼夜对比，凸显身份悬殊。"
+        }
+    },
+    {
+        "title": "句  其一",
+        "author": "趙師秀",
+        "paragraphs": [
+            "病與西湖絕半年。"
+        ],
+        "paragraphs_simplified": [
+            "病与西湖绝半年。"
+        ],
+        "translation": "病与西湖绝半年。",
+        "score": 1.2,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [],
+            "structural_logic": "单句直陈病况，无结构可言。",
+            "evidence": []
+        },
+        "analysis": "此断句仅陈述病与西湖隔绝半年，无意境、无技法，纯属口语记录。缺乏诗意，属劣作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图以病与西湖暗示羁旅，但过于直白，毫无余味。",
+                "realm": "劣",
+                "reason": "技法全无，立意浅薄，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "病",
+            "西湖"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句仅此一句，勉强作为代表。"
+        }
+    },
+    {
+        "title": "句  其二",
+        "author": "趙師秀",
+        "paragraphs": [
+            "况多秋蘚色。"
+        ],
+        "paragraphs_simplified": [
+            "况多秋藓色。"
+        ],
+        "translation": "况且多是秋天的藓苔颜色。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "单句直接描写秋藓颜色。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "描写秋藓的颜色细节。"
+                }
+            ]
+        },
+        "analysis": "单句描写秋藓之色，意象狭窄，缺乏情感深度与意境拓展，流于表面状物，未能构筑审美空间。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "意象单一，但用词简洁。",
+                "realm": "能品",
+                "reason": "试图洗炼但失之简陋，未能以少胜多。"
+            }
+        ],
+        "imagery": [
+            "藓"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一一句，直接描写。"
+        }
+    },
+    {
+        "title": "句  其三",
+        "author": "趙師秀",
+        "paragraphs": [
+            "恨不坐通宵。"
+        ],
+        "paragraphs_simplified": [
+            "恨不坐通宵。"
+        ],
+        "translation": "恨不能坐通宵。",
+        "score": 2.0,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "单句直接抒发遗憾之情。",
+            "evidence": [
+                {
+                    "tag": "直接抒情",
+                    "explanation": "直白表达恨不坐通宵的遗憾。"
+                }
+            ]
+        },
+        "analysis": "直抒胸臆，但缺乏意象支撑与情感层次，流于口头宣泄，无审美回甘。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "无具体意象，情感空洞。",
+                "realm": "劣",
+                "reason": "试图悲慨但实则浅露，无沉郁之致。"
+            }
+        ],
+        "imagery": [],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一一句，直接抒情。"
+        }
+    },
+    {
+        "title": "句  其四",
+        "author": "趙師秀",
+        "paragraphs": [
+            "路曲山隈一徑通。"
+        ],
+        "paragraphs_simplified": [
+            "路曲山隈一径通。"
+        ],
+        "translation": "路弯曲，山隈有一条小径通。",
+        "score": 3.0,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "单句描写山路景象。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "描写路曲、山隈、一径通的细节。"
+                }
+            ]
+        },
+        "analysis": "勾勒山径曲折通幽之景，意象虽具但未深化，整体平实，缺乏独特意境。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "山水意象自然呈现。",
+                "realm": "能品",
+                "reason": "试图自然但失之平淡，无惊人之笔。"
+            }
+        ],
+        "imagery": [
+            "路",
+            "山",
+            "径"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一一句，描写景象。"
+        }
+    },
+    {
+        "title": "句  其五",
+        "author": "趙師秀",
+        "paragraphs": [
+            "聞見隨時入品題。"
+        ],
+        "paragraphs_simplified": [
+            "闻见随时入品题。"
+        ],
+        "translation": "见闻随时进入品题。",
+        "score": 2.5,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "单句直接议论。",
+            "evidence": [
+                {
+                    "tag": "议论",
+                    "explanation": "直接表达见闻品题的观点。"
+                }
+            ]
+        },
+        "analysis": "抽象说理，缺乏形象与情感，诗意稀薄，近乎格言而非诗。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "无具体意象。",
+                "realm": "劣",
+                "reason": "试图典雅但实则空洞，无文采。"
+            }
+        ],
+        "imagery": [],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一一句，直接议论。"
+        }
+    },
+    {
+        "title": "句  其六",
+        "author": "趙師秀",
+        "paragraphs": [
+            "地僻傳聞新事少，路遥牽率故人多。"
+        ],
+        "paragraphs_simplified": [
+            "地僻传闻新事少，路遥牵率故人多。"
+        ],
+        "translation": "地方偏僻，传闻新事少；路途遥远，牵引故人多。",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "孤独",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "对比"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "两句对仗，对比地僻与路遥、新事少与故人多。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "地僻对路遥，新事少对故人多，工整。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "新事少与故人多形成对比。"
+                }
+            ]
+        },
+        "analysis": "对仗工整，通过地僻路遥与新事故人的对比，勾勒出偏远而人情温暖的境界，有生活实感。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "地、路、故人意象自然组合。",
+                "realm": "能品",
+                "reason": "自然流露，但未达高妙。"
+            }
+        ],
+        "imagery": [
+            "地",
+            "路",
+            "故人"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点题，与下句形成对比。"
+        }
+    },
+    {
+        "title": "句  其七",
+        "author": "趙師秀",
+        "paragraphs": [
+            "一瓶茶外無祗待，同上西樓看晚山。"
+        ],
+        "paragraphs_simplified": [
+            "一瓶茶外无祗待，同上西楼看晚山。"
+        ],
+        "translation": "除了这一瓶茶之外别无他待，一同登上西楼观赏傍晚的山景。",
+        "score": 2.8,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先点出茶与等待，后转行动上楼看山，以景结情。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过‘同上西楼看晚山’的景物描写，流露闲适之情。"
+                }
+            ]
+        },
+        "analysis": "此句以茶事起兴，勾勒出简淡的待客场景，随即转入登楼观山的行动。意象陈旧，楼阁与晚山乃古典诗中常见元素，组合缺乏新意。情感表达直白，未见深层寄托，整体流于表面化的闲适姿态，意境浅显，缺乏回味余地。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "茶、楼、山等意象试图构筑淡泊之境，但组合松散，未能达成真正的冲和之气。",
+                "realm": "能",
+                "reason": "技法平熟，但意境未臻上乘，属能品中下之作。"
+            }
+        ],
+        "imagery": [
+            "茶",
+            "楼",
+            "山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘同上西楼看晚山’以动作收束，画面感稍强。"
+        }
+    },
+    {
+        "title": "句  其八",
+        "author": "趙師秀",
+        "paragraphs": [
+            "石畔長來枝易老，竹間瘦得萼全清。"
+        ],
+        "paragraphs_simplified": [
+            "石畔长来枝易老，竹间瘦得萼全清。"
+        ],
+        "translation": "石边长久生长的枝条容易老去，竹间瘦弱的花萼全然清雅。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [],
+            "structural_logic": "通过石畔与竹间的对举，描写植物老瘦之态，寄托清高之意。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "‘石畔’对‘竹间’，‘枝易老’对‘萼全清’，工整而乏灵动。"
+                }
+            ]
+        },
+        "analysis": "此联刻意雕琢物态，石竹之象虽具，而寄托平庸。‘枝老’‘萼清’之喻，意象陈旧，未脱前人窠臼。对仗工稳却显板滞，情感内核空洞，徒有形式而无深意，属堆砌辞藻之作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "石竹意象本可出奇，但描写流于常套，未能呈现清奇之境。",
+                "realm": "凡",
+                "reason": "立意浅显，技法平庸，属凡品。"
+            }
+        ],
+        "imagery": [
+            "石",
+            "竹",
+            "枝",
+            "萼"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘竹间瘦得萼全清’稍显凝练。"
+        }
+    },
+    {
+        "title": "句  其九",
+        "author": "趙師秀",
+        "paragraphs": [
+            "教人知遁甲，笑客問勾庚。"
+        ],
+        "paragraphs_simplified": [
+            "教人知遁甲，笑客问勾庚。"
+        ],
+        "translation": "教导别人知道遁甲之术，笑对客人询问勾庚之事。",
+        "score": 2.2,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直述行为，以典故入诗，缺乏情景交融。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "‘遁甲’指奇门遁甲，‘勾庚’或为术数术语，典故晦涩。"
+                }
+            ]
+        },
+        "analysis": "此句堆砌术数典故，遁甲、勾庚之语，生僻难解。意象抽象，脱离生活实感，读者如坠云雾。虽欲显高古，实则流于艰涩，情感表达缺失，整体生硬造作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图以典故营造高古之气，但用典不当，反显堆砌。",
+                "realm": "劣",
+                "reason": "典故晦涩，意脉断裂，属劣作。"
+            }
+        ],
+        "imagery": [
+            "遁甲",
+            "勾庚"
+        ],
+        "allusions": [
+            {
+                "phrase": "遁甲",
+                "explanation": "奇门遁甲，古代术数之学。"
+            },
+            {
+                "phrase": "勾庚",
+                "explanation": "可能指勾陈或庚申，具体未详，属冷僻典故。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句‘教人知遁甲’相对通顺。"
+        }
+    },
+    {
+        "title": "寓言二首  其一",
+        "author": "蘇泂",
+        "paragraphs": [
+            "精神徧八方，一散或爲風。",
+            "堂堂世之人，奈何總虛空。",
+            "我無騰化術，正爾不能從。",
+            "回視恍兮惚，老子其猶龍。"
+        ],
+        "paragraphs_simplified": [
+            "精神遍八方，一散或为风。",
+            "堂堂世之人，奈何总虚空。",
+            "我无腾化术，正尔不能从。",
+            "回视恍兮惚，老子其犹龙。"
+        ],
+        "translation": "精神遍布八方，一散或为风。堂堂世人，奈何总虚空。我无腾化之术，正不能从。回视恍兮惚，老子其犹龙。",
+        "score": 3.6,
+        "subject": [
+            "哲理诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "引用"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "从精神散风起论，转至世人虚空，自叹不能腾化，最终引用老子，点出玄理。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "‘老子其犹龙’直接引用《道德经》，强化哲理深度。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "‘一散或为风’喻精神无常，‘犹龙’喻老子玄妙。"
+                }
+            ]
+        },
+        "analysis": "此诗以寓言形式探讨精神与虚空，意象抽象而高古。引用老子典故，使哲理具权威性，但情感内核较冷，缺乏具体情境支撑。结构紧凑，卒章显志，但语言稍显直白，‘堂堂世之人’等句略欠锤炼。整体立意深远，却因过度玄虚而失之隔膜，属哲理诗中稳健之作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "以老子典故与抽象概念构筑高古之境，但意象不够鲜活，略显枯淡。",
+                "realm": "能",
+                "reason": "哲理深刻，但表达稍欠含蓄，属能品。"
+            }
+        ],
+        "imagery": [
+            "精神",
+            "风",
+            "虚空",
+            "老子"
+        ],
+        "allusions": [
+            {
+                "phrase": "老子其犹龙",
+                "explanation": "出自《道德经》，形容老子玄妙难测。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "‘老子其犹龙’以典故收束，点明主旨。"
+        }
+    },
+    {
+        "title": "寓言二首  其二",
+        "author": "蘇泂",
+        "paragraphs": [
+            "函關度青牛，生在空桑中。",
+            "藁砧未刀頭，妾身變山峰。",
+            "三年化爲碧，是血本來紅。",
+            "古來埋直氣，曾見吐長虹。"
+        ],
+        "paragraphs_simplified": [
+            "函关度青牛，生在空桑中。",
+            "藁砧未刀头，妾身变山峰。",
+            "三年化为碧，是血本来红。",
+            "古来埋直气，曾见吐长虹。"
+        ],
+        "translation": "穿越函谷关度过青牛，生于空桑之中。砧板未做刀头，妾身化作山峰。三年化为碧玉，是血本来红色。古来埋没正直之气，曾见吐出长虹。",
+        "score": 3.8,
+        "subject": [
+            "寓言诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "愤懑",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "以神话意象起笔，转入个人悲剧，最终升华至正直之气的永恒。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "妾身变山峰，将女性悲剧具象化为自然物象。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "函关度青牛暗指老子出关，赋予文本历史纵深感。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "三年化为碧，强化牺牲的极致性。"
+                }
+            ]
+        },
+        "analysis": "此诗构筑了一个融合神话与个人悲剧的寓言世界。青牛出关与空桑意象，奠定苍茫的时空基调；妾身化峰、血化碧玉的比喻，将女性牺牲渲染得凄艳而决绝。结尾埋直气、吐长虹，以雄浑笔触勾勒出正直不屈的精神图腾。典故运用稍显生硬，但虚实结合的呈现方式，使意境在悲慨中透出超逸之气。整体上，意象密集而富有张力，情感通过物象间接渗透，避免了直白宣泄。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "青牛、空桑、山峰、碧血、长虹等意象，构筑出苍凉而壮烈的悲剧氛围。",
+                "realm": "能品",
+                "reason": "试图模仿高古悲慨，但典故堆砌稍损自然，未能完全达到浑然一体之境。"
+            }
+        ],
+        "imagery": [
+            "青牛",
+            "山峰",
+            "碧血",
+            "长虹"
+        ],
+        "allusions": [
+            {
+                "phrase": "函关度青牛",
+                "explanation": "暗指老子出函谷关的典故。"
+            },
+            {
+                "phrase": "化碧",
+                "explanation": "引用苌弘化碧的传说，象征忠贞。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句以埋直气、吐长虹收束，卒章显志，升华全诗精神内核。"
+        }
+    },
+    {
+        "title": "口占",
+        "author": "蘇泂",
+        "paragraphs": [
+            "士生弊於文，其實乃無用。",
+            "今年州縣間，朋友多不貢。",
+            "桔槔旱而工，已得輕抱甕。",
+            "大舜舉皋陶，乃曰選於衆。"
+        ],
+        "paragraphs_simplified": [
+            "士生弊于文，其实乃无用。",
+            "今年州县间，朋友多不贡。",
+            "桔槔旱而工，已得轻抱瓮。",
+            "大舜举皋陶，乃曰选于众。"
+        ],
+        "translation": "士人因文而弊，其实无用。今年州县之间，朋友多不进贡。桔槔虽旱而巧工，已得轻松抱瓮。大舜举用皋陶，乃说从众人中选拔。",
+        "score": 2.5,
+        "subject": [
+            "讽喻诗",
+            "议论诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "失望"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "用典"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "直抒胸臆"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直指文人之弊，中二句以现实佐证，尾句用典反讽当下选拔不公。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "桔槔与抱瓮对比，暗示机巧与质朴的取舍。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "大舜举皋陶，以古制讽刺当下人才选拔的弊端。"
+                }
+            ]
+        },
+        "analysis": "此诗以议论开篇，直刺文人空疏无用之弊。州县朋友不贡的现实描写，与桔槔、抱瓮的典故形成对比，勾勒出当时官场的虚伪与僵化。尾句借大舜举皋陶之典，反讽当下选拔机制的失当。全诗语言直白，缺乏意象渲染，情感表达过于直露，近乎说教。立意虽切中时弊，但缺乏审美距离，沦为平铺直叙的批评。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "桔槔、抱瓮等意象，试图以物象承载议论，但未能形成意境。",
+                "realm": "凡品",
+                "reason": "试图模仿劲健直指之风，但议论过重，缺乏诗味，流于粗浅。"
+            }
+        ],
+        "imagery": [
+            "桔槔",
+            "抱瓮"
+        ],
+        "allusions": [
+            {
+                "phrase": "大舜举皋陶",
+                "explanation": "引用舜帝举用皋陶的典故，强调选贤任能。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句开门见山，点明主题，语言犀利。"
+        }
+    },
+    {
+        "title": "題欒城第三集",
+        "author": "蘇泂",
+        "paragraphs": [
+            "百金貿一書，我心胡不喜。",
+            "自朝至日暝，耽玩無窮已。",
+            "復慚文未老，年既三十四。",
+            "更後四十年，未必辦茲事。"
+        ],
+        "paragraphs_simplified": [
+            "百金贸一书，我心胡不喜。",
+            "自朝至日暝，耽玩无穷已。",
+            "复惭文未老，年既三十四。",
+            "更后四十年，未必办兹事。"
+        ],
+        "translation": "百金买一书，我心怎能不喜。从早到晚，沉迷玩味无穷。又惭愧文章未老，年龄已三十四。再过四十年，未必能成此事。",
+        "score": 3.2,
+        "subject": [
+            "题画诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "遗憾",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "直抒胸臆"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "首联以设问起，表达得书之喜；颔联叙事沉迷；颈联转折自惭年岁；尾联展望未来，流露无奈。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "我心胡不喜，以问句强化情感。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "耽玩无穷已，夸大沉迷程度。"
+                }
+            ]
+        },
+        "analysis": "此诗以百金贸书的叙事起笔，直抒得书之喜，但情感迅速转入自省。耽玩无穷已的夸张描写，与年既三十四的现实形成反差，构筑出文人对时光流逝的焦虑。尾联以未必办兹事收束，将喜悦消解于迷茫之中。全诗结构平实，情感真挚但缺乏意象烘托，语言直白，审美层次较浅。整体上，是一首坦诚的个人感怀，但未达到含蓄深远之境。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以书为核心意象，但缺乏自然景物的烘托，情感直露。",
+                "realm": "凡品",
+                "reason": "试图追求自然流露，但语言过于平实，缺乏提炼。"
+            }
+        ],
+        "imagery": [
+            "书"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "颈联转折自惭，情感真实，点出年龄与创作的矛盾。"
+        }
+    }
+]

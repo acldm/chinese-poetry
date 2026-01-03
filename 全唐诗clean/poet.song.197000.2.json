@@ -1,0 +1,2132 @@
+[
+    {
+        "title": "無詩",
+        "author": "史彌寧",
+        "paragraphs": [
+            "合向青林岸幅巾，却來閙裏著吟身。",
+            "竹君門外私相語，兩日無詩羞殺人。"
+        ],
+        "paragraphs_simplified": [
+            "合向青林岸幅巾，却来闹里著吟身。",
+            "竹君门外私相语，两日无诗羞杀人。"
+        ],
+        "translation": "本应面向青林岸边裹着头巾，却来到喧闹中穿上吟诗之身。竹君在门外私下交谈，两天没写诗羞死人。",
+        "score": 2.5,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "羞愧",
+            "自嘲"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句写理想与现实的矛盾，次句用拟人手法表达无诗的羞愧。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "竹君门外私相语将竹子拟人化，赋予其情感。"
+                },
+                {
+                    "tag": "直接抒情",
+                    "explanation": "两日无诗羞杀人直接表达羞愧之情。"
+                }
+            ]
+        },
+        "analysis": "此诗以自嘲口吻写无诗之窘境。首句对比青林幽居与闹市吟诗，反差强烈。次句借竹君私语，拟人化地渲染羞愧。语言直白，意象陈旧，缺乏新意。整体立意浅显，属于文人游戏之作，艺术价值有限。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "青林、竹君意象常见，无新意。",
+                "realm": "劣",
+                "reason": "意象陈旧，立意浅显，拟人手法生硬，整体平庸。"
+            }
+        ],
+        "imagery": [
+            "林",
+            "竹",
+            "诗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句拟人手法生动，情感表达直接。"
+        }
+    },
+    {
+        "title": "周晦叔所宅之左一坡隠然而高有竹萬箇架小軒於翠霧蒼雪間日彈琴讀書其下軒外鳴泉清駛若與弦誦之聲相答愛其境勝爲賦一絕",
+        "author": "史彌寧",
+        "paragraphs": [
+            "竹根碧澗落寒聲，竹外雙溪抵鏡明。",
+            "滿袖天風吟不徹，坡頭直有許多清。"
+        ],
+        "paragraphs_simplified": [
+            "竹根碧涧落寒声，竹外双溪抵镜明。",
+            "满袖天风吟不彻，坡头直有许多清。"
+        ],
+        "translation": "竹根处碧绿的山涧落下寒凉的水声，竹林外双溪清澈如镜。满袖天风吟诗不尽，坡头直有许多清幽。",
+        "score": 4.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句写景，次句抒情，情景交融。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "双溪抵镜明将溪水比作明镜。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "落寒声动，抵镜明静。"
+                }
+            ]
+        },
+        "analysis": "此诗描绘周晦叔宅左清幽之境。首句以竹根碧涧与竹外双溪勾勒山水清音，动静相宜。次句满袖天风写吟诗之兴，结句直指心境澄澈。意象清新，语言凝练，情景契合度高。整体意境真切，有回甘之味，属佳作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "竹、涧、溪、风意象清冷高洁。",
+                "realm": "妙",
+                "reason": "意象组合巧妙，动静结合，意境清幽，语言精炼。"
+            }
+        ],
+        "imagery": [
+            "竹",
+            "涧",
+            "溪",
+            "风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句写景生动，动静结合，奠定全诗清幽基调。"
+        }
+    },
+    {
+        "title": "浮驂",
+        "author": "史彌寧",
+        "paragraphs": [
+            "天凈風平水不痕，浮驂带雪繫籬根。",
+            "欺寒酒興崢嶸甚，又訪梅花過別村。"
+        ],
+        "paragraphs_simplified": [
+            "天净风平水不痕，浮骖带雪系篱根。",
+            "欺寒酒兴峥嵘甚，又访梅花过别村。"
+        ],
+        "translation": "天空澄净风平浪静水面无痕，浮骖马带着雪系在篱笆根。冒寒酒兴高昂，又去访问梅花过别的村庄。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "首句写冬日宁静景象，次句写酒兴访梅，行动连贯。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "欺寒酒兴峥嵘甚夸张酒兴之高。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "浮骖带雪系篱根以雪景衬托豪情。"
+                }
+            ]
+        },
+        "analysis": "此诗写冬日访梅之雅兴。首句天净风平渲染宁静氛围，与浮骖带雪形成动静对比。次句欺寒酒兴直抒豪迈，结句行动自然。意象典型，但立意常见，缺乏新意。语言流畅，整体平庸，属能品。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "天、水、雪、梅意象冬日清冷，酒兴增添豪气。",
+                "realm": "能",
+                "reason": "意象组合传统，情感表达直接，但缺乏独特艺术价值。"
+            }
+        ],
+        "imagery": [
+            "天",
+            "水",
+            "雪",
+            "梅",
+            "酒"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句酒兴峥嵘，访梅行动显豪迈之气。"
+        }
+    },
+    {
+        "title": "書蘇道士江行圖後  其一",
+        "author": "史彌寧",
+        "paragraphs": [
+            "叟也胸中天地寬，雲烟衮衮出毫端。",
+            "如何萬里經行處，不費晴窗半日看。"
+        ],
+        "paragraphs_simplified": [
+            "叟也胸中天地宽，云烟衮衮出毫端。",
+            "如何万里经行处，不费晴窗半日看。"
+        ],
+        "translation": "老叟胸中天地宽广，云烟滚滚从笔端流出。如何万里行程之处，不费晴窗半日观赏。",
+        "score": 3.5,
+        "subject": [
+            "题画诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首句写画师胸襟，次句写画作逼真，万里景致半日可览。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "胸中天地宽夸张画师胸怀。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "胸中天地虚，出毫端实。"
+                }
+            ]
+        },
+        "analysis": "此诗题苏道士江行图。首句叟也胸中天地宽赞画师气魄，次句如何万里经行处叹画作逼真，以虚写实。意象宏大，但语言稍显直白，缺乏细腻刻画。整体立意清晰，但艺术表现一般，属能品。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "天地、云烟、万里意象开阔。",
+                "realm": "能",
+                "reason": "立意明确，但描写不够生动，缺乏画龙点睛之笔。"
+            }
+        ],
+        "imagery": [
+            "天地",
+            "云烟",
+            "窗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句胸中天地宽更显画师气魄。"
+        }
+    },
+    {
+        "title": "書蘇道士江行圖後  其二",
+        "author": "史彌寧",
+        "paragraphs": [
+            "詩酒漂零自在身，吳檣楚柂往來頻。",
+            "拂開數匹臨川紙，一一江山是故人。"
+        ],
+        "paragraphs_simplified": [
+            "诗酒漂零自在身，吴樯楚柂往来频。",
+            "拂开数匹临川纸，一一江山是故人。"
+        ],
+        "translation": "诗酒漂泊自在之身，吴樯楚柂往来频繁。拂开数匹临川纸，一一江山都是故人。",
+        "score": 3.5,
+        "subject": [
+            "题画诗"
+        ],
+        "emotion": [
+            "孤独",
+            "思乡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句写自身漂泊，次句写画中江山如故人，情感递进。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "一一江山是故人将江山比作故人。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "拂开数匹临川纸通过画纸表达怀旧。"
+                }
+            ]
+        },
+        "analysis": "此诗再题画作，侧重情感。首句诗酒漂零自在身写漂泊生涯，次句一一江山是故人以画为友，寄托深情。意象具体，但江山是故人比喻陈旧。整体情感真挚，但语言平实，缺乏惊艳之笔，属能品。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "诗酒、江山、纸意象文人化。",
+                "realm": "能",
+                "reason": "立意清晰，情感真挚，但比喻老套，艺术创新不足。"
+            }
+        ],
+        "imagery": [
+            "诗酒",
+            "江山",
+            "纸"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句江山是故人更显深情，情感表达含蓄。"
+        }
+    },
+    {
+        "title": "書蘇道士江行圖後  其三",
+        "author": "史彌寧",
+        "paragraphs": [
+            "飄然雲鶴老江湖，匠出烟波絕世無。",
+            "一見昏眸爲渠豁，半生空挂輞川圖。"
+        ],
+        "paragraphs_simplified": [
+            "飘然云鹤老江湖，匠出烟波绝世无。",
+            "一见昏眸为渠豁，半生空挂辋川图。"
+        ],
+        "translation": "飘然如云中之鹤，老于江湖；出自烟波，绝世无双。一见昏眼为之豁然，半生空自悬挂辋川图。",
+        "score": 2.5,
+        "subject": [
+            "题画诗"
+        ],
+        "emotion": [
+            "闲适",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句以云鹤、烟波比喻画作之超逸，后两句用辋川图典故，表达对画作的赞叹与自身遗憾。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'云鹤'喻画中人物之飘逸"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用王维'辋川图'典故"
+                }
+            ]
+        },
+        "analysis": "意象陈旧，云鹤烟波之类已成题画诗俗套，缺乏新意。立意浅显，仅止于对画作的表面赞美，未见深层寄托。技法娴熟但流于形式，半生空挂之语略显矫情，整体格调平庸。",
+        "poetry_styles": [
+            {
+                "style": "飘逸",
+                "imagery_analysis": "试图以云鹤烟波构筑飘逸意境，但意象组合陈旧，未能超脱凡俗。",
+                "realm": "逸品",
+                "reason": "模仿飘逸风格却流于表面，画虎不成反类犬，缺乏真正的超诣之境。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "鹤",
+            "烟波",
+            "图"
+        ],
+        "allusions": [
+            {
+                "phrase": "辋川图",
+                "explanation": "指唐代王维的辋川别业图，代指高雅画作"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句用典较含蓄，略显文采"
+        }
+    },
+    {
+        "title": "有惠廬山圖者",
+        "author": "史彌寧",
+        "paragraphs": [
+            "生平巖岫飽躋攀，忽得雲巒挂壁間。",
+            "不怕老來無脚力，閉門端坐看廬山。"
+        ],
+        "paragraphs_simplified": [
+            "生平岩岫饱跻攀，忽得云峦挂壁间。",
+            "不怕老来无脚力，闭门端坐看庐山。"
+        ],
+        "translation": "生平饱览山岩，忽得云山挂壁间。不怕老来无脚力，闭门端坐看庐山。",
+        "score": 3.0,
+        "subject": [
+            "题画诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句叙事生平与得画，后两句转折，以闭门看山化解老来无力之困，虚实相生。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "老来无脚力与闭门端坐形成对比"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "实写得画，虚写看山神游"
+                }
+            ]
+        },
+        "analysis": "情感真挚，但立意浅显，仅表达以画代游的闲适之情，缺乏深刻意境。语言平实，无甚佳句，整体流于应酬之作的常规表达，未见独特艺术价值。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以平实语言表现自然之趣，但过于直白，缺乏韵味。",
+                "realm": "能品",
+                "reason": "技法尚可，但意境平淡，未能达到自然风格的真淳境界。"
+            }
+        ],
+        "imagery": [
+            "岩岫",
+            "云峦",
+            "庐山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句转折稍有意趣"
+        }
+    },
+    {
+        "title": "香澗老衲示似玉林首倡極道竹溪宴月之樂玉林勉以屬和  其一",
+        "author": "史彌寧",
+        "paragraphs": [
+            "長松翠竹拱晴波，不飲其如月色何。",
+            "珍重阿連能好事，高軒携酒夜深過。"
+        ],
+        "paragraphs_simplified": [
+            "长松翠竹拱晴波，不饮其如月色何。",
+            "珍重阿连能好事，高轩携酒夜深过。"
+        ],
+        "translation": "长松翠竹环绕晴波，不饮奈月色何。珍重阿连能好事，高轩携酒夜深过。",
+        "score": 4.0,
+        "subject": [
+            "宴饮诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句以景物拟人，烘托月色诱人；后两句叙事，以携酒夜访呼应前文，情景交融。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "长松翠竹'拱'晴波，赋予植物动作"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "长松翠竹与晴波形成视觉对偶"
+                }
+            ]
+        },
+        "analysis": "意象清丽，长松翠竹与晴波月色构筑出幽雅意境。拟人手法生动，'拱'字传神，情感流露自然而不直露。整体情景契合度高，有回甘之韵，属题咏佳作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以松竹波月组合，营造出清朗奇逸的夜景，意境真切。",
+                "realm": "妙品",
+                "reason": "情景交融，技法纯熟，符合清奇风格中清而不薄、奇而不诡的特质。"
+            }
+        ],
+        "imagery": [
+            "松",
+            "竹",
+            "波",
+            "月",
+            "酒"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句景物描写生动，拟人巧妙"
+        }
+    },
+    {
+        "title": "香澗老衲示似玉林首倡極道竹溪宴月之樂玉林勉以屬和  其二",
+        "author": "史彌寧",
+        "paragraphs": [
+            "孤令青蓮欠所親，月邊和影是三人。",
+            "何如洗醆溪光裏，弟勸兄酬汎玉輪。"
+        ],
+        "paragraphs_simplified": [
+            "孤令青莲欠所亲，月边和影是三人。",
+            "何如洗盏溪光里，弟劝兄酬泛玉轮。"
+        ],
+        "translation": "孤令青莲欠所亲，月边和影是三人。何如洗盏溪光里，弟劝兄酬泛玉轮。",
+        "score": 3.5,
+        "subject": [
+            "宴饮诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句用李白典故，以月影成三人虚写孤独；后两句转入实写溪边饮酒，兄弟酬答，虚实转换自然。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "青莲指李白，化用'对影成三人'"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "玉轮比喻明月"
+                }
+            ]
+        },
+        "analysis": "用典恰当，青莲之句略显文采，但整体意象组合较常见。情感表达含蓄，兄弟酬答之乐与前文孤寂形成对比，技法尚可，但未见突破性创新。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图以典故和比喻含蓄表达情感，但意象关联性不强，略显生硬。",
+                "realm": "能品",
+                "reason": "技法成熟但意境未深，含蓄有余而韵味不足。"
+            }
+        ],
+        "imagery": [
+            "青莲",
+            "月",
+            "影",
+            "溪",
+            "盏",
+            "玉轮"
+        ],
+        "allusions": [
+            {
+                "phrase": "青莲",
+                "explanation": "指唐代诗人李白，号青莲居士"
+            }
+        ],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句用典较巧妙"
+        }
+    },
+    {
+        "title": "琮上人以詩惠茶筍",
+        "author": "史彌寧",
+        "paragraphs": [
+            "解道碧雲句，三生湯惠休。",
+            "試春輟鷹爪，斸雨餉貓頭。",
+            "夢境可容到，饞涎那復流。",
+            "舌端吾薦取，倘不負珍投。"
+        ],
+        "paragraphs_simplified": [
+            "解道碧云句，三生汤惠休。",
+            "试春辍鹰爪，斸雨饷猫头。",
+            "梦境可容到，馋涎那复流。",
+            "舌端吾荐取，倘不负珍投。"
+        ],
+        "translation": "解道碧云句，三生汤惠休。试春辍鹰爪，斸雨饷猫头。梦境可容到，馋涎那复流。舌端吾荐取，倘不负珍投。",
+        "score": 4.2,
+        "subject": [
+            "咏物诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "赞美",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两联用典并借代茶笋，颈联转写感受，尾联直抒珍重之情，层层递进。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "鹰爪代指茶，猫头代指笋"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "汤惠休指南朝诗人，喻诗才"
+                }
+            ]
+        },
+        "analysis": "意象独特，鹰爪、猫头之借代新颖贴切，典故运用自然。情感真挚而不浮夸，从品诗到尝鲜，层次分明。整体技法娴熟，物我交融，属酬赠诗中的佳作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "以借代手法雅化日常物事，典故与实物结合，构筑出文雅意境。",
+                "realm": "妙品",
+                "reason": "用典精当，物象刻画细致，符合典雅风格中高雅不俗的特质。"
+            }
+        ],
+        "imagery": [
+            "碧云",
+            "汤",
+            "春",
+            "鹰爪",
+            "雨",
+            "猫头",
+            "梦境",
+            "馋涎",
+            "舌"
+        ],
+        "allusions": [
+            {
+                "phrase": "汤惠休",
+                "explanation": "南朝宋诗人，此处借指诗才"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "颔联借代巧妙，意象鲜活"
+        }
+    },
+    {
+        "title": "又次韻楊梅三絕句  其一",
+        "author": "史彌寧",
+        "paragraphs": [
+            "財到南村六月時，累累紅紫玉低垂。",
+            "筠籠送似露猶濕，更費支郎七字詩。"
+        ],
+        "paragraphs_simplified": [
+            "财到南村六月时，累累红紫玉低垂。",
+            "筠笼送似露犹湿，更费支郎七字诗。"
+        ],
+        "translation": "杨梅成熟于南村六月时，累累红果如玉低垂。竹篮送来似露水犹湿，更费支道林般的七字诗。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句点明时令与果实形态，次句以篮中露湿引出作诗之费，逻辑直白。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'玉低垂'喻杨梅形态，形象但陈旧。"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "筠笼送露的细节刻画，缺乏新意。"
+                }
+            ]
+        },
+        "analysis": "此诗以杨梅为题，首句铺陈时令与果实累累之状，次句转写篮中湿露与作诗之费。意象选取局限于'红紫''玉垂'等常规描写，缺乏独特视角。情感流于表面闲适，未见深层寄托。整体构思平庸，辞藻堆砌，未能突破咏物诗的俗套，属凡品之作。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "试图以'红紫''玉垂'营造秾丽之境，但意象单薄，未达纤秾之妙。",
+                "realm": "能",
+                "reason": "技法成熟但立意浅显，未能升华。"
+            }
+        ],
+        "imagery": [
+            "杨梅",
+            "筠笼",
+            "露水"
+        ],
+        "allusions": [
+            {
+                "phrase": "支郎",
+                "explanation": "指支道林，东晋高僧，此处借指作诗者，但用典生硬。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直接点题，意象清晰，为全诗基础。"
+        }
+    },
+    {
+        "title": "又次韻楊梅三絕句  其二",
+        "author": "史彌寧",
+        "paragraphs": [
+            "桃李漫山等俗流，諸楊汝是荔支儔。",
+            "當時若貢長生殿，又得真妃笑點頭。"
+        ],
+        "paragraphs_simplified": [
+            "桃李漫山等俗流，诸杨汝是荔枝俦。",
+            "当时若贡长生殿，又得真妃笑点头。"
+        ],
+        "translation": "桃李满山皆俗流，诸杨你与荔枝为伍。当时若进贡长生殿，又得真妃笑点头。",
+        "score": 2.2,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "用典"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句以桃李反衬杨梅，后句用长生殿典故显志，逻辑跳跃。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "长生殿与真妃典故，引用生硬，与杨梅关联牵强。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "以'荔枝俦'喻杨梅，类比俗套。"
+                }
+            ]
+        },
+        "analysis": "此诗借杨梅贬桃李，并引入长生殿典故。典故运用与主题脱节，真妃笑点之喻更显牵强。情感表达流于表面赞美，缺乏内在逻辑支撑。整体立意浅薄，用典堆砌，未能实现托物言志的深度，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以典故提升格调，但意象拼凑，未达典雅之境。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，典故滥用致文意晦涩。"
+            }
+        ],
+        "imagery": [
+            "桃李",
+            "杨梅",
+            "荔枝",
+            "长生殿",
+            "真妃"
+        ],
+        "allusions": [
+            {
+                "phrase": "长生殿",
+                "explanation": "唐玄宗与杨贵妃盟誓之地，此处借指宫廷。"
+            },
+            {
+                "phrase": "真妃",
+                "explanation": "指杨贵妃，喻指杨梅之珍贵。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句用典虽生硬，但试图构建历史联想，为全诗焦点。"
+        }
+    },
+    {
+        "title": "又次韻楊梅三絕句  其三",
+        "author": "史彌寧",
+        "paragraphs": [
+            "釀蜜搓成絳雪團，莫嫌風味欠儒酸。",
+            "此詩此果君知麽，一樣驪珠粲玉盤。"
+        ],
+        "paragraphs_simplified": [
+            "酿蜜搓成绛雪团，莫嫌风味欠儒酸。",
+            "此诗此果君知么，一样骊珠粲玉盘。"
+        ],
+        "translation": "如酿蜜搓成绛雪团，莫嫌风味欠儒酸。此诗此果你知否，一样如骊珠灿于玉盘。",
+        "score": 3.1,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句以比喻写杨梅形态，后句设问将诗与果类比，逻辑连贯。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "'绛雪团'喻杨梅色泽形态，较有新意。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "'君知么'引发思考，增强互动感。"
+                }
+            ]
+        },
+        "analysis": "此诗以'绛雪团'喻杨梅，意象新颖，设问句式增强诗趣。'骊珠粲玉盘'之喻，将果实与诗并置，虚实相生。情感真挚，无堆砌之弊。虽未达高境，但技法纯熟，有可读之处，属能品。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "'绛雪''骊珠'等意象构筑绮丽之境，色泽鲜明。",
+                "realm": "能",
+                "reason": "意象华美但情感深度有限。"
+            }
+        ],
+        "imagery": [
+            "蜜",
+            "绛雪",
+            "骊珠",
+            "玉盘"
+        ],
+        "allusions": [
+            {
+                "phrase": "骊珠",
+                "explanation": "传说中宝珠，喻指杨梅珍贵。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句比喻生动，为全诗奠定形象基础。"
+        }
+    },
+    {
+        "title": "和翟主簿",
+        "author": "史彌寧",
+        "paragraphs": [
+            "太史騷壇峙豫章，詩豪角立壯顔行。",
+            "遺風凜凜清人骨，飛露娟娟灑我裳。",
+            "五字顧慚非應物，一燈今幸屬仇香。",
+            "玉堂蚤晚須椽筆，快寫平生錦繡腸。"
+        ],
+        "paragraphs_simplified": [
+            "太史骚坛峙豫章，诗豪角立壮颜行。",
+            "遗风凛凛清人骨，飞露娟娟洒我裳。",
+            "五字顾惭非应物，一灯今幸属仇香。",
+            "玉堂蚤晚须椽笔，快写平生锦绣肠。"
+        ],
+        "translation": "太史在骚坛屹立豫章，诗豪角立壮颜行。遗风凛凛清人骨，飞露娟娟洒我裳。五字诗惭愧非应物，一灯今幸属仇香。玉堂早晚需椽笔，快写平生锦绣肠。",
+        "score": 2.5,
+        "subject": [
+            "酬唱诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "用典"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首联赞太史诗豪，颔联写遗风飞露，颈联自惭并引仇香典，尾联期许玉堂椽笔，结构完整但典故密集。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "颔联'遗风凛凛'对'飞露娟娟'，工整但流于形式。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "仇香典故生硬，与主题衔接不畅。"
+                }
+            ]
+        },
+        "analysis": "此诗酬唱翟主簿，堆砌'太史''诗豪''仇香'等典故，意象繁杂而核心模糊。情感表达依赖典故，缺乏直接感染力。尾联期许虽显豪迈，但整体立意浅显，辞藻堆砌，未能实现深度交流，属平庸酬唱之作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图以典故构筑高古之境，但意象拼凑，未达浑成。",
+                "realm": "劣",
+                "reason": "典故滥用致诗意晦涩，反失自然。"
+            }
+        ],
+        "imagery": [
+            "骚坛",
+            "遗风",
+            "飞露",
+            "灯",
+            "玉堂",
+            "椽笔"
+        ],
+        "allusions": [
+            {
+                "phrase": "太史",
+                "explanation": "可能指司马迁，喻指文坛泰斗。"
+            },
+            {
+                "phrase": "仇香",
+                "explanation": "东汉仇览，喻指主簿之职。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "颔联对偶工整，意象相对清晰，为全诗亮点。"
+        }
+    },
+    {
+        "title": "催花",
+        "author": "史彌寧",
+        "paragraphs": [
+            "梅怨霜欺春未知，商量着蕊尚遲疑。",
+            "戲將詩句催花看，催得花開轉費詩。"
+        ],
+        "paragraphs_simplified": [
+            "梅怨霜欺春未知，商量着蕊尚迟疑。",
+            "戏将诗句催花看，催得花开转费诗。"
+        ],
+        "translation": "梅怨霜欺春未知，商量花蕊尚迟疑。戏将诗句催花看，催得花开转费诗。",
+        "score": 2.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "无奈"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句拟人写梅之怨，后句叙事催花，逻辑简单直白。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "'梅怨'赋予梅情感，但流于表面。"
+                },
+                {
+                    "tag": "叙事",
+                    "explanation": "催花过程叙述平淡，缺乏张力。"
+                }
+            ]
+        },
+        "analysis": "此诗以拟人手法写梅怨霜欺，后句叙事催花，但意象单薄，仅围绕'梅''花''诗'循环。情感表达浅显，无深层寄托。整体构思平庸，语言直白如口语，未能营造诗境，属劣作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以叙事达自然之境，但语言粗陋，反显造作。",
+                "realm": "劣",
+                "reason": "立意浅显，缺乏审美距离。"
+            }
+        ],
+        "imagery": [
+            "梅",
+            "霜",
+            "春",
+            "花",
+            "诗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句点明诗与花的互动，为全诗核心。"
+        }
+    },
+    {
+        "title": "看李成畫",
+        "author": "史彌寧",
+        "paragraphs": [
+            "巖壑蟠胸秦太虛，輞川一見病全甦。",
+            "可愁地僻無醫藥，繞屋營丘山水圖。"
+        ],
+        "paragraphs_simplified": [
+            "岩壑蟠胸秦太虚，辋川一见病全苏。",
+            "可愁地僻无医药，绕屋营丘山水图。"
+        ],
+        "translation": "山岩沟壑在胸中盘旋，如同秦太虚，一见到辋川图病就全愈。可愁的是地方偏僻没有医药，但绕屋有营丘山水图。",
+        "score": 3.8,
+        "subject": [
+            "题画诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句以秦观见辋川图之典比喻画作神效，次句转写现实僻地无药，却以山水图慰藉，形成虚实对照。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以秦太虚喻看画如见名作病愈"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "化用秦观、辋川、营丘等文人画典"
+                }
+            ]
+        },
+        "analysis": "此诗以典故入画评，将李成画作比作秦观见辋川图，构筑出文人雅趣。虽处僻地无药，却以山水图慰藉，流露出淡泊情怀。用典精当，但意象略显陈旧，情景契合自然，意境有历史纵深感。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "以古雅典故构筑文人画境，但创新不足",
+                "realm": "能品",
+                "reason": "技法成熟，用典贴切，但立意未脱前人窠臼"
+            }
+        ],
+        "imagery": [
+            "岩壑",
+            "山水图",
+            "营丘"
+        ],
+        "allusions": [
+            {
+                "phrase": "秦太虚",
+                "explanation": "指秦观，喻看画如见名作"
+            },
+            {
+                "phrase": "輞川",
+                "explanation": "王维画作，代指高雅画境"
+            },
+            {
+                "phrase": "營丘",
+                "explanation": "李成别号，指代画作"
+            }
+        ],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句用典巧妙，以秦观见辋川图喻画作神效，浓缩文人审美体验"
+        }
+    },
+    {
+        "title": "木犀重開",
+        "author": "史彌寧",
+        "paragraphs": [
+            "不見巖犀整一秋，厭厭對我訴清愁。",
+            "公筵餘瀝何曾見，兩度開花只暗投。"
+        ],
+        "paragraphs_simplified": [
+            "不见岩犀整一秋，厌厌对我诉清愁。",
+            "公筵余沥何曾见，两度开花只暗投。"
+        ],
+        "translation": "桂花重开，不见它一整个秋天，它无精打采地对我诉说清愁。公宴上的残酒何曾见过，两次开花只是暗中凋零。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "设问"
+            ],
+            "presentation_tags": [
+                "借物抒情",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先写桂花久违，拟人诉愁，再以公宴无赏反衬花开寂寞，情感直露。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "桂花'诉清愁'赋予人情"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "'何曾见'强化无人赏识"
+                }
+            ]
+        },
+        "analysis": "此诗拟人桂花诉愁，但立意浅显，公宴余沥与开花暗投对比生硬。意象陈旧，情感直白无回甘，缺乏审美距离。整体流于表面，未能通过物象深化生命体验。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以花喻人失意，但情感宣泄过度",
+                "realm": "劣作",
+                "reason": "画虎不成反类犬，直露如口语，失却含蓄之美"
+            }
+        ],
+        "imagery": [
+            "岩犀",
+            "花",
+            "酒"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句'两度开花只暗投'相对通顺，点出寂寞主题"
+        }
+    },
+    {
+        "title": "曉發嚴瀨舟中和戴叔振韻",
+        "author": "史彌寧",
+        "paragraphs": [
+            "子陵灘下放船開，老我經行知幾回。",
+            "別岸舂鉏殊解事，衝烟冉冉送詩來。"
+        ],
+        "paragraphs_simplified": [
+            "子陵滩下放船开，老我经行知几回。",
+            "别岸舂鉏殊解事，冲烟冉冉送诗来。"
+        ],
+        "translation": "在子陵滩下放船出发，老夫我经过不知多少回。对岸舂鉏似乎很懂事，冲着烟雾缓缓送诗来。",
+        "score": 3.7,
+        "subject": [
+            "行旅诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "首句叙事启程，次句写经行多次，转以对岸舂鉏拟人送诗，动静相生，流露旅途闲情。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "'殊解事'赋予农具灵性"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "'放船开'与'冉冉'形成节奏"
+                }
+            ]
+        },
+        "analysis": "此诗写舟行严濑，经行多次，对岸舂鉏送诗，意境闲适流畅。拟人手法增添生趣，但'舂鉏'意象稍显突兀，送诗来略牵强。整体自然，但未达精妙。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以行旅见闻构筑生活画面，但意象提炼不足",
+                "realm": "能品",
+                "reason": "流畅生动，但部分意象缺乏深度"
+            }
+        ],
+        "imagery": [
+            "子陵滩",
+            "船",
+            "舂鉏",
+            "烟",
+            "诗"
+        ],
+        "allusions": [
+            {
+                "phrase": "子陵滩",
+                "explanation": "严子陵钓台，指代严濑"
+            }
+        ],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句'子陵滩下放船开'开门见山，点明行程，气韵生动"
+        }
+    },
+    {
+        "title": "丫頭巖",
+        "author": "史彌寧",
+        "paragraphs": [
+            "山前露立幾時休，老大垂髫羞不羞。",
+            "與汝雲冠別梳洗，免教人喚作丫頭。"
+        ],
+        "paragraphs_simplified": [
+            "山前露立几时休，老大垂髫羞不羞。",
+            "与汝云冠别梳洗，免教人唤作丫头。"
+        ],
+        "translation": "在山前露立何时休，老大了还垂髫羞不羞。给你云冠别梳洗，免得被人唤作丫头。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "自嘲"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "双关"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先写山岩露立，转以老大垂髫自嘲，末句劝梳洗免被唤丫头，直白点题。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "与山岩对话，劝其梳洗"
+                },
+                {
+                    "tag": "双关",
+                    "explanation": "'丫头'既指山形又喻人"
+                }
+            ]
+        },
+        "analysis": "此诗以山岩拟人自嘲，构思有趣，但语言俚俗，'羞不羞'直露无含蓄。双关手法虽巧，却流于表面，缺乏意境升华。整体诙谐但艺术性有限。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "直率表达自嘲，但失却典雅",
+                "realm": "凡品",
+                "reason": "意象直白，情感宣泄无审美距离"
+            }
+        ],
+        "imagery": [
+            "山",
+            "露",
+            "云冠"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句'免教人唤作丫头'双关巧妙，点明主旨"
+        }
+    },
+    {
+        "title": "題兩巖",
+        "author": "史彌寧",
+        "paragraphs": [
+            "月殿雙鬟整鏡臺，俄然拂下玉梳來。",
+            "失驚怕觸姮娥怒，走奔人間不敢回。"
+        ],
+        "paragraphs_simplified": [
+            "月殿双鬟整镜台，俄然拂下玉梳来。",
+            "失惊怕触姮娥怒，走奔人间不敢回。"
+        ],
+        "translation": "月宫中双鬟女子整理镜台，忽然拂下玉梳来。惊慌怕触怒姮娥，逃奔人间不敢回。",
+        "score": 3.5,
+        "subject": [
+            "游仙诗"
+        ],
+        "emotion": [
+            "恐惧",
+            "惊奇"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句写月殿情景，次句玉梳落下，转写惊慌逃奔，虚实相生，叙事完整。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "'姮娥'指嫦娥，增仙幻色彩"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "月殿虚境与人间实境对照"
+                }
+            ]
+        },
+        "analysis": "此诗虚构月宫仙女故事，玉梳落下逃奔人间，想象奇特。但情节简单，意象如双鬟、玉梳陈旧，未能深入游仙主题。整体有飘逸之姿，却乏精神内核。",
+        "poetry_styles": [
+            {
+                "style": "飘逸",
+                "imagery_analysis": "以神话元素构筑幻境，但执行流于表面",
+                "realm": "能品",
+                "reason": "想象丰富，但意象堆砌，深度不足"
+            }
+        ],
+        "imagery": [
+            "月殿",
+            "双鬟",
+            "镜台",
+            "玉梳",
+            "姮娥",
+            "人间"
+        ],
+        "allusions": [
+            {
+                "phrase": "姮娥",
+                "explanation": "嫦娥，月宫之主"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句'月殿双鬟整镜台'画面感强，奠定仙幻基调"
+        }
+    },
+    {
+        "title": "新喻道上",
+        "author": "史彌寧",
+        "paragraphs": [
+            "翠分濃淡山開畫，紅暈淺深花弄妝。",
+            "詩料自來尋老子，句成渾不費思量。"
+        ],
+        "paragraphs_simplified": [
+            "翠分浓淡山开画，红晕浅深花弄妆。",
+            "诗料自来寻老子，句成浑不费思量。"
+        ],
+        "translation": "翠绿分出浓淡，山峦如画展开；红晕浅深不一，花儿在梳妆打扮。诗的素材自来寻找我，诗句写成全不费思量。",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句以工整对偶描绘山水花态，后两句直抒诗兴自来，浑然天成。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "翠分浓淡与红晕浅深、山开画与花弄妆形成平行结构，增强节奏感。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "花弄妆赋予花儿梳妆的人类动作，增添生动性。"
+                }
+            ]
+        },
+        "analysis": "此诗以精炼对偶勾勒山水如画之境，花态拟人手法自然鲜活。后两句转写诗材自寻、句成不费思量，彰显创作过程的自在与流畅，情景交融，无斧凿痕。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以山水、花、诗材为核心意象，构筑清新脱俗的意境。",
+                "realm": "妙品",
+                "reason": "语言自然流畅，意象生动，抒情直接而不失雅致。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "花",
+            "诗",
+            "老子"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "翠分浓淡山开画，红晕浅深花弄妆以视觉对比和拟人手法，最富画面感。"
+        }
+    },
+    {
+        "title": "和潘帳幹二首  其一",
+        "author": "史彌寧",
+        "paragraphs": [
+            "洋洋雅頌幾遺篇，刪後求詩類一偏。",
+            "直下謝陶能出手，就中李杜亦差肩。",
+            "多君句好堪呈佛，老我時來未得僊。",
+            "兩地河山費蘧栩，吟窗何日勘塵編。"
+        ],
+        "paragraphs_simplified": [
+            "洋洋雅颂几遗篇，删后求诗类一偏。",
+            "直下谢陶能出手，就中李杜亦差肩。",
+            "多君句好堪呈佛，老我时来未得仙。",
+            "两地河山费蘧栩，吟窗何日勘尘编。"
+        ],
+        "translation": "洋洋洒洒的雅颂诗篇几乎遗失，删诗之后求诗类似一偏。直接比肩谢灵运、陶渊明能出手，其中李白杜甫也稍逊一肩。多亏你的诗句好得可以呈佛，我老了时候到来还未得仙。两地河山费尽蘧栩之思，吟诗的窗户何时能勘破尘编。",
+        "score": 3.0,
+        "subject": [
+            "酬唱诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首联论诗统，颔联用典赞对方，颈联自谦与赞并存，尾联寄望未来。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "谢陶指谢灵运与陶渊明，李杜指李白与杜甫，借古喻今。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "堪呈佛喻诗句精妙，未得仙喻自身未达超凡境界。"
+                }
+            ]
+        },
+        "analysis": "此诗依托古典诗统，以密集用典构筑酬唱框架。谢陶李杜的并举虽显堆砌，但直指诗艺高下；自呈佛与未得仙的对比，流露对友人才华的敬佩与自身局限的感慨。整体结构工整，然意象多依附典故，创新稍逊。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "以雅颂、谢陶、李杜等历史意象为核心，营造崇古氛围。",
+                "realm": "能品",
+                "reason": "技法熟练，但典故运用略显生硬，缺乏个人独创性。"
+            }
+        ],
+        "imagery": [
+            "雅颂",
+            "诗",
+            "谢陶",
+            "李杜",
+            "佛",
+            "仙",
+            "河山",
+            "窗"
+        ],
+        "allusions": [
+            {
+                "phrase": "谢陶",
+                "explanation": "指谢灵运与陶渊明，南朝与东晋著名诗人。"
+            },
+            {
+                "phrase": "李杜",
+                "explanation": "指李白与杜甫，唐代两大诗人。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "直下谢陶能出手，就中李杜亦差肩直接以典故对比，彰显诗艺评价。"
+        }
+    },
+    {
+        "title": "和潘帳幹二首  其二",
+        "author": "史彌寧",
+        "paragraphs": [
+            "鐵研磨穿志未伸，也叨朝蹟也臨民。",
+            "九關猶記鈞天夢，一舸重尋湘水春。",
+            "自笑裝懷多倥傯，從知滿腹欠精神。",
+            "調高郢曲終難和，羞殺歈歌籋後塵。"
+        ],
+        "paragraphs_simplified": [
+            "铁研磨穿志未伸，也叨朝迹也临民。",
+            "九关犹记钧天梦，一舸重寻湘水春。",
+            "自笑装怀多倥偬，从知满腹欠精神。",
+            "调高郢曲终难和，羞杀歈歌籋后尘。"
+        ],
+        "translation": "铁砚磨穿志向未展，也叨扰朝廷踪迹也治理百姓。九关还记得钧天之梦，一船重寻湘水之春。自笑胸怀多匆忙，从此知道满腹缺少精神。曲调高雅的郢歌终究难和，羞愧得让后尘之歌羞杀。",
+        "score": 3.2,
+        "subject": [
+            "杂诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "遗憾",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首联述志未伸与仕途矛盾，颔联忆梦寻春，颈联自嘲精神不足，尾联以曲高和寡收束。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "钧天梦指天帝之梦，郢曲指楚国高雅歌曲，喻理想与艺术追求。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "铁研磨穿喻苦读不辍，调高郢曲喻自身诗作高妙难和。"
+                }
+            ]
+        },
+        "analysis": "此诗以铁研磨穿起笔，勾勒志士苦闷形象；钧天梦与湘水春的典故交织，折射理想与现实的落差。自嘲满腹欠精神，尾联以曲高和寡作结，情感层层递进，但意象稍显陈旧，整体沉郁有余而新意不足。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以铁研、钧天梦、湘水等意象，构筑失意文人的内心图景。",
+                "realm": "能品",
+                "reason": "情感真挚，但用典与比喻未脱传统窠臼。"
+            }
+        ],
+        "imagery": [
+            "铁研",
+            "志",
+            "朝迹",
+            "民",
+            "梦",
+            "舸",
+            "湘水",
+            "春",
+            "精神",
+            "曲"
+        ],
+        "allusions": [
+            {
+                "phrase": "钧天梦",
+                "explanation": "源自《史记》，指天帝音乐之梦，喻美好理想。"
+            },
+            {
+                "phrase": "郢曲",
+                "explanation": "指楚国郢都的歌曲，喻高雅艺术。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "铁研磨穿志未伸以具体物象象征志向受挫，最具感染力。"
+        }
+    },
+    {
+        "title": "次韻觀音寺訪木犀已過",
+        "author": "史彌寧",
+        "paragraphs": [
+            "金粟如來翠葆中，天香飄墮梵王宮。",
+            "西風一帚無留跡，印證浮生色是空。"
+        ],
+        "paragraphs_simplified": [
+            "金粟如来翠葆中，天香飘堕梵王宫。",
+            "西风一帚无留迹，印证浮生色是空。"
+        ],
+        "translation": "金粟如来在翠绿的葆盖中，天香飘落在梵王宫。西风一扫不留痕迹，印证了浮生色即是空。",
+        "score": 4.2,
+        "subject": [
+            "禅理诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "用典"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句以佛典喻木犀之香，后两句借西风点出空观，由物及理。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "金粟如来喻木犀花形与佛性，天香喻其超凡之香。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "色即是空直接引用佛经，点明哲理。"
+                }
+            ]
+        },
+        "analysis": "此诗将木犀花升华为金粟如来，天香飘堕梵宫的意象构筑出神圣空间。西风一帚无留迹，以动写静，印证色空之理。全诗融合物象与禅思，语言凝练，意境超逸，于访花不遇中得悟道之趣。",
+        "poetry_styles": [
+            {
+                "style": "超诣",
+                "imagery_analysis": "以金粟、天香、西风等意象，连接自然与佛教空观。",
+                "realm": "妙品",
+                "reason": "物象与哲理结合自然，意境深远。"
+            }
+        ],
+        "imagery": [
+            "金粟",
+            "如来",
+            "翠葆",
+            "天香",
+            "梵王宫",
+            "西风",
+            "浮生",
+            "色",
+            "空"
+        ],
+        "allusions": [
+            {
+                "phrase": "金粟如来",
+                "explanation": "佛教中对佛陀的尊称，此处借指木犀花。"
+            },
+            {
+                "phrase": "色即是空",
+                "explanation": "出自《心经》，佛教核心教义之一。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "西风一帚无留迹，印证浮生色是空以动态意象直指禅理，最为警策。"
+        }
+    },
+    {
+        "title": "林園",
+        "author": "史彌寧",
+        "paragraphs": [
+            "情知天也眷詩人，借與林園別樣春。",
+            "竹影因風多態度，梅花得月更精神。"
+        ],
+        "paragraphs_simplified": [
+            "情知天也眷诗人，借与林园别样春。",
+            "竹影因风多态度，梅花得月更精神。"
+        ],
+        "translation": "心知天也眷顾诗人，借给林园别样的春色。竹影因风而多姿态，梅花得月更显精神。",
+        "score": 4.0,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句点明天眷诗人，次句以竹影梅花具体展现别样春色，后两句对仗工整，拟人生动。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "多态度与更精神赋予竹梅以人的情态与活力。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "竹影因风与梅花得月形成工整对仗，增强韵律。"
+                }
+            ]
+        },
+        "analysis": "此诗以天眷诗人起笔，奠定闲适基调；竹影与梅花的对仗中，拟人手法活化物象，风月交映下，园景别具精神。语言明快，意象清丽，于简短中见生机，充分展现诗人对自然的敏锐感知与喜悦之情。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "以竹影、梅花、风月为核心，描绘春日园林的细腻之美。",
+                "realm": "妙品",
+                "reason": "拟人与对偶运用精妙，意境鲜活愉悦。"
+            }
+        ],
+        "imagery": [
+            "天",
+            "诗人",
+            "林园",
+            "春",
+            "竹影",
+            "风",
+            "梅花",
+            "月"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "竹影因风多态度，梅花得月更精神以拟人手法生动勾勒园景，最具神采。"
+        }
+    },
+    {
+        "title": "炊烟",
+        "author": "史彌寧",
+        "paragraphs": [
+            "絲絲古柳網羅鴉，拍拍平田鼓吹鼃。",
+            "不是青烟出林杪，得知山崦有人家。"
+        ],
+        "paragraphs_simplified": [
+            "丝丝古柳网罗鸦，拍拍平田鼓吹蛙。",
+            "不是青烟出林杪，得知山崦有人家。"
+        ],
+        "translation": "丝丝古柳网罗着乌鸦，拍拍平田鼓吹着蛙声。不是青烟从林梢飘出，怎知山坳里有人家。",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "田园诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句以白描铺陈自然动态，后两句通过青烟转折，由景及人，层层递进。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前两句“丝丝古柳”对“拍拍平田”，“网罗鸦”对“鼓吹蛙”，工整自然。"
+                },
+                {
+                    "tag": "侧面烘托",
+                    "explanation": "以“青烟出林杪”暗示人家存在，不直写而意境自现。"
+                }
+            ]
+        },
+        "analysis": "此诗以白描手法勾勒乡村即景，古柳、平田、青烟等意象组合疏朗，不事雕琢。前两句以“网罗”“鼓吹”拟人化动态，生动而不浮夸；后两句转折巧妙，借青烟一点透出人间烟火，情景契合，有“不隔”之美。情感含蓄，余味淡远，整体构筑出宁静自然的意境。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "意象取自寻常村野，组合清新，无斧凿痕。",
+                "realm": "能品",
+                "reason": "技法纯熟，意境真切，但未达神妙之境。"
+            }
+        ],
+        "imagery": [
+            "古柳",
+            "乌鸦",
+            "平田",
+            "蛙声",
+            "青烟",
+            "山崦",
+            "人家"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "转折点睛，以青烟引出人家，含蓄深远。"
+        }
+    }
+]

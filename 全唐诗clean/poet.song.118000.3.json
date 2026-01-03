@@ -1,0 +1,1486 @@
+[
+    {
+        "title": "僖公",
+        "author": "王十朋",
+        "paragraphs": [
+            "僖公能繼伯禽風，盛德揄揚魯頌中。",
+            "惟有春秋用王法，不輕一字曲褒公。"
+        ],
+        "paragraphs_simplified": [
+            "僖公能继伯禽风，盛德揄扬鲁颂中。",
+            "惟有春秋用王法，不轻一字曲褒公。"
+        ],
+        "translation": "僖公能够继承伯禽的风范，盛大的德行在鲁颂中被宣扬。只有春秋使用王法，不轻易用一个字曲意褒奖公。",
+        "score": 3.5,
+        "subject": [
+            "怀古诗",
+            "咏史诗"
+        ],
+        "emotion": [
+            "赞美",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句颂扬僖公继承先祖德行，后两句引用春秋笔法，强调客观评价。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用伯禽、鲁颂、春秋等典故，增强历史厚重感。"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "末句点明春秋不轻褒的主旨。"
+                }
+            ]
+        },
+        "analysis": "此诗以鲁国历史为背景，通过伯禽、鲁颂等意象，构筑对僖公德行的颂扬。末句引入春秋笔法，彰显客观史观，但意象较为陈旧，缺乏新意。整体立意传统，技法熟练但未见突破，属于能品之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "伯禽、鲁颂等意象具有历史厚重感，但缺乏生动性。",
+                "realm": "能品",
+                "reason": "技法成熟，但意境平实，未能超脱咏史常套。"
+            }
+        ],
+        "imagery": [
+            "伯禽",
+            "鲁颂",
+            "春秋",
+            "王法"
+        ],
+        "allusions": [
+            {
+                "phrase": "伯禽",
+                "explanation": "周公之子，鲁国始祖。"
+            },
+            {
+                "phrase": "鲁颂",
+                "explanation": "《诗经》三颂之一，歌颂鲁国君主。"
+            },
+            {
+                "phrase": "春秋",
+                "explanation": "孔子修订的史书，以微言大义著称。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句点明主旨，简洁有力。"
+        }
+    },
+    {
+        "title": "文公",
+        "author": "王十朋",
+        "paragraphs": [
+            "時無閏月那成年，廟有先君豈上賢。",
+            "魯國從來秉周禮，文公何事獨無天。"
+        ],
+        "paragraphs_simplified": [
+            "时无闰月那成年，庙有先君岂上贤。",
+            "鲁国从来秉周礼，文公何事独无天。"
+        ],
+        "translation": "当时没有闰月怎么能成年，庙中有先君岂是上贤。鲁国从来秉持周礼，文公为何独独无天。",
+        "score": 3.2,
+        "subject": [
+            "怀古诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "反问"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句质疑文公违背历法，次句反问其贤德，后两句对比周礼与文公之失，直指主题。",
+            "evidence": [
+                {
+                    "tag": "反问",
+                    "explanation": "‘文公何事独无天’以反问强化批评力度。"
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "通过批评文公，影射后世不守礼制之君。"
+                }
+            ]
+        },
+        "analysis": "此诗以反问句式直斥文公违背周礼，意象如闰月、周礼等紧扣礼制主题，但语言直白，缺乏含蓄之美。情感流于表面，未能构筑深层意境，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "闰月、周礼等意象指向礼崩乐坏之悲，但表达浅露。",
+                "realm": "凡品",
+                "reason": "试图以悲慨动人，但因意象单薄，反显粗率。"
+            }
+        ],
+        "imagery": [
+            "闰月",
+            "庙",
+            "先君",
+            "周礼",
+            "天"
+        ],
+        "allusions": [
+            {
+                "phrase": "周礼",
+                "explanation": "周朝礼制，鲁国奉行之本。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句反问尖锐，情感强烈。"
+        }
+    },
+    {
+        "title": "宣公",
+        "author": "王十朋",
+        "paragraphs": [
+            "東門無道敢欺天，過市哀姜語可憐。",
+            "和氣致祥乖致異，如公自合大無年。"
+        ],
+        "paragraphs_simplified": [
+            "东门无道敢欺天，过市哀姜语可怜。",
+            "和气致祥乖致异，如公自合大无年。"
+        ],
+        "translation": "东门无道敢欺天，过市哀姜语可怜。和气致祥乖致异，如公自合大无年。",
+        "score": 3.0,
+        "subject": [
+            "怀古诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "批评",
+            "怜悯"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句描述宣公无道与哀姜之悲，后两句以和气与乖异对比，点明其咎由自取。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "‘和气致祥乖致异’通过对比强调因果报应。"
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "以宣公之失警示后世君主。"
+                }
+            ]
+        },
+        "analysis": "此诗以东门、哀姜等意象勾勒宣公无道，但哀姜典故运用生硬，情感表达直露。后两句虽试图以理说教，却缺乏诗意感染力，整体堆砌辞藻，立意浅显。",
+        "poetry_styles": [
+            {
+                "style": "实境",
+                "imagery_analysis": "东门、哀姜等意象具历史实感，但缺乏提炼。",
+                "realm": "凡品",
+                "reason": "追求实境却流于叙事，未能升华意境。"
+            }
+        ],
+        "imagery": [
+            "东门",
+            "天",
+            "哀姜",
+            "和气",
+            "祥",
+            "异"
+        ],
+        "allusions": [
+            {
+                "phrase": "哀姜",
+                "explanation": "鲁庄公夫人，因淫乱祸国。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直斥无道，语气强烈。"
+        }
+    },
+    {
+        "title": "成公",
+        "author": "王十朋",
+        "paragraphs": [
+            "周室孤危若旅人，諸侯誰復肯來臣。",
+            "成公不是朝天子，假道京師會伐秦。"
+        ],
+        "paragraphs_simplified": [
+            "周室孤危若旅人，诸侯谁复肯来臣。",
+            "成公不是朝天子，假道京师会伐秦。"
+        ],
+        "translation": "周室孤危像旅人，诸侯谁还肯来臣服。成公不是朝见天子，假道京师会合伐秦。",
+        "score": 3.4,
+        "subject": [
+            "怀古诗",
+            "咏史诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以旅人比喻周室衰微，次句反问诸侯不臣，后两句直述成公之失，逻辑清晰。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘若旅人’生动刻画周室孤危。"
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "通过成公不朝天子，批评后世诸侯僭越。"
+                }
+            ]
+        },
+        "analysis": "此诗以旅人比喻周室，意象精准，情感深沉。后两句叙事简洁，直指成公之失，但整体缺乏音律变化，意境未臻上乘，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "旅人意象强化孤危之感，但整体偏重叙事。",
+                "realm": "能品",
+                "reason": "情感沉著但表达平直，未能含蓄深远。"
+            }
+        ],
+        "imagery": [
+            "周室",
+            "旅人",
+            "诸侯",
+            "天子",
+            "京师",
+            "秦"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句比喻新奇，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "襄公",
+        "author": "王十朋",
+        "paragraphs": [
+            "侯伯誰修二霸公，大夫專政自襄公。",
+            "堂堂魯國車千乘，翻在三家掌握中。"
+        ],
+        "paragraphs_simplified": [
+            "侯伯谁修二霸公，大夫专政自襄公。",
+            "堂堂鲁国车千乘，翻在三家掌握中。"
+        ],
+        "translation": "侯伯谁修二霸公，大夫专政自襄公。堂堂鲁国车千乘，反在三家掌握中。",
+        "score": 3.6,
+        "subject": [
+            "怀古诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句设问侯伯与大夫专政，后两句以鲁国盛况与三家专权对比，突显衰败之因。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "‘堂堂鲁国车千乘’与‘翻在三家掌握中’形成强烈反差。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "‘二霸公’指齐桓、晋文，‘三家’指鲁国三桓，增强历史深度。"
+                }
+            ]
+        },
+        "analysis": "此诗以对比手法揭示襄公时大夫专政之弊，意象如车千乘、三家等具象有力。情感愤懑而克制，结构紧凑，但用典稍显密集，影响流畅性，属能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "车千乘与三家对比，凸显力量感，但意象略欠圆融。",
+                "realm": "能品",
+                "reason": "笔力劲健，但典故堆砌稍损自然。"
+            }
+        ],
+        "imagery": [
+            "侯伯",
+            "二霸公",
+            "大夫",
+            "鲁国",
+            "车千乘",
+            "三家"
+        ],
+        "allusions": [
+            {
+                "phrase": "二霸公",
+                "explanation": "指春秋霸主齐桓公、晋文公。"
+            },
+            {
+                "phrase": "三家",
+                "explanation": "鲁国孟孙、叔孙、季孙三家权臣。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句对比鲜明，讽喻有力。"
+        }
+    },
+    {
+        "title": "昭公",
+        "author": "王十朋",
+        "paragraphs": [
+            "昭公失國寓乾侯，方伯無人肯見憂。",
+            "如晉適齊徒取辱，祇緣不用予家謀。"
+        ],
+        "paragraphs_simplified": [
+            "昭公失国寓乾侯，方伯无人肯见忧。",
+            "如晋适齐徒取辱，只缘不用予家谋。"
+        ],
+        "translation": "昭公失去国家寄居在乾侯，方伯没有人愿意为他担忧。去晋国到齐国只是自取其辱，只因为不采用我的计谋。",
+        "score": 2.5,
+        "subject": [
+            "怀古诗",
+            "咏史"
+        ],
+        "emotion": [
+            "忧愁",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先叙述昭公流亡的困境，后点明其失败原因在于不用谋略。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "提及昭公、乾侯、晋、齐等历史事件，引用春秋史实。"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "末句“祇缘不用予家谋”直接揭示主题。"
+                }
+            ]
+        },
+        "analysis": "此诗以简白语言叙述昭公失国流亡之事，意象局限于历史地名与事件，缺乏生动的意象构筑。情感表达直露，缺乏审美距离，立意浅显，仅停留在史实复述层面，未见深层意境或艺术升华。整体流于平铺直叙，属于应酬式咏史，未脱案臼。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以历史悲剧引发感慨，但意象干瘪，未能营造苍凉氛围。",
+                "realm": "劣",
+                "reason": "模仿悲慨而流于直白，情感空洞，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "乾侯",
+            "晋",
+            "齐"
+        ],
+        "allusions": [
+            {
+                "phrase": "昭公",
+                "explanation": "指鲁昭公，春秋时期失国之君。"
+            },
+            {
+                "phrase": "乾侯",
+                "explanation": "地名，昭公流亡所居。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句点明原因，结构上收束全诗。"
+        }
+    },
+    {
+        "title": "哀公",
+        "author": "王十朋",
+        "paragraphs": [
+            "諸侯失政陪臣僭，中國無君左袵專。",
+            "欲問哀公後來事，春秋書止獲麟年。"
+        ],
+        "paragraphs_simplified": [
+            "诸侯失政陪臣僭，中国无君左衽专。",
+            "欲问哀公后来事，春秋书止获麟年。"
+        ],
+        "translation": "诸侯失政陪臣僭越，中国无君左衽专权。欲问哀公后来事，春秋书记载止于获麟年。",
+        "score": 2.4,
+        "subject": [
+            "怀古诗",
+            "咏史"
+        ],
+        "emotion": [
+            "忧愁",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句描述政治乱象，后句以春秋绝笔之典终结全诗，暗示时代终结。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“获麟年”指孔子春秋绝笔，象征历史终结。"
+                }
+            ]
+        },
+        "analysis": "此诗直陈哀公时期政治乱象，意象以政治术语为主，缺乏诗意转化。情感表达直白，无含蓄之美，立意局限于史实陈述，未见艺术加工。语言枯燥，意境全无，纯属历史概括，无审美价值。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以乱世抒发悲愤，但意象生硬，未能触动人心。",
+                "realm": "劣",
+                "reason": "模仿悲慨而流于说教，情感浮于表面。"
+            }
+        ],
+        "imagery": [
+            "诸侯",
+            "陪臣",
+            "左衽",
+            "春秋",
+            "获麟"
+        ],
+        "allusions": [
+            {
+                "phrase": "获麟年",
+                "explanation": "孔子作《春秋》止于获麟，喻指时代终结。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句用典收束，赋予全诗历史厚重感。"
+        }
+    },
+    {
+        "title": "鄭莊公",
+        "author": "王十朋",
+        "paragraphs": [
+            "天地深恩詎可忘，寤生忠孝兩俱亡。",
+            "身從何出翻囚母，國是誰封敢射王。"
+        ],
+        "paragraphs_simplified": [
+            "天地深恩讵可忘，寤生忠孝两俱亡。",
+            "身从何出翻囚母，国是谁封敢射王。"
+        ],
+        "translation": "天地深恩岂可忘，寤生忠孝两俱亡。身从何出翻囚母，国是谁封敢射王。",
+        "score": 2.7,
+        "subject": [
+            "咏史",
+            "怀古诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句点出忠孝矛盾，后两句以对偶句式罗列郑庄公悖逆之事。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“身从何出翻囚母，国是谁封敢射王”句式工整。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“寤生”“囚母”“射王”均指郑庄公历史事件。"
+                }
+            ]
+        },
+        "analysis": "诗作以郑庄公事迹为题材，意象集中于家庭与政治冲突，但表达生硬，缺乏意象的生动性。对偶工整却未能提升意境，情感宣泄直露，无回甘余地。整体立意老套，仅复述史实，未见艺术创新，属于平庸的史评诗。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以刚健笔触刻画历史人物，但意象单薄，未能展现劲健之力。",
+                "realm": "劣",
+                "reason": "模仿劲健而失之粗率，缺乏内在张力。"
+            }
+        ],
+        "imagery": [
+            "天地",
+            "寤生",
+            "母",
+            "国",
+            "王"
+        ],
+        "allusions": [
+            {
+                "phrase": "寤生",
+                "explanation": "郑庄公名，指代其人。"
+            },
+            {
+                "phrase": "囚母",
+                "explanation": "郑庄公囚禁母亲之事。"
+            },
+            {
+                "phrase": "射王",
+                "explanation": "郑庄公射伤周天子之事。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句提出忠孝主题，统领全诗。"
+        }
+    },
+    {
+        "title": "齊襄王",
+        "author": "王十朋",
+        "paragraphs": [
+            "諸兒帷薄可曾修，敝笱詩包兩國羞。",
+            "何事春秋尤諱惡，祇緣能報祖宗讎。"
+        ],
+        "paragraphs_simplified": [
+            "诸儿帷薄可曾修，敝笱诗包两国羞。",
+            "何事春秋尤讳恶，只缘能报祖宗仇。"
+        ],
+        "translation": "诸儿帷薄可曾修，敝笱诗包两国羞。何事春秋尤讳恶，只缘能报祖宗仇。",
+        "score": 2.6,
+        "subject": [
+            "咏史",
+            "怀古诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以典故铺陈齐襄王之恶，后句以设问揭示其复仇动机。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“诸儿”指齐襄王，“敝笱诗”出自《诗经》，喻指两国之羞。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "“何事”引出反问，强化批判。"
+                }
+            ]
+        },
+        "analysis": "此诗借齐襄王之事批判历史，意象涉及诗经典故，但组合生硬，未能形成有机意境。情感表达直白，设问句式流于表面，立意局限于道德评判，缺乏艺术深度。语言平淡，无独特审美价值，属于应景咏史。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以历史之恶引发悲愤，但意象陈旧，未能营造悲凉氛围。",
+                "realm": "劣",
+                "reason": "模仿悲慨而失之浅露，情感缺乏沉淀。"
+            }
+        ],
+        "imagery": [
+            "诸儿",
+            "敝笱",
+            "诗",
+            "两国",
+            "春秋",
+            "祖宗"
+        ],
+        "allusions": [
+            {
+                "phrase": "诸儿",
+                "explanation": "齐襄王名诸儿，指代其人。"
+            },
+            {
+                "phrase": "敝笱诗",
+                "explanation": "《诗经·齐风》篇目，喻指齐国之乱。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以设问点明复仇主题，收束全诗。"
+        }
+    },
+    {
+        "title": "齊頃公",
+        "author": "王十朋",
+        "paragraphs": [
+            "敵國行人詎可輕，等閑戲笑禍胎成。",
+            "胥閭竟日知何語，回首齊郊已被兵。"
+        ],
+        "paragraphs_simplified": [
+            "敌国行人讵可轻，等闲戏笑祸胎成。",
+            "胥闾竟日知何语，回首齐郊已被兵。"
+        ],
+        "translation": "敌国的使者怎能轻视，随意戏笑祸根已生。胥闾整天说了什么，回头齐国郊野已被兵临。",
+        "score": 3.5,
+        "subject": [
+            "怀古诗"
+        ],
+        "emotion": [
+            "悲伤"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先因后果，从轻率行为直接过渡到战争结局。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "两联诗句结构平行，形成工整对比。"
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "通过齐顷公的历史教训，警示后人勿轻敌。"
+                }
+            ]
+        },
+        "analysis": "此诗以简练笔法勾勒历史事件，首句直指轻敌之祸，次句以戏笑反衬祸胎之成，意象紧凑。胥闾与齐郊的时空转换，自然流露悲剧感。整体结构清晰，但情感表达较为直白，缺乏深层意境的营造，属于技法成熟但创新不足的怀古之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以‘行人’与‘被兵’的意象对比，强化历史无常的苍凉感。",
+                "realm": "能品",
+                "reason": "叙事工整，但意象陈旧，未能突破传统怀古诗的框架。"
+            }
+        ],
+        "imagery": [
+            "使者",
+            "祸根",
+            "郊野",
+            "军队"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以反问开篇，奠定全诗批判基调。"
+        }
+    },
+    {
+        "title": "鄧祁侯",
+        "author": "王十朋",
+        "paragraphs": [
+            "舅甥杯酒結綢繆，豈忍陰懷盜賊謀。",
+            "不聽三臣言亦是，未須深罪鄧祁侯。"
+        ],
+        "paragraphs_simplified": [
+            "舅甥杯酒结绸缪，岂忍阴怀盗贼谋。",
+            "不听三臣言亦是，未须深罪邓祁侯。"
+        ],
+        "translation": "舅甥在酒杯中结下深情，怎能忍心暗怀盗贼的阴谋。不听三位臣子的话也是，不必深责邓祁侯。",
+        "score": 3.2,
+        "subject": [
+            "怀古诗"
+        ],
+        "emotion": [
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "反问"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前联描述情境与矛盾，后联提出宽恕的结论。",
+            "evidence": [
+                {
+                    "tag": "反问",
+                    "explanation": "‘岂忍阴怀盗贼谋’以反问强化道德谴责。"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "末句直接点明不必深罪的主旨。"
+                }
+            ]
+        },
+        "analysis": "诗作通过杯酒绸缪与盗贼谋的强烈反差，揭示人性矛盾。语言平实，但意象如‘杯酒’略显俗套。后联的宽恕论调虽具历史眼光，却削弱了情感张力，整体流于说教，缺乏诗性的含蓄与回味。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "‘杯酒’象征亲情，‘盗贼谋’暗示背叛，对比生硬。",
+                "realm": "凡品",
+                "reason": "立意浅显，辞藻缺乏打磨，未能达到高古之境。"
+            }
+        ],
+        "imagery": [
+            "酒",
+            "深情",
+            "阴谋",
+            "臣子"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以理性判断收束，体现历史辩证思维。"
+        }
+    },
+    {
+        "title": "晉獻公",
+        "author": "王十朋",
+        "paragraphs": [
+            "齒髮衰殘志慮昏，讒興婦口可心寒。",
+            "不知尤物能爲禍，却爲驪姬寢食安。"
+        ],
+        "paragraphs_simplified": [
+            "齿发衰残志虑昏，谗兴妇口可心寒。",
+            "不知尤物能为祸，却为骊姬寝食安。"
+        ],
+        "translation": "齿发衰残意志昏乱，谗言从妇人口中兴起令人心寒。不知美色能招祸，却为骊姬寝食难安。",
+        "score": 3.5,
+        "subject": [
+            "怀古诗"
+        ],
+        "emotion": [
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首联铺陈衰老与谗言，尾联以尤物为祸点明主题。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘尤物’喻指骊姬，暗示美色即祸源。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "两联在句式与内容上形成工整对应。"
+                }
+            ]
+        },
+        "analysis": "此诗以齿发衰残起兴，勾勒出统治者昏聩的形象。妇口谗言与尤物祸患的意象衔接自然，但‘寝食安’的表述略显直白。全诗批判力度集中，却因用词常规而未能升华，属于中规中矩的讽喻之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "‘齿发’象征衰老，‘妇口’代表谗言，意象组合具象但缺乏新意。",
+                "realm": "能品",
+                "reason": "技法熟练，但情感表达过于外露，少了含蓄之美。"
+            }
+        ],
+        "imagery": [
+            "头发",
+            "嘴",
+            "美女",
+            "骊姬"
+        ],
+        "allusions": [
+            {
+                "phrase": "骊姬",
+                "explanation": "晋献公宠妃，以谗言导致晋国内乱。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首联以生理衰退映衬精神昏乱，画面感强。"
+        }
+    },
+    {
+        "title": "楚靈王",
+        "author": "王十朋",
+        "paragraphs": [
+            "章華臺就國被繇，徵會諸侯意氣驕。",
+            "楚衆已離猶不悟，近臣徒爲頌祈招。"
+        ],
+        "paragraphs_simplified": [
+            "章华台就国被繇，征会诸侯意气骄。",
+            "楚众已离犹不悟，近臣徒为颂祈招。"
+        ],
+        "translation": "章华台建成国家被扰，征召诸侯意气骄横。楚国民众已离散还不醒悟，近臣只会徒然歌颂祈招。",
+        "score": 3.0,
+        "subject": [
+            "怀古诗"
+        ],
+        "emotion": [
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前联写君王骄纵，后联写众叛亲离与臣子阿谀。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "‘意气骄’夸大诸侯征召时的傲慢。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "‘章華臺’暗指楚灵王奢靡亡国的历史。"
+                }
+            ]
+        },
+        "analysis": "诗作以章华台为切入点，揭露统治者的虚荣。意象如‘诸侯’与‘近臣’的对比，本可深化主题，但语言流于叙述，缺乏情感渗透。‘徒为颂祈招’虽具讽刺性，整体却因平铺直叙而显得苍白。",
+        "poetry_styles": [
+            {
+                "style": "讽喻",
+                "imagery_analysis": "‘章华台’象征劳民伤财，‘祈招’暗讽臣子空谈。",
+                "realm": "凡品",
+                "reason": "意象堆砌，缺乏内在韵律与意境深度。"
+            }
+        ],
+        "imagery": [
+            "台",
+            "诸侯",
+            "民众",
+            "臣子"
+        ],
+        "allusions": [
+            {
+                "phrase": "章华台",
+                "explanation": "楚灵王所建奢华宫殿，象征其统治的腐败。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以‘徒为’二字点出臣子无能，暗含批判。"
+        }
+    },
+    {
+        "title": "楚懷王",
+        "author": "王十朋",
+        "paragraphs": [
+            "懷王誤與虎狼親，身死咸陽一旅人。",
+            "見說國人懷舊德，楚雖三戶亦亡秦。"
+        ],
+        "paragraphs_simplified": [
+            "怀王误与虎狼亲，身死咸阳一旅人。",
+            "见说国人怀旧德，楚虽三户亦亡秦。"
+        ],
+        "translation": "怀王错误地与虎狼之秦亲近，身死咸阳成为旅人。听说国人怀念旧德，楚国即使只剩三户也能灭亡秦国。",
+        "score": 4.0,
+        "subject": [
+            "怀古诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "悲伤"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前联述个人悲剧，后联升华为民族气节。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘虎狼’喻指秦国的残暴本质。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "‘楚虽三户亦亡秦’以极言表达复仇决心。"
+                }
+            ]
+        },
+        "analysis": "此诗以虎狼之喻开篇，瞬间勾勒秦楚对立，身死咸阳的结局极具悲剧冲击力。后联转折有力，将个人命运与国族精神相连，‘三户亡秦’的典故运用升华主题。语言凝练，意象壮烈，情感在克制中迸发，堪称怀古诗中的佳作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "‘虎狼’凸显敌之凶残，‘三户’象征绝境中的不屈。",
+                "realm": "能品",
+                "reason": "结句震撼，但前联稍显直叙，整体未达神品之境。"
+            }
+        ],
+        "imagery": [
+            "猛兽",
+            "城市",
+            "人民",
+            "家庭"
+        ],
+        "allusions": [
+            {
+                "phrase": "楚虽三户亦亡秦",
+                "explanation": "源自楚地民谣，表达楚人灭秦的坚定信念。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以历史典故收束，气势磅礴，余味悠长。"
+        }
+    },
+    {
+        "title": "吳王夫差",
+        "author": "王十朋",
+        "paragraphs": [
+            "西施未必解亡吳，祇爲讒臣害覇圖。",
+            "早使夫差誅宰嚭，不應麋鹿到姑蘇。"
+        ],
+        "paragraphs_simplified": [
+            "西施未必解亡吴，只为谗臣害霸图。",
+            "早使夫差诛宰嚭，不应麋鹿到姑苏。"
+        ],
+        "translation": "西施未必懂得亡吴的道理，只因谗臣损害了霸业图谋。如果早让夫差杀了宰嚭，就不会有麋鹿来到姑苏台的结局。",
+        "score": 3.2,
+        "subject": [
+            "怀古诗",
+            "咏史诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先否定西施亡吴的俗见，再直指谗臣为祸根，最后以假设句收束，形成史论逻辑。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "以宰嚭代指谗臣，浓缩历史教训"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "麋鹿姑苏典故暗示吴国灭亡"
+                }
+            ]
+        },
+        "analysis": "此诗直陈吴亡根源，不落俗套。首句以否定句式破题，斩断红颜祸水之陈词；次句聚焦谗臣之害，点染霸业崩塌之因。后联以假设语气重构历史，麋鹿姑苏之象虽简，却勾勒出荒台废墟之苍凉。全诗议论为主，意象单薄，缺乏情景交融之致，然逻辑清晰，史识可取。整体属平实之作，未见惊艳之笔。",
+        "poetry_styles": [
+            {
+                "style": "实境",
+                "imagery_analysis": "直述史实，缺乏虚实相生之妙",
+                "realm": "能",
+                "reason": "试图以史为鉴，但意象堆砌，未能超脱实录层面"
+            }
+        ],
+        "imagery": [
+            "西施",
+            "谗臣",
+            "宰嚭",
+            "麋鹿",
+            "姑苏"
+        ],
+        "allusions": [
+            {
+                "phrase": "宰嚭",
+                "explanation": "吴国太宰伯嚭，谗害忠臣"
+            },
+            {
+                "phrase": "麋鹿到姑苏",
+                "explanation": "指吴国灭亡，姑苏台成废墟"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句破除成见，立论果断"
+        }
+    },
+    {
+        "title": "越王勾踐",
+        "author": "王十朋",
+        "paragraphs": [
+            "機會由來貴速投，姑蘇事與會稽侔。",
+            "謀臣不早麾兵進，嘗膽徒勞二十秋。"
+        ],
+        "paragraphs_simplified": [
+            "机会由来贵速投，姑苏事与会稽侔。",
+            "谋臣不早麾兵进，尝胆徒劳二十秋。"
+        ],
+        "translation": "机会从来贵在迅速把握，姑苏之事与会稽相当。谋臣不早挥兵进攻，尝胆二十秋徒劳无功。",
+        "score": 3.3,
+        "subject": [
+            "怀古诗",
+            "咏史诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "用典",
+                "对比"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以对偶句并列吴越形势，再批判谋臣迟缓，最终以时间跨度强化徒劳之感。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "姑苏与会稽对仗，凸显历史相似性"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "尝胆典故浓缩勾践复仇历程"
+                }
+            ]
+        },
+        "analysis": "此诗聚焦时机之要，以勾践卧薪尝胆为反衬。首联对仗工整，姑苏会稽之比虽巧，然意象重复，未见新境。后联直斥谋臣之失，二十秋之夸张强化了悲慨，但全诗纯属议论，缺乏情景渲染，读来如史评而非诗作。语言平实，立意老套，属应酬式咏史，未脱案臼。",
+        "poetry_styles": [
+            {
+                "style": "实境",
+                "imagery_analysis": "拘泥史实，缺乏空灵之趣",
+                "realm": "能",
+                "reason": "试图以典故说理，但流于表面，未达含蓄"
+            }
+        ],
+        "imagery": [
+            "机会",
+            "姑苏",
+            "会稽",
+            "谋臣",
+            "尝胆"
+        ],
+        "allusions": [
+            {
+                "phrase": "尝胆",
+                "explanation": "勾践卧薪尝胆，励志复仇"
+            },
+            {
+                "phrase": "姑苏",
+                "explanation": "吴国都城，代指吴国"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以时间跨度强化徒劳，稍具力度"
+        }
+    },
+    {
+        "title": "潁考叔",
+        "author": "王十朋",
+        "paragraphs": [
+            "衣冠肉食謾紛紛，誰解杯羹感悟君。",
+            "潁谷封人雖賤士，却能純孝至今聞。"
+        ],
+        "paragraphs_simplified": [
+            "衣冠肉食谩纷纷，谁解杯羹感悟君。",
+            "颍谷封人虽贱士，却能纯孝至今闻。"
+        ],
+        "translation": "衣冠肉食者谩骂纷纷，谁能理解一杯羹感悟君王。颍谷封人虽是贱士，却能纯孝至今闻名。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "赞美",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "设问"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先以对比反衬世俗无知，再通过杯羹典故引出主角，末句直赞其孝行。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "衣冠肉食与贱士对比，凸显高下"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "杯羹典故指颍考叔以食感悟庄公"
+                }
+            ]
+        },
+        "analysis": "此诗借颍考叔孝行讽喻世风。首句以衣冠肉食代指权贵，设问句式强化批判，但意象陈旧。杯羹典故虽点题，却未展开情景，流于直叙。末句纯孝之赞空洞，缺乏情感渗透。全诗议论为主，缺乏意象经营，属平庸说教，未见诗味。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图直白叙事，但缺乏洗练",
+                "realm": "逸",
+                "reason": "语言浅白，未达自然之趣，反显枯槁"
+            }
+        ],
+        "imagery": [
+            "衣冠",
+            "肉食",
+            "杯羹",
+            "颍谷封人"
+        ],
+        "allusions": [
+            {
+                "phrase": "杯羹",
+                "explanation": "颍考叔以食感悟郑庄公"
+            },
+            {
+                "phrase": "颍谷封人",
+                "explanation": "颍考叔官职，代指其人"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句点明纯孝，稍显凝练"
+        }
+    },
+    {
+        "title": "石碏",
+        "author": "王十朋",
+        "paragraphs": [
+            "人情誰忍棄天倫，公獨能將義滅親。",
+            "何惜一時誅賊子，不妨千古作純臣。"
+        ],
+        "paragraphs_simplified": [
+            "人情谁忍弃天伦，公独能将义灭亲。",
+            "何惜一时诛贼子，不妨千古作纯臣。"
+        ],
+        "translation": "人情谁忍心抛弃天伦，唯独他能以义灭亲。何惜一时诛杀贼子，不妨千古作纯臣。",
+        "score": 3.1,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "反问"
+            ],
+            "presentation_tags": [
+                "对比",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先以反问句强调人情与义的冲突，再以对偶句赞其抉择，末句升华至千古评价。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前后句对仗，强化义利之辨"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "石碏大义灭亲典故"
+                }
+            ]
+        },
+        "analysis": "此诗直陈石碏大义灭亲之举。首句反问有力，但天伦义理之辩流于抽象。对偶句工整，却未注入情感，纯为道德评判。末句千古纯臣之誉空洞，缺乏意象支撑。全诗如道德训诫，意象贫乏，诗味寡淡，属应酬体，未见艺术感染力。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery分析": "试图以理服人，但缺乏气势",
+                "realm": "能",
+                "reason": "语言直白，未达劲健之骨力，反显枯涩"
+            }
+        ],
+        "imagery": [
+            "人情",
+            "天伦",
+            "义",
+            "亲",
+            "贼子",
+            "纯臣"
+        ],
+        "allusions": [
+            {
+                "phrase": "义灭亲",
+                "explanation": "石碏杀子之事"
+            },
+            {
+                "phrase": "纯臣",
+                "explanation": "忠贞不二之臣"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句反问切入，稍显波澜"
+        }
+    }
+]

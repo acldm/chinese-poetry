@@ -1,0 +1,2241 @@
+[
+    {
+        "title": "後天易吟三十首  其一五",
+        "author": "方回",
+        "paragraphs": [
+            "宗廟蒸嘗禮，朝廷覲見儀。",
+            "無窮天下事，不過似農時。"
+        ],
+        "paragraphs_simplified": [
+            "宗庙蒸尝礼，朝廷觐见仪。",
+            "无穷天下事，不过似农时。"
+        ],
+        "translation": "宗庙的祭祀礼仪，朝廷的朝见仪式。无穷无尽的天下事，不过像农事时节一样。",
+        "score": 2.5,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句列举礼制仪式，后两句转折以农时比喻天下事，强调自然规律。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前两句'宗庙蒸尝礼'与'朝廷觐见仪'对仗工整。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "将'天下事'比作'农时'，以具体喻抽象。"
+                }
+            ]
+        },
+        "analysis": "此诗以宗庙朝廷之礼起兴，转而以农时喻天下事，立意浅显，缺乏意象构建。语言直白近乎说教，无审美回甘，整体流于平庸。",
+        "poetry_styles": [
+            {
+                "style": "实境",
+                "imagery_analysis": "试图以实事实理入诗，但缺乏诗意转化，显得直白粗浅。",
+                "realm": "能品",
+                "reason": "技法尚存对偶，但立意浅露，未能达到实境应有的真切感。"
+            }
+        ],
+        "imagery": [
+            "礼制",
+            "农事"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以农时喻天下事，点明主旨，最具代表性。"
+        }
+    },
+    {
+        "title": "後天易吟三十首  其一六",
+        "author": "方回",
+        "paragraphs": [
+            "細玩文王卦，如何法地方。",
+            "田從一井起，鄉遂及要荒。"
+        ],
+        "paragraphs_simplified": [
+            "细玩文王卦，如何法地方。",
+            "田从一井起，乡遂及要荒。"
+        ],
+        "translation": "细究文王的卦象，如何效法大地。田地从一井开始，乡遂直到要荒。",
+        "score": 2.5,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句探讨易经卦象效法大地，后两句以井田制喻卦理，逻辑直陈。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前两句'细玩文王卦'与'如何法地方'形成对仗。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用'文王卦'及'井田'制度，涉及易经典故。"
+                }
+            ]
+        },
+        "analysis": "此诗聚焦易经卦象与田地制度的关联，术语堆砌，意象抽象。缺乏生动描绘，立意拘泥于说理，诗意稀薄，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "实境",
+                "imagery_analysis": "试图以典章制度入诗，但未能转化为诗意境界，流于生硬。",
+                "realm": "能品",
+                "reason": "虽用典故，但缺乏情感渗透，未能达到高古之境。"
+            }
+        ],
+        "imagery": [
+            "卦象",
+            "田地",
+            "井田"
+        ],
+        "allusions": [
+            {
+                "phrase": "文王卦",
+                "explanation": "指周文王所演易经卦象。"
+            },
+            {
+                "phrase": "井田",
+                "explanation": "古代土地制度，象征秩序。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点明主题，直接引入易经探讨。"
+        }
+    },
+    {
+        "title": "後天易吟三十首  其一七",
+        "author": "方回",
+        "paragraphs": [
+            "觀身不見背，動體悉由心。",
+            "向陽負陰處，離坎細推尋。"
+        ],
+        "paragraphs_simplified": [
+            "观身不见背，动体悉由心。",
+            "向阳负阴处，离坎细推寻。"
+        ],
+        "translation": "观察身体不见背部，运动都由心控制。向阳背阴处，离卦坎卦细推究。",
+        "score": 2.5,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句论述身心关系，后两句引入易经离坎卦象，以阴阳推究深化主题。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前两句'观身不见背'与'动体悉由心'对仗。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用'离坎'卦名，属易经典故。"
+                }
+            ]
+        },
+        "analysis": "此诗以易经离坎卦象推究身心阴阳，语言晦涩，意象玄虚。缺乏具体景物烘托，立意抽象，难以引发共鸣，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图模仿高古玄理，但缺乏洗炼，显得生硬晦涩。",
+                "realm": "能品",
+                "reason": "虽涉易理，但未能达到高古之境的超诣，反显堆砌。"
+            }
+        ],
+        "imagery": [
+            "身体",
+            "心",
+            "阴阳",
+            "离坎"
+        ],
+        "allusions": [
+            {
+                "phrase": "离坎",
+                "explanation": "易经中的离卦与坎卦，象征火与水。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以离坎推寻收束，点明哲理核心。"
+        }
+    },
+    {
+        "title": "後天易吟三十首  其一八",
+        "author": "方回",
+        "paragraphs": [
+            "次謙終以巽，九卦至三陳。",
+            "聖人有憂患，何况是凡人。"
+        ],
+        "paragraphs_simplified": [
+            "次谦终以巽，九卦至三陈。",
+            "圣人有忧患，何况是凡人。"
+        ],
+        "translation": "次序谦逊最终以巽卦，九卦到三陈。圣人有忧患，何况是凡人。",
+        "score": 2.5,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句罗列易经卦序，后两句对比圣人与凡人，突出忧患主题。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前两句'次谦终以巽'与'九卦至三陈'形成对仗。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用'九卦'、'三陈'等易经术语。"
+                }
+            ]
+        },
+        "analysis": "此诗以易经卦序起兴，转而议论圣人与凡人的忧患，立意老套，缺乏新意。词藻堆砌于典故，情感空洞，整体流于说教。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图表达悲慨之情，但缺乏具体意象支撑，显得空泛。",
+                "realm": "能品",
+                "reason": "虽触及忧患主题，但未能达到悲慨的深沉境界。"
+            }
+        ],
+        "imagery": [
+            "卦象",
+            "圣人",
+            "凡人"
+        ],
+        "allusions": [
+            {
+                "phrase": "九卦",
+                "explanation": "易经中九种卦象，象征德行。"
+            },
+            {
+                "phrase": "三陈",
+                "explanation": "易经中反复陈述的卦理。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句对比圣人与凡人，直接点明忧患主题。"
+        }
+    },
+    {
+        "title": "後天易吟三十首  其一九",
+        "author": "方回",
+        "paragraphs": [
+            "元亨猶利正，始可用純乾。",
+            "未了一貞字，何由保性天。"
+        ],
+        "paragraphs_simplified": [
+            "元亨犹利正，始可用纯乾。",
+            "未了一贞字，何由保性天。"
+        ],
+        "translation": "元亨还利正，开始可用纯乾。未了一个贞字，何由保性天。",
+        "score": 2.5,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句阐述乾卦卦辞，后两句强调贞字重要性，逻辑直陈。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前两句'元亨犹利正'与'始可用纯乾'对仗。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用'元亨利贞'乾卦卦辞。"
+                }
+            ]
+        },
+        "analysis": "此诗围绕易经乾卦贞字展开，语言枯燥，纯为说理。缺乏意象与情感交融，立意抽象，难以引发审美兴趣，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以经典卦辞入诗，但未能转化为典雅意境，反显迂腐。",
+                "realm": "能品",
+                "reason": "虽用典正统，但缺乏含蓄之美，未能达到典雅之境。"
+            }
+        ],
+        "imagery": [
+            "元亨",
+            "利贞",
+            "乾",
+            "性天"
+        ],
+        "allusions": [
+            {
+                "phrase": "元亨利贞",
+                "explanation": "易经乾卦卦辞，象征天道运行。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直接引用卦辞，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "後天易吟三十首  其二○",
+        "author": "方回",
+        "paragraphs": [
+            "亨到離時見，貞從坎處來。",
+            "歸根培養熟，方解鼓風雷。"
+        ],
+        "paragraphs_simplified": [
+            "亨到离时见，贞从坎处来。",
+            "归根培养熟，方解鼓风雷。"
+        ],
+        "translation": "Prosperity is seen when arriving at Li; perseverance comes from Kan. When roots are nurtured and matured, then one understands the drumming of wind and thunder.",
+        "score": 3.6,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "The poem outlines the progression of change through hexagrams, emphasizing the importance of foundational cultivation for understanding profound transformations.",
+            "evidence": [
+                {
+                    "tag": "托物言志",
+                    "explanation": "Uses hexagrams Li and Kan to symbolize the path of perseverance and prosperity."
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "Compares the nurturing of roots to the comprehension of wind and thunder, representing dynamic change."
+                }
+            ]
+        },
+        "analysis": "此诗以《易经》卦象为骨架，构筑出一种玄奥的哲理空间。离火与坎水的对举，暗合阴阳流转的宇宙观，但意象抽象，缺乏具体物象的烘托，流于概念化。归根培养之喻，虽指向内在修养，却未能通过生动细节拓宽意境，整体更似理路清晰的注疏，而非诗性盎然的创作。其价值在于逻辑的缜密，而非审美的超诣。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "意象多取自《易经》抽象概念，如离、坎、风雷，缺乏具象描绘，显得空灵而疏离。",
+                "realm": "能品",
+                "reason": "诗作展现了作者对易理的熟稔，但未能超越概念层面，达到情景交融的妙境。"
+            },
+            {
+                "style": "洗炼",
+                "imagery_analysis": "语言简洁，直指核心，但过于凝练而失却丰腴，显得干涩。",
+                "realm": "能品",
+                "reason": "技法上追求精简，却牺牲了意象的生动性，未能实现洗炼的极致。"
+            }
+        ],
+        "imagery": [
+            "火",
+            "水",
+            "根",
+            "风",
+            "雷"
+        ],
+        "allusions": [
+            {
+                "phrase": "離",
+                "explanation": "《易经》中的离卦，象征火。"
+            },
+            {
+                "phrase": "坎",
+                "explanation": "《易经》中的坎卦，象征水。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点明卦象流转，奠定全诗哲理基调。"
+        }
+    },
+    {
+        "title": "後天易吟三十首  其二一",
+        "author": "方回",
+        "paragraphs": [
+            "背於身不見，亦不見庭人。",
+            "物我俱無與，方知止處真。"
+        ],
+        "paragraphs_simplified": [
+            "背于身不见，亦不见庭人。",
+            "物我俱无与，方知止处真。"
+        ],
+        "translation": "With back turned, the body is unseen; also, the courtyard person is unseen. When things and self are both absent, then one knows the truth of stopping.",
+        "score": 3.8,
+        "subject": [
+            "哲理诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "The poem moves from physical detachment to mental transcendence, culminating in the realization of true cessation.",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "Parallel structure in '背於身不見，亦不見庭人' emphasizes dual invisibility."
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "Contrasts the unseen physical world with the abstract concept of '止處真'."
+                }
+            ]
+        },
+        "analysis": "此诗以背身不见起笔，勾勒出一种超然物外的境界，虚实相生，颇具禅意。物我两忘的表述，直指道家与禅宗的空灵核心，但意象稍显单薄，缺乏更丰富的物象来支撑其意境。结尾的‘止处真’虽点明主题，却略显直白，未能留下余韵。整体而言，它在哲理的挖掘上较为深入，但诗味稍欠，未能达到含蓄蕴藉的高格。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以背身、庭人等简淡意象，营造出疏离氛围，但缺乏层次感。",
+                "realm": "能品",
+                "reason": "试图以淡泊之语传达深意，却未能充分展现冲淡之品的醇厚韵味。"
+            },
+            {
+                "style": "超诣",
+                "imagery_analysis": "指向超越现实的境界，但意象过于抽象，难以引发共鸣。",
+                "realm": "能品",
+                "reason": "立意高远，但表达上未能达到超诣的空灵妙境。"
+            }
+        ],
+        "imagery": [
+            "背",
+            "身",
+            "庭",
+            "人",
+            "物",
+            "我",
+            "止处"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句‘物我俱無與，方知止處真’凝练地概括了全诗的超脱主旨。"
+        }
+    },
+    {
+        "title": "後天易吟三十首  其二二",
+        "author": "方回",
+        "paragraphs": [
+            "乾坤始開闢，六坎首經綸。",
+            "士不知憂患，焉能免世氛。"
+        ],
+        "paragraphs_simplified": [
+            "乾坤始开辟，六坎首经纶。",
+            "士不知忧患，焉能免世氛。"
+        ],
+        "translation": "Heaven and earth begin to open up; six Kan hexagrams first manage the world. Scholars unaware of worries and hardships, how can they avoid the worldly atmosphere?",
+        "score": 3.5,
+        "subject": [
+            "哲理诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "反问"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "The poem starts with the cosmic beginning and shifts to a critique of scholars, using rhetorical questioning to emphasize the necessity of enduring hardships.",
+            "evidence": [
+                {
+                    "tag": "反问",
+                    "explanation": "The line '焉能免世氛' uses a rhetorical question to challenge the reader."
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "References ancient concepts like '乾坤' to comment on contemporary scholar's lack of resilience."
+                }
+            ]
+        },
+        "analysis": "此诗以乾坤开辟的宏大景象起兴，转入对士人不知忧患的批判，气势较为开阔。六坎经纶的意象，暗含对世事艰难的警示，但语言直露，缺乏细腻的意象铺陈。反问句式增强了力度，却也显得说教意味过重。整体上，它在讽喻上较为直接，但未能通过生动的诗性语言来升华主题，流于一般性的议论。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以乾坤、坎等意象营造出一种苍茫感，但缺乏具体的情感载体。",
+                "realm": "能品",
+                "reason": "试图表达悲愤之情，但意象不够丰满，未能达到悲慨的深沉境界。"
+            }
+        ],
+        "imagery": [
+            "乾坤",
+            "坎",
+            "士",
+            "忧患",
+            "世氛"
+        ],
+        "allusions": [
+            {
+                "phrase": "乾坤",
+                "explanation": "《易经》中的乾卦和坤卦，象征天地。"
+            },
+            {
+                "phrase": "六坎",
+                "explanation": "《易经》中的坎卦，此处可能指多次或复杂的险难。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以反问作结，强化了对士人的警示，是全诗的点睛之笔。"
+        }
+    },
+    {
+        "title": "後天易吟三十首  其二三",
+        "author": "方回",
+        "paragraphs": [
+            "始屯終未濟，世故信多艱。",
+            "維坎剛中吉，周旋險難間。"
+        ],
+        "paragraphs_simplified": [
+            "始屯终未济，世故信多艰。",
+            "维坎刚中吉，周旋险难间。"
+        ],
+        "translation": "Starting with Zhun and ending with Wei Ji, worldly affairs are indeed full of hardships. Holding to Kan's firm centrality brings good fortune; maneuvering among dangers and difficulties.",
+        "score": 3.7,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "The poem narrates the journey from beginning to end in terms of hexagrams, then advises on navigating hardships with the virtue of Kan.",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "References hexagrams '屯' (Zhun) and '未濟' (Wei Ji) to symbolize life's struggles."
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "Balanced structure between the two lines, linking worldly hardships with the solution from Kan."
+                }
+            ]
+        },
+        "analysis": "此诗通过屯卦和未济卦的典故，勾勒出人生多艰的图景，后以坎卦的刚中之吉作为应对，结构紧凑。对偶工整，增强了节奏感，但意象仍局限于卦象，未能拓展为更丰富的自然或情感画面。周旋险难的表述，虽显智慧，却稍欠诗意，整体更像理性的总结而非感性的抒发。其价值在于对易理的娴熟运用，但艺术感染力有限。",
+        "poetry_styles": [
+            {
+                "style": "缜密",
+                "imagery_analysis": "逻辑严密，卦象衔接自然，但意象较为单一，缺乏变化。",
+                "realm": "能品",
+                "reason": "结构工整，但未能通过多元意象提升诗的意境。"
+            }
+        ],
+        "imagery": [
+            "屯",
+            "未济",
+            "坎",
+            "险",
+            "难"
+        ],
+        "allusions": [
+            {
+                "phrase": "屯",
+                "explanation": "《易经》中的屯卦，象征初生艰难。"
+            },
+            {
+                "phrase": "未濟",
+                "explanation": "《易经》中的未济卦，象征未完成或困难。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘維坎剛中吉，周旋險難間’点明了在困境中持守正道的智慧。"
+        }
+    },
+    {
+        "title": "後天易吟三十首  其二四",
+        "author": "方回",
+        "paragraphs": [
+            "彖辭六十四，三十四言貞。",
+            "幹事匪正固，難求心外亨。"
+        ],
+        "paragraphs_simplified": [
+            "彖辞六十四，三十四言贞。",
+            "干事匪正固，难求心外亨。"
+        ],
+        "translation": "The judgments are sixty-four; thirty-four speak of perseverance. In managing affairs without firm correctness, it is difficult to seek prosperity beyond the mind.",
+        "score": 3.4,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "数字"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "The poem cites the number of judgments and emphasizes perseverance, concluding that correctness is essential for external prosperity.",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "Refers to '彖辭' (judgments) from the I Ching, highlighting their content."
+                },
+                {
+                    "tag": "数字",
+                    "explanation": "Uses specific numbers '六十四' and '三十四' to ground the discussion in textual authority."
+                }
+            ]
+        },
+        "analysis": "此诗以《易经》彖辞的数量为切入点，强调贞正的重要性，逻辑清晰，但语言枯燥，缺乏诗意的跳跃。数字的罗列虽显博学，却削弱了情感的流动。干事正固的告诫，直白如训诫，未能通过意象或韵律营造审美距离。整体上，它更接近学术笔记，而非诗作，艺术价值较低，仅在理路上可取。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "引用经典，语言庄重，但缺乏生动的意象，显得刻板。",
+                "realm": "能品",
+                "reason": "试图以典雅之语传达哲理，但未能避免说教化，失却诗趣。"
+            }
+        ],
+        "imagery": [
+            "彖辞",
+            "贞",
+            "干事",
+            "心"
+        ],
+        "allusions": [
+            {
+                "phrase": "彖辭",
+                "explanation": "《易经》中解释卦象的文辞。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘幹事匪正固，難求心外亨’直接点明了正固对于外在亨通的必要性。"
+        }
+    },
+    {
+        "title": "後天易吟三十首  其二五",
+        "author": "方回",
+        "paragraphs": [
+            "亨嘉誰不願，貞固士之常。",
+            "乾體充剛健，坤爻認直方。"
+        ],
+        "paragraphs_simplified": [
+            "亨嘉谁不愿，贞固士之常。",
+            "乾体充刚健，坤爻认直方。"
+        ],
+        "translation": "亨通嘉美谁不希望？坚贞稳固是士人的常态。乾卦之体充满刚健，坤卦之爻需认识直方。",
+        "score": 2.5,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先提出普遍愿望，再具体到易卦特性。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前后句结构对称，如'亨嘉谁不愿'对'贞固士之常'"
+                }
+            ]
+        },
+        "analysis": "此诗直接阐述易理，语言简练但缺乏诗意。意象陈旧，立意浅显，属于说理诗而非抒情诗。情感流露不足，审美距离较远，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以典雅风格呈现易理，但流于说教。",
+                "realm": "能品",
+                "reason": "技法成熟但缺乏艺术感染力。"
+            }
+        ],
+        "imagery": [
+            "嘉美",
+            "坚贞",
+            "乾",
+            "坤"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句更通顺，陈述常理。"
+        }
+    },
+    {
+        "title": "後天易吟三十首  其二六",
+        "author": "方回",
+        "paragraphs": [
+            "祖考精神散，子孫能聚之。",
+            "淫祠祭非鬼，萃渙義何居。"
+        ],
+        "paragraphs_simplified": [
+            "祖考精神散，子孙能聚之。",
+            "淫祠祭非鬼，萃涣义何居。"
+        ],
+        "translation": "祖先的精神散去，子孙能聚集他们。祭祀淫祠非鬼，萃涣之义何在？",
+        "score": 2.0,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先陈述祖先与子孙现象，再批判淫祠并质疑其义。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "以'萃涣义何居'提出问题"
+                }
+            ]
+        },
+        "analysis": "此诗批判淫祠，引用易理，但语言直白，缺乏意象。情感平淡，立意浅显，属于说教诗。整体缺乏诗意，流于表面。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "试图以洗炼风格表达，但过于直白。",
+                "realm": "凡品",
+                "reason": "技法简单，缺乏深度。"
+            }
+        ],
+        "imagery": [
+            "祖先",
+            "后代",
+            "祠庙",
+            "鬼神"
+        ],
+        "allusions": [
+            {
+                "phrase": "萃涣",
+                "explanation": "易经卦名，指聚集与离散"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句陈述现象，较为通顺。"
+        }
+    },
+    {
+        "title": "後天易吟三十首  其二七",
+        "author": "方回",
+        "paragraphs": [
+            "卦之凶者五，否剝未濟三。",
+            "如姤與歸妹，深防女敗男。"
+        ],
+        "paragraphs_simplified": [
+            "卦之凶者五，否剥未济三。",
+            "如姤与归妹，深防女败男。"
+        ],
+        "translation": "凶卦有五个，否、剥、未济是其中三个。如姤卦和归妹卦，需深防女子败坏男子。",
+        "score": 2.2,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "恐惧"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先总述凶卦数量，再具体举例并警示。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "以'否剥未济'代指凶卦"
+                }
+            ]
+        },
+        "analysis": "此诗罗列易经凶卦，语言枯燥，缺乏诗意。意象单一，立意浅显，属于知识性陈述。情感缺失，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以劲健风格呈现，但实则生硬。",
+                "realm": "凡品",
+                "reason": "内容枯燥，缺乏艺术性。"
+            }
+        ],
+        "imagery": [
+            "卦象",
+            "凶险"
+        ],
+        "allusions": [
+            {
+                "phrase": "否",
+                "explanation": "易经否卦"
+            },
+            {
+                "phrase": "剥",
+                "explanation": "易经剥卦"
+            },
+            {
+                "phrase": "未济",
+                "explanation": "易经未济卦"
+            },
+            {
+                "phrase": "姤",
+                "explanation": "易经姤卦"
+            },
+            {
+                "phrase": "归妹",
+                "explanation": "易经归妹卦"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句具体举例，较为完整。"
+        }
+    },
+    {
+        "title": "後天易吟三十首  其二八",
+        "author": "方回",
+        "paragraphs": [
+            "易經之下卷，何以始恒咸。",
+            "貞女家人利，如詩有二南。"
+        ],
+        "paragraphs_simplified": [
+            "易经之下卷，何以始恒咸。",
+            "贞女家人利，如诗有二南。"
+        ],
+        "translation": "易经的下卷，为何以恒、咸卦开始？贞女对家人有利，如同诗经有二南。",
+        "score": 2.4,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先提出问题，再用比喻回答并赞美贞女。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'如诗有二南'作比"
+                }
+            ]
+        },
+        "analysis": "此诗结合易经与诗经，但语言平淡，意象陈旧。立意浅显，缺乏深度。情感流露不足，整体属于应酬诗风格。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图以高古风格呈现，但流于表面。",
+                "realm": "凡品",
+                "reason": "典故堆砌，缺乏新意。"
+            }
+        ],
+        "imagery": [
+            "经书",
+            "卦象",
+            "女子",
+            "家庭",
+            "诗经"
+        ],
+        "allusions": [
+            {
+                "phrase": "恒",
+                "explanation": "易经恒卦"
+            },
+            {
+                "phrase": "咸",
+                "explanation": "易经咸卦"
+            },
+            {
+                "phrase": "二南",
+                "explanation": "诗经国风部分"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句使用比喻，相对生动。"
+        }
+    },
+    {
+        "title": "後天易吟三十首  其二九",
+        "author": "方回",
+        "paragraphs": [
+            "二五時難遇，沈淪下位多。",
+            "乾潜與坤履，退謹養天和。"
+        ],
+        "paragraphs_simplified": [
+            "二五时难遇，沉沦下位多。",
+            "乾潜与坤履，退谨养天和。"
+        ],
+        "translation": "二五之时难以遇到，沉沦下位者多。乾潜与坤履，退避谨慎以养天和。",
+        "score": 2.3,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先说时运难遇，再提出退隐养和之道。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前后句结构对称，如'二五时难遇'对'沉沦下位多'"
+                }
+            ]
+        },
+        "analysis": "此诗谈论时运与退隐，语言简练但缺乏意象。立意老套，情感平淡，属于说理诗。整体平庸，无突出艺术价值。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以冲淡风格表达，但实则空洞。",
+                "realm": "凡品",
+                "reason": "内容抽象，缺乏感染力。"
+            }
+        ],
+        "imagery": [
+            "时运",
+            "地位",
+            "乾",
+            "坤",
+            "自然"
+        ],
+        "allusions": [
+            {
+                "phrase": "乾潜",
+                "explanation": "易经乾卦潜龙之意"
+            },
+            {
+                "phrase": "坤履",
+                "explanation": "易经坤卦履霜之意"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句陈述时运，较为通顺。"
+        }
+    },
+    {
+        "title": "後天易吟三十首  其三○",
+        "author": "方回",
+        "paragraphs": [
+            "學者欲學易，當觀羑里時。",
+            "如何是敬字，恐懼畏憂危。"
+        ],
+        "paragraphs_simplified": [
+            "学者欲学易，当观羑里时。",
+            "如何是敬字，恐惧畏忧危。"
+        ],
+        "translation": "学者想学易经，应当观察周文王在羑里演易的时期。如何是敬字？就是恐惧、畏惧、忧患、危险。",
+        "score": 2.5,
+        "subject": [
+            "哲理诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "恐惧"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直陈学易之径，次句以问答体揭示敬字内核，逻辑直白，缺乏层递。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用“羑里”典故，指周文王囚禁演易之事，作为学易的参照点。"
+                }
+            ]
+        },
+        "analysis": "此诗以理语直陈学易之径，借羑里典故点出敬字之核，然意象稀薄，纯以概念堆砌，缺乏情景交融之致。立意浅显，流于说教，未能构筑审美距离，读之味同嚼蜡。整体定性为平庸之作，仅具训诂之功，而无诗艺之妙。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "意象稀薄，多抽象概念，缺乏具体物象支撑。",
+                "realm": "能品",
+                "reason": "试图以典雅之笔说理，但失之枯燥，未能达成含蓄或洗炼之境。"
+            }
+        ],
+        "imagery": [
+            "易",
+            "羑里",
+            "敬",
+            "恐惧"
+        ],
+        "allusions": [
+            {
+                "phrase": "羑里",
+                "explanation": "周文王被囚禁演易之地，象征易学源头。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句开门见山，点明主题，逻辑清晰。"
+        }
+    },
+    {
+        "title": "大衍易吟四十首  其一",
+        "author": "方回",
+        "paragraphs": [
+            "卦下觀一彖，卦中求六爻。",
+            "今人僅知此，著眼未爲高。"
+        ],
+        "paragraphs_simplified": [
+            "卦下观一彖，卦中求六爻。",
+            "今人仅知此，着眼未为高。"
+        ],
+        "translation": "在卦下观察彖辞，在卦中寻求六爻。今人只知道这些，着眼点不高。",
+        "score": 2.8,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句陈述易学基本方法，后两句以对比批评今人浅薄，结构紧凑但缺乏意象铺垫。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "以“今人仅知此”与理想学易境界对比，凸显批判之意。"
+                }
+            ]
+        },
+        "analysis": "此诗直指易学研究之弊，通过卦象解读的细节，批判今人学识浅薄。语言简练，但意象局限于“卦”“爻”等抽象术语，未能拓展为生动画面。情感流露于字里行间，却缺乏审美回甘，整体呈现说理文的特质，而非诗境的营造。属于技法成熟但立意老套的凡品。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "意象集中于易学术语，缺乏自然物象，洗炼有余而生动不足。",
+                "realm": "能品",
+                "reason": "试图以洗炼笔法说理，但失之直白，未能达成含蓄或高古之境。"
+            }
+        ],
+        "imagery": [
+            "卦",
+            "彖",
+            "六爻"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句具体描述学易方法，逻辑清晰，为全诗基础。"
+        }
+    },
+    {
+        "title": "大衍易吟四十首  其二",
+        "author": "方回",
+        "paragraphs": [
+            "太極元無極，先天異後天。",
+            "今人不識此，讀易豈其然。"
+        ],
+        "paragraphs_simplified": [
+            "太极元无极，先天异后天。",
+            "今人不识此，读易岂其然。"
+        ],
+        "translation": "太极本是无极，先天不同于后天。今人不认识这个，读易经岂能如此。",
+        "score": 2.6,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "对比"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句阐述易理核心，次句以反问质疑今人理解，逻辑直接，缺乏意象过渡。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "“读易岂其然”以反问形式强化批判力度。"
+                }
+            ]
+        },
+        "analysis": "此诗聚焦易学本体论，以“太极”“先天”等概念直陈今人之误。语言高度抽象，意象贫乏，未能通过物象或情景传递哲理。情感虽显愤懑，但宣泄直露，缺乏审美距离。整体为说理诗的典型，技法平庸，未见独特艺术价值。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "意象多涉形而上概念，试图营造高古玄远之境，但实则空洞。",
+                "realm": "能品",
+                "reason": "模仿高古风格，但因缺乏具体意象支撑，流于枯燥。"
+            }
+        ],
+        "imagery": [
+            "太极",
+            "无极",
+            "先天",
+            "后天"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句概括易理精髓，为全诗立论基础。"
+        }
+    },
+    {
+        "title": "大衍易吟四十首  其三",
+        "author": "方回",
+        "paragraphs": [
+            "謂今三畫卦，不自偶奇生。",
+            "便指三爲八，徒勞口舌爭。"
+        ],
+        "paragraphs_simplified": [
+            "谓今三画卦，不自偶奇生。",
+            "便指三为八，徒劳口舌争。"
+        ],
+        "translation": "说现在三画卦，不从偶奇生。便指三为八，徒劳口舌之争。",
+        "score": 2.4,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句否定常见观点，后句斥责争论无益，结构简单，直指易学争议。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“徒劳口舌爭”夸大争论的无效性，强化批判。"
+                }
+            ]
+        },
+        "analysis": "此诗针对易学卦象起源的争论，以生硬语言表达不满。意象局限于“三画卦”“偶奇”等术语，缺乏生动性，情感宣泄直白，无含蓄之美。整体技法粗糙，立意浅显，属于堆砌辞藻的平庸之作，未能提升至诗艺层面。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以劲健笔法批判，但意象单薄，反显粗鄙。",
+                "realm": "能品",
+                "reason": "模仿劲健风格，但因缺乏意象支撑，未能达成雄浑之境。"
+            }
+        ],
+        "imagery": [
+            "三画卦",
+            "偶奇",
+            "八"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句直斥争论无益，语气鲜明，为全诗焦点。"
+        }
+    },
+    {
+        "title": "大衍易吟四十首  其四",
+        "author": "方回",
+        "paragraphs": [
+            "乾坤用九六，義例析爲三。",
+            "朱子申歐說，開編請細探。"
+        ],
+        "paragraphs_simplified": [
+            "乾坤用九六，义例析为三。",
+            "朱子申欧说，开编请细探。"
+        ],
+        "translation": "乾坤用九六，义例析为三。朱子申欧阳说，开编请细探。",
+        "score": 2.7,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "引用"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句陈述易理，次句引用朱熹、欧阳修之说，结构平铺直叙，缺乏情感起伏。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“朱子”“歐說”指朱熹和欧阳修的易学观点，作为权威依据。"
+                }
+            ]
+        },
+        "analysis": "此诗罗列易学义例，并引朱熹、欧阳修之说，语言简古但意象匮乏，纯以学术术语成篇。情感虽显敬佩，但流于表面，未能通过诗境传递深层意蕴。整体为典籍摘要式的写作，缺乏诗的审美升华，属于技法成熟但立意平庸的应酬体。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "意象多涉学术典故，试图营造典雅氛围，但实则堆砌。",
+                "realm": "能品",
+                "reason": "追求典雅，但因缺乏情景交融，未能达成含蓄或自然之境。"
+            }
+        ],
+        "imagery": [
+            "乾坤",
+            "九六",
+            "朱子",
+            "欧阳"
+        ],
+        "allusions": [
+            {
+                "phrase": "朱子",
+                "explanation": "指朱熹，宋代理学家，易学权威。"
+            },
+            {
+                "phrase": "歐說",
+                "explanation": "指欧阳修的易学观点。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句概括易理核心，逻辑清晰，为全诗起点。"
+        }
+    },
+    {
+        "title": "大衍易吟四十首  其五",
+        "author": "方回",
+        "paragraphs": [
+            "陽爻極六位，進退貴因時。",
+            "德則何憂亢，神而不可知。"
+        ],
+        "paragraphs_simplified": [
+            "阳爻极六位，进退贵因时。",
+            "德则何忧亢，神而不可知。"
+        ],
+        "translation": "阳爻达到六位，进退贵在因时。德行何忧亢极，神妙不可知晓。",
+        "score": 3.5,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "议论"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句阐述爻位与进退的因时之理，后两句转向德行与神妙的不可知性，形成递进式议论。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "阳爻极六位与进退贵因时形成句式对称，增强节奏感。"
+                }
+            ]
+        },
+        "analysis": "此诗以精炼笔触勾勒易理玄机，阳爻与进退的意象构筑出天道运行的抽象框架。语言凝练，直指爻位变化的本质，但意象晦涩，缺乏具体物象支撑，导致审美距离疏远。哲思渗透于字句间，却未能通过情景交融赋予温度，整体呈现理性而冷峻的质感。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "以爻、时、神等抽象概念构筑玄远之境，缺乏生动物象。",
+                "realm": "能品",
+                "reason": "技法纯熟，但意象干涩，未能达到含蓄深远之境。"
+            }
+        ],
+        "imagery": [
+            "爻",
+            "时",
+            "神"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直接点明爻位与因时之理，更具代表性。"
+        }
+    },
+    {
+        "title": "大衍易吟四十首  其六",
+        "author": "方回",
+        "paragraphs": [
+            "六陰升已極，坤下戰乎乾。",
+            "建亥陽生處，居然復卦前。"
+        ],
+        "paragraphs_simplified": [
+            "六阴升已极，坤下战乎乾。",
+            "建亥阳生处，居然复卦前。"
+        ],
+        "translation": "六阴上升已极，坤下战于乾。建亥阳生之处，居然在复卦前。",
+        "score": 2.5,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句描述阴阳冲突，后句点明阳生之时与复卦的关系，逻辑紧凑但术语密集。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "复卦为易经卦名，直接引用以指代阳气初生。"
+                }
+            ]
+        },
+        "analysis": "此诗堆砌易学术语，六阴、坤、乾、复卦等概念密集，却未转化为可感意象。语言生硬，缺乏诗性张力，仅作为卦象注解存在。虽试图通过术语构建阴阳消长之图景，但意象陈旧，未能突破抽象框架，读来如阅爻辞，索然无味。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "以易经卦名构筑典故，但术语过多导致晦涩。",
+                "realm": "凡品",
+                "reason": "辞藻堆砌，立意浅显，未能达到典雅之境。"
+            }
+        ],
+        "imagery": [
+            "阴",
+            "阳",
+            "卦"
+        ],
+        "allusions": [
+            {
+                "phrase": "复卦",
+                "explanation": "易经卦名，象征阳气初生。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直接呈现阴阳冲突，更具冲击力。"
+        }
+    },
+    {
+        "title": "大衍易吟四十首  其七",
+        "author": "方回",
+        "paragraphs": [
+            "用九不爲首，陽畫位屯初。",
+            "百八十五變，剛爻可捨諸。"
+        ],
+        "paragraphs_simplified": [
+            "用九不为首，阳画位屯初。",
+            "百八十五变，刚爻可舍诸。"
+        ],
+        "translation": "用九不为首，阳画位于屯初。百八十五变，刚爻可舍去。",
+        "score": 2.0,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句讲阳爻位置，后句述变化与取舍，直陈易理，无转折。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "屯为易经卦名，直接引用指代初爻。"
+                }
+            ]
+        },
+        "analysis": "此诗完全依赖易经术语，用九、屯初、刚爻等概念直接拼接，毫无意象转化。语言干瘪，情感空洞，仅作为爻辞复述存在。缺乏诗意的提炼与升华，整体流于技术性陈述，未能构筑任何审美空间，近乎劣作。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "试图精简，但术语堆砌反显枯燥。",
+                "realm": "凡品",
+                "reason": "缺乏意象与情感，仅是概念堆砌。"
+            }
+        ],
+        "imagery": [
+            "爻",
+            "变"
+        ],
+        "allusions": [
+            {
+                "phrase": "屯",
+                "explanation": "易经卦名，象征初生险难。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句相对完整，点明爻位。"
+        }
+    },
+    {
+        "title": "大衍易吟四十首  其八",
+        "author": "方回",
+        "paragraphs": [
+            "十年女乃字，守節以勝情。",
+            "凡諸卦用六，觀茲利永貞。"
+        ],
+        "paragraphs_simplified": [
+            "十年女乃字，守节以胜情。",
+            "凡诸卦用六，观兹利永贞。"
+        ],
+        "translation": "十年女子才许嫁，守节以胜情。凡诸卦用六，观此利永贞。",
+        "score": 2.2,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句叙事女子守节，后句突转易理，逻辑断裂，缺乏过渡。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "用六为易经爻辞，直接引用以论贞正。"
+                }
+            ]
+        },
+        "analysis": "此诗内容杂糅，前句世俗伦理，后句抽象爻辞，意象拼凑生硬。守节与用六之间无内在关联，情感空洞，仅是概念堆砌。语言直白，缺乏提炼，未能将两者融合，整体显得不伦不类，立意浅显。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图融合伦理与易理，但杂糅无章。",
+                "realm": "凡品",
+                "reason": "内容断裂，未能达到典雅统一。"
+            }
+        ],
+        "imagery": [
+            "女",
+            "卦"
+        ],
+        "allusions": [
+            {
+                "phrase": "用六",
+                "explanation": "易经爻辞，象征柔顺守正。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句叙事相对完整，更具可读性。"
+        }
+    },
+    {
+        "title": "大衍易吟四十首  其九",
+        "author": "方回",
+        "paragraphs": [
+            "屯初康險難，蒙上覺昏童。",
+            "開闢乾坤後，君師大有功。"
+        ],
+        "paragraphs_simplified": [
+            "屯初康险难，蒙上觉昏童。",
+            "开辟乾坤后，君师大有功。"
+        ],
+        "translation": "屯初克服险难，蒙上觉悟昏童。开辟乾坤之后，君师大有功。",
+        "score": 2.5,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句述卦象克服险难，后句颂扬君师功绩，直陈其事，无深意转折。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "屯、蒙为易经卦名，直接引用以指代教化过程。"
+                }
+            ]
+        },
+        "analysis": "此诗以屯、蒙卦象起兴，后句转入颂扬，但意象抽象，缺乏生动性。昏童一词稍显形象，但整体仍困于易理框架。情感流于表面，未能通过具体情景烘托，语言直白，缺乏提炼，整体立意平庸。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以卦象与功绩构筑力量感，但术语过多削弱张力。",
+                "realm": "凡品",
+                "reason": "语言直白，未能达到劲健之境。"
+            }
+        ],
+        "imagery": [
+            "卦",
+            "乾坤",
+            "君师"
+        ],
+        "allusions": [
+            {
+                "phrase": "屯",
+                "explanation": "易经卦名，象征初生险难。"
+            },
+            {
+                "phrase": "蒙",
+                "explanation": "易经卦名，象征启蒙。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句直接颂扬，相对具体。"
+        }
+    },
+    {
+        "title": "大衍易吟四十首  其一○",
+        "author": "方回",
+        "paragraphs": [
+            "德盛時逢險，乾剛坎在前。",
+            "諺云姑少待，樂飲豈徒然。"
+        ],
+        "paragraphs_simplified": [
+            "德盛时逢险，乾刚坎在前。",
+            "谚云姑少待，乐饮岂徒然。"
+        ],
+        "translation": "德行兴盛之时却遭遇险阻，乾刚之德面临坎险。谚语说姑且稍待，快乐饮酒岂会徒然。",
+        "score": 2.5,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句直陈德盛逢险之状，后句引谚语点明待时之理，结构直白。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "德盛时逢险与乾剛坎在前形成句式对仗"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "乾、坎源自《易经》卦象"
+                }
+            ]
+        },
+        "analysis": "此诗以易理入诗，直指德盛逢险之境，前句铺陈乾刚坎险之象，后句借谚语转折，寄寓待时而动之思。然意象陈旧，立意浅显，缺乏深层意蕴，仅止于说理，未见情感渗透。整体构筑平淡，未脱宋诗议论窠臼，读之味同嚼蜡。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以简淡语言构筑哲理境界，但意象单薄，未能达到冲淡之自然。",
+                "realm": "劣",
+                "reason": "模仿冲淡而失败，流于浅露，缺乏余味。"
+            }
+        ],
+        "imagery": [
+            "德",
+            "险",
+            "坎",
+            "酒"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句谚语转折稍显生动，但整体平庸。"
+        }
+    },
+    {
+        "title": "大衍易吟四十首  其一一",
+        "author": "方回",
+        "paragraphs": [
+            "訟吉觀西伯，師中驗太公。",
+            "得人師不戰，反己訟無終。"
+        ],
+        "paragraphs_simplified": [
+            "讼吉观西伯，师中验太公。",
+            "得人师不战，反己讼无终。"
+        ],
+        "translation": "讼卦吉祥可见于西伯，师中验证太公之德。得人之助则师旅不战，反身自省则讼争无终。",
+        "score": 3.0,
+        "subject": [
+            "怀古诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句用典述古，后两句推演哲理，结构紧凑。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "西伯、太公代指贤君良臣"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用周文王、姜太公典故"
+                }
+            ]
+        },
+        "analysis": "此诗借周代典故，阐发讼师之理，前两句以西伯、太公为证，后两句点出得人反己之要。用典贴切，但立意未脱常谈，情感流于表面。辞藻虽工，却少新意，整体构筑平正，未能拓宽意境，属应酬式说理诗。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以典故构筑高古境界，但缺乏情感渗透，显得板滞。",
+                "realm": "能",
+                "reason": "技法成熟但意境未超，近于能品。"
+            }
+        ],
+        "imagery": [
+            "西伯",
+            "太公",
+            "师",
+            "讼"
+        ],
+        "allusions": [
+            {
+                "phrase": "西伯",
+                "explanation": "指周文王，喻贤君"
+            },
+            {
+                "phrase": "太公",
+                "explanation": "指姜太公，喻良臣"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句哲理稍显凝练。"
+        }
+    },
+    {
+        "title": "大衍易吟四十首  其一二",
+        "author": "方回",
+        "paragraphs": [
+            "小畜過無坎，胡爲以雨云。",
+            "互觀藏兌澤，止水亦興雲。"
+        ],
+        "paragraphs_simplified": [
+            "小畜过无坎，胡为以雨云。",
+            "互观藏兑泽，止水亦兴云。"
+        ],
+        "translation": "小畜卦过而无坎，为何却有雨云？互观藏兑泽之象，止水也能兴云。",
+        "score": 2.8,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句设问提出疑点，后句以易象解答，逻辑连贯。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "胡为以雨云构成疑问"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "小畜、兑泽源自《易经》"
+                }
+            ]
+        },
+        "analysis": "此诗以易卦小畜为题，探讨雨云之象，前句设问，后句解惑，结构清晰。然意象抽象，语言晦涩，缺乏生动描绘。情感单薄，仅止于卦象推演，未见审美回甘。整体立意浅显，堆砌术语，未能构筑深境。",
+        "poetry_styles": [
+            {
+                "style": "委曲",
+                "imagery_analysis": "试图以曲折理路构筑意境，但表达生硬，未能自然流畅。",
+                "realm": "劣",
+                "reason": "模仿委曲而失败，流于晦涩。"
+            }
+        ],
+        "imagery": [
+            "雨",
+            "云",
+            "泽",
+            "水"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句解惑稍具逻辑，但整体平庸。"
+        }
+    },
+    {
+        "title": "大衍易吟四十首  其一三",
+        "author": "方回",
+        "paragraphs": [
+            "履若蹈虎尾，五剛亨厥躬。",
+            "乾三獨柔變，是以咥人凶。"
+        ],
+        "paragraphs_simplified": [
+            "履若蹈虎尾，五刚亨厥躬。",
+            "乾三独柔变，是以咥人凶。"
+        ],
+        "translation": "履卦如蹈虎尾，五刚之爻亨通其身。乾三独柔变，因此咥人有凶。",
+        "score": 2.6,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "恐惧",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句以比喻起，后句以易理解释，结构直白。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "蹈虎尾喻险境"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "履、乾卦象源自《易经》"
+                }
+            ]
+        },
+        "analysis": "此诗以履卦喻险境，前句蹈虎尾生动，后句释理却显生硬。意象虽具，但情感宣泄过度，缺乏审美距离。辞藻古奥，立意未脱易学框架，整体构筑单薄，未能由象入情，属技术性说理诗。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以刚健语言构筑险境，但意象单调，未达劲健之精神。",
+                "realm": "劣",
+                "reason": "模仿劲健而失败，流于粗直。"
+            }
+        ],
+        "imagery": [
+            "虎",
+            "尾",
+            "乾",
+            "柔"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "前句比喻稍显形象。"
+        }
+    }
+]

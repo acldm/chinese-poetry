@@ -1,0 +1,520 @@
+[
+    {
+        "title": "兵要望江南 占雷第九（京本列第二十五○三十一首） 二",
+        "author": "易靜",
+        "paragraphs": [
+            "占雷法，大怕出非時。",
+            "皆是守官無政法，酷民枉法有天知，天怒震權威（辛本、川本作「震威摧」）。"
+        ],
+        "paragraphs_simplified": [
+            "占雷法，大怕出非时。",
+            "皆是守官无政法，酷民枉法有天知，天怒震权威（辛本、川本作「震威摧」）。"
+        ],
+        "translation": "占雷的方法，最怕在不合时宜的时候出现。都是因为守官没有政法，残酷民众枉法有天知道，天怒震动权威（辛本、川本作「震威摧」）。",
+        "score": 2.5,
+        "subject": [
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句提出占雷法的禁忌，次句解释原因，直指官吏腐败导致天怒。",
+            "evidence": [
+                {
+                    "tag": "借古讽今",
+                    "explanation": "通过占雷法的禁忌，讽刺官吏无政法导致天怒。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "用天怒比喻权威的震动。"
+                }
+            ]
+        },
+        "analysis": "此诗以占雷法为切入点，构筑政治讽喻框架。意象陈旧，天怒与权威的拼贴缺乏新意，立意浅显，直白揭露官吏枉法，却无深层审美回甘。情感流于表面，整体为平庸堆砌之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以天威雷动渲染悲愤，但意象单薄，未能达成沉郁境界。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，直白如口号，失却含蓄之美。"
+            }
+        ],
+        "imagery": [
+            "雷",
+            "天",
+            "官吏"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "直接点题，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "兵要望江南 占雷第九（京本列第二十五○三十一首） 三",
+        "author": "易靜",
+        "paragraphs": [
+            "兵發日，風吼忽雷鳴。",
+            "戰馬盡驚旗倒折，前程必有賊來迎，大戰血交幷。"
+        ],
+        "paragraphs_simplified": [
+            "兵发日，风吼忽雷鸣。",
+            "战马尽惊旗倒折，前程必有贼来迎，大战血交并。"
+        ],
+        "translation": "兵发之日，风吼忽雷鸣。战马尽惊旗倒折，前程必有贼来迎，大战血交并。",
+        "score": 2.8,
+        "subject": [
+            "边塞诗"
+        ],
+        "emotion": [
+            "恐惧",
+            "悲壮"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句点明兵发时的雷鸣景象，次句以战马惊旗预示血战，逻辑直白。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "用血交并渲染战斗惨烈。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "以风吼雷鸣烘托战前紧张氛围。"
+                }
+            ]
+        },
+        "analysis": "全诗描绘兵发之日的雷鸣景象，意象如风、雷、战马陈旧，情感直露，缺乏意境深度。叙事平铺，无审美距离，仅为战场实录，整体流于凡庸。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以雷鸣风吼构筑劲健风格，但意象堆砌，未达雄浑之境。",
+                "realm": "劣",
+                "reason": "粗鄙直白，失却劲健应有的内敛力道。"
+            }
+        ],
+        "imagery": [
+            "风",
+            "雷",
+            "战马",
+            "旗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "开门见山，奠定时间背景。"
+        }
+    },
+    {
+        "title": "兵要望江南 占雷第九（京本列第二十五○三十一首） 四",
+        "author": "易靜",
+        "paragraphs": [
+            "兵發日，雲氣與雷聲。",
+            "雲趁我軍雷逐後，天威神助大軍行，此去必須贏。"
+        ],
+        "paragraphs_simplified": [
+            "兵发日，云气与雷声。",
+            "云趁我军雷逐后，天威神助大军行，此去必须赢。"
+        ],
+        "translation": "兵发之日，云气与雷声。云趁我军雷逐后，天威神助大军行，此去必须赢。",
+        "score": 2.5,
+        "subject": [
+            "边塞诗"
+        ],
+        "emotion": [
+            "期待",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句交代兵发时的云雷景象，次句以拟人手法预示神助胜利，逻辑简单。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "云趁、雷逐赋予自然现象以主动性。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "以云雷动态寄托必胜信念。"
+                }
+            ]
+        },
+        "analysis": "此诗以云气雷声为背景，构筑神助胜利的乐观叙事。意象普通，拟人手法浅显，情感直白无回甘，整体为应景堆砌，缺乏艺术新意。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "试图以天威神助展现豪放，但意象空洞，未达超逸境界。",
+                "realm": "劣",
+                "reason": "直白如口号，失却豪放应有的气魄。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "雷",
+            "军"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "直接点明时间，统领全诗。"
+        }
+    },
+    {
+        "title": "兵要望江南 占雷第九（京本列第二十五○三十一首） 五",
+        "author": "易靜",
+        "paragraphs": [
+            "兵發日，雷動我軍營。",
+            "天助威靈軍得勝，若居彼上我勞軍，審細聽其聲。"
+        ],
+        "paragraphs_simplified": [
+            "兵发日，雷动我军营。",
+            "天助威灵军得胜，若居彼上我劳军，审细听其声。"
+        ],
+        "translation": "兵发之日，雷动我军营。天助威灵军得胜，若居彼上我劳军，审细听其声。",
+        "score": 2.2,
+        "subject": [
+            "边塞诗"
+        ],
+        "emotion": [
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以雷动军营起兴，次句议论天助与劳军之辨，逻辑平淡。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "以雷动寄托对胜利的期待。"
+                }
+            ]
+        },
+        "analysis": "全诗围绕雷动军营展开，意象单一，情感平淡，议论部分流于说教，无深层意蕴。整体为乏味的军旅记录，缺乏审美价值。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以雷动军营呈现自然，但意象枯涩，未达清新之境。",
+                "realm": "劣",
+                "reason": "乏味直叙，失却自然应有的流畅美感。"
+            }
+        ],
+        "imagery": [
+            "雷",
+            "军营"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "直接点题，无冗余修饰。"
+        }
+    },
+    {
+        "title": "兵要望江南 占雷第九（京本列第二十五○三十一首） 六",
+        "author": "易靜",
+        "paragraphs": [
+            "冬三月，何事忽雷鳴？只利客居（川本作「軍」）非利主（辛本、川本作「土」），高旗先舉定須贏，後戰必無成。"
+        ],
+        "paragraphs_simplified": [
+            "冬三月，何事忽雷鸣？只利客居（川本作「军」）非利主（辛本、川本作「土」），高旗先举定须赢，后战必无成。"
+        ],
+        "translation": "冬三月，何事忽雷鸣？只利客居（川本作「军」）非利主（辛本、川本作「土」），高旗先举定须赢，后战必无成。",
+        "score": 2.8,
+        "subject": [
+            "边塞诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "设问"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以设问引出冬雷现象，次句分析利弊，逻辑清晰但浅显。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "何事忽雷鸣？引发读者思考。"
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "以冬雷预示战事利弊，暗含军事哲理。"
+                }
+            ]
+        },
+        "analysis": "此诗以冬雷设问开篇，探讨战事利弊，意象（冬雷）稍有新意，但立意仍显老套，情感矛盾无深度。整体为平庸的哲理尝试，缺乏回甘。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以冬雷渲染悲慨，但意象单薄，未达苍凉境界。",
+                "realm": "劣",
+                "reason": "直白议论，失却悲慨应有的沉郁韵味。"
+            }
+        ],
+        "imagery": [
+            "冬",
+            "雷",
+            "旗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "设问开头，吸引注意。"
+        }
+    },
+    {
+        "title": "兵要望江南 占雷第九（京本列第二十五○三十一首） 七",
+        "author": "易靜",
+        "paragraphs": [
+            "雷霹靂，樹木及諸般。",
+            "若在彼軍營寨上，天威殺氣我難當，移寨始爲安。"
+        ],
+        "paragraphs_simplified": [
+            "雷霹雳，树木及诸般。",
+            "若在彼军营寨上，天威杀气我难当，移寨始为安。"
+        ],
+        "translation": "雷声霹雳，树木以及各种事物。如果在敌军的营寨上，天威杀气我们难以抵挡，迁移营寨才安全。此诗描述雷击现象，并给出军事应对策略：若雷击出现在敌方营地，则预示天威降临，我方应迁移营地以避其锋芒。",
+        "score": 2.2,
+        "subject": [
+            "边塞诗"
+        ],
+        "emotion": [
+            "恐惧",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先陈述雷击现象，再推导军事行动建议，逻辑直白。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以天威杀气比喻雷击的威慑力，增强军事警示效果。"
+                },
+                {
+                    "tag": "叙事",
+                    "explanation": "直接叙述雷击位置与应对措施，无冗余修饰。"
+                }
+            ]
+        },
+        "analysis": "此诗以雷击现象为切入点，直接陈述军事应对策略。语言平实，缺乏意象营造与情感渗透，更似军事实录而非文学创作。虽具实用价值，但艺术性薄弱，立意浅显，未能通过景物描写传递深层情感，整体流于直白。",
+        "poetry_styles": [
+            {
+                "style": "实境",
+                "imagery_analysis": "试图通过雷击实景传达军事警示，但意象单一，缺乏意境升华。",
+                "realm": "劣",
+                "reason": "模仿实境风格，却止于表面描述，无审美回甘，类同口诀。"
+            }
+        ],
+        "imagery": [
+            "雷",
+            "树",
+            "营"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "明确给出迁移营寨的行动建议，体现诗歌的实用功能。"
+        }
+    },
+    {
+        "title": "兵要望江南 占雷第九（京本列第二十五○三十一首） 八",
+        "author": "易靜",
+        "paragraphs": [
+            "營寨上，雷止一聲鳴。",
+            "定是命來應迅速，不然急詔事叮嚀，上將好詳聽。"
+        ],
+        "paragraphs_simplified": [
+            "营寨上，雷止一声鸣。",
+            "定是命来应迅速，不然急诏事叮咛，上将好详听。"
+        ],
+        "translation": "营寨上，雷只响一声。这必定是命运迅速应验，或者是紧急诏书事态叮咛，上将应当仔细聆听。此诗解释单声雷的预兆，认为它可能代表紧急命令或命运警示，提醒将领认真对待。",
+        "score": 2.5,
+        "subject": [
+            "边塞诗"
+        ],
+        "emotion": [
+            "期待",
+            "谨慎"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先描述雷声特征，再推测其含义，最后提出行动建议，逻辑连贯。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "通过隐含的疑问（如‘定是命来’）引导读者思考雷声的预兆。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用命运与诏书概念，暗示古代军事占卜传统。"
+                }
+            ]
+        },
+        "analysis": "此诗聚焦单声雷的预兆，语言简练但缺乏生动性。情感上流露出谨慎与期待，但意象构建薄弱，未能超越军事占卜的实用框架。结构上虽有递进，但整体立意平庸，未形成艺术张力，更似指令记录而非诗作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图通过雷声暗示紧急事态，但表达过于直露，含蓄不足。",
+                "realm": "凡品",
+                "reason": "追求含蓄风格，却因语言直白而显得生硬，缺乏余韵。"
+            }
+        ],
+        "imagery": [
+            "雷",
+            "营",
+            "诏"
+        ],
+        "allusions": [
+            {
+                "phrase": "命来",
+                "explanation": "指命运预兆，源自古代天人感应观念。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "明确点出雷声与军事命令的关联，具有警示作用。"
+        }
+    }
+]

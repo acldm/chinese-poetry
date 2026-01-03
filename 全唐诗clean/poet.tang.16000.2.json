@@ -1,0 +1,523 @@
+[
+    {
+        "title": "宮詞一百首 八十七",
+        "author": "王建",
+        "paragraphs": [
+            "窗窗戶戶院相當，總有珠簾玳瑁牀。",
+            "雖道君王不來宿，帳中長是炷牙香。"
+        ],
+        "paragraphs_simplified": [
+            "窗窗户户院相当，总有珠帘玳瑁床。",
+            "虽道君王不来宿，帐中长是炷牙香。"
+        ],
+        "translation": "窗户和门户在院子里相对排列，到处都有珠帘和玳瑁装饰的床。虽然说君王不来过夜，但帐中依然点着名贵的牙香。此诗描绘宫女等待君王的场景，通过珠帘、牙香等细节，暗示宫中生活的奢华与孤寂。",
+        "score": 2.5,
+        "subject": [
+            "宫怨诗"
+        ],
+        "emotion": [
+            "孤寂",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句直接描绘宫室奢华，后两句通过君王不来与炷香的对比，暗示宫女孤寂。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "珠帘玳瑁床、炷牙香等细节勾勒宫室环境。"
+                },
+                {
+                    "tag": "间接抒情",
+                    "explanation": "以帐中炷香暗示宫女等待的落寞。"
+                }
+            ]
+        },
+        "analysis": "此诗以珠帘、玳瑁床等意象堆砌宫室奢华，立意浅显，缺乏新意。情感表达流于表面，未能深入宫女内心孤寂，意象陈旧，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图通过环境暗示情感，但意象直白，缺乏余味。",
+                "realm": "凡品",
+                "reason": "模仿含蓄风格失败，显得直露浅薄。"
+            }
+        ],
+        "imagery": [
+            "珠帘",
+            "床",
+            "香"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句具体描绘环境，较具画面感。"
+        }
+    },
+    {
+        "title": "宮詞一百首 八十八",
+        "author": "王建",
+        "paragraphs": [
+            "雨入珠簾滿殿涼，避風新出玉盆湯。",
+            "內人恐要秋衣着，不住熏籠換好香。"
+        ],
+        "paragraphs_simplified": [
+            "雨入珠帘满殿凉，避风新出玉盆汤。",
+            "内人恐要秋衣着，不住熏笼换好香。"
+        ],
+        "translation": "雨水渗入珠帘，满殿生凉，避风刚用玉盆盛来热汤。宫女恐怕要换秋衣，不停在熏笼上烘烤好香。此诗通过雨、珠帘、熏笼等细节，描绘宫女日常生活的琐碎。",
+        "score": 2.8,
+        "subject": [
+            "宫怨诗"
+        ],
+        "emotion": [
+            "闲适",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句写环境与动作，后两句通过换衣熏香，暗示宫女对季节变化的敏感与无奈。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "雨、珠帘、熏笼等细节呈现宫中场景。"
+                },
+                {
+                    "tag": "侧面烘托",
+                    "explanation": "以换衣熏香烘托宫女的生活状态。"
+                }
+            ]
+        },
+        "analysis": "意象堆砌如珠帘、玉盆、熏笼，缺乏情感深度。立意老套，仅描述宫女日常，未触及内心世界，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "试图以华美意象营造氛围，但流于表面。",
+                "realm": "凡品",
+                "reason": "模仿纤秾风格失败，沦为辞藻堆砌。"
+            }
+        ],
+        "imagery": [
+            "雨",
+            "珠帘",
+            "熏笼"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句写景较生动，点明季节与环境。"
+        }
+    },
+    {
+        "title": "宮詞一百首 八十九",
+        "author": "王建",
+        "paragraphs": [
+            "金吾除夜進儺名，畫袴朱衣四隊行。",
+            "院院燒燈如白日，沈香火底坐吹笙。"
+        ],
+        "paragraphs_simplified": [
+            "金吾除夜进傩名，画裤朱衣四队行。",
+            "院院烧灯如白日，沈香火底坐吹笙。"
+        ],
+        "translation": "金吾卫在除夕夜进献傩戏名单，穿画裤朱衣的四队人行进。各院点灯亮如白昼，沈香火底坐着吹笙。此诗描绘除夕傩戏仪式的热闹场景。",
+        "score": 3.0,
+        "subject": [
+            "节令诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "热闹"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句直接叙述傩戏队伍，后两句以灯火与笙歌渲染节日氛围。",
+            "evidence": [
+                {
+                    "tag": "叙事",
+                    "explanation": "金吾进傩名、四队行等直接描述事件。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "烧灯如白日夸大灯火辉煌。"
+                }
+            ]
+        },
+        "analysis": "描绘除夕傩戏场景，意象丰富如画裤朱衣、沈香笙歌，但情感浅显，仅止于场面热闹，缺乏深层意蕴，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以仪式场景体现典雅，但缺乏精神内核。",
+                "realm": "凡品",
+                "reason": "模仿典雅风格失败，流于形式。"
+            }
+        ],
+        "imagery": [
+            "灯",
+            "香",
+            "笙"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以笙歌收束，较有节日余韵。"
+        }
+    },
+    {
+        "title": "宮詞一百首 九十",
+        "author": "王建",
+        "paragraphs": [
+            "樹頭樹底覓殘紅，一片西飛一片東。",
+            "自是桃花貪結子，錯敎人恨五更風。"
+        ],
+        "paragraphs_simplified": [
+            "树头树底觅残红，一片西飞一片东。",
+            "自是桃花贪结子，错教人恨五更风。"
+        ],
+        "translation": "在树头树底寻找残花，一片西飞一片向东。本是桃花贪图结子，却错让人怨恨五更的风。此诗借桃花凋零喻宫女命运，暗含讽喻。",
+        "score": 4.2,
+        "subject": [
+            "咏物诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "双关"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写残花飘零，后两句点明主旨，以桃花结子喻得宠，讽喻宫女命运。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "桃花贪结子赋予花人性。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借桃花凋零喻宫女命运。"
+                }
+            ]
+        },
+        "analysis": "此诗立意巧妙，以桃花残红暗喻宫女失宠，双关手法精炼。意象生动，情感含蓄而深刻，情景契合度高，堪称能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "以物喻人，情感回甘，意境真切。",
+                "realm": "妙品",
+                "reason": "成功运用含蓄风格，讽喻深藏。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句双关点题，讽喻意味深远。"
+        }
+    },
+    {
+        "title": "宮詞一百首 九十一",
+        "author": "王建",
+        "paragraphs": [
+            "金殿當頭紫閤重，仙人掌上玉芙蓉。",
+            "太平天子朝迎日，五色雲車駕六龍。"
+        ],
+        "paragraphs_simplified": [
+            "金殿当头紫阁重，仙人掌上玉芙蓉。",
+            "太平天子朝迎日，五色云车驾六龙。"
+        ],
+        "translation": "金殿前紫阁重重，仙人掌上托着玉芙蓉。太平天子早晨迎日，五色云车驾着六龙。此诗描绘天子朝仪的宏大场面。",
+        "score": 2.0,
+        "subject": [
+            "应制诗"
+        ],
+        "emotion": [
+            "赞美",
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句写宫殿仙境，后两句写天子朝仪，以夸张手法渲染太平气象。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "仙人掌喻宫殿装饰。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "五色云车驾六龙夸大天子威仪。"
+                }
+            ]
+        },
+        "analysis": "辞藻华丽但空洞，意象如金殿、仙人、云车堆砌，缺乏真情实感。立意浅显，仅为歌功颂德，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "试图以华美意象营造壮丽，但浮夸无根。",
+                "realm": "凡品",
+                "reason": "模仿绮丽风格失败，沦为浮辞。"
+            }
+        ],
+        "imagery": [
+            "殿",
+            "仙人",
+            "云车"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句写景较具体，奠定宫殿氛围。"
+        }
+    },
+    {
+        "title": "宮詞一百首 九十二",
+        "author": "王建",
+        "paragraphs": [
+            "鴛鴦瓦上瞥然聲，晝寢宮娥夢裏驚。",
+            "元是我王金彈子，海棠花下打流鶯。"
+        ],
+        "paragraphs_simplified": [
+            "鸳鸯瓦上瞥然声，昼寝宫娥梦里惊。",
+            "元是我王金弹子，海棠花下打流莺。"
+        ],
+        "translation": "鸳鸯瓦上突然传来一声响，正在午睡的宫女在梦中被惊醒。原来是我王投掷的金弹子，在海棠花下打流莺。",
+        "score": 2.5,
+        "subject": [
+            "宫词",
+            "叙事诗"
+        ],
+        "emotion": [
+            "闲适",
+            "惊讶"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "细节描写"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写声音惊醒宫女，后揭示原因，形成悬念。",
+            "evidence": [
+                {
+                    "tag": "叙事",
+                    "explanation": "叙述皇帝打流莺惊醒宫女的事件"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "金弹子暗指皇帝"
+                }
+            ]
+        },
+        "analysis": "此诗以鸳鸯瓦上的声响切入，勾勒出宫廷午睡的静谧被打破的瞬间。意象如金弹子、海棠花、流莺，构筑了生动的画面，但立意浅显，仅为记录琐事，缺乏情感深度。语言平实，未见锤炼之功。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "意象如瓦、声、花、莺，取自日常，但组合平淡，未能升华至冲淡之境。",
+                "realm": "能",
+                "reason": "技法成熟但缺乏新意，属于凡品。"
+            }
+        ],
+        "imagery": [
+            "瓦",
+            "声音",
+            "宫女",
+            "弹丸",
+            "花",
+            "鸟"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句设置悬念，较为生动"
+        }
+    },
+    {
+        "title": "宮詞一百首 九十三",
+        "author": "王建",
+        "paragraphs": [
+            "忽地金輿向月陂，內人接著便相隨。",
+            "却回龍武軍前過，當處敎開臥鴨池。"
+        ],
+        "paragraphs_simplified": [
+            "忽地金舆向月陂，内人接着便相随。",
+            "却回龙武军前过，当处教开卧鸭池。"
+        ],
+        "translation": "忽然间皇帝的金车驶向月陂，宫女们接着便跟随。却从龙武军前经过，当场命令打开卧鸭池。",
+        "score": 2.5,
+        "subject": [
+            "宫词",
+            "叙事诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "叙事"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直接叙述皇帝出行和命令开池。",
+            "evidence": [
+                {
+                    "tag": "叙事",
+                    "explanation": "叙述皇帝出行和命令开池"
+                }
+            ]
+        },
+        "analysis": "此诗记录皇帝的一次出行，意象如金舆、月陂、龙武军、卧鸭池，具有宫廷特色。但语言直白，缺乏意境营造，仅为流水账。情感平淡，无深层寄托。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "意象如车、地、军、池，取自宫廷实景，但组合直白，未形成审美空间。",
+                "realm": "能",
+                "reason": "叙述流畅但缺乏诗意，属于凡品。"
+            }
+        ],
+        "imagery": [
+            "车",
+            "地",
+            "宫女",
+            "军队",
+            "池塘"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句引入事件，较为直接"
+        }
+    }
+]

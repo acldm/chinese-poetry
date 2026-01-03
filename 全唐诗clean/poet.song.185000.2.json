@@ -1,0 +1,1037 @@
+[
+    {
+        "title": "四月十三日曉夢入試枕上口占  其一",
+        "author": "蘇泂",
+        "paragraphs": [
+            "百花開盡蝶蜂去，遶屋團團杏葉陰。",
+            "除却平生我與我，世上誰人識此心。"
+        ],
+        "paragraphs_simplified": [
+            "百花开尽蝶蜂去，绕屋团团杏叶阴。",
+            "除却平生我与我，世上谁人识此心。"
+        ],
+        "translation": "百花盛开后蝴蝶蜜蜂都飞走了，绕着屋子是团团的杏树叶子的阴影。除了平生的我自己，世上还有谁能理解我的心。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "设问"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句以春日景物起兴，后两句直抒胸臆，形成由外至内的转折。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "第一句与第二句在句式结构上形成对称。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "第二句以反问形式强调无人理解内心。"
+                }
+            ]
+        },
+        "analysis": "此诗以春日凋零之景反衬内心孤寂，意象选取简洁，如蝶蜂离去、杏叶成阴，暗示繁华落尽后的冷清。情感表达直白，但立意流于常套，缺乏深层的审美回甘。语言虽工整，却未突破传统咏怀诗的窠臼，整体构筑平淡，未能抵达含蓄蕴藉之境。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图以景物暗示心境，但意象陈旧，未能形成深远的意境。",
+                "realm": "劣",
+                "reason": "模仿含蓄风格却流于直白，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "蝶",
+            "蜂",
+            "叶"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句直接点出孤独主题，情感冲击较强。"
+        }
+    },
+    {
+        "title": "四月十三日曉夢入試枕上口占  其二",
+        "author": "蘇泂",
+        "paragraphs": [
+            "行年今已是七十，况世非皆七十翁。",
+            "柏兒安女莫遲我，我入泰華遊衡嵩。"
+        ],
+        "paragraphs_simplified": [
+            "行年今已是七十，况世非皆七十翁。",
+            "柏儿安女莫迟我，我入泰华游衡嵩。"
+        ],
+        "translation": "年龄现在已经是七十岁，何况世间并非都是七十翁。柏儿安女不要拖延我，我要进入泰华游玩衡嵩。",
+        "score": 2.0,
+        "subject": [
+            "杂诗",
+            "叙事诗"
+        ],
+        "emotion": [
+            "豁达",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "叙事"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先陈述年龄现状，后以豪迈语表达游历愿望，逻辑直截。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "两句在句式上形成平行结构。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "以泰华衡嵩等名山喻游历之广。"
+                }
+            ]
+        },
+        "analysis": "诗作直陈年老心不老之志，语言通俗，意象如泰华衡嵩虽宏大却缺乏具体描绘。情感虽显豁达，但表达过于直露，缺乏诗意的提炼。整体流于口号式宣言，未能通过意象或修辞提升艺术层次，属于平庸的应景之作。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "试图以山川意象展现豪迈，但语言粗浅，未达豪放之精髓。",
+                "realm": "劣",
+                "reason": "模仿豪放却失之粗鄙，缺乏文采与意境。"
+            }
+        ],
+        "imagery": [
+            "七十翁",
+            "山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句以行动表达愿望，相对生动。"
+        }
+    },
+    {
+        "title": "夢遊",
+        "author": "蘇泂",
+        "paragraphs": [
+            "殿前入醉索催茶，玉女傳宣賦綵霞。",
+            "誰道塵緣猶未斷，碧桃花下却思家。"
+        ],
+        "paragraphs_simplified": [
+            "殿前入醉索催茶，玉女传宣赋彩霞。",
+            "谁道尘缘犹未断，碧桃花下却思家。"
+        ],
+        "translation": "殿前喝醉了索要催茶，玉女传令赋诗彩霞。谁说尘缘还未断，在碧桃花下却思念家。",
+        "score": 3.0,
+        "subject": [
+            "游仙诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "思乡",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "对比"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句铺陈梦境之奇幻，后两句以问句转折，点出思家之情。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "以“谁道”反问，强化情感转折。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "仙境与尘世思念形成虚实对照。"
+                }
+            ]
+        },
+        "analysis": "此诗借梦游仙境之景，反衬思家之情，转折巧妙。意象如碧桃花清新，但整体构思仍属常见题材。情感表达含蓄，但意境深度不足，未能超越同类作品的常规框架。语言工整，却少有惊艳之笔。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "碧桃花下思家之境略显清雅，但整体未达奇绝之境。",
+                "realm": "能",
+                "reason": "风格清奇但流于平淡，缺乏独特韵味。"
+            }
+        ],
+        "imagery": [
+            "殿",
+            "茶",
+            "女",
+            "霞",
+            "花",
+            "家"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后两句转折有力，点明主题。"
+        }
+    },
+    {
+        "title": "夢句",
+        "author": "蘇泂",
+        "paragraphs": [
+            "元日新春又一年，剡溪仍是舊山川。",
+            "白頭野叟無時事，獨自尋僧雪滿船。"
+        ],
+        "paragraphs_simplified": [
+            "元日新春又一年，剡溪仍是旧山川。",
+            "白头野叟无时事，独自寻僧雪满船。"
+        ],
+        "translation": "元日新春又是一年，剡溪还是旧山川。白头野叟无事可做，独自寻僧雪满船。",
+        "score": 3.2,
+        "subject": [
+            "山水诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写时令与地点，后写人物行动，以雪景烘托闲适心境。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "两句在句式上对称工整。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过雪满船之景传达恬淡之情。"
+                }
+            ]
+        },
+        "analysis": "诗作以新年旧地为背景，描绘白头寻僧之景，意象如雪满船富有画面感。情感恬淡，但立意平浅，缺乏深层哲思。语言虽流畅，却未突破传统山水诗的范式，整体属于稳健但无新意之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "雪中寻僧之境有冲淡之趣，但表达直白，意境未深化。",
+                "realm": "能",
+                "reason": "试图冲淡却略显浅显，未能达到悠远之境。"
+            }
+        ],
+        "imagery": [
+            "日",
+            "春",
+            "溪",
+            "山",
+            "老人",
+            "僧",
+            "雪",
+            "船"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句以雪景收尾，意境相对完整。"
+        }
+    },
+    {
+        "title": "夢盧子高",
+        "author": "蘇泂",
+        "paragraphs": [
+            "魂夢依稀欲見君，須臾爲月又爲雲。",
+            "起來接得如鴉字，談笑聲音了不聞。"
+        ],
+        "paragraphs_simplified": [
+            "魂梦依稀欲见君，须臾为月又为云。",
+            "起来接得如鸦字，谈笑声音了不闻。"
+        ],
+        "translation": "魂梦依稀想要见你，一会儿是月一会儿是云。起来接到如鸦字，谈笑声音完全听不见。",
+        "score": 2.8,
+        "subject": [
+            "思乡诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "孤独",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句写梦中相见之虚，后两句写醒后失落之实，形成情感递进。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以“如鸦字”形容字迹模糊。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "梦境与现实对比，强化遗憾。"
+                }
+            ]
+        },
+        "analysis": "此诗刻画梦中见友、醒后音信全无的怅惘，意象如鸦字独特，但语言稍显晦涩。情感真挚，却因表达不够凝练而削弱感染力。整体构思虽有巧思，但艺术表现力不足，流于一般抒怀。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以梦境失落抒发悲慨，但意象破碎，未能形成深沉感染力。",
+                "realm": "劣",
+                "reason": "模仿悲慨却失之直露，缺乏含蓄之美。"
+            }
+        ],
+        "imagery": [
+            "梦",
+            "月",
+            "云",
+            "字",
+            "声"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句以魂梦起笔，情感较为浓郁。"
+        }
+    },
+    {
+        "title": "夢堯章桂花下",
+        "author": "蘇泂",
+        "paragraphs": [
+            "撲鼻清香兩絕詩，分明參到小山辭。",
+            "如今獨自秋風下，不似當初並馬時。"
+        ],
+        "paragraphs_simplified": [
+            "扑鼻清香两绝诗，分明参到小山辞。",
+            "如今独自秋风下，不似当初并马时。"
+        ],
+        "translation": "扑鼻的清香两首绝诗，分明参透了小山词的意境。如今独自在秋风下，不像当初并马同行时。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗",
+            "怀旧诗"
+        ],
+        "emotion": [
+            "孤独",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "以嗅觉起兴，转入视觉与时空对比，通过秋风与并马的今昔反差，强化孤独感。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "“如今独自”与“当初并马”形成时空对照，凸显物是人非。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“秋风”意象承载萧瑟心境，与“桂花”清香形成张力。"
+                }
+            ]
+        },
+        "analysis": "此诗以嗅觉切入，构筑清幽之境，然意象组合流于常规。小山辞与秋风并马之喻，虽具时空跨度，却未突破传统咏物范式。情感表达依附于程式化对比，缺乏内在肌理的深层渗透。整体呈现扁平化审美，意境止于表层映射，未能抵达物我交融的化境。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以桂花秋风营造淡远之境，但意象衔接生硬，未能达成浑然天成的冲淡旨趣。",
+                "realm": "能品",
+                "reason": "技法工整但缺乏神韵，属于平庸之作。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "秋风",
+            "马"
+        ],
+        "allusions": [
+            {
+                "phrase": "小山辞",
+                "解释": "指淮南小山《招隐士》，代指隐逸主题。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以通感手法勾连嗅觉与文辞，较具诗性张力。"
+        }
+    },
+    {
+        "title": "夢退堂師",
+        "author": "蘇泂",
+        "paragraphs": [
+            "碧眼霜顱事已非，夢中相見祇攢眉。",
+            "推敲有法猶分付，一似高麗寺裏時。"
+        ],
+        "paragraphs_simplified": [
+            "碧眼霜颅事已非，梦中相见只攒眉。",
+            "推敲有法犹分付，一似高丽寺里时。"
+        ],
+        "translation": "碧眼霜颅的往事已非，梦中相见只皱眉。推敲之法还分付，一如在高丽寺时。",
+        "score": 3.5,
+        "subject": [
+            "怀古诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "怅惘"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "以梦为纽带，首句定调往事成空，次句通过推敲细节实现场景复现，形成虚实交织的师徒对话。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“高丽寺”暗指特定修行场所，赋予场景历史纵深感。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“碧眼霜颅”以特征代指高僧，形象凝练。"
+                }
+            ]
+        },
+        "analysis": "此诗以梦为媒介，勾连现实与记忆，用典精准而意蕴深沉。碧眼霜颅之喻，既显形貌特征，又暗含佛法深意。推敲分付的细节描写，使禅机传授场景跃然纸上。情感表达含蓄内敛，通过攒眉微表情折射复杂心绪，达到情韵相生的审美效果。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "以凝重笔触刻画梦中师徒交游，情感积淀深厚，符合沉著风格对生命体验的深度咀嚼。",
+                "realm": "妙品",
+                "reason": "情感真挚，用典自然，技法成熟。"
+            }
+        ],
+        "imagery": [
+            "梦",
+            "眉",
+            "寺"
+        ],
+        "allusions": [
+            {
+                "phrase": "高丽寺",
+                "解释": "或指杭州高丽寺，代指修行圣地。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以色彩与质感并置，浓缩时光流逝的沧桑感。"
+        }
+    },
+    {
+        "title": "似夢非夢作",
+        "author": "蘇泂",
+        "paragraphs": [
+            "僊女宮釵玉鳳頭，太平天子翠雲裘。",
+            "九霄下視人間世，底事相看笑不休。"
+        ],
+        "paragraphs_simplified": [
+            "仙女宫钗玉凤头，太平天子翠云裘。",
+            "九霄下视人间世，底事相看笑不休。"
+        ],
+        "translation": "仙女宫钗玉凤头，太平天子翠云裘。九霄下视人间世，何事相看笑不休。",
+        "score": 3.0,
+        "subject": [
+            "游仙诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "戏谑",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "反问"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前联铺陈仙界奢华，后联突转俯视视角，以反问收束，形成天上人间的戏剧性反差。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“九霄下视”极言视角之高，强化超然姿态。"
+                },
+                {
+                    "tag": "反问",
+                    "explanation": "“底事相看”以疑问句式暗含对人间百态的嘲弄。"
+                }
+            ]
+        },
+        "analysis": "此诗堆砌仙家意象，辞藻华美却流于表面。玉凤头、翠云裘的铺排，未能与深层讽喻形成有效勾连。九霄俯视的视角转换虽具巧思，但笑不休的收束过于直白，削弱了讽刺的锐度。整体呈现辞胜于意的倾向，游仙外壳下缺乏坚实的情感内核。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "刻意追求宫阙服饰的华美，但意象组合缺乏内在逻辑，未能达成绮丽风格应有的精致肌理。",
+                "realm": "凡品",
+                "reason": "辞藻堆砌，立意浅显。"
+            }
+        ],
+        "imagery": [
+            "仙女",
+            "天子",
+            "云裘",
+            "人间"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以反问收束，稍具思辨色彩。"
+        }
+    },
+    {
+        "title": "奉和刪修郎中舅達庵",
+        "author": "蘇泂",
+        "paragraphs": [
+            "分明日用不難知，邂逅庵成一賦詩。",
+            "身在山林志廊廟，從來此士得圓機。"
+        ],
+        "paragraphs_simplified": [
+            "分明日用不难知，邂逅庵成一赋诗。",
+            "身在山林志廊庙，从来此士得圆机。"
+        ],
+        "translation": "分明日用不难知，偶遇庵成赋一诗。身在山林志廊庙，从来此士得圆机。",
+        "score": 3.2,
+        "subject": [
+            "酬唱诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "赞美",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句叙事点题，后句通过山林与廊庙的空间对峙，揭示士人圆融之道，逻辑层层递进。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“身在山林”与“志廊庙”形成工整对仗，凸显矛盾统一。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "以“庵成”为载体，寄托超脱世俗的哲理追求。"
+                }
+            ]
+        },
+        "analysis": "此诗以说理为主干，语言简练却失之枯淡。山林与廊庙的二元对立，本可挖掘深层张力，但“得圆机”的结论过于抽象，未能提供鲜活的生命体验。酬唱题材限制情感抒发，整体呈现理念先行的倾向，诗意被哲学表述稀释。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以庄重语汇构建士人情怀，但缺乏具体意象支撑，流于概念化表达。",
+                "realm": "凡品",
+                "reason": "语言平实，感染力薄弱。"
+            }
+        ],
+        "imagery": [
+            "庵",
+            "山林",
+            "廊庙"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句点明士人圆融之境，稍具哲理深度。"
+        }
+    },
+    {
+        "title": "代內",
+        "author": "蘇泂",
+        "paragraphs": [
+            "孟光書寄與梁鴻，薪粲年年幸可同。",
+            "觸熱忘歸渾細事，笑人應有北窗風。"
+        ],
+        "paragraphs_simplified": [
+            "孟光书寄与梁鸿，薪粲年年幸可同。",
+            "触热忘归浑细事，笑人应有北窗风。"
+        ],
+        "translation": "孟光书寄与梁鸿，柴米年年幸可同。触热忘归浑细事，笑人应有北窗风。",
+        "score": 3.4,
+        "subject": [
+            "闺怨诗",
+            "家训诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "以典故起兴，通过柴米琐事勾勒家庭图景，末句以北窗凉风反衬归家之乐，形成生活哲理的闭环。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“孟光梁鸿”借东汉贤伉俪喻指夫妻相敬。"
+                },
+                {
+                    "tag": "侧面烘托",
+                    "explanation": "“笑人应有”以他人视角强化家庭温馨。"
+                }
+            ]
+        },
+        "analysis": "此诗以家常语写伦常情，典故运用贴切自然。薪粲细事与北窗风的意象组合，于平凡中见真趣。情感表达含蓄而饱满，通过触热忘归的细节，折射出对家庭温暖的珍视。整体格调清新，虽无惊人之语，却具生活实感。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以白描手法捕捉生活瞬间，语言质朴而情韵自生，符合自然风格的本真追求。",
+                "realm": "能品",
+                "reason": "情感真挚，技法娴熟。"
+            }
+        ],
+        "imagery": [
+            "书",
+            "柴米",
+            "风"
+        ],
+        "allusions": [
+            {
+                "phrase": "孟光梁鸿",
+                "解释": "东汉梁鸿、孟光夫妇，举案齐眉的典范。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句用典而不泥古，自然带出家庭和睦主题。"
+        }
+    },
+    {
+        "title": "書紫芝卷後",
+        "author": "蘇泂",
+        "paragraphs": [
+            "爲愛君詩清入骨，每常吟便學推敲。",
+            "明知篋笥篇篇有，百度逢來百度抄。"
+        ],
+        "paragraphs_simplified": [
+            "为爱君诗清入骨，每常吟便学推敲。",
+            "明知箧笥篇篇有，百度逢来百度抄。"
+        ],
+        "translation": "因为喜爱您的诗清雅入骨，每次吟诵便学习推敲。明知箱中篇篇都有，每次遇到都反复抄写。",
+        "score": 2.5,
+        "subject": [
+            "酬唱诗",
+            "赞美诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直抒胸臆表达对诗作的喜爱，次句以具体行为描摹吟诵抄写的过程，结构简单线性。",
+            "evidence": [
+                {
+                    "tag": "直接抒情",
+                    "explanation": "「爲愛君詩清入骨」直接点明情感核心"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "「每常吟便學推敲」具象化日常创作行为"
+                }
+            ]
+        },
+        "analysis": "此诗以直白语言表达对友人诗作的推崇，意象局限于「箧笥」「抄写」等日常物象，缺乏意境营造。情感流于表面，未形成审美回甘。整体立意浅显，属应酬诗中的平庸之作，辞藻堆砌而无深层意蕴。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以白描手法呈现自然率真之态，但意象单薄，未能构筑深远境界",
+                "realm": "凡品",
+                "reason": "模仿自然风格却流于直白，缺乏韵味与含蓄，画虎不成反类犬"
+            }
+        ],
+        "imagery": [
+            "诗",
+            "书",
+            "箧"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句虽直白但点题明确，为全诗核心"
+        }
+    },
+    {
+        "title": "挽周晉仙二首  其一",
+        "author": "蘇泂",
+        "paragraphs": [
+            "酷愛金陵二百詩，自癡那得使人癡。",
+            "草堂寂寞荆公死，泉下相逢試質疑。"
+        ],
+        "paragraphs_simplified": [
+            "酷爱金陵二百诗，自痴那得使人痴。",
+            "草堂寂寞荆公死，泉下相逢试质疑。"
+        ],
+        "translation": "酷爱金陵的二百首诗，自己痴迷怎能让人痴迷。草堂寂寞荆公已死，泉下相逢试着质疑。",
+        "score": 4.0,
+        "subject": [
+            "悼亡诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "悼亡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "对比"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以对比手法议论诗痴本质，后两句引入荆公典故，通过泉下质问深化哀思，形成由情入理的递进。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "「荆公」指王安石，借古人映射逝者文才"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "「試質疑」以疑问句式强化生死茫茫的悲慨"
+                }
+            ]
+        },
+        "analysis": "此挽诗以「金陵二百诗」与「荆公」典故交织，构筑时空纵深。情感沉郁而克制，通过「泉下相逢」的虚幻设问，将悲痛升华为哲学思辨。语言凝练，意象「草堂」「泉下」渲染出寂寥氛围，整体呈现深沉的历史回响与生命反思。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以寂寞草堂与泉下质问勾连生死，折射出对文人命运的深沉慨叹",
+                "realm": "能品",
+                "reason": "贴合悲慨风格中「壮士拂剑，浩然弥哀」的沉痛气质"
+            },
+            {
+                "style": "沉著",
+                "imagery_analysis": "典故运用扎实，情感内敛而力道千钧",
+                "realm": "能品",
+                "reason": "符合沉著「绿林野屋，落日气清」的凝重境界"
+            }
+        ],
+        "imagery": [
+            "诗",
+            "草堂",
+            "泉"
+        ],
+        "allusions": [
+            {
+                "phrase": "荆公",
+                "explanation": "指北宋政治家、文学家王安石"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句用典设问，将哀思推向哲理高度"
+        }
+    },
+    {
+        "title": "挽周晉仙二首  其二",
+        "author": "蘇泂",
+        "paragraphs": [
+            "雪跨冰懸句盡珍，生前已自外其身。",
+            "重來不見長安道，猶恐虛空遇若人。"
+        ],
+        "paragraphs_simplified": [
+            "雪跨冰悬句尽珍，生前已自外其身。",
+            "重来不见长安道，犹恐虚空遇若人。"
+        ],
+        "translation": "诗句如雪跨冰悬般珍贵，生前已将自身置之度外。重来不见长安道，恐怕在虚空遇见那人。",
+        "score": 4.5,
+        "subject": [
+            "悼亡诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "用典"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首句以比喻赞诗格高洁，次句写生前超脱，后两句转入死后虚空之境，形成生与死、实与虚的对照呼应。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "「雪跨冰悬」喻诗句清冷高洁"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "「长安道」暗指尘世功名之路"
+                }
+            ]
+        },
+        "analysis": "「雪跨冰悬」以冰雪意象构筑诗境，凸显逝者品格之高洁。情感通过虚实对比层层深化，「长安道」与「虚空」形成尘世与彼岸的张力。语言精炼，意境清奇，哀思渗透于空灵意象之中，余韵悠长，堪称悼亡诗中的妙品。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以冰雪虚空之象，勾勒出超脱尘俗的澄澈境界",
+                "realm": "妙品",
+                "reason": "契合清奇「如月之曙，如气之秋」的幽远特质"
+            },
+            {
+                "style": "含蓄",
+                "imagery_analysis": "情感隐于意象背后，不直露而更具感染力",
+                "realm": "妙品",
+                "reason": "符合含蓄「不著一字，尽得风流」的审美追求"
+            }
+        ],
+        "imagery": [
+            "雪",
+            "冰",
+            "路",
+            "虚空"
+        ],
+        "allusions": [
+            {
+                "phrase": "长安道",
+                "explanation": "代指仕途或尘世繁华"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "「雪跨冰悬」句意象独特，奠定全诗高格"
+        }
+    }
+]

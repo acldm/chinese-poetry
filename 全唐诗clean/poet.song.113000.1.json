@@ -1,0 +1,238 @@
+[
+    {
+        "title": "楞嚴六根 異舌知味",
+        "author": "釋慧遠",
+        "paragraphs": [
+            "憍梵鉢提知此味，苦澀鹹酸那裏是。",
+            "一舉如能至梵天，超證如來真實義。"
+        ],
+        "paragraphs_simplified": [
+            "憍梵鉢提知此味，苦涩咸酸那里是。",
+            "一举如能至梵天，超证如来真实义。"
+        ],
+        "translation": "憍梵鉢提知晓此味，苦涩咸酸何处可寻。一朝若能抵达梵天，便能超证如来的真实义理。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以佛教典故直指禅理，通过设问与假设构建逻辑链条。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用'憍梵鉢提'（佛教人物）与'梵天'（佛教概念）作为禅理载体。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "以味觉隐喻佛法真谛，但意象抽象。"
+                }
+            ]
+        },
+        "analysis": "此诗借佛教典故构筑禅理框架，然意象陈旧，立意浅显。语言生硬堆砌，缺乏诗意流转。苦涩咸酸之问与梵天之喻未能形成有机交融，整体流于概念宣导，失却诗歌应有的含蓄与韵律。禅理表达直白无回甘，近乎偈语而非艺术创作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图以佛教意象营造超脱之境，但因语言晦涩而显拙劣。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，高古之境沦为概念堆砌。"
+            }
+        ],
+        "imagery": [
+            "味",
+            "天",
+            "佛"
+        ],
+        "allusions": [
+            {
+                "phrase": "憍梵鉢提",
+                "explanation": "佛教人物，象征舌根知味之禅理。"
+            },
+            {
+                "phrase": "梵天",
+                "explanation": "佛教概念，指代超验境界。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句逻辑稍显完整，但整体仍平庸。"
+        }
+    },
+    {
+        "title": "楞嚴六根 非身覺觸",
+        "author": "釋慧遠",
+        "paragraphs": [
+            "舜若多非身覺觸，閉門塞戶栽荆棘。",
+            "邈得虛空恰似渠，似渠也是閑相識。"
+        ],
+        "paragraphs_simplified": [
+            "舜若多非身觉触，闭门塞户栽荆棘。",
+            "邈得虚空恰似渠，似渠也是闲相识。"
+        ],
+        "translation": "舜若多非身体所能触碰，闭门塞户却栽种荆棘。遥望虚空恰似他，似他也是无谓相识。",
+        "score": 2.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "以矛盾行为（闭门栽棘）与虚空比喻构建禅机，但逻辑跳跃。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "将虚空比作'渠'（他），抽象难解。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "'舜若多'为佛教术语，指触觉之空性。"
+                }
+            ]
+        },
+        "analysis": "此诗意象混乱，闭门塞户与栽荆棘形成荒诞画面，虚空之喻更显牵强。禅理表达晦涩如谜，缺乏清晰的意境构筑。语言生僻，情感空洞，整体呈现一种故弄玄虚的晦涩感，未能触及真正的禅意深度。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以虚空意象营造淡泊，但因语言晦涩而失败。",
+                "realm": "劣",
+                "reason": "冲淡之境沦为文字游戏，毫无自然之趣。"
+            }
+        ],
+        "imagery": [
+            "触碰",
+            "荆棘",
+            "虚空"
+        ],
+        "allusions": [
+            {
+                "phrase": "舜若多",
+                "explanation": "佛教术语，指触觉的虚无本质。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句稍具意象，但整体逻辑断裂。"
+        }
+    },
+    {
+        "title": "楞嚴六根 意根了知",
+        "author": "釋慧遠",
+        "paragraphs": [
+            "金色頭蛇意根滅，圓明了知無處雪。",
+            "草鞵跟斷眼皮橫，善財拄杖生三節。"
+        ],
+        "paragraphs_simplified": [
+            "金色头蛇意根灭，圆明了知无处雪。",
+            "草鞵跟断眼皮横，善财拄杖生三节。"
+        ],
+        "translation": "金色头蛇意根寂灭，圆明了知无处可雪。草鞋跟断眼皮横，善财拄杖生三节。",
+        "score": 2.2,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "以蛇灭、杖生等意象拼凑禅机，但意象间缺乏连贯。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "'善财'为佛教人物，象征求法历程。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "以'金色头蛇'隐喻意根之灭，意象突兀。"
+                }
+            ]
+        },
+        "analysis": "此诗意象跳跃，金色头蛇与善财拄杖毫无关联，语言生硬如咒语。禅理表达支离破碎，未能形成统一的意境。草鞵跟断等细节粗陋，破坏整体美感，流于辞藻堆砌，毫无艺术价值。",
+        "poetry_styles": [
+            {
+                "style": "精神",
+                "imagery_analysis": "试图以动态意象展现禅机，但因杂乱而显拙劣。",
+                "realm": "劣",
+                "reason": "精神之态沦为意象混乱，毫无凝练之美。"
+            }
+        ],
+        "imagery": [
+            "蛇",
+            "明",
+            "鞋",
+            "人"
+        ],
+        "allusions": [
+            {
+                "phrase": "善财",
+                "explanation": "佛教人物，指代求法者。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句稍显通顺，但整体仍晦涩。"
+        }
+    }
+]

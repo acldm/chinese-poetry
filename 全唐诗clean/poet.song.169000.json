@@ -1,0 +1,65 @@
+[
+    {
+        "title": "句  其九",
+        "author": "張釜",
+        "paragraphs": [
+            "西湖天下勝。"
+        ],
+        "paragraphs_simplified": [
+            "西湖天下胜。"
+        ],
+        "translation": "西湖是天下的名胜。",
+        "score": 2.8,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句即以断语定调，直言西湖之美冠绝天下。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“天下勝”一词以极高的评价直接概括，极言其美。"
+                }
+            ]
+        },
+        "analysis": "此句以极其直白的判断句式对西湖进行定性。语言虽简，却无甚深意，属于常见的泛泛之赞。缺乏具体的意象支撑与感官描摹，流于空泛的套话，未能构筑独特的审美意境。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图追求典雅的概括，但因缺乏具体意象支撑而显得空洞。",
+                "realm": "能",
+                "reason": "句式工整，但立意平庸，缺乏新意。"
+            }
+        ],
+        "imagery": [
+            "西湖"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句仅此一句，虽通顺但意蕴浅显。"
+        }
+    }
+]

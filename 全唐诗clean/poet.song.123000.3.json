@@ -1,0 +1,1040 @@
+[
+    {
+        "title": "山居二十詠 情話齋",
+        "author": "洪适",
+        "paragraphs": [
+            "意到非饒舌，情親易解頤。",
+            "或時鐺脚坐，不效劍頭炊。"
+        ],
+        "paragraphs_simplified": [
+            "意到非饶舌，情亲易解颐。",
+            "或时铛脚坐，不效剑头炊。"
+        ],
+        "translation": "心意相通时无需多言，亲情亲密自然让人开怀。有时简朴地坐着，不效仿那些危险无益的事。",
+        "score": 3.5,
+        "subject": [
+            "山水诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先写心意亲情，再写行为选择，表达淡泊宁静的生活态度。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "两句结构对称，音韵和谐。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "‘铛脚坐’比喻简朴生活，‘剑头炊’比喻危险行为。"
+                }
+            ]
+        },
+        "analysis": "此诗以简练笔触勾勒山居情谊，意象如‘铛脚坐’折射出淡泊之志，‘剑头炊’暗喻世俗险恶。全诗语言凝练，对仗工整，然立意未脱传统隐逸窠臼，情景契合度尚可，但意境未见深拓，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "通过简朴意象传达淡泊情怀",
+                "realm": "能",
+                "reason": "试图模仿冲淡风格，但意象不够新颖，略显平淡。"
+            }
+        ],
+        "imagery": [
+            "心",
+            "情",
+            "锅",
+            "剑"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句直接表达心意相通的境界，更富哲理。"
+        }
+    },
+    {
+        "title": "山居二十詠 榴花城",
+        "author": "洪适",
+        "paragraphs": [
+            "榴艷對枯筇，西來解后同。",
+            "折花羞鬢白，未插已顔紅。"
+        ],
+        "paragraphs_simplified": [
+            "榴艳对枯筇，西来解后同。",
+            "折花羞鬓白，未插已颜红。"
+        ],
+        "translation": "榴花艳丽映照着枯竹杖，西来相遇心意同。折花时羞于鬓发已白，未插上花已面色红润。",
+        "score": 3.0,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先写榴花与枯筇对比，再写折花羞鬓，表达时光流逝之感。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "两句结构对称，音韵协调。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "‘羞鬓白’赋予花以人情，增强感染力。"
+                }
+            ]
+        },
+        "analysis": "此诗以榴花与枯筇对照，暗喻年华老去，折花羞鬓生动传达迟暮之悲。语言含蓄，意象对比鲜明，但整体构思未脱传统咏物模式，情感表达稍显直白，意境一般。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "通过花与人对比折射时光无情",
+                "realm": "能",
+                "reason": "试图追求含蓄风格，但意象陈旧，缺乏深度。"
+            }
+        ],
+        "imagery": [
+            "榴花",
+            "竹杖",
+            "鬓发",
+            "颜面"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句以‘羞鬓白’细腻刻画心理，更具画面感。"
+        }
+    },
+    {
+        "title": "山居二十詠 錦被堆",
+        "author": "洪适",
+        "paragraphs": [
+            "錦衾鋪綠野，山麝可曾眠。",
+            "蕙帳塵凝席，花殘鶴惘然。"
+        ],
+        "paragraphs_simplified": [
+            "锦衾铺绿野，山麝可曾眠。",
+            "蕙帐尘凝席，花残鹤惘然。"
+        ],
+        "translation": "锦被铺在绿野上，山麝可曾安眠？蕙草帐上尘土凝结在席子，花已残，鹤显得惘然。",
+        "score": 2.5,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "孤独",
+            "悲伤"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句写奢华铺陈，后句写荒凉景象，通过对比传达孤寂。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘锦衾铺绿野’以锦被喻自然，夸张手法。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "‘山麝’虚写，‘尘凝席’实写，增强意境。"
+                }
+            ]
+        },
+        "analysis": "此诗意象堆砌，锦衾绿野显浮华，花残鹤惘然试图渲染悲凉，但情景脱节，情感表达空洞。语言华丽却无实质，意境破碎，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "堆砌华丽意象，但缺乏情感内核",
+                "realm": "劣",
+                "reason": "试图模仿绮丽风格，实则辞藻堆砌，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "锦衾",
+            "绿野",
+            "山麝",
+            "蕙帐",
+            "尘",
+            "席",
+            "花",
+            "鹤"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句‘花残鹤惘然’稍具情感，但整体仍显生硬。"
+        }
+    },
+    {
+        "title": "山居二十詠 頳桐",
+        "author": "洪适",
+        "paragraphs": [
+            "花涵百日紅，色到三秋重。",
+            "葉大好題詩，叢卑難集鳳。"
+        ],
+        "paragraphs_simplified": [
+            "花涵百日红，色到三秋重。",
+            "叶大好题诗，丛卑难集凤。"
+        ],
+        "translation": "花涵有百日红，颜色到深秋更浓重。叶子宽大适合题诗，但丛生卑微难以聚集凤凰。",
+        "score": 3.2,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前写花色持久，后写叶与丛对比，暗喻才高命卑。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "两句对仗工整，音韵流畅。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "‘难集凤’比喻无法招引贤才，寄托怀才不遇。"
+                }
+            ]
+        },
+        "analysis": "此诗以頳桐为载体，花色与叶大显才质，但‘丛卑难集凤’直指处境卑微。语言工整，立意传统，借物抒怀但未出新意，情景契合度一般，属能品。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "通过植物特性折射人生际遇",
+                "realm": "能",
+                "reason": "试图追求高古风格，但表达过于直白，缺乏含蓄。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "色",
+            "叶",
+            "诗",
+            "丛",
+            "凤"
+        ],
+        "allusions": [
+            {
+                "phrase": "集凤",
+                "explanation": "化用‘凤栖梧’典故，喻招引贤才。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句‘丛卑难集凤’直接点明主旨，更具批判性。"
+        }
+    },
+    {
+        "title": "山居二十詠 雙魚",
+        "author": "洪适",
+        "paragraphs": [
+            "犀角透魚龍，石肌藴星斗。",
+            "亦有無情花，枝頭魚貫柳。"
+        ],
+        "paragraphs_simplified": [
+            "犀角透鱼龙，石肌蕴星斗。",
+            "亦有无情花，枝头鱼贯柳。"
+        ],
+        "translation": "犀角能穿透鱼龙，石肌中蕴藏星斗。也有无情的花，枝头如鱼贯柳。",
+        "score": 2.0,
+        "subject": [
+            "咏物诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "无特定情感"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "描写",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句写奇异意象，后句写无情花与鱼贯柳，整体逻辑断裂。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "‘犀角透鱼龙’夸大犀角威力，营造奇幻感。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "‘鱼贯柳’比喻枝条排列，但衔接生硬。"
+                }
+            ]
+        },
+        "analysis": "此诗意象奇特，犀角透鱼龙显想象，但后句‘无情花’与‘鱼贯柳’突兀，整体意境破碎，缺乏统一情感。语言怪异，逻辑混乱，属劣作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "堆砌奇特意象，但无内在联系",
+                "realm": "劣",
+                "reason": "试图模仿清奇风格，实则意象杂乱，不知所云。"
+            }
+        ],
+        "imagery": [
+            "犀角",
+            "鱼龙",
+            "石肌",
+            "星斗",
+            "花",
+            "枝",
+            "柳"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句‘犀角透鱼龙’最具想象力，但整体仍显怪异。"
+        }
+    },
+    {
+        "title": "山居二十詠 薔薇",
+        "author": "洪适",
+        "paragraphs": [
+            "竹外霞爲幄，花間錦作籬。",
+            "離宮多怨女，吃吃竟亡隋。"
+        ],
+        "paragraphs_simplified": [
+            "竹外霞为幄，花间锦作篱。",
+            "离宫多怨女，吃吃竟亡隋。"
+        ],
+        "translation": "竹林外，彩霞如同帷幕；花丛间，锦绣化作篱笆。离宫中多有怨女，窃窃私语竟导致隋朝灭亡。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前联以华美比喻描绘山居景致，后联引入历史典故，形成景与史的对比，但衔接生硬。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“霞为幄”“锦作篱”以自然物喻人工织物，构筑华丽意象。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“亡隋”借隋朝灭亡之事，暗指离宫怨女之祸，但典故与前文关联薄弱。"
+                }
+            ]
+        },
+        "analysis": "诗作前联以‘霞为幄’‘锦作篱’勾勒山居胜景，辞藻华美；后联陡转，引入离宫怨女亡隋之典，意象跳跃，缺乏内在逻辑。全诗情景契合度不足，历史感与自然美未能有机融合，略显堆砌。立意浅显，借古讽今之意未达，流于表面。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "意象如霞、锦、离宫，色彩浓艳，但组合生硬。",
+                "realm": "凡品",
+                "reason": "试图以典故增厚重，但意象断裂，反显生硬。"
+            }
+        ],
+        "imagery": [
+            "竹",
+            "霞",
+            "花",
+            "宫"
+        ],
+        "allusions": [
+            {
+                "phrase": "亡隋",
+                "explanation": "指隋朝灭亡，常与离宫怨女相关。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "意象鲜明，比喻生动"
+        }
+    },
+    {
+        "title": "山居二十詠 迎春",
+        "author": "洪适",
+        "paragraphs": [
+            "桃杏正酣酣，光春當仲月。",
+            "吐艷既後時，嘉名安可竊。"
+        ],
+        "paragraphs_simplified": [
+            "桃杏正酣酣，光春当仲月。",
+            "吐艳既后时，嘉名安可窃。"
+        ],
+        "translation": "桃杏花开正盛，春光正值仲月。吐艳既然已迟，美名怎能窃取？",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "对比"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前联描写迎春花盛开之状，后联以设问议论其迟开与名分问题，由景入理。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "“嘉名安可窃”以反问强调名分不可妄取。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过迎春花的迟开，隐喻对声誉的思考。"
+                }
+            ]
+        },
+        "analysis": "此诗咏迎春花，前联写其盛开之状，后联议论其迟开与名分。语言简练，但立意平庸，缺乏新意。‘吐艳后时’与‘嘉名’之辩略显牵强，未能深入。全诗说理直白，意境浅薄，缺乏审美回甘。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "桃杏春光意象清新，但后联议论破坏自然之趣。",
+                "realm": "凡品",
+                "reason": "咏物但议论直白，缺乏含蓄。"
+            }
+        ],
+        "imagery": [
+            "桃",
+            "杏",
+            "春"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "描绘春景生动"
+        }
+    },
+    {
+        "title": "山居二十詠 長生草",
+        "author": "洪适",
+        "paragraphs": [
+            "經時久枯槁，得水即青葱。",
+            "起死醫無藥，返魂香有功。"
+        ],
+        "paragraphs_simplified": [
+            "经时久枯槁，得水即青葱。",
+            "起死医无药，返魂香有功。"
+        ],
+        "translation": "长时间枯萎干枯，一得水就变得青翠。起死回生没有药，返魂香却有功效。",
+        "score": 2.7,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "期待",
+            "惊奇"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "对比"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前联直接描述长生草枯荣之变，后联用夸张手法延伸至生死议题，由实入虚。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "“枯槁”与“青葱”形成鲜明对比，突出草的生命力。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“起死”“返魂香”夸大草的效用，赋予神话色彩。"
+                }
+            ]
+        },
+        "analysis": "此诗描述长生草的特性，前联写其枯荣之变，后联用夸张手法提及返魂香。意象集中，但‘起死’之说过于玄虚，与草的实际特性脱节。整体有奇想，但逻辑松散，未能将物性与哲思有机结合。",
+        "poetry_styles": [
+            {
+                "style": "精神",
+                "imagery_analysis": "草与水的意象表现生命力，但夸张过度失真。",
+                "realm": "凡品",
+                "reason": "意在表现生命力，但用典和夸张不当。"
+            }
+        ],
+        "imagery": [
+            "草",
+            "水",
+            "香"
+        ],
+        "allusions": [
+            {
+                "phrase": "返魂香",
+                "explanation": "传说中能使人复活的香料。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "简洁道出草的特性"
+        }
+    },
+    {
+        "title": "山居二十詠 雲松關",
+        "author": "洪适",
+        "paragraphs": [
+            "葉生新易舊，歲寒凋獨後。",
+            "不改四時柯，賢言非聖耦。"
+        ],
+        "paragraphs_simplified": [
+            "叶生新易旧，岁寒凋独后。",
+            "不改四时柯，贤言非圣耦。"
+        ],
+        "translation": "新叶生，旧叶易落；岁寒时，凋零独后。四时枝条不改，贤言并非圣人之偶。",
+        "score": 2.6,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "隐喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前联写云松叶之生凋与耐寒特性，后联点出其不改本性，并以贤言作结，由物及理。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "“新易旧”与“凋独后”对比，突出松树的坚韧。"
+                },
+                {
+                    "tag": "隐喻",
+                    "explanation": "“不改四时柯”隐喻坚贞不移的品德。"
+                }
+            ]
+        },
+        "analysis": "此诗咏云松，前联写其叶之生凋，后联点出不改本性，并以贤言作结。意象清晰，但‘贤言非圣耦’一句晦涩，与前文衔接生硬。整体有咏物之意，但哲理表达不够圆融，意境未深。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "岁寒、四时柯意象古朴，但后句议论费解。",
+                "realm": "凡品",
+                "reason": "前联写物尚可，后联议论突兀。"
+            }
+        ],
+        "imagery": [
+            "叶",
+            "寒",
+            "枝"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "生动描绘松树特性"
+        }
+    },
+    {
+        "title": "山居二十詠 山樊",
+        "author": "洪适",
+        "paragraphs": [
+            "蘂碎葉傷多，風韻弗娛目。",
+            "獨抱絕塵香，無心出幽谷。"
+        ],
+        "paragraphs_simplified": [
+            "蕊碎叶伤多，风韵弗娱目。",
+            "独抱绝尘香，无心出幽谷。"
+        ],
+        "translation": "花蕊破碎，叶子伤痕累累；风韵不悦目。独自怀抱超尘的香气，无心离开幽谷。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前联细致描写山花形貌之残，后联转折赞美其香与无心之态，形成外在与内在的对比。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "“蘂碎葉傷”与“絕塵香”对比，突出内在美。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "“無心出幽谷”赋予花以人的无为态度。"
+                }
+            ]
+        },
+        "analysis": "此诗写山花，前联状其形貌之残，后联赞其香之纯与无心之态。意象有反差，但‘风韵弗娱目’与‘绝尘香’之间逻辑松散。全诗试图表现遗世独立，但语言直白，意境未深，缺乏审美距离。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "幽谷、绝尘香意象淡远，但前句太直破坏氛围。",
+                "realm": "凡品",
+                "reason": "意在表现高洁，但描写不够含蓄。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "叶",
+            "香",
+            "谷"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "表达高洁情怀"
+        }
+    },
+    {
+        "title": "山居二十詠 躑躅崦",
+        "author": "洪适",
+        "paragraphs": [
+            "一氣浹群芳，漫山躑躅黄。",
+            "有誰相領略，自解度春光。"
+        ],
+        "paragraphs_simplified": [
+            "一气浃群芳，漫山踯躅黄。",
+            "有谁相领略，自解度春光。"
+        ],
+        "translation": "整个自然气息浸润了所有花卉，满山遍野都是黄色的踯躅花。有谁能够欣赏并领会这般景致，唯有自己默默理解并度过这春日时光。",
+        "score": 2.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句直接描绘春日山景，后两句转入主观感受，形成景与情的简单对应。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过漫山踯躅花的盛开，寄托对春光流逝的淡然态度。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "“自解度春光”赋予自然以人的理解能力。"
+                }
+            ]
+        },
+        "analysis": "此诗以山居春景为题材，意象集中于群芳与踯躅花，语言平实无华。前两句铺陈自然气息与视觉色彩，后两句以设问引出孤芳自赏的意趣。整体构思流于表面，未能突破传统山水诗的窠臼，情感表达浅显，缺乏深层意境构筑。虽有闲适之趣，但立意陈旧，属于应景之作，未见独特艺术价值。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以白描手法呈现山野春色，但意象组合缺乏新意，未能达到“俯拾即是，不取诸邻”的境界。",
+                "realm": "能品",
+                "reason": "技法平熟，但意境浅近，未能超脱凡俗。"
+            }
+        ],
+        "imagery": [
+            "群芳",
+            "踯躅花",
+            "春光"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“漫山踯躅黄”以色彩点染，稍具画面感。"
+        }
+    },
+    {
+        "title": "山居二十詠 草野",
+        "author": "洪适",
+        "paragraphs": [
+            "發生寧有種，滋蔓妨人路。",
+            "不得十月霜，掃除難盡去。"
+        ],
+        "paragraphs_simplified": [
+            "发生宁有种，滋蔓妨人路。",
+            "不得十月霜，扫除难尽去。"
+        ],
+        "translation": "草木萌生难道有特定的种子吗？蔓延滋长却妨碍了人的道路。若不到十月霜降之时，便难以彻底清除干净。",
+        "score": 2.0,
+        "subject": [
+            "咏物诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "以设问起笔，揭示草野滋蔓之害，后两句强调需待秋霜方能根治，暗喻社会积弊。",
+            "evidence": [
+                {
+                    "tag": "托物言志",
+                    "explanation": "借草野蔓延妨路，隐喻小人当道阻碍正途。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "“发生宁有种”引发对自然规律的思考。"
+                }
+            ]
+        },
+        "analysis": "此诗借草野生长现象暗讽世道，立意虽具讽喻性，但意象陈旧，语言直白生硬。前两句以议论发端，后两句以夸张收束，逻辑简单，缺乏诗意的含蓄与美感。情感表达流于表面，未能通过意象的深度加工传递复杂情绪，整体显得粗浅直露，属于概念先行之作。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以刚健笔力批判现实，但意象单薄，未能形成有力的艺术张力，反显枯涩。",
+                "realm": "凡品",
+                "reason": "语言生硬，讽喻意图过于直白，缺乏审美距离。"
+            }
+        ],
+        "imagery": [
+            "草野",
+            "路",
+            "霜"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“不得十月霜”稍具力度，点出根治之难。"
+        }
+    },
+    {
+        "title": "錢伸仲挽詩二首  其一",
+        "author": "洪适",
+        "paragraphs": [
+            "佩蘭扈芷楚三閭，騁祕抽妍漢子虛。",
+            "甘向黑頭辭印綬，肯將白眼對圖書。",
+            "清規盡入先賢傳，繡帳空馳長者車。",
+            "千里纏悲付虞殯，西風吹淚著襟裾。"
+        ],
+        "paragraphs_simplified": [
+            "佩兰扈芷楚三闾，骋秘抽妍汉子虚。",
+            "甘向黑头辞印绶，肯将白眼对图书。",
+            "清规尽入先贤传，绣帐空驰长者车。",
+            "千里缠悲付虞殡，西风吹泪著襟裾。"
+        ],
+        "translation": "佩戴兰草白芷，如楚国屈原般高洁；施展文采，如汉代司马相如般华美。甘愿在年轻时辞去官印，肯以傲然态度面对图书典籍。清廉的规范尽皆载入先贤传记，绣帐空空，长者的车马不再来临。千里之外的悲伤寄托于丧礼，西风吹拂泪水沾湿衣襟。",
+        "score": 4.0,
+        "subject": [
+            "悼亡诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首联以屈原、司马相如喻逝者才华，颔联写其辞官傲骨，颈联转写身后清名，尾联直抒哀悼之情，结构严谨。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“楚三闾”指屈原，“汉子虚”指司马相如，烘托逝者文才。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "“甘向黑头辞印绶，肯将白眼对图书”工整对仗，凸显品格。"
+                }
+            ]
+        },
+        "analysis": "此诗以典故密集著称，通过屈原、司马相如等历史人物，多维度塑造逝者高洁形象。对仗工整，情感深沉而不泛滥，尾联以西风泪景收束，余韵悠长。用典虽多但未显堆砌，反增厚重感，整体艺术水准成熟，属悼亡诗中佳作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "典故运用精当，意象如兰芷、图书、西风，均服务于庄重哀思的氛围，达到“典雅”之境。",
+                "realm": "能品",
+                "reason": "技法纯熟，但典故密度稍高，略损自然流畅。"
+            }
+        ],
+        "imagery": [
+            "兰芷",
+            "图书",
+            "车马",
+            "西风",
+            "泪"
+        ],
+        "allusions": [
+            {
+                "phrase": "楚三闾",
+                "explanation": "指屈原，喻高洁文士。"
+            },
+            {
+                "phrase": "汉子虚",
+                "explanation": "指司马相如，喻文采华美。"
+            },
+            {
+                "phrase": "虞殡",
+                "explanation": "古代丧礼，代指哀悼。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "“西风吹泪著襟裾”以景结情，画面感强。"
+        }
+    }
+]

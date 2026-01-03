@@ -1,0 +1,1062 @@
+[
+    {
+        "title": "梅花七律  其二一",
+        "author": "張道洽",
+        "paragraphs": [
+            "子真世裔神仙種，和靖家風冰玉身。",
+            "只此玲瓏三數蕊，不知收拾幾多春。",
+            "香浮靜夜天知己，影浸寒池月寫真。",
+            "留待楚騷千載恨，花中誰識獨醒人。"
+        ],
+        "paragraphs_simplified": [
+            "子真世裔神仙种，和靖家风冰玉身。",
+            "只此玲珑三数蕊，不知收拾几多春。",
+            "香浮静夜天知己，影浸寒池月写真。",
+            "留待楚骚千载恨，花中谁识独醒人。"
+        ],
+        "translation": "子真（郑朴）的后裔如神仙种子，林和靖的家风似冰玉之身。只这几朵玲珑的花蕊，不知收拾了多少春光。幽香浮动在静夜，天是知己；花影浸在寒池，月是写真。留待《楚辞》千载的遗憾，花中谁能认识独醒之人。",
+        "score": 4.7,
+        "subject": [
+            "咏物诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "孤高",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": "夜"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两联追溯梅花高洁来历与春光凝聚，后两联转入月下孤影与怀才不遇之叹，尾联以典故收束。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "子真、和靖典故点明梅花高洁传承"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借梅花独醒暗喻文人孤高"
+                }
+            ]
+        },
+        "analysis": "此诗以典故精当构筑清冷意境，将梅花与历史隐士并置。'香浮静夜天知己，影浸寒池月写真'一联动静相生，虚实交融，将月下梅影的孤绝感推向极致。尾联借屈原《离骚》'众人皆醉我独醒'的典故，不着痕迹地将物象升华为人格象征，情感回甘绵长，情景契合度极高。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "梅花与冰玉、寒池等意象组合，构筑出超脱尘俗的清冷境界",
+                "realm": "妙",
+                "reason": "典故运用不露斧痕，意境超逸，情感含蓄深沉"
+            }
+        ],
+        "imagery": [
+            "梅花",
+            "春",
+            "夜",
+            "池",
+            "月",
+            "楚骚"
+        ],
+        "allusions": [
+            {
+                "phrase": "子真",
+                "explanation": "汉代隐士郑朴，字子真"
+            },
+            {
+                "phrase": "和靖",
+                "explanation": "宋代林逋，谥号和靖先生"
+            },
+            {
+                "phrase": "楚骚",
+                "explanation": "屈原《离骚》，代指忠贞不遇"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "香浮静夜天知己一句将自然景物人格化，意境全出"
+        }
+    },
+    {
+        "title": "梅花七律  其二二",
+        "author": "張道洽",
+        "paragraphs": [
+            "天姿雅澹似高人，萬樹千紅總後塵。",
+            "花蚤花遲兩年景，枝南枝北一家春。",
+            "輕輕欲折還休去，得得相看不厭頻。",
+            "坐到參橫渾未曉，夜窗無月更傳神。"
+        ],
+        "paragraphs_simplified": [
+            "天姿雅澹似高人，万树千红总后尘。",
+            "花蚤花迟两年景，枝南枝北一家春。",
+            "轻轻欲折还休去，得得相看不厌频。",
+            "坐到参横浑未晓，夜窗无月更传神。"
+        ],
+        "translation": "梅花天姿淡泊如高人，万紫千红皆是后尘。花开早晚同属两年之景，枝南枝北共成一家之春。轻轻想折却又停手，久久相看不厌其频。坐到参星横斜天未晓，夜窗无月时更显传神。",
+        "score": 3.2,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "对比"
+            ],
+            "presentation_tags": [
+                "以乐衬哀",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首联定调梅花高洁，颔联写其普遍性，颈联写人与梅互动，尾联写深夜静观之妙。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "梅花与人相看不厌"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "万树千红衬托梅花后尘之态"
+                }
+            ]
+        },
+        "analysis": "此诗以'高人'喻梅，立意平庸。'花蚤花迟'、'枝南枝北'几近口语，缺乏提炼。颈联'轻轻欲折还休去'虽有情态，但整体流于表面。尾联'夜窗无月更传神'稍有余味，但难掩全诗的平实质朴，意象经营薄弱。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "语言浅白直露，缺乏凝练与意境深度",
+                "realm": "能",
+                "reason": "试图模仿'冲淡'而不得，实为疏野之失，意象松散"
+            }
+        ],
+        "imagery": [
+            "梅花",
+            "高人",
+            "春",
+            "参星",
+            "夜窗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "夜窗无月更传神一句在平淡中见哲理"
+        }
+    },
+    {
+        "title": "梅花七律  其二三",
+        "author": "張道洽",
+        "paragraphs": [
+            "乾坤收拾幾精華，全付茅茨小小家。",
+            "壓盡園林千萬蕊，只消籬落兩三花。",
+            "雪消數尺暗埋嶺，月浸一痕微印沙。",
+            "玉面亭亭太幽獨，天寒空谷正堪嗟。"
+        ],
+        "paragraphs_simplified": [
+            "乾坤收拾几精华，全付茅茨小小家。",
+            "压尽园林千万蕊，只消篱落两三花。",
+            "雪消数尺暗埋岭，月浸一痕微印沙。",
+            "玉面亭亭太幽独，天寒空谷正堪嗟。"
+        ],
+        "translation": "天地收拾几许精华，全交给茅屋小小家。压倒园林千万花蕊，只需篱落两三梅花。雪消数尺暗埋山岭，月浸一痕微印沙地。玉面亭亭太过幽独，天寒空谷正可嗟叹。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "孤独",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首联总写梅花集天地精华，颔联对比突出其少而精，颈联写雪月映衬之景，尾联点出幽独嗟叹。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "压尽园林千万蕊突出梅花卓绝"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "雪埋岭为实，月印沙为虚"
+                }
+            ]
+        },
+        "analysis": "此诗格局狭小，'茅茨小小家'意象寒酸，与梅花清贵之质不符。'压尽园林'虽用夸张，但后文'只消篱落两三花'未能支撑气魄。颈联雪月描写落入俗套，尾联直白嗟叹，缺乏含蓄之美，整体立意浅显。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "堆砌'玉面''幽独'等词，却无真情实感",
+                "realm": "能",
+                "reason": "试图'典雅'而不得，实为纤秾末流"
+            }
+        ],
+        "imagery": [
+            "梅花",
+            "乾坤",
+            "茅茨",
+            "雪",
+            "月",
+            "空谷"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "雪消数尺暗埋岭，月浸一痕微印沙一联画面感较强"
+        }
+    },
+    {
+        "title": "梅花七律  其二四",
+        "author": "張道洽",
+        "paragraphs": [
+            "百餘年樹半蒼苔，纔有一枝花便佳。",
+            "臘近已含春意思，香寒足慰晚情懷。",
+            "澹煙孤寺藏山崦，殘雪疎籬傍水涯。",
+            "剛被幽香相觸撥，消磨石路幾青鞵。"
+        ],
+        "paragraphs_simplified": [
+            "百馀年树半苍苔，才有一枝花便佳。",
+            "腊近已含春意思，香寒足慰晚情怀。",
+            "澹烟孤寺藏山崦，残雪疏篱傍水涯。",
+            "刚被幽香相触拨，消磨石路几青鞵。"
+        ],
+        "translation": "百馀年的老树半覆苍苔，才开一枝花便觉佳。腊月将近已含春意，寒香足以慰藉晚岁情怀。澹烟中孤寺藏于山坳，残雪旁疏篱依着水边。刚被幽香触动，消磨了石路上几双青鞋。",
+        "score": 4.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "点染结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "首联写老树新花，颔联写时节与情怀，颈联写周边环境，尾联写人寻梅而至。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "梅花'含春意思'"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "青鞵代指寻梅之人"
+                }
+            ]
+        },
+        "analysis": "此诗情景交融，'腊近已含春意思'捕捉到梅花报春之灵性。'澹烟孤寺'一联意境悠远，将梅花置于山水画中。尾联'消磨石路几青鞵'以行动写痴迷，余韵悠长。全诗无一字直抒胸臆，却处处见情致，语言洗练。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "梅花与烟寺、残雪等意象浑然一体，毫无造作",
+                "realm": "妙",
+                "reason": "意境真切，情感含蓄，合于自然之道"
+            }
+        ],
+        "imagery": [
+            "梅花",
+            "树",
+            "苔",
+            "春",
+            "烟",
+            "寺",
+            "雪",
+            "篱",
+            "青鞋"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "澹烟孤寺藏山崦，残雪疏篱傍水涯一联构图精妙，虚实相生"
+        }
+    },
+    {
+        "title": "嶺梅",
+        "author": "張道洽",
+        "paragraphs": [
+            "到處皆詩境，隨時有物華。",
+            "應酬都不暇，一嶺是梅花。"
+        ],
+        "paragraphs_simplified": [
+            "到处皆诗境，随时有物华。",
+            "应酬都不暇，一岭是梅花。"
+        ],
+        "translation": "到处都是诗境，随时都有景物。应酬都来不及，整岭全是梅花。",
+        "score": 1.8,
+        "subject": [
+            "咏物诗",
+            "打油诗"
+        ],
+        "emotion": [
+            "平淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句泛写诗情画意，后两句点出梅花满岭。",
+            "evidence": [
+                {
+                    "tag": "白描",
+                    "explanation": "直陈梅花满岭之景"
+                }
+            ]
+        },
+        "analysis": "此诗如口号般直白，毫无意象经营。'到处''随时'等词空洞，'应酬都不暇'更显俗气。作为五言绝句，既无起承转合，亦无警策之句，仅为记事备忘，味同嚼蜡。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "全诗仅'梅花''岭'两个意象，缺乏组合与深化",
+                "realm": "劣",
+                "reason": "试图'自然'而流于'打油'，语言空洞无物"
+            }
+        ],
+        "imagery": [
+            "梅花",
+            "岭"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "到处皆诗境一句尚通顺，为全诗最平实之句"
+        }
+    },
+    {
+        "title": "千葉梅",
+        "author": "張道洽",
+        "paragraphs": [
+            "應怯春寒悄，重重疊疊衣。",
+            "本來飛燕瘦，翻作玉環肥。"
+        ],
+        "paragraphs_simplified": [
+            "应怯春寒悄，重重叠叠衣。",
+            "本来飞燕瘦，翻作玉环肥。"
+        ],
+        "translation": "应该害怕春寒悄然来临，层层叠叠地穿衣。本来像飞燕一样瘦，反而变得像玉环一样肥。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "对比"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句点出梅畏寒之态，次句以飞燕与玉环的体型对比喻梅之形态变化，形成转折。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'飞燕瘦'与'玉环肥'对比，形容梅花形态的消瘦与丰腴。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "'应怯春寒悄'赋予梅花人的情感与动作。"
+                }
+            ]
+        },
+        "analysis": "此诗以千叶梅为题，试图通过拟人与比喻勾勒其形态。意象陈旧，沿用'飞燕''玉环'等熟典，缺乏新意。立意浅显，仅止于形貌描摹，未触及梅之精神内核。辞藻堆砌，整体流于表面，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "试图以浓丽辞藻写梅之丰腴，但实际仅得形似，未达神韵。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，堆砌辞藻而意境空洞。"
+            }
+        ],
+        "imagery": [
+            "春寒",
+            "衣",
+            "燕",
+            "环"
+        ],
+        "allusions": [
+            {
+                "phrase": "飞燕",
+                "explanation": "指汉代赵飞燕，以体瘦著称。"
+            },
+            {
+                "phrase": "玉环",
+                "explanation": "指唐代杨玉环，以体丰著称。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "比喻稍显生动，但整体仍显陈腐。"
+        }
+    },
+    {
+        "title": "照水梅",
+        "author": "張道洽",
+        "paragraphs": [
+            "照影寒溪水，溪中水也香。",
+            "佳人臨寶鑑，自作壽陽妝。"
+        ],
+        "paragraphs_simplified": [
+            "照影寒溪水，溪中水也香。",
+            "佳人临宝鉴，自作寿阳妆。"
+        ],
+        "translation": "照影在寒冷的溪水中，溪水也散发香气。美人面对宝镜，自然地化上寿阳妆。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首句写梅影映水、水亦含香，次句以美人临镜妆扮喻梅之姿态，情景交融。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "'寿阳妆'引用南朝寿阳公主梅花妆典故，增添文采。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "'佳人临宝鉴'将梅花比作对镜梳妆的美人。"
+                }
+            ]
+        },
+        "analysis": "此诗写照水梅之清影，借'寿阳妆'典故提升意境。溪水与梅香交融，意象较为清新。但典故运用略显生硬，情感表达含蓄有余而真切不足。技法成熟，然未脱俗套，属能品范畴。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以水影与妆扮写梅，有清丽之致，但深度有限。",
+                "realm": "能",
+                "reason": "意境清浅，未达高妙。"
+            }
+        ],
+        "imagery": [
+            "溪水",
+            "香",
+            "佳人",
+            "宝鉴"
+        ],
+        "allusions": [
+            {
+                "phrase": "寿阳妆",
+                "explanation": "指南朝寿阳公主梅花妆典故，喻梅之姿。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句描写水影与香，较为生动。"
+        }
+    },
+    {
+        "title": "瓶梅",
+        "author": "張道洽",
+        "paragraphs": [
+            "春在膽瓶閒，朝看復暮看。",
+            "小屏遮護著，不怕玉肌寒。"
+        ],
+        "paragraphs_simplified": [
+            "春在胆瓶闲，朝看复暮看。",
+            "小屏遮护着，不怕玉肌寒。"
+        ],
+        "translation": "春天闲适地在胆瓶中，早晚观看。小屏风遮护着，不怕玉肌寒冷。",
+        "score": 2.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首句点出瓶中春意，次句写屏风护梅，末句直抒不怕寒之情，表达珍惜之意。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "'春在胆瓶闲'赋予春天闲适感。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "'玉肌寒'以人肌喻梅。"
+                }
+            ]
+        },
+        "analysis": "此诗写瓶梅之观赏，语言直白，意象普通。'玉肌寒'比喻陈旧，缺乏新意。立意浅显，仅止于日常呵护，未升华至艺术境界。整体平淡无奇，属凡品。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以平实语言写闲适之情，但流于浅白。",
+                "realm": "劣",
+                "reason": "语言平淡，无甚特色。"
+            }
+        ],
+        "imagery": [
+            "胆瓶",
+            "春",
+            "小屏",
+            "玉肌"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句稍显闲适，但整体平庸。"
+        }
+    },
+    {
+        "title": "尋梅",
+        "author": "張道洽",
+        "paragraphs": [
+            "澹澹一痕月，疎疎數箇花。",
+            "春風也公道，先到野人家。"
+        ],
+        "paragraphs_simplified": [
+            "淡淡一痕月，疏疏数个花。",
+            "春风也公道，先到野人家。"
+        ],
+        "translation": "淡淡的一痕月亮，疏疏的几朵花。春风也公道，先到野人家。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以对偶写寻梅所见月与花，次句以拟人写春风公道，表达野趣与闲情。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "'春风也公道'赋予春风人性，增添趣味。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "'澹澹一痕月，疎疎數箇花'结构工整，音韵和谐。"
+                }
+            ]
+        },
+        "analysis": "此诗写寻梅之景，语言简洁，意境清幽。拟人手法生动，'春风公道'有新意，但整体仍显平淡。情感闲适，然未达高妙之境。技法成熟，属能品。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以平实语言写野趣，意境清新但深度不足。",
+                "realm": "能",
+                "reason": "意境尚可，但缺乏深刻感染力。"
+            }
+        ],
+        "imagery": [
+            "月",
+            "花",
+            "春风",
+            "野人"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "拟人手法稍显趣味。"
+        }
+    },
+    {
+        "title": "折梅",
+        "author": "張道洽",
+        "paragraphs": [
+            "日暮天寒小驛亭，竹邊流水淺泠泠。",
+            "一枝蚤落詩人手，無恨春風入膽瓶。"
+        ],
+        "paragraphs_simplified": [
+            "日暮天寒小驿亭，竹边流水浅泠泠。",
+            "一枝蚤落诗人手，无恨春风入胆瓶。"
+        ],
+        "translation": "日暮天寒的小驿亭，竹边流水清澈泠泠。一枝早落诗人手，无恨春风入胆瓶。",
+        "score": 4.2,
+        "subject": [
+            "咏物诗",
+            "叙事诗"
+        ],
+        "emotion": [
+            "惜别"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "首句渲染寒冷环境，次句叙事折梅并插入瓶中，以'无恨春风'虚写保鲜之意，表达惜花之情。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "'无恨春风入胆瓶'以春风入瓶喻梅枝保鲜，构思新颖。"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "'日暮天寒小驿亭'勾勒具体场景，增强真实感。"
+                }
+            ]
+        },
+        "analysis": "此诗叙述折梅过程，场景描写细腻，情感含蓄而真切。'无恨春风'用词巧妙，虚实结合，营造出回甘之美。意境深远，技法纯熟，属妙品佳作。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "情感深沉，描写细致，于寒冷中见温情。",
+                "realm": "妙",
+                "reason": "意境真切，情感审美距离适中。"
+            }
+        ],
+        "imagery": [
+            "日暮",
+            "天寒",
+            "驿亭",
+            "竹",
+            "流水",
+            "梅枝",
+            "胆瓶"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "情感表达较好，虚实结合巧妙。"
+        }
+    },
+    {
+        "title": "嗅梅",
+        "author": "張道洽",
+        "paragraphs": [
+            "一夜吹香過別村，瘴江洗盡水雲昏。",
+            "真堪持作維摩供，鼻觀微參透頂門。"
+        ],
+        "paragraphs_simplified": [
+            "一夜吹香过别村，瘴江洗尽水云昏。",
+            "真堪持作维摩供，鼻观微参透顶门。"
+        ],
+        "translation": "一夜之间，梅香随风飘过别的村落；瘴气笼罩的江水仿佛被洗净，水云朦胧。这梅香真可当作维摩诘的供品，通过鼻观微微参悟，直透顶门。",
+        "score": 4.2,
+        "subject": [
+            "咏物诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句以嗅觉写梅香之远播，后句转入禅理，以梅香喻供品，逻辑由实入虚。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "将梅香比作维摩供品，凸显其清净特质。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用维摩诘典故，增添禅意深度。"
+                }
+            ]
+        },
+        "analysis": "此诗以嗅觉为切入点，构筑梅香超脱尘俗的意境。首句‘一夜吹香过别村’勾勒香气之流动感，次句‘瘴江洗尽’以水云昏暗衬托梅之清冽，情景交融而不显生硬。后联引入维摩诘典，将鼻观参禅与梅香透顶相融，暗合禅宗顿悟之理。全诗意象洗练，从嗅觉到心观的过渡自然，流露出对高洁品格的推崇，无堆砌之弊，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以梅香为核，构筑空灵禅境，清幽中见奇崛。",
+                "realm": "能",
+                "reason": "技法纯熟，但立意未脱传统咏物范畴，缺乏突破性。"
+            }
+        ],
+        "imagery": [
+            "梅",
+            "香",
+            "江",
+            "云",
+            "鼻观"
+        ],
+        "allusions": [
+            {
+                "phrase": "维摩供",
+                "explanation": "指维摩诘居士的供品，借喻梅香清净可参禅。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以动态嗅觉意象开篇，奠定全诗清冷基调。"
+        }
+    },
+    {
+        "title": "訪梅",
+        "author": "張道洽",
+        "paragraphs": [
+            "梅花欲放遶溪行，隔水香來分外清。",
+            "拄杖過橋尋欲遍，竹林疎處數花明。"
+        ],
+        "paragraphs_simplified": [
+            "梅花欲放绕溪行，隔水香来分外清。",
+            "拄杖过桥寻欲遍，竹林疏处数花明。"
+        ],
+        "translation": "梅花含苞待放，沿溪而行；隔水飘来的香气格外清幽。拄着手杖过桥，寻遍各处，在竹林稀疏之处，几朵花明艳可见。",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句点题访梅，次句以嗅觉辅助；后联写寻梅过程，由行至见，层次分明。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "‘梅花欲放’与‘拄杖过桥’形成工整对仗。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "‘绕溪行’的动与‘数花明’的静相互映衬。"
+                }
+            ]
+        },
+        "analysis": "此诗以访梅为线，勾勒出一幅冬日寻幽图。首联以‘欲放’写梅之生机，‘隔水香来’以虚写实，清逸之气扑面。后联‘拄杖过桥’具象化寻访之态，‘竹林疏处数花明’则以疏密对比凸显梅之醒目。全诗结构平实，意象如溪、桥、竹、花皆常见，虽情景契合，但立意未见新奇，属平庸之作，缺乏深层意蕴。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以寻常景物写访梅之趣，力求平淡，但略显浅显。",
+                "realm": "凡",
+                "reason": "试图模仿自然风格，却流于表面，缺乏‘不隔’之境。"
+            }
+        ],
+        "imagery": [
+            "梅",
+            "溪",
+            "香",
+            "桥",
+            "竹林",
+            "花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句‘竹林疏处数花明’以疏密对比取胜，画面感较强。"
+        }
+    },
+    {
+        "title": "憶梅",
+        "author": "張道洽",
+        "paragraphs": [
+            "到得芳天閙衆葩，相思一夜鬢成華。",
+            "閬風歸去無消息，夢寐猶應見此花。"
+        ],
+        "paragraphs_simplified": [
+            "到得芳天闹众葩，相思一夜鬓成华。",
+            "阆风归去无消息，梦寐犹应见此花。"
+        ],
+        "translation": "到了百花盛开的春天，众花喧闹；因思念梅花，一夜之间鬓发斑白。从阆风仙境归去后杳无音信，睡梦中或许还能见到这梅花。",
+        "score": 4.5,
+        "subject": [
+            "咏物诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "借代"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句以春日众花闹衬己之忆梅成愁，后句转入梦境虚写，情感由实转虚。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "‘相思一夜鬓成华’极言思念之深。"
+                },
+                {
+                    "tag": "以乐衬哀",
+                    "explanation": "以‘芳天闹众葩’反衬忆梅之孤寂。"
+                }
+            ]
+        },
+        "analysis": "此诗以忆梅为题，构筑时空交错之愁绪。首句‘芳天闹众葩’以春日喧哗反衬梅花之缺席，‘鬓成华’以夸张笔法直指相思之苦。后联‘阆风’典出神话，喻梅之高远难寻，‘梦寐犹见’则虚写中见执着。全诗情感深沉，意象如‘鬓华’‘阆风’凝练有力，情景交融，回甘悠长，属妙品之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以忆梅之愁折射人生易老，悲凉中见壮阔。",
+                "realm": "妙",
+                "reason": "情感真挚，技法圆熟，无斧凿痕。"
+            }
+        ],
+        "imagery": [
+            "梅",
+            "花",
+            "鬓",
+            "梦",
+            "阆风"
+        ],
+        "allusions": [
+            {
+                "phrase": "阆风",
+                "explanation": "传说中仙人所居之山，借喻梅花高洁难觅。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以乐景写哀情，对比强烈，奠定全诗基调。"
+        }
+    }
+]

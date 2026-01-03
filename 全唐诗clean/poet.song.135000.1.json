@@ -1,0 +1,397 @@
+[
+    {
+        "title": "讀李杜詩",
+        "author": "陸游",
+        "paragraphs": [
+            "濯錦滄浪客，青蓮澹蕩人。",
+            "才名塞天地，身世老風塵。",
+            "士固難推挽，人誰不賤貧。",
+            "明窗數編在，長與物華新。"
+        ],
+        "paragraphs_simplified": [
+            "濯锦沧浪客，青莲澹荡人。",
+            "才名塞天地，身世老风尘。",
+            "士固难推挽，人谁不贱贫。",
+            "明窗数编在，长与物华新。"
+        ],
+        "translation": "濯锦沧浪客，青莲澹荡人。才名塞天地，身世老风尘。士固难推挽，人谁不贱贫。明窗数编在，长与物华新。",
+        "score": 4.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首联点题，颔联极言才名与身世，颈联议论士人命运，尾联归结诗卷长新，结构紧凑。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "“青莲”代李白，“沧浪”代杜甫或屈原，以号指人。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "“才名塞天地，身世老风尘”工对，概括李杜生平。"
+                }
+            ]
+        },
+        "analysis": "此诗以凝练笔法勾勒李杜精神，首联借代精准，颔联气象宏大，尾联“长与物华新”暗含诗作不朽之意。虽议论稍直，但整体气骨劲健，无冗赘之语，堪称能品。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "“塞天地”“老风尘”构筑苍劲意境，以“明窗数编”收束，刚健中含清奇。",
+                "realm": "能",
+                "reason": "技法成熟，但未达雄浑之境，属劲健之能品。"
+            }
+        ],
+        "imagery": [
+            "沧浪",
+            "青莲",
+            "天地",
+            "风尘",
+            "明窗"
+        ],
+        "allusions": [
+            {
+                "phrase": "青莲",
+                "explanation": "李白号青莲居士，此处代指李白。"
+            },
+            {
+                "phrase": "沧浪",
+                "explanation": "或指屈原《渔父》之沧浪水，借喻杜甫之高洁。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "颔联“才名塞天地”气象开阔，最能体现李杜才情之壮。"
+        }
+    },
+    {
+        "title": "烟波即事十首  其一",
+        "author": "陸游",
+        "paragraphs": [
+            "短髮垂肩不裹巾，世人誰識此翁真。",
+            "阻風江浦詩成束，賣藥山城醉過春。"
+        ],
+        "paragraphs_simplified": [
+            "短发垂肩不裹巾，世人谁识此翁真。",
+            "阻风江浦诗成束，卖药山城醉过春。"
+        ],
+        "translation": "短发垂肩不裹巾，世人谁识此翁真。阻风江浦诗成束，卖药山城醉过春。",
+        "score": 2.8,
+        "subject": [
+            "山水诗",
+            "闲适诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "白描"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句自描形象，次句以“阻风”“卖药”具体事例烘托闲适生活，直白无曲。",
+            "evidence": [
+                {
+                    "tag": "白描",
+                    "explanation": "“短发垂肩不裹巾”纯用素描，勾勒狂放形象。"
+                },
+                {
+                    "tag": "侧面烘托",
+                    "explanation": "“世人谁识”反衬其超脱世俗。"
+                }
+            ]
+        },
+        "analysis": "语言近乎口语，意象单薄如“江浦”“山城”，缺乏提炼。虽有闲适之意，但流于叙述，无审美深度。属打油诗之流，格调不高。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "试图模仿疏野之率真，但“卖药”“醉过春”等语粗陋，失却高致。",
+                "realm": "劣",
+                "reason": "粗鄙无文，徒具形式而无神韵，画虎类犬。"
+            }
+        ],
+        "imagery": [
+            "短发",
+            "江浦",
+            "山城",
+            "春"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句虽直白，但尚能勾勒人物形象。"
+        }
+    },
+    {
+        "title": "烟波即事十首  其二",
+        "author": "陸游",
+        "paragraphs": [
+            "烟波深處卧孤篷，宿酒醒時聞斷鴻。",
+            "最是平生會心事，蘆花千頃月明中。"
+        ],
+        "paragraphs_simplified": [
+            "烟波深处卧孤篷，宿酒醒时闻断鸿。",
+            "最是平生会心事，芦花千顷月明中。"
+        ],
+        "translation": "烟波深处卧孤篷，宿酒醒时闻断鸿。最是平生会心事，芦花千顷月明中。",
+        "score": 4.2,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "动静结合",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写静卧闻鸿之动，后两句以月明芦花之景点明会心，由景入情。",
+            "evidence": [
+                {
+                    "tag": "动静结合",
+                    "explanation": "“卧孤篷”之静与“闻断鸿”之动相衬。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“芦花千顷月明中”以空阔之景寄托会心之悦。"
+                }
+            ]
+        },
+        "analysis": "意境空灵，动静相生，以“断鸿”之声破静，反衬深邃。末句“芦花千顷月明中”画面清绝，情感含蓄有回甘，属山水诗中佳作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "“烟波”“孤篷”“月明”构筑冲淡之境，疏朗清奇。",
+                "realm": "妙",
+                "reason": "情景交融，无斧凿痕，得冲淡神髓。"
+            }
+        ],
+        "imagery": [
+            "烟波",
+            "孤篷",
+            "断鸿",
+            "芦花",
+            "月明"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以景结情，空明澄澈，余味悠长。"
+        }
+    },
+    {
+        "title": "烟波即事十首  其三",
+        "author": "陸游",
+        "paragraphs": [
+            "家浮野艇無常處，身是閑人不屬官。",
+            "但有濁醪吾事足，浮名不作一錢看。"
+        ],
+        "paragraphs_simplified": [
+            "家浮野艇无常处，身是闲人不属官。",
+            "但有浊醪吾事足，浮名不作一钱看。"
+        ],
+        "translation": "家随野艇漂泊无常，身是闲人不隶属于官府。只要有浊酒我就满足，不把浮名当作一钱来看待。",
+        "score": 3.0,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先描述漂泊闲居的生活状态，再表达对浮名的轻视，逻辑直白。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前两句与后两句结构对称，形成工整对应。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "浮名不作一钱看，将虚名比作无价值之物。"
+                }
+            ]
+        },
+        "analysis": "此诗以白描手法勾勒闲人生活，野艇与浊酒构筑出疏野之境。然意象陈旧，浮名一钱之喻亦属常谈，整体流于平庸，未见深意。语言直白，缺乏含蓄之美，仅止于叙事层面。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "野艇、浊酒等意象试图营造疏野之境，但缺乏新意。",
+                "realm": "能品",
+                "reason": "技法成熟但立意浅显，未能升华至高妙境界。"
+            }
+        ],
+        "imagery": [
+            "野艇",
+            "浊酒",
+            "浮名"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "浮名不作一钱看直接点明主题，态度鲜明。"
+        }
+    },
+    {
+        "title": "烟波即事十首  其四",
+        "author": "陸游",
+        "paragraphs": [
+            "落雁沙邊艇子斜，分明清夢上三巴。",
+            "眼明一點炊烟起，不是漁家即酒家。"
+        ],
+        "paragraphs_simplified": [
+            "落雁沙边艇子斜，分明清梦上三巴。",
+            "眼明一点炊烟起，不是渔家即酒家。"
+        ],
+        "translation": "落雁沙边小艇倾斜，分明清梦上三巴。眼明一点炊烟起，不是渔家就是酒家。",
+        "score": 3.2,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句以梦境般的景色起笔，后句以现实炊烟承接，由虚入实，点出人间烟火。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "分明清梦上三巴，将梦境比作蜀地之游。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过炊烟景象流露对尘世生活的关注。"
+                }
+            ]
+        },
+        "analysis": "此诗以落雁、艇子勾勒江边景色，炊烟一点点出人间气息。意象清新，但清梦上三巴略显突兀，整体意境尚可，却未达精妙。语言流畅，然情感表达稍显平淡，缺乏回甘。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "落雁、炊烟等意象清新，试图营造清奇之境。",
+                "realm": "能品",
+                "reason": "意境清奇但略显平淡，未能深入挖掘。"
+            }
+        ],
+        "imagery": [
+            "落雁",
+            "艇子",
+            "炊烟"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "眼明一点炊烟起，生动捕捉瞬间景象。"
+        }
+    }
+]

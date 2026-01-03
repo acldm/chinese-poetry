@@ -1,0 +1,559 @@
+[
+    {
+        "title": "五位  其三",
+        "author": "釋正覺",
+        "paragraphs": [
+            "正中來，月夜長鯤蛻甲開。",
+            "大背摩天振雲羽，翔遊鳥道類難該。"
+        ],
+        "paragraphs_simplified": [
+            "正中来，月夜长鲲蜕甲开。",
+            "大背摩天振云羽，翔游鸟道类难该。"
+        ],
+        "translation": "正中来时，如同月夜长鲲蜕甲展开。大背摩天振动云羽，翔游于鸟道，难以比拟。",
+        "score": 2.8,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句点题，次句以宏大意象展开，但逻辑跳跃，缺乏连贯脉络。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'月夜长鲲蜕甲开'暗喻禅机初现。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "'大背摩天振云羽'极言境界之高远。"
+                }
+            ]
+        },
+        "analysis": "此诗以禅宗五位为题，构筑抽象意象，如月夜长鲲蜕甲、大背摩天振羽，试图渲染玄妙之境。然意象跳跃，缺乏清晰脉络，致使意境模糊，读者难入其境。辞藻堆砌而无真切感，整体定性为平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图模仿高古之境，但意象晦涩，反显生硬。",
+                "realm": "能",
+                "reason": "技法尚存，但意境不隔，未能达成高古之神韵。"
+            }
+        ],
+        "imagery": [
+            "月",
+            "鲲",
+            "云",
+            "鸟"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句意象相对集中，语义尚通顺。"
+        }
+    },
+    {
+        "title": "五位  其四",
+        "author": "釋正覺",
+        "paragraphs": [
+            "兼中至，覿面不須相忌諱。",
+            "風化無傷的意玄，光中有路天然異。"
+        ],
+        "paragraphs_simplified": [
+            "兼中至，觌面不须相忌讳。",
+            "风化无伤的意玄，光中有路天然异。"
+        ],
+        "translation": "兼中至时，见面不须相忌讳。风化无伤的意玄，光中有路天然异。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "双关"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直述禅境，但语句破碎，意象间缺乏有机联系。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "'光中有路'喻指禅悟途径。"
+                },
+                {
+                    "tag": "双关",
+                    "explanation": "'覿面'既指见面，又暗喻直指本心。"
+                }
+            ]
+        },
+        "analysis": "诗作试图以'覿面不须相忌讳'等语构筑禅家无碍之境，然'风化无伤的意玄'等句语义晦涩，意象拼凑。情感流于表面，缺乏深层审美距离，整体意境浅显，未能脱俗。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "追求冲淡之味，但意象支离，反显空洞。",
+                "realm": "能",
+                "reason": "有冲淡之形，无冲淡之实，流于形式。"
+            }
+        ],
+        "imagery": [
+            "面",
+            "风",
+            "光",
+            "路"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句相对直白，易于理解。"
+        }
+    },
+    {
+        "title": "五位  其五",
+        "author": "釋正覺",
+        "paragraphs": [
+            "兼中到，斗柄橫斜天未曉。",
+            "鶴夢初醒露氣寒，舊巢飛出雲松倒。"
+        ],
+        "paragraphs_simplified": [
+            "兼中到，斗柄横斜天未晓。",
+            "鹤梦初醒露气寒，旧巢飞出云松倒。"
+        ],
+        "translation": "兼中到时，斗柄横斜天未亮。鹤梦初醒露气寒，旧巢飞出云松倒。",
+        "score": 3.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以天象起笔，转入物象描写，但动静转换生硬，缺乏内在逻辑。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "'鹤梦初醒'喻指禅心萌动。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "'旧巢飞出'赋予物象以生命。"
+                }
+            ]
+        },
+        "analysis": "诗中'斗柄横斜''鹤梦初醒'等意象试图勾勒禅悟瞬间，然'旧巢飞出云松倒'句法混乱，动静失衡。意境虽具清冷之感，但整体结构松散，未能凝聚成鲜明境界。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "意象清冷，但组合失当，未达清奇之境。",
+                "realm": "能",
+                "reason": "有清奇之质，但技法生涩，意境不贯。"
+            }
+        ],
+        "imagery": [
+            "斗柄",
+            "天",
+            "鹤",
+            "梦",
+            "露",
+            "巢",
+            "云",
+            "松"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句意象清晰，音律较稳。"
+        }
+    },
+    {
+        "title": "五王子 誕生",
+        "author": "釋正覺",
+        "paragraphs": [
+            "星攢金殿降生時，稱體宮衣覆雪肌。",
+            "功就轉身全合父，光中潛撥玉輪移。"
+        ],
+        "paragraphs_simplified": [
+            "星攒金殿降生时，称体宫衣覆雪肌。",
+            "功就转身全合父，光中潜拨玉轮移。"
+        ],
+        "translation": "星辰聚集金殿降生时，合体的宫衣覆盖雪白肌肤。功成就转身全合父意，光中潜拨玉轮移动。",
+        "score": 3.4,
+        "subject": [
+            "叙事诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句叙述诞生场景，后两句转向禅理升华，但转折突兀。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "'雪肌'喻指纯净本性。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "'玉轮'借代禅机或法轮。"
+                }
+            ]
+        },
+        "analysis": "此诗描述诞生场景，意象如星攒金殿、宫衣覆雪肌，构筑庄严之象。然'功就转身'等句禅理直露，情感宣泄缺乏含蓄之美。整体技法成熟，但立意未脱窠臼，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "追求典雅，但意象组合生硬，未达圆融。",
+                "realm": "能",
+                "reason": "有典雅之形，但缺乏自然流露之致。"
+            }
+        ],
+        "imagery": [
+            "星",
+            "金殿",
+            "宫衣",
+            "雪肌",
+            "玉轮"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句意象华美，叙事性强。"
+        }
+    },
+    {
+        "title": "五王子 朝生",
+        "author": "釋正覺",
+        "paragraphs": [
+            "雄心脫略戰文場，端把煙蓑換龍章。",
+            "葵藿奉君知貴味，肯懷歸去見嚴光。"
+        ],
+        "paragraphs_simplified": [
+            "雄心脱略战文场，端把烟蓑换龙章。",
+            "葵藿奉君知贵味，肯怀归去见严光。"
+        ],
+        "translation": "雄心超脱文场争斗，端把烟蓑换龙章官服。葵藿奉君知贵味，肯怀归去见严光。",
+        "score": 3.2,
+        "subject": [
+            "干谒诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "用典"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句述志，后句用典，但典故与前文衔接生硬。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "'龙章'借代官位。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "'严光'指东汉隐士，暗喻归隐之志。"
+                }
+            ]
+        },
+        "analysis": "诗中用典严光，表达弃文从隐之意，但'烟蓑换龙章'对比生硬，情感直白无回甘。葵藿奉君等句意象陈旧，整体流于应酬，未能深化主题。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "试图豪放，但意象粗疏，反显空洞。",
+                "realm": "能",
+                "reason": "有豪放之态，无豪放之骨，流于表面。"
+            }
+        ],
+        "imagery": [
+            "雄心",
+            "文场",
+            "烟蓑",
+            "龙章",
+            "葵藿",
+            "君",
+            "严光"
+        ],
+        "allusions": [
+            {
+                "phrase": "严光",
+                "explanation": "东汉隐士，喻指归隐。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句用典明确，语义较完整。"
+        }
+    },
+    {
+        "title": "五王子 末生",
+        "author": "釋正覺",
+        "paragraphs": [
+            "甘分清孤守固窮，衡門寥落正西風。",
+            "一鳴便是蒼梧鳳，不意飄流鷗鷺中。"
+        ],
+        "paragraphs_simplified": [
+            "甘分清孤守固穷，衡门寥落正西风。",
+            "一鸣便是苍梧凤，不意飘流鸥鹭中。"
+        ],
+        "translation": "甘于清贫孤寂，坚守固穷之道，衡门冷落，正对西风。一鸣惊人便是苍梧之凤，不料却飘流在鸥鹭之中。",
+        "score": 3.5,
+        "subject": [
+            "禅理诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "孤独",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "以清孤守穷起笔，勾勒隐士之境，后联以苍梧凤与鸥鹭对比，暗喻超脱与流俗之别。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "苍梧凤比喻高洁之士，鸥鹭比喻平凡之辈。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过西风、衡门等景物抒发孤寂之情。"
+                }
+            ]
+        },
+        "analysis": "此诗以清孤守穷起笔，勾勒出隐士之境。后联以苍梧凤与鸥鹭之对比，暗喻超脱与流俗之别。意象简练，意境淡远，然立意稍显常见，缺乏惊人之笔。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "清孤、衡门、西风、苍梧凤、鸥鹭等意象构筑出一种淡泊而略带孤寂的禅意境界。",
+                "realm": "能品",
+                "reason": "技法纯熟，但意象未脱窠臼，缺乏独特之境。"
+            }
+        ],
+        "imagery": [
+            "清贫",
+            "衡门",
+            "西风",
+            "凤",
+            "鸥鹭"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "一鸣便是苍梧凤，不意飘流鸥鹭中，以对比手法凸显禅意，意象鲜明。"
+        }
+    },
+    {
+        "title": "五王子 化生",
+        "author": "釋正覺",
+        "paragraphs": [
+            "絲綸傳得出宸幃，宣花春城類莫齊。",
+            "妙握當途無字印，馬蹄終不染塵泥。"
+        ],
+        "paragraphs_simplified": [
+            "丝纶传出得宸帏，宣花春城类莫齐。",
+            "妙握当途无字印，马蹄终不染尘泥。"
+        ],
+        "translation": "丝纶从宸帏传出，宣花春城类似莫齐。妙握当途无字印，马蹄终不染尘泥。",
+        "score": 3.8,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "以丝纶、宸帏暗喻世俗权势，后联以无字印和马蹄不染尘点出禅宗超脱之境。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "马蹄不染尘泥比喻心性清净。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "马蹄不染尘出自禅宗公案，象征无染境界。"
+                }
+            ]
+        },
+        "analysis": "诗中以丝纶、宸帏暗喻世俗权势，后联以无字印和马蹄不染尘点出禅宗超脱之境。意象跳跃，然逻辑稍显晦涩，整体构思尚属工整。",
+        "poetry_styles": [
+            {
+                "style": "超诣",
+                "imagery_analysis": "丝纶、宸帏、无字印、马蹄等意象构筑出一种超越世俗的禅意。",
+                "realm": "能品",
+                "reason": "用典巧妙，但意象之间衔接不够自然，未能达到空灵之境。"
+            }
+        ],
+        "imagery": [
+            "丝纶",
+            "宸帏",
+            "印",
+            "马蹄",
+            "尘泥"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "妙握当途无字印，马蹄终不染尘泥，直接点出禅宗核心，意蕴深远。"
+        }
+    }
+]

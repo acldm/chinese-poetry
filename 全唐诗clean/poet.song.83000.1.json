@@ -1,0 +1,81 @@
+[
+    {
+        "title": "劍門關",
+        "author": "何甫",
+        "paragraphs": [
+            "一門橫大道，雙劍插長空。",
+            "鼓鑄非人力，磨礱任化工。"
+        ],
+        "paragraphs_simplified": [
+            "一门横大道，双剑插长空。",
+            "鼓铸非人力，磨砻任化工。"
+        ],
+        "translation": "一道门横跨大路，双剑插入长空；鼓风铸造不是人力所为，磨砺任由自然造化。",
+        "score": 4.0,
+        "subject": [
+            "山水诗",
+            "边塞诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "开篇以对仗句式描绘剑门关的险峻，后两句转入对其自然形成的议论，虚实相生。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "雙劍——将山脉比作双剑，凸显锋利与气势。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "插長空——夸大高度，增强视觉冲击。"
+                }
+            ]
+        },
+        "analysis": "诗作以极简笔墨勾勒剑门关的雄姿，比喻“双剑”生动传神，夸张手法强化了自然伟力。后两句从“人力”与“化工”的对比中，升华出对天工造化的赞叹，语言凝练而意境恢弘，展现出边塞诗特有的豪迈气概。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "核心意象门、剑、长空、化工，以刚健物象构筑壮阔境界。",
+                "realm": "妙品",
+                "reason": "意象雄奇，语言凝练，意境深远。"
+            }
+        ],
+        "imagery": [
+            "门",
+            "剑",
+            "长空",
+            "人力",
+            "化工"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "一門橫大道，雙劍插長空——此句以对仗开篇，瞬间确立全诗的磅礴气势。"
+        }
+    }
+]

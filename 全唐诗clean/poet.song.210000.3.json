@@ -1,0 +1,712 @@
+[
+    {
+        "title": "朝陽穿破衲贊",
+        "author": "釋了惠",
+        "paragraphs": [
+            "一衲橫肩遮百醜，破處冷風吹不透。",
+            "待伊穿線要重聯，金烏已在西山後。"
+        ],
+        "paragraphs_simplified": [
+            "一衲横肩遮百丑，破处冷风吹不透。",
+            "待伊穿线要重联，金乌已在西山后。"
+        ],
+        "translation": "一件袈裟横在肩上遮掩了各种丑陋，破损的地方冷风也吹不透。等到它要穿线重新缝补时，太阳已经落在西山之后。",
+        "score": 3.5,
+        "subject": [
+            "禅理诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句描述破袈裟的现状，次句表达修补的时机已过，暗示时光不待人。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "金乌比喻太阳，形象生动。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过破袈裟寄托对时光易逝的感慨。"
+                }
+            ]
+        },
+        "analysis": "此诗以破袈裟为意象，勾勒出僧人生活的清贫与时光的无情。首句直指僧衣的破旧，却以遮百丑赋予其遮掩缺陷的象征意义。次句细节描写袈裟的厚实，反衬其破败。后两句转折，以金乌西沉暗喻时机已逝，修补无望。全诗语言凝练，意象真切，情景交融，但立意略显老套，未能突破传统僧诗的框架。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "通过破袈裟和太阳西沉，构筑出一种淡泊中带悲凉的境界。",
+                "realm": "能品",
+                "reason": "试图以物言志，但意象陈旧，缺乏新意。"
+            }
+        ],
+        "imagery": [
+            "袈裟",
+            "太阳",
+            "山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "金乌已在西山后以太阳西沉喻时机已逝，含蓄有力。"
+        }
+    },
+    {
+        "title": "對月了殘經贊  其一",
+        "author": "釋了惠",
+        "paragraphs": [
+            "破微塵出大經卷，一彈指頃千百遍。",
+            "只因錯認月爲燈，至今展卷遮羞面。"
+        ],
+        "paragraphs_simplified": [
+            "破微尘出大经卷，一弹指顷千百遍。",
+            "只因错认月为灯，至今展卷遮羞面。"
+        ],
+        "translation": "打破微小的尘埃，显出宏大的经卷，一弹指的功夫就千百遍。只因为错误地把月亮当作灯，到现在展开经卷时遮住羞愧的脸。",
+        "score": 2.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "悔恨"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首句描述诵经的快速与顿悟，次句转折指出误解导致羞愧。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "月为灯比喻对佛理的误解。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "破微尘等佛教术语。"
+                }
+            ]
+        },
+        "analysis": "此诗借佛教意象，批判对佛理的误解。首句以佛教术语描绘顿悟之境，但一弹指顷千百遍显得仓促。次句错认月为灯直指误解，以展卷遮羞面收尾，表达羞愧。全诗用典较多，但意象跳跃，逻辑稍显混乱，未能清晰传达禅意，流于表面。",
+        "poetry_styles": [
+            {
+                "style": "禅理诗",
+                "imagery_analysis": "试图以佛教意象构筑禅境，但术语堆砌，意境模糊。",
+                "realm": "劣作",
+                "reason": "用典生硬，逻辑不清，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "尘埃",
+            "书卷",
+            "月亮",
+            "灯"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "只因错认月为灯点出主题，但整体平庸。"
+        }
+    },
+    {
+        "title": "對月了殘經贊  其二",
+        "author": "釋了惠",
+        "paragraphs": [
+            "麻線貫竹針，太陽相對面。",
+            "通身破綻多，如何補得遍。"
+        ],
+        "paragraphs_simplified": [
+            "麻线贯竹针，太阳相对面。",
+            "通身破绽多，如何补得遍。"
+        ],
+        "translation": "麻线穿过竹针，太阳面对面。全身破绽很多，如何能补得遍。",
+        "score": 1.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "无奈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句描述修补的动作，次句以设问表达无法修补的困境。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "破绽比喻缺陷或问题。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "如何补得遍提出疑问。"
+                }
+            ]
+        },
+        "analysis": "此诗以修补为喻，表达修行中的困境。首句麻线贯竹针描绘修补动作，但意象生硬；太阳相对面可能暗示直面真相。次句通身破绽多直指问题繁多，以设问收尾，显得无奈。全诗语言直白，但意象不连贯，缺乏诗意，立意浅显。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "试图以日常修补事物表达禅理，但意象粗糙。",
+                "realm": "劣作",
+                "reason": "语言粗陋，缺乏美感，未能达到疏野的自然之境。"
+            }
+        ],
+        "imagery": [
+            "线",
+            "针",
+            "太阳"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "通身破绽多直接点出问题，但整体平庸。"
+        }
+    },
+    {
+        "title": "對月了殘經贊  其三",
+        "author": "釋了惠",
+        "paragraphs": [
+            "好念脫空經，不知山月轉。",
+            "將謂了多時，猶有者一卷。"
+        ],
+        "paragraphs_simplified": [
+            "好念脱空经，不知山月转。",
+            "将谓了多时，犹有者一卷。"
+        ],
+        "translation": "好念脱空经，不知道山月转动。以为过了很久，还有一卷经未完成。",
+        "score": 3.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首句描述念经状态，次句转折指出时间流逝和未完成。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "脱空经比喻不切实际的修行。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "山月转借月亮移动抒发时间流逝。"
+                }
+            ]
+        },
+        "analysis": "此诗以念经为背景，表达对时间流逝的感慨。首句好念脱空经暗示修行脱离现实，不知山月转以景衬情，显示时间在不知不觉中过去。末句犹有者一卷点出未完成的遗憾。全诗语言简洁，意象清晰，但立意平平，未能深入。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以山月和经卷构筑出时间流逝的意境。",
+                "realm": "能品",
+                "reason": "技法熟练，但缺乏新意。"
+            }
+        ],
+        "imagery": [
+            "书卷",
+            "月亮"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "犹有者一卷点出未完成，但整体一般。"
+        }
+    },
+    {
+        "title": "豬頭和尚贊",
+        "author": "釋了惠",
+        "paragraphs": [
+            "提起臭豬頭，密持清浄戒。",
+            "將謂足脂膏，元來少肉菜。",
+            "如何出得金華界。"
+        ],
+        "paragraphs_simplified": [
+            "提起臭猪头，密持清净戒。",
+            "将谓足脂膏，元来少肉菜。",
+            "如何出得金华界。"
+        ],
+        "translation": "提起臭猪头，秘密持守清净戒律。以为足够脂膏，原来少肉少菜。如何能出得金华界。",
+        "score": 1.8,
+        "subject": [
+            "禅理诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "无奈",
+            "困惑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "反问"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句描述持戒，次句转折指出实际匮乏，末句反问出路。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "臭猪头比喻低劣的供养。"
+                },
+                {
+                    "tag": "反问",
+                    "explanation": "如何出得金华界反问表达困境。"
+                }
+            ]
+        },
+        "analysis": "此诗以猪头和尚为题，借低劣食物比喻修行中的困境。首句提起臭猪头直指粗陋，密持清净戒形成反差。次句将谓足脂膏表达期望与现实的落差。末句反问如何出得金华界，暗示无法超脱。全诗语言俚俗，意象粗鄙，但禅意不足，流于表面。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "以猪头等粗俗意象试图表达禅理，但意境低俗。",
+                "realm": "劣作",
+                "reason": "语言粗陋，缺乏美感，未能达到禅诗的超脱境界。"
+            }
+        ],
+        "imagery": [
+            "食物",
+            "油脂",
+            "肉",
+            "菜",
+            "地名"
+        ],
+        "allusions": [
+            {
+                "phrase": "金华界",
+                "explanation": "可能为地名或佛教境界，但不确定。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "如何出得金华界以反问收尾，但整体粗俗。"
+        }
+    },
+    {
+        "title": "又",
+        "author": "釋了惠",
+        "paragraphs": [
+            "聖者聖何從，空中柳絮蹤。",
+            "豬頭不得喫，遍地扇腥風。"
+        ],
+        "paragraphs_simplified": [
+            "圣者圣何从，空中柳絮踪。",
+            "猪头不得吃，遍地扇腥风。"
+        ],
+        "translation": "圣人何去何从，空中柳絮无踪。猪头吃不到，遍地扇腥风。解释：圣人啊，圣人，你该往何处去？空中只有柳絮的痕迹，虚无缥缈。猪头肉吃不到，却到处扇动腥臭的风，象征世俗欲望的徒劳与负面影响。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以圣人与柳絮的意象提出虚无之问，再以猪头与腥风讽刺世俗欲望的荒诞，形成对比。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "柳絮踪喻圣人踪迹虚无，猪头喻世俗欲望。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "遍地扇腥风夸大了欲望的负面影响。"
+                }
+            ]
+        },
+        "analysis": "此诗以圣人与柳絮的意象构筑虚无之境，猪头与腥风则直指世俗欲望的荒诞。意象跳跃，略显生硬，但禅机暗藏，讽刺辛辣。整体上，技法熟练，但立意未出新意，意象组合略显突兀，未能达到情景交融的境界。",
+        "poetry_styles": [
+            {
+                "style": "超诣",
+                "imagery_analysis": "柳絮与腥风意象对比，试图营造超脱与世俗的冲突，但衔接生硬。",
+                "realm": "能品",
+                "reason": "模仿禅诗风格，但意象处理不够自然，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "圣人",
+            "柳絮",
+            "猪头",
+            "风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句以虚无意象开篇，更具禅意和深度。"
+        }
+    },
+    {
+        "title": "又",
+        "author": "釋了惠",
+        "paragraphs": [
+            "豬頭捧起，全苦全甘。",
+            "饑兮不喫，飽而常貪。",
+            "大地作柄扇子，難遮滿面羞慚。"
+        ],
+        "paragraphs_simplified": [
+            "猪头捧起，全苦全甘。",
+            "饥兮不吃，饱而常贪。",
+            "大地作柄扇子，难遮满面羞惭。"
+        ],
+        "translation": "猪头捧起，全是苦全是甘。饿了不吃，饱了却常贪。大地作成一把扇子，难遮满面羞惭。解释：捧起猪头肉，苦与甘交织。饿时不吃，饱时却贪吃。用大地做扇子，也遮不住满面的羞愧，讽刺贪欲与自欺。",
+        "score": 2.8,
+        "subject": [
+            "禅理诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先描述猪头苦甘的矛盾行为，再以饥饱不吃的反常揭示贪性，最后以大地作扇的夸张点出羞耻难遮。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "饥时不吃与饱时常贪形成对比，突出贪性。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "大地作柄扇子夸大了遮羞的难度。"
+                }
+            ]
+        },
+        "analysis": "此诗通过猪头苦甘与饥饱行为的对比，勾勒出人性的矛盾与贪欲。意象具体，但略显粗俗，禅意不足。结尾以夸张手法点题，虽有力，但整体立意浅显，缺乏新意，属于平庸的讽喻之作。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "猪头与大地扇子意象粗犷，试图表现自然与野性，但流于表面。",
+                "realm": "逸品",
+                "reason": "模仿疏野风格，但意象处理粗糙，未能达到真率之境。"
+            }
+        ],
+        "imagery": [
+            "猪头",
+            "扇子",
+            "脸"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "末句以大地作扇的夸张意象，最生动地传达羞耻感。"
+        }
+    },
+    {
+        "title": "言法華贊",
+        "author": "釋了惠",
+        "paragraphs": [
+            "口中念底，空中寫底。",
+            "是何章句，是何宗旨。",
+            "人道你轉法華，我道法華轉你。"
+        ],
+        "paragraphs_simplified": [
+            "口中念底，空中写底。",
+            "是何章句，是何宗旨。",
+            "人道你转法华，我道法华转你。"
+        ],
+        "translation": "口中念的，空中写的。是什么章句，是什么宗旨。人说你转法华，我说法华转你。解释：口中念诵经文，空中书写佛法。这到底是什么章句，什么宗旨？别人说你精通法华经，我却说是法华经在转动你，暗示被动与迷失。",
+        "score": 3.2,
+        "subject": [
+            "禅理诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "思乡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "反问"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先以设问质疑经文的本质，再以反问点出宗旨，最后以人我对比揭示主客颠倒的禅机。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "“是何章句，是何宗旨”提出疑问，引发思考。"
+                },
+                {
+                    "tag": "反问",
+                    "explanation": "“人道你转法华，我道法华转你”以反问强调被动。"
+                }
+            ]
+        },
+        "analysis": "此诗以设问与反问手法，直指诵经与悟道的矛盾，禅机深刻。意象简洁，但缺乏具体描绘，偏重议论。整体结构紧凑，但情感表达较弱，属于技法成熟的哲理诗，但意境不够丰满。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "以口中念与空中写为虚实对比，试图含蓄表达禅理，但议论过多。",
+                "realm": "能品",
+                "reason": "模仿含蓄风格，但直白议论削弱了韵味。"
+            }
+        ],
+        "imagery": [
+            "口",
+            "空中",
+            "法华"
+        ],
+        "allusions": [
+            {
+                "phrase": "法华",
+                "explanation": "指《法华经》，佛教经典，象征佛法。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "末句以人我对比，最精炼地揭示禅理核心。"
+        }
+    },
+    {
+        "title": "鷄骨和尚贊",
+        "author": "釋了惠",
+        "paragraphs": [
+            "喫既不知數，吐亦難數渠。",
+            "非圖甜得口，意在五更初。"
+        ],
+        "paragraphs_simplified": [
+            "吃既不知数，吐亦难数渠。",
+            "非图甜得口，意在五更初。"
+        ],
+        "translation": "吃时不知数量，吐也难以数清。不是为了口腹之甜，意在五更时分。解释：吃东西不计其数，呕吐也难以计数。不是贪图嘴巴的甜美，而是另有深意，可能指修行或警醒。",
+        "score": 3.0,
+        "subject": [
+            "禅理诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先描述吃吐的异常行为，再以非图甜得口转折，点出五更初的深意，形成行为与意图的对比。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "吃吐不知数与意在五更初形成行为与意图的对比。"
+                }
+            ]
+        },
+        "analysis": "此诗以鸡骨和尚的吃吐行为为切入点，暗示修行中的苦行与警醒。意象独特，但略显晦涩，五更初的意象增添时间感。整体上，技法简洁，但立意未充分展开，属于平庸的禅诗。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "吃吐与五更意象试图自然流露禅意，但表达不够流畅。",
+                "realm": "逸品",
+                "reason": "模仿自然风格，但意象生硬，未能达到真率之境。"
+            }
+        ],
+        "imagery": [
+            "吃",
+            "吐",
+            "五更"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句以“意在五更初”点题，更具深意和时间感。"
+        }
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "title": "德遠叔坐上賦肴核八首 人面子",
+        "author": "楊萬里",
+        "paragraphs": [
+            "喜時能笑醉能歌，眉映青山眼映波。",
+            "舊日美如潘騎省，只今瘦似病維摩。"
+        ],
+        "paragraphs_simplified": [
+            "喜时能笑醉能歌，眉映青山眼映波。",
+            "旧日美如潘骑省，只今瘦似病维摩。"
+        ],
+        "translation": "第一句：高兴时能笑，醉了能歌，眉毛映着青山，眼睛映着波光。描绘人面子（果实）的拟人化形态。第二句：过去美如潘岳（潘骑省），现在瘦如维摩诘。用典对比过去与现在，潘岳是美男子，维摩诘是清瘦居士。",
+        "score": 3.2,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对比"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "对比结构"
+            ],
+            "structural_logic": "首句拟人化描绘现状，次句用典对比过去与现在，突出变化。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "潘骑省指潘岳，病维摩指维摩诘。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "旧日美与只今瘦的鲜明对比。"
+                }
+            ]
+        },
+        "analysis": "此诗写人面子，首句以笑歌眉眼拟人，生动但浅显。次句用潘岳与维摩诘典故，对比强烈，但典故运用生硬，情感表达直白，缺乏含蓄回甘。整体立意老套，属凡品。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以典故营造悲慨，但情感宣泄过度，未能深沉。",
+                "realm": "凡",
+                "reason": "典故堆砌，意境浅显。"
+            }
+        ],
+        "imagery": [
+            "眉",
+            "眼",
+            "青山",
+            "波",
+            "潘岳",
+            "维摩诘"
+        ],
+        "allusions": [
+            {
+                "phrase": "潘骑省",
+                "explanation": "指潘岳，西晋美男子。"
+            },
+            {
+                "phrase": "病维摩",
+                "explanation": "指维摩诘，佛教居士，象征清瘦。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句用典巧妙，对比突出变化。"
+        }
+    },
+    {
+        "title": "德遠叔坐上賦肴核八首 糖霜",
+        "author": "楊萬里",
+        "paragraphs": [
+            "亦非崖蜜亦非餳，青女吹霜凍作冰。",
+            "透骨清寒輕著齒，嚼成人迹板橋聲。"
+        ],
+        "paragraphs_simplified": [
+            "亦非崖蜜亦非饧，青女吹霜冻作冰。",
+            "透骨清寒轻著齿，嚼成人迹板桥声。"
+        ],
+        "translation": "第一句：既不是崖蜜（崖石上的蜂蜜）也不是糖饴，青女（霜神）吹霜冻成冰。描述糖霜的质地，非蜜非饴，寒冷如冰。第二句：透骨的清寒轻轻触碰牙齿，嚼起来像人迹板桥的声音。用通感手法，将嚼糖霜的声音比作板桥上的人迹声。",
+        "score": 3.8,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "通感"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句描述糖霜的寒冷质地，次句以通感写口感与声音，构思新奇。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "青女吹霜冻作冰，以霜神喻寒冷。"
+                },
+                {
+                    "tag": "通感",
+                    "explanation": "嚼成人迹板桥声，将听觉与味觉结合。"
+                }
+            ]
+        },
+        "analysis": "此诗写糖霜，首句以青女吹霜喻其寒冷，次句用通感手法，将嚼糖霜的声音比作板桥人迹，意象新奇独特。但‘嚼成人迹板桥声’略显晦涩，整体构思巧妙，技法成熟，属能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "以细腻意象展现糖霜特质，通感手法增强表现力。",
+                "realm": "能",
+                "reason": "意象细腻，但未达神妙。"
+            }
+        ],
+        "imagery": [
+            "崖蜜",
+            "饧",
+            "青女",
+            "霜",
+            "冰",
+            "齿",
+            "板桥"
+        ],
+        "allusions": [
+            {
+                "phrase": "青女",
+                "explanation": "神话中的霜神，象征寒冷。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "通感手法独特，将声音与口感结合。"
+        }
+    },
+    {
+        "title": "德遠叔坐上賦肴核八首 銀杏",
+        "author": "楊萬里",
+        "paragraphs": [
+            "深灰淺火略相遭，小苦微甘韻最高。",
+            "未必雞頭如鴨脚，不妨銀杏伴金桃。"
+        ],
+        "paragraphs_simplified": [
+            "深灰浅火略相遭，小苦微甘韵最高。",
+            "未必鸡头如鸭脚，不妨银杏伴金桃。"
+        ],
+        "translation": "深灰色的灰烬和浅色的火苗略微相间，味道微苦带点甘甜，韵味最高。不一定鸡头（芡实）像鸭脚（银杏），不妨让银杏陪伴金桃（桃子）。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先描写银杏的形态和味道，再与其他食物对比，结构简单直接。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以“鸡头”和“鸭脚”比喻芡实和银杏，突出形态相似性。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "两句在结构上对仗工整，增强节奏感。"
+                }
+            ]
+        },
+        "analysis": "此诗以烹饪银杏为题材，通过“深灰浅火”勾勒其火候状态，以“小苦微甘”点出其味觉层次，意象陈旧，立意浅显。银杏与金桃的搭配虽有巧思，但整体缺乏新意，流于表面描写。情感表达平淡，未能深入挖掘物象背后的意蕴，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图模仿自然风格，但意象堆砌，缺乏灵动，实则洗炼不足。",
+                "realm": "能品",
+                "reason": "技法普通，立意浅显，未能达到自然之境。"
+            }
+        ],
+        "imagery": [
+            "银杏",
+            "火",
+            "金桃"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“深灰浅火略相遭，小苦微甘韵最高”更生动地描绘了银杏的形态和味道。"
+        }
+    },
+    {
+        "title": "送談命曾南翔二首 其一",
+        "author": "楊萬里",
+        "paragraphs": [
+            "官職牽人也可憐，老來那更問行年。",
+            "渠儂解事無它語，道我慈親壽八千。"
+        ],
+        "paragraphs_simplified": [
+            "官职牵人也可怜，老来那更问行年。",
+            "渠侬解事无它语，道我慈亲寿八千。"
+        ],
+        "translation": "官职牵累人实在可怜，老了更何必问年龄。他懂得事理没有别的话，说我母亲长寿八千岁。",
+        "score": 2.5,
+        "subject": [
+            "送别诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "借代"
+            ],
+            "presentation_tags": [
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句写自身官场之苦与老去之叹，后两句转写对方祝福，结构有转折。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“寿八千”夸张地祝福长寿，强化情感表达。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "“渠侬”借指对方，使语言更生动。"
+                }
+            ]
+        },
+        "analysis": "此诗前两句直陈官场之累与老去之叹，情感真挚但略显直白。后两句以对方之语转出祝福，虽有转折，但“慈亲寿八千”过于直露，缺乏含蓄之美。整体立意平庸，未能脱俗，情感表达直接，但审美距离近，缺乏回甘。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "试图豪放但实则直露，缺乏含蓄，画虎不成反类犬。",
+                "realm": "凡品",
+                "reason": "语言直白，意象陈旧，未能达到豪放之境。"
+            }
+        ],
+        "imagery": [
+            "官职",
+            "老年",
+            "慈亲"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“官职牵人也可怜”直接点出主题，情感真切。"
+        }
+    },
+    {
+        "title": "送談命曾南翔二首 其二",
+        "author": "楊萬里",
+        "paragraphs": [
+            "今年見說也無錐，政坐談天泄密機。",
+            "舉世近來憎直語，貴人剩許未爲癡。"
+        ],
+        "paragraphs_simplified": [
+            "今年见说也无锥，政坐谈天泄密机。",
+            "举世近来憎直语，贵人剩许未为痴。"
+        ],
+        "translation": "今年听说也无锥子（指贫困），正坐着谈天泄露秘密机关。全世界近来讨厌直话，贵人只许不痴。",
+        "score": 3.2,
+        "subject": [
+            "讽喻诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "双关"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句写现状之贫与谈天泄密，后两句写社会态度，结构紧凑。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“无锥”比喻极度贫困，形象生动。"
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "通过谈天泄密讽刺时世，批判直话不受欢迎的现象。"
+                }
+            ]
+        },
+        "analysis": "此诗以“无锥”喻贫，以“泄密机”讽世，立意较为深刻，但意象生僻，表达晦涩。后两句直指社会厌恶直语，虽有批判，但语言不够凝练，情感流于愤懑，缺乏审美距离。整体技法成熟，但意境不够开阔。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "试图沉著但略显直露，未能达到深沉之境。",
+                "realm": "能品",
+                "reason": "表达晦涩，立意虽有但不够精妙。"
+            }
+        ],
+        "imagery": [
+            "锥",
+            "天",
+            "语"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“举世近来憎直语”直接批判社会现象，有力。"
+        }
+    }
+]

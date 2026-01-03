@@ -1,0 +1,1141 @@
+[
+    {
+        "title": "頌古三十一首  其二三",
+        "author": "釋梵琮",
+        "paragraphs": [
+            "柳色重重翠作堆，豁開三徑不紆迴。",
+            "門前祇是舊時底，付與淵明歸去來。"
+        ],
+        "paragraphs_simplified": [
+            "柳色重重翠作堆，豁开三径不纡回。",
+            "门前只是旧时底，付与渊明归去来。"
+        ],
+        "translation": "柳色层层叠叠如翠绿堆砌，开辟三条小径不曲折迂回。门前依旧是旧时模样，交付给陶渊明归去来兮。",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以柳色小径写景，后引入陶渊明典故作结，结构直白。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用陶渊明《归去来兮辞》，寄托归隐之志。"
+                }
+            ]
+        },
+        "analysis": "此诗以柳色三径构筑田园意象，借陶渊明典故寄寓隐逸情怀，情景契合度尚可，但意象陈旧，立意浅显，缺乏新意。词藻虽工整，却流于表面，未达不隔之境，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "柳色、三径等意象试图营造淡泊氛围，但缺乏深层意蕴。",
+                "realm": "能",
+                "reason": "模仿冲淡风格，但意境浅薄，未能真正传达淡远之趣。"
+            }
+        ],
+        "imagery": [
+            "柳色",
+            "三径",
+            "渊明"
+        ],
+        "allusions": [
+            {
+                "phrase": "渊明归去来",
+                "explanation": "指陶渊明《归去来兮辞》，象征归隐田园。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句用典自然，点明主旨。"
+        }
+    },
+    {
+        "title": "頌古三十一首  其二四",
+        "author": "釋梵琮",
+        "paragraphs": [
+            "柴頭火種欻然紅，荒草堆中遇疾風。",
+            "眼底蟭螟勿棲泊，撒開猛焰恣燒空。"
+        ],
+        "paragraphs_simplified": [
+            "柴头火种欻然红，荒草堆中遇疾风。",
+            "眼底蟭螟勿栖泊，撒开猛焰恣烧空。"
+        ],
+        "translation": "柴头火种突然变红，在荒草堆中遭遇疾风。眼底小虫不要栖息，撒开猛烈火焰恣意焚烧天空。",
+        "score": 1.5,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "恐惧"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "动静结合",
+                "夸张"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直接描述火势与风势，后以虫蚁与猛焰对比，结构简单。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "‘猛焰恣烧空’夸大火势，试图渲染激烈场面。"
+                }
+            ]
+        },
+        "analysis": "此诗描绘火与风，意象混乱，‘蟭螟’小虫与‘猛焰’对比生硬，缺乏内在逻辑。语言粗鄙，试图雄浑却流于浮夸，意境全无，属劣作。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "火、风等意象试图表现力量，但组合杂乱，未能形成劲健之气。",
+                "realm": "劣",
+                "reason": "模仿劲健风格，但意象堆砌，实则粗陋不堪。"
+            }
+        ],
+        "imagery": [
+            "柴头",
+            "火",
+            "荒草",
+            "疾风",
+            "猛焰"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句起势尚可，但整体平庸。"
+        }
+    },
+    {
+        "title": "頌古三十一首  其二五",
+        "author": "釋梵琮",
+        "paragraphs": [
+            "婆子孤窮要嫁人，趙州聞得便相親。",
+            "歸來只說恩情話，堪笑無端惹客塵。"
+        ],
+        "paragraphs_simplified": [
+            "婆子孤穷要嫁人，赵州闻得便相亲。",
+            "归来只说恩情话，堪笑无端惹客尘。"
+        ],
+        "translation": "婆子孤穷要嫁人，赵州听闻便去相亲。归来只说恩情话，可笑无端招惹客尘。",
+        "score": 2.2,
+        "subject": [
+            "禅理诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "幽默",
+            "讽刺"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "反问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先叙事赵州相亲，后以‘堪笑’议论作结，结构清晰。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用赵州禅师公案，暗示禅机。"
+                }
+            ]
+        },
+        "analysis": "此诗引用禅宗公案，但语言直白，‘婆子’‘恩情话’等词俚俗，缺乏诗意提炼。立意浅显，禅意未彰，仅属凡品。",
+        "poetry_styles": [
+            {
+                "style": "实境",
+                "imagery_analysis": "婆子、赵州等意象试图写实，但缺乏审美升华。",
+                "realm": "凡",
+                "reason": "模仿实境风格，但流于表面叙事，未能深入禅理。"
+            }
+        ],
+        "imagery": [
+            "婆子",
+            "赵州",
+            "恩情话",
+            "客尘"
+        ],
+        "allusions": [
+            {
+                "phrase": "赵州",
+                "explanation": "指赵州禅师，禅宗公案人物。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句以‘堪笑’点题，略带讽刺。"
+        }
+    },
+    {
+        "title": "頌古三十一首  其二六",
+        "author": "釋梵琮",
+        "paragraphs": [
+            "髑髏徧野難遮掩，礙寒行人轉見垂。",
+            "從此一面看驗後，也須拙地爲深埋。"
+        ],
+        "paragraphs_simplified": [
+            "髑髅遍野难遮掩，碍寒行人转见垂。",
+            "从此一面看验后，也须拙地为深埋。"
+        ],
+        "translation": "髑髅遍野难以遮掩，妨碍寒人行走反见垂落。从此一面看验之后，也须掘地深深埋葬。",
+        "score": 1.2,
+        "subject": [
+            "禅理诗",
+            "悼亡诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "恐惧"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "借代"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直接描绘髑髅场景，后以埋葬作结，结构直露。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "‘髑髅遍野’渲染恐怖景象，试图表达无常。"
+                }
+            ]
+        },
+        "analysis": "此诗以髑髅为意象，语言生硬，‘碍寒行人’等句缺乏美感，试图表达禅理却流于恐怖描写。意境全失，属劣作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "髑髅意象试图营造悲慨，但过于直白，缺乏含蓄。",
+                "realm": "劣",
+                "reason": "模仿悲慨风格，但意象粗陋，反显拙劣。"
+            }
+        ],
+        "imagery": [
+            "髑髅",
+            "行人",
+            "深埋"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句起句尚可，但整体不堪。"
+        }
+    },
+    {
+        "title": "頌古三十一首  其二七",
+        "author": "釋梵琮",
+        "paragraphs": [
+            "靈雲一見更無疑，未徹明明說向誰。",
+            "榼𣜂堆頭添糞埽，順風吹了逆風吹。"
+        ],
+        "paragraphs_simplified": [
+            "灵云一见更无疑，未彻明明说向谁。",
+            "榼𣜂堆头添粪埽，顺风吹了逆风吹。"
+        ],
+        "translation": "灵云一见再无疑虑，未悟彻时明明说向谁。榼𣜂堆头添粪埽，顺风吹了又逆风吹。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "疑惑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "设问"
+            ],
+            "rhetoric_tags": [
+                "双关",
+                "反问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先以灵云公案设问，后以‘粪埽’意象作结，结构跳跃。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用灵云禅师公案，暗示顿悟。"
+                }
+            ]
+        },
+        "analysis": "此诗引用灵云禅师，但后两句‘粪埽’意象不雅，与前文脱节，语言晦涩，禅意未明。整体平庸，未能传达深意。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "灵云意象试图含蓄，但‘粪埽’破坏意境，未能达成。",
+                "realm": "凡",
+                "reason": "模仿含蓄风格，但意象混乱，反显晦涩。"
+            }
+        ],
+        "imagery": [
+            "灵云",
+            "粪埽",
+            "顺风",
+            "逆风"
+        ],
+        "allusions": [
+            {
+                "phrase": "灵云",
+                "explanation": "指灵云禅师，禅宗顿悟公案。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句用典清晰，是全诗较佳处。"
+        }
+    },
+    {
+        "title": "頌古三十一首  其二八",
+        "author": "釋梵琮",
+        "paragraphs": [
+            "桃花開了杏花開，陳陳香風撲鼻來。",
+            "零落盡隨流水去，更無一片點蒼苔。"
+        ],
+        "paragraphs_simplified": [
+            "桃花开了杏花开，陈陈香风扑鼻来。",
+            "零落尽随流水去，更无一片点苍苔。"
+        ],
+        "translation": "桃花开了杏花开，阵阵香风扑鼻来。零落尽随流水去，更无一片点苍苔。",
+        "score": 2.5,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以对偶句描绘春日花开之景，再以流水落花之态勾勒无常，逻辑直白，止于表象。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“桃花开了杏花开”与“零落尽随流水去”形成句式对称，增强节奏感。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过花开花落、流水无情之景，间接传递对自然流转的观照。"
+                }
+            ]
+        },
+        "analysis": "此诗以桃花、杏花、流水、苍苔构筑春景，意象陈旧，缺乏新意。花落随水之喻虽合自然之理，但立意浅显，仅止于景物铺排，未见深层意蕴。语言平实，无甚锤炼，禅家机锋隐而未显，整体流于平庸，未能达成情景交融之境。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "意象取自寻常春景，但组合平淡，未能提炼出超逸之趣。",
+                "realm": "能品",
+                "reason": "试图模仿自然冲淡之境，然笔力不逮，意浅语俗，仅得形似而失神韵。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "水",
+            "苔"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以花开之态起兴，音律稍畅，较下句更具画面感。"
+        }
+    },
+    {
+        "title": "頌古三十一首  其二九",
+        "author": "釋梵琮",
+        "paragraphs": [
+            "燒紙無端引祟來，看看家鬼返爲災。",
+            "青天白日弄門戶，背手掩來順手開。"
+        ],
+        "paragraphs_simplified": [
+            "烧纸无端引祟来，看看家鬼返为灾。",
+            "青天白日弄门户，背手掩来顺手开。"
+        ],
+        "translation": "烧纸无端引来鬼祟，看看家鬼反成灾。青天白日弄门户，背手掩来顺手开。",
+        "score": 2.0,
+        "subject": [
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直述烧纸招鬼之事，以家鬼弄门之态强化荒诞，逻辑简单，讽刺意图直露。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“家鬼返为灾”赋予鬼祟人性，凸显世俗迷信之虚妄。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“青天白日弄门户”以白昼弄门之景，夸大鬼祟之猖獗。"
+                }
+            ]
+        },
+        "analysis": "此诗以烧纸招鬼为喻，直指世俗迷信之弊，意象如“家鬼”“门户”粗俗，缺乏诗意提炼。语言直白近乎口语，讽刺意图虽明，但表达浅露，无含蓄之美。整体格调不高，近乎打油诗，未能以雅言载道，流于粗鄙。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "意象取自民间俗信，试图以粗犷之笔显疏狂，然失之油滑。",
+                "realm": "劣品",
+                "reason": "欲效疏野之趣，然语涉俚俗，机锋全无，反成粗陋。"
+            }
+        ],
+        "imagery": [
+            "纸",
+            "鬼",
+            "门"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“青天白日弄门户”句以白昼鬼祟之态，稍具画面张力。"
+        }
+    },
+    {
+        "title": "頌古三十一首  其三○",
+        "author": "釋梵琮",
+        "paragraphs": [
+            "荒村無物當風流，不解梳粧不識羞。",
+            "草裡有花隨手折，等閑插在野人頭。"
+        ],
+        "paragraphs_simplified": [
+            "荒村无物当风流，不解梳妆不识羞。",
+            "草里有花随手折，等闲插在野人头。"
+        ],
+        "translation": "荒村无物可当风流，不解梳妆不识羞。草里有花随手折，等闲插在野人头。",
+        "score": 2.5,
+        "subject": [
+            "山水诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "白描",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写荒村无物，再以女子不识羞、折花插头之细节，勾勒野趣，逻辑连贯但立意浅。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“不识羞”以人情喻物态，增添生动感。"
+                },
+                {
+                    "tag": "白描",
+                    "explanation": "“草里有花随手折”以简笔直录动作，不加雕饰。"
+                }
+            ]
+        },
+        "analysis": "此诗刻画荒村女子率真之态，意象如“荒村”“花”“野人”具野趣，但未脱凡俗。语言平实，虽有白描之工，然立意止于表象，缺乏禅家空灵之境。整体平淡，未能以小见大，流于寻常写景。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "意象取自乡野，试图以自然之笔显天趣，然锤炼不足。",
+                "realm": "能品",
+                "reason": "近自然之旨，然语意浅白，未达冲淡之境。"
+            }
+        ],
+        "imagery": [
+            "村",
+            "花",
+            "人"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“草里有花随手折”句动作鲜活，稍具生活气息。"
+        }
+    },
+    {
+        "title": "頌古三十一首  其三一",
+        "author": "釋梵琮",
+        "paragraphs": [
+            "天雄附子出綿州，價數高低一等酬。",
+            "治病殺人隨所用，到頭難覓箇蹤由。"
+        ],
+        "paragraphs_simplified": [
+            "天雄附子出绵州，价数高低一等酬。",
+            "治病杀人随所用，到头难觅个踪由。"
+        ],
+        "translation": "天雄附子出自绵州，价格高低一样酬。治病杀人随所用，到头难觅个踪由。",
+        "score": 3.0,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "双关",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先述药材之实，再以治病杀人双关点出物性无常，末句感叹难寻根源，逻辑层层递进。",
+            "evidence": [
+                {
+                    "tag": "双关",
+                    "explanation": "“治病杀人随所用”既指药性，亦喻世事利害之一体两面。"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "末句“到头难觅个踪由”总括全诗，点出哲理核心。"
+                }
+            ]
+        },
+        "analysis": "此诗以天雄附子为喻，阐发物性无常、利害相生之理，意象具体而微，但“天雄附子”过实，削弱诗意。双关运用虽巧，然说教意味浓，缺乏含蓄之美。整体立意虽有哲思，但表达直露，未能以意象升华，流于常谈。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "借药材喻世事，试图以物性隐括人理，然语意过直。",
+                "realm": "能品",
+                "reason": "欲求含蓄，然理路太显，反失蕴藉之趣。"
+            }
+        ],
+        "imagery": [
+            "药",
+            "产地"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“治病杀人随所用”句以双关显机锋，稍具哲理深度。"
+        }
+    },
+    {
+        "title": "因學者問生死到來如何抵當答以四偈  其一",
+        "author": "釋梵琮",
+        "paragraphs": [
+            "生死到來何抵當，石人頭上忽生瘡。",
+            "這些痒處纔撓著，便向人前孟八郎。"
+        ],
+        "paragraphs_simplified": [
+            "生死到来何抵当，石人头上忽生疮。",
+            "这些痒处才挠着，便向人前孟八郎。"
+        ],
+        "translation": "生死到来如何抵挡，石人头上忽生疮。这些痒处才挠着，便向人前孟八郎。",
+        "score": 2.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恐惧"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以石人生疮喻生死突至，再以挠痒后张扬之态，讽刺世人面对无常之态，逻辑跳跃，意象怪诞。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“石人头上忽生疮”以石人无觉生疮，喻生死之不可避。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“便向人前孟八郎”以孟八郎（唐突之人）显张扬之态，强化讽刺。"
+                }
+            ]
+        },
+        "analysis": "此诗以石人生疮喻生死，意象粗怪，语言近乎俚语。“孟八郎”虽可能用典，但整体表达粗俗，禅理未明，反显滑稽。立意浅露，缺乏禅诗应有的空灵与深邃，近乎打油之作，艺术价值低微。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "意象试图以怪诞显生死之悲，然失之油滑，未达悲慨之境。",
+                "realm": "劣品",
+                "reason": "欲效悲慨，然语涉粗鄙，机锋全失，反成笑柄。"
+            }
+        ],
+        "imagery": [
+            "人",
+            "疮",
+            "痒"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“生死到来何抵当”句以问句起势，稍具张力。"
+        }
+    },
+    {
+        "title": "因學者問生死到來如何抵當答以四偈  其二",
+        "author": "釋梵琮",
+        "paragraphs": [
+            "生死到來何抵當，乞兒相見便傾囊。",
+            "寥寥四顧渾無有，堪笑一身沒處藏。"
+        ],
+        "paragraphs_simplified": [
+            "生死到来何抵挡，乞丐相见便倾囊。",
+            "寥寥四顾浑无有，堪笑一身没处藏。"
+        ],
+        "translation": "生死到来如何抵挡，如同乞丐相见便倾囊。四周空荡一无所有，可笑自身无处躲藏。",
+        "score": 2.8,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "无奈",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句设问生死如何抵挡，次句以乞丐倾囊为喻，后两句写空无一物的窘境，直指禅宗空性。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以乞丐倾囊比喻面对生死时的彻底放下"
+                },
+                {
+                    "tag": "白描",
+                    "explanation": "寥寥四顾浑无有，直白勾勒空无境界"
+                }
+            ]
+        },
+        "analysis": "此偈以乞丐倾囊喻生死来临时的彻底放下，直指禅宗空性。意象选择虽具禅意，但乞儿、倾囊等语汇陈旧，缺乏新意。后两句空无一物的描写流于表面，未能深化禅理。整体立意浅显，仅停留在概念传达，未构筑出深远的意境空间。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "乞丐、空囊等意象试图表现疏放不羁，但流于粗陋",
+                "realm": "能",
+                "reason": "捕捉到禅家随缘放旷的形貌，但意象经营不足，未能臻于自然之境"
+            }
+        ],
+        "imagery": [
+            "乞丐",
+            "空囊"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句设问直接切入主题，比喻虽通俗但具禅理张力"
+        }
+    },
+    {
+        "title": "因學者問生死到來如何抵當答以四偈  其三",
+        "author": "釋梵琮",
+        "paragraphs": [
+            "生死到來何抵當，蕭然歸去路堂堂。",
+            "到家句子聊相寄，寫入碧天鴻雁行。"
+        ],
+        "paragraphs_simplified": [
+            "生死到来何抵挡，萧然归去路堂堂。",
+            "到家句子聊相寄，写入碧天鸿雁行。"
+        ],
+        "translation": "生死到来如何抵挡，洒脱归去路途坦荡。到家后寄语相告，写入碧空雁阵行。",
+        "score": 3.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写归去时的坦然，后两句以鸿雁传书喻指悟道后的自在，由实入虚，卒章显志。",
+            "evidence": [
+                {
+                    "tag": "虚实结合",
+                    "explanation": "归去路途为实，碧天雁行为虚，构成禅境"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "以鸿雁传书喻禅悟心得的传递"
+                }
+            ]
+        },
+        "analysis": "此偈以萧然归去的意象构筑禅者超脱之态，路堂堂三字颇具气象。后两句借鸿雁传书喻指悟道后的自在，虚实相生，意境较为开阔。整体结构由实转虚，禅理寄寓其中，虽未达至高境界，但已脱俗套。",
+        "poetry_styles": [
+            {
+                "style": "飘逸",
+                "imagery_analysis": "碧天鸿雁意象轻盈超迈，契合飘逸之境",
+                "realm": "妙",
+                "reason": "归去堂堂与碧天雁行的组合，营造出洒脱出尘的韵味"
+            }
+        ],
+        "imagery": [
+            "归路",
+            "碧天",
+            "鸿雁"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "萧然归去路堂堂，七字写出从容气度"
+        }
+    },
+    {
+        "title": "因學者問生死到來如何抵當答以四偈  其四",
+        "author": "釋梵琮",
+        "paragraphs": [
+            "生死到來何抵當，月明靜夜共商量。",
+            "荷華荷葉通消息，一陣風來一陣香。"
+        ],
+        "paragraphs_simplified": [
+            "生死到来何抵挡，月明静夜共商量。",
+            "荷华荷叶通消息，一阵风来一阵香。"
+        ],
+        "translation": "生死到来如何抵挡，月明静夜共同商量。荷花荷叶传递消息，一阵风来一阵清香。",
+        "score": 4.2,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "通感"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首句设问后，以月明静夜营造氛围，后两句通过荷叶传香的动态细节，暗喻禅机自然流转。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "荷华荷叶通消息，赋予植物感知能力"
+                },
+                {
+                    "tag": "通感",
+                    "explanation": "风来香的嗅觉与听觉（一阵）交融"
+                }
+            ]
+        },
+        "analysis": "此偈以月明静夜为背景，将禅理探讨融入自然场景。荷叶传香的意象选择精妙，拟人手法使物象通灵，风香交织的描写暗合禅机流动。全诗由设问转入景物细节，不着禅语而禅意自现，情景交融，意境圆融。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "月夜荷香的组合清新天然，毫无雕琢痕迹",
+                "realm": "妙",
+                "reason": "以最平常的景物传递最深邃的禅理，浑然天成"
+            }
+        ],
+        "imagery": [
+            "明月",
+            "静夜",
+            "荷花",
+            "荷叶",
+            "风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "荷华荷叶通消息，以物象传递禅理，妙趣横生"
+        }
+    },
+    {
+        "title": "出山相贊  其一",
+        "author": "釋梵琮",
+        "paragraphs": [
+            "眼冷含霜耳带環，和頭和面草斕班。",
+            "一回春至一回綠，老子何曾解出山。"
+        ],
+        "paragraphs_simplified": [
+            "眼冷含霜耳带环，和头和面草斓班。",
+            "一回春至一回绿，老子何曾解出山。"
+        ],
+        "translation": "双眼冷峻含霜意，耳戴环饰头面草色斑驳。每到春天依旧绿，老子何曾懂得出山。",
+        "score": 3.2,
+        "subject": [
+            "咏物诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "孤傲",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "白描",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "双关"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句白描山中景象，后两句以春草复绿喻指老子不出山的固执，双关点题。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "老子何曾解出山，赋予老子主观意愿"
+                },
+                {
+                    "tag": "双关",
+                    "explanation": "出山既指离开山林，又喻指超脱尘世"
+                }
+            ]
+        },
+        "analysis": "此诗以冷眼含霜、草色斑驳的意象勾勒山中景象，后两句借春草复绿暗喻老子固守山林的禅意。但意象经营较为粗疏，草斓班等语汇略显生硬。双关手法虽巧，但整体意境未达高妙，流于表面咏物。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "草色斑驳、老子出山等意象试图表现疏放，但失之粗陋",
+                "realm": "能",
+                "reason": "捕捉到山居野趣，但语言锤炼不足，未能臻于疏野真谛"
+            }
+        ],
+        "imagery": [
+            "霜眼",
+            "耳环",
+            "草色",
+            "春绿"
+        ],
+        "allusions": [
+            {
+                "phrase": "老子",
+                "explanation": "指道家创始人老子，象征隐逸高人"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "一回春至一回绿，以自然循环暗喻禅理，颇具韵味"
+        }
+    },
+    {
+        "title": "出山相贊  其二",
+        "author": "釋梵琮",
+        "paragraphs": [
+            "上無片瓦下無錐，一箇窮身只自知。",
+            "從此入流隨所住，手中携箇活魚兒。"
+        ],
+        "paragraphs_simplified": [
+            "上无片瓦下无锥，一个穷身只自知。",
+            "从此入流随所住，手中携个活鱼儿。"
+        ],
+        "translation": "上无片瓦遮盖下无立锥之地，一个穷困之身只有自己知道。从此随流任住何处，手中携着一条活鱼儿。",
+        "score": 3.8,
+        "subject": [
+            "禅理诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "豁达",
+            "洒脱"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "白描",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "借代"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句极写穷困之状，次句转折自知，后两句以携鱼随流展现超脱，由实入虚。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "上无片瓦下无锥，极言贫困至极"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "活鱼儿借代自在活泼的禅心"
+                }
+            ]
+        },
+        "analysis": "此诗以极端贫困的意象开篇，却以携鱼随流作结，形成强烈反差。活鱼儿的意象选择精妙，借代禅心活泼自在。全诗由极困至极达，转折自然，禅理寓于叙事之中。语言质朴而意趣盎然，颇具禅家随缘任运之风。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "活鱼儿意象生动天然，毫无雕饰",
+                "realm": "妙",
+                "reason": "以最平常的物象传递最深刻的禅理，自然流转"
+            }
+        ],
+        "imagery": [
+            "片瓦",
+            "锥",
+            "活鱼"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "手中携个活鱼儿，以具体物象写抽象禅理，妙绝"
+        }
+    }
+]

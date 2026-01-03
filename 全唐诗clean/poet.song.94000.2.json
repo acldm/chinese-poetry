@@ -1,0 +1,899 @@
+[
+    {
+        "title": "頌古九首  其四",
+        "author": "釋普信",
+        "paragraphs": [
+            "寥寥風月臥煙霞，百鳥從茲不獻花。",
+            "人義盡從貧處斷，世情偏向有錢家。"
+        ],
+        "paragraphs_simplified": [
+            "寥寥风月卧烟霞，百鸟从兹不献花。",
+            "人义尽从贫处断，世情偏向有钱家。"
+        ],
+        "translation": "空寂的风月躺在烟霞之中，百鸟从此不再献花。人情义理都从贫穷处断绝，世态人情偏向有钱人家。",
+        "score": 2.5,
+        "subject": [
+            "讽喻诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先以自然景象起兴，描绘寂寥之境，再转入对社会不公的直接批判，形成由景及情的转折。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前后句结构对称，如“人义尽从贫处断”与“世情偏向有钱家”，形成鲜明对比。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过“风月”“烟霞”等意象，间接抒发对世态炎凉的感慨。"
+                }
+            ]
+        },
+        "analysis": "此诗以自然意象起笔，构筑寂寥氛围，折射社会现实的冷峻。前句“寥寥风月”勾勒出空漠之景，后句“百鸟不献花”暗喻人情淡薄。转而直指贫富断义的世情，语言简练却意蕴浅显。意象陈旧，缺乏新意，整体立意流于表面，未能突破传统讽喻诗的窠臼，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以风月烟霞的寂寥，反衬人情冷暖，试图营造悲凉之境，但意象组合较为常见。",
+                "realm": "凡品",
+                "reason": "立意浅显，意象堆砌，未能达到悲慨应有的深沉力度。"
+            }
+        ],
+        "imagery": [
+            "风月",
+            "烟霞",
+            "鸟",
+            "花",
+            "贫",
+            "钱"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句直接点明主题，语言直白，更具批判性。"
+        }
+    },
+    {
+        "title": "頌古九首  其五",
+        "author": "釋普信",
+        "paragraphs": [
+            "道得無言杈下死，霍山猛跳入懷中。",
+            "三千里外虛相賺，更有何人透此宗。"
+        ],
+        "paragraphs_simplified": [
+            "道得无言杈下死，霍山猛跳入怀中。",
+            "三千里外虚相赚，更有何人透此宗。"
+        ],
+        "translation": "道法无言，在杈下死去；霍山猛跳入怀中。三千里外虚相欺骗，还有谁能透彻此宗。",
+        "score": 2.0,
+        "subject": [
+            "禅理诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句描述禅机事件，后句转向质疑，逻辑跳跃，缺乏连贯性。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“霍山猛跳入怀中”以夸张手法表现禅机的突兀。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“霍山”可能引用禅宗公案，但未明确化用。"
+                }
+            ]
+        },
+        "analysis": "此诗试图以禅宗典故表达悟道之难，但意象跳跃，逻辑混乱。语言生硬，如“杈下死”与“猛跳入怀”缺乏内在联系，导致意境破碎。整体表达晦涩，未能有效传达禅理，属于劣作。",
+        "poetry_styles": [
+            {
+                "style": "超诣",
+                "imagery_analysis": "试图通过超现实意象追求高远境界，但意象组合杂乱，未能实现超脱之感。",
+                "realm": "劣作",
+                "reason": "画虎不成反类犬，意象晦涩，表达不清。"
+            }
+        ],
+        "imagery": [
+            "道",
+            "山",
+            "怀",
+            "千里",
+            "宗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句虽生硬，但相对完整地呈现了禅机场景。"
+        }
+    },
+    {
+        "title": "頌古九首  其六",
+        "author": "釋普信",
+        "paragraphs": [
+            "當時苦口曾不道，悟來靈骨方尋討。",
+            "練江寒月兩蕭蕭，浮雲散盡天如掃。"
+        ],
+        "paragraphs_simplified": [
+            "当时苦口曾不道，悟来灵骨方寻讨。",
+            "练江寒月两萧萧，浮云散尽天如扫。"
+        ],
+        "translation": "当时苦口婆心却不曾说，悟来灵骨才开始寻讨。练江寒月两萧萧，浮云散尽天如扫。",
+        "score": 3.8,
+        "subject": [
+            "禅理诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句叙述悟道过程，后两句以景结情，由实入虚，营造清明意境。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“练江寒月”与“浮云散尽”在结构上呼应，形成画面感。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过“寒月”“浮云”等意象，烘托悟道后的澄明心境。"
+                }
+            ]
+        },
+        "analysis": "此诗前两句以叙事铺垫悟道之艰辛，后两句转入景物描写，意境清冷而开阔。练江寒月与浮云散尽的意象组合，构筑出空灵之境，语言凝练，情景交融。整体结构紧凑，禅意自然流露，不失为一首佳作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以寒月、浮云等意象勾勒出清冷奇崛的境界，契合悟道后的超然心境。",
+                "realm": "能品",
+                "reason": "意境真切，技法成熟，但未达妙品之极致。"
+            }
+        ],
+        "imagery": [
+            "苦口",
+            "灵骨",
+            "练江",
+            "寒月",
+            "浮云",
+            "天"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后两句以景结情，画面感强，意境深远。"
+        }
+    },
+    {
+        "title": "頌古九首  其七",
+        "author": "釋普信",
+        "paragraphs": [
+            "收來輥去事方圓，獨許漁郎上鈎船。",
+            "明月蘆花同一色，落霞孤鶩共遙天。"
+        ],
+        "paragraphs_simplified": [
+            "收来辊去事方圆，独许渔郎上钩船。",
+            "明月芦花同一色，落霞孤鹜共遥天。"
+        ],
+        "translation": "收来滚去事方圆，独许渔郎上钩船。明月芦花同一色，落霞孤鹜共遥天。",
+        "score": 4.5,
+        "subject": [
+            "禅理诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句以叙事引入禅机，后句以工整对仗的景物描写深化意境，由事及景，自然过渡。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“明月芦花”与“落霞孤鹜”对仗工整，色彩与意象呼应。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过明月、芦花、落霞、孤鹜等意象，寄托超脱之志。"
+                }
+            ]
+        },
+        "analysis": "此诗后两句堪称妙笔，明月与芦花一色，落霞与孤鹜共天，画面辽阔而和谐，色彩交融，动静相宜。前句虽略显生硬，但整体意境深远，语言凝练。禅意不着痕迹地渗透于景中，情景契合度极高，属妙品之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "景物描写自然天成，意象组合清新，不假雕饰而意境全出。",
+                "realm": "妙品",
+                "reason": "意境优美，技法纯熟，艺术水准高。"
+            }
+        ],
+        "imagery": [
+            "渔郎",
+            "船",
+            "明月",
+            "芦花",
+            "落霞",
+            "孤鹜",
+            "天"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后两句意象优美，对仗工整，最具代表性。"
+        }
+    },
+    {
+        "title": "頌古九首  其八",
+        "author": "釋普信",
+        "paragraphs": [
+            "大用縱橫掣電機，爍迦羅眼尚膠黐。",
+            "迷途夢裏爭唇吻，卻憶隨他去一回。"
+        ],
+        "paragraphs_simplified": [
+            "大用纵横掣电机，烁迦罗眼尚胶黐。",
+            "迷途梦里争唇吻，却忆随他去一回。"
+        ],
+        "translation": "大用纵横掣电机，烁迦罗眼尚胶黐。迷途梦里争唇吻，却忆随他去一回。",
+        "score": 2.0,
+        "subject": [
+            "禅理诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "困惑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句描述禅机大用，后句转向迷途反思，但逻辑断裂，意象晦涩。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“掣电机”比喻禅机的迅疾。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“烁迦罗眼”可能引用佛教术语，但未清晰化用。"
+                }
+            ]
+        },
+        "analysis": "此诗充斥佛教术语，意象如“掣电机”“烁迦罗眼”晦涩难懂，语言生硬，缺乏诗意。试图表达禅理，但表达混乱，读者难以进入意境。整体立意模糊，属于劣作。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以刚健意象表现禅机，但意象组合生硬，未能形成力度。",
+                "realm": "劣作",
+                "reason": "意象晦涩，表达不清，未能传达禅理。"
+            }
+        ],
+        "imagery": [
+            "电",
+            "机",
+            "眼",
+            "梦",
+            "唇吻"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句相对完整，但整体平庸。"
+        }
+    },
+    {
+        "title": "頌古九首  其九",
+        "author": "釋普信",
+        "paragraphs": [
+            "漁翁瀟灑任東西，蘆管橫吹韻不齊。",
+            "夜靜月明魚不食，扁舟臥入武陵溪。"
+        ],
+        "paragraphs_simplified": [
+            "渔翁潇洒任东西，芦管横吹韵不齐。",
+            "夜静月明鱼不食，扁舟卧入武陵溪。"
+        ],
+        "translation": "渔翁潇洒地任由船只随波逐流，吹着芦笛，音调错落不齐。夜晚静谧，月光皎洁，鱼儿不来咬钩，小舟静静漂入武陵溪中。此诗描绘渔翁超脱尘世的闲适生活，武陵溪暗用桃花源典故，象征隐逸之境。",
+        "score": 4.0,
+        "subject": [
+            "山水诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以渔翁动态起笔，再以静夜景致收束，通过武陵溪的虚写点出隐逸主题。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "借渔翁夜泛之景，寄托超然物外之心境。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "武陵溪暗喻桃花源，构筑理想化隐逸空间。"
+                }
+            ]
+        },
+        "analysis": "此诗以简练笔触勾勒渔翁形象，芦管横吹与月夜扁舟形成动静对照，武陵溪的典故运用自然，不着痕迹地拓宽了意境深度。全篇情景交融，无斧凿痕，将禅意隐于日常画面，读来有余味。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以渔翁、溪月等意象构筑疏淡境界，远离尘嚣。",
+                "realm": "妙品",
+                "reason": "意境澄澈，语言自然，深得冲淡之旨。"
+            }
+        ],
+        "imagery": [
+            "渔翁",
+            "芦管",
+            "月",
+            "舟",
+            "溪"
+        ],
+        "allusions": [
+            {
+                "phrase": "武陵溪",
+                "explanation": "源自陶渊明《桃花源记》，象征隐逸之地。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "以静衬动，将归隐之意融入月夜行舟，余韵悠长。"
+        }
+    },
+    {
+        "title": "偈",
+        "author": "釋興道",
+        "paragraphs": [
+            "同雲欲雪未雪，愛日似暉不暉。",
+            "寒雀啾啾鬧籬落，朔風冽冽舞簾帷。",
+            "要會韶陽親切句，今朝覿面爲提撕。"
+        ],
+        "paragraphs_simplified": [
+            "同云欲雪未雪，爱日似晖不晖。",
+            "寒雀啾啾闹篱落，朔风冽冽舞帘帷。",
+            "要会韶阳亲切句，今朝觌面为提撕。"
+        ],
+        "translation": "冬日同云密布，像是要下雪却未下；太阳虽可爱，光辉却朦胧不明。寒雀在篱笆上啾啾喧闹，北风猛烈吹动帘帷。需领会韶阳禅师的亲切禅语，今日当面为你提示。全诗写冬日萧瑟景象，终以禅机点题。",
+        "score": 3.8,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两联铺陈冬日凄清之景，末联转折，引出禅宗典故以提撕禅意。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“同云欲雪未雪，爱日似晖不晖”工整对仗，强化矛盾意象。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“韶阳”指禅宗典故，直接点明禅机。"
+                }
+            ]
+        },
+        "analysis": "此诗以密集意象渲染冬日氛围，寒雀朔风与欲雪未雪的天气交织，营造压抑感。禅语部分稍显直露，与前文景物衔接略生硬。整体技法成熟，但意境未臻浑融。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以寒雀、朔风等意象烘托悲凉心境，终以禅语破局。",
+                "realm": "能品",
+                "reason": "情景刻画细致，但禅机表达略欠含蓄。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "雪",
+            "日",
+            "雀",
+            "风",
+            "帘帷"
+        ],
+        "allusions": [
+            {
+                "phrase": "韶阳",
+                "explanation": "禅宗典故，指韶阳禅师语录。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“欲雪未雪”与“似晖不晖”的矛盾修辞，精准捕捉冬日特征。"
+        }
+    },
+    {
+        "title": "偈",
+        "author": "釋果慜",
+        "paragraphs": [
+            "南泉提起下刀誅，六臂修羅救得無。",
+            "設使兩堂俱道得，也應流血滿街衢。"
+        ],
+        "paragraphs_simplified": [
+            "南泉提起下刀诛，六臂修罗救得无。",
+            "设使两堂俱道得，也应流血满街衢。"
+        ],
+        "translation": "南泉禅师提起刀来诛杀，六臂修罗能否救得？即使两堂僧人都能说得禅法，也应血流满街。此诗引用南泉斩猫公案，以血腥意象表达禅门峻烈之风。",
+        "score": 3.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "恐惧"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直述公案，以设问引出修罗，再以夸张收束，强调禅门无情。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“南泉”指斩猫公案，“修罗”为佛教护法神。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“流血满街衢”极言冲突之烈。"
+                }
+            ]
+        },
+        "analysis": "此诗以南泉斩猫公案为本，语言直白粗犷，血腥意象削弱了禅意的审美距离。虽用典准确，但缺乏含蓄，流于说教。整体格调峻急，艺术价值有限。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "以刀诛、流血等意象构筑刚猛境界，但失之粗露。",
+                "realm": "凡品",
+                "reason": "禅理表达过于直白，缺乏诗味。"
+            }
+        ],
+        "imagery": [
+            "刀",
+            "修罗",
+            "血",
+            "街"
+        ],
+        "allusions": [
+            {
+                "phrase": "南泉",
+                "explanation": "指南泉普愿禅师斩猫公案。"
+            },
+            {
+                "phrase": "修罗",
+                "explanation": "佛教中的战斗神，喻指强悍力量。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "直接引入公案，冲击力强，但诗意不足。"
+        }
+    },
+    {
+        "title": "偈",
+        "author": "釋圓",
+        "paragraphs": [
+            "新縫紙被烘來暖，一覺安眠到五更。",
+            "聞得上方鐘鼓動，又添一日在浮生。"
+        ],
+        "paragraphs_simplified": [
+            "新缝纸被烘来暖，一觉安眠到五更。",
+            "闻得上方钟鼓动，又添一日在浮生。"
+        ],
+        "translation": "新缝的纸被烘得温暖，一觉安睡到五更天。听到上方钟鼓响起，又多了一天在浮生中。此诗记录日常睡眠与晨起感悟，平淡中见禅思。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句写安眠之暖，后句以钟声点醒，末句点出浮生主题。",
+            "evidence": [
+                {
+                    "tag": "白描",
+                    "explanation": "直述纸被、钟鼓等日常事物。"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "末句“又添一日在浮生”点明人生短暂。"
+                }
+            ]
+        },
+        "analysis": "此诗以白描手法记录睡眠琐事，语言平实无华。虽末句略带禅意，但整体意象陈旧，缺乏艺术提炼。近乎口语，诗意稀薄。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以纸被、钟鼓等家常意象入诗，但未升华。",
+                "realm": "凡品",
+                "reason": "流于直白，意境浅显。"
+            }
+        ],
+        "imagery": [
+            "纸被",
+            "暖",
+            "钟",
+            "浮生"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句稍有哲理，但整体平淡。"
+        }
+    },
+    {
+        "title": "偈",
+        "author": "釋守慧",
+        "paragraphs": [
+            "但知今日復明日，不覺前秋與後秋。",
+            "平步坦然歸故里，卻乘好月過滄洲。"
+        ],
+        "paragraphs_simplified": [
+            "但知今日复明日，不觉前秋与后秋。",
+            "平步坦然归故里，却乘好月过沧洲。"
+        ],
+        "translation": "只知道今天又明天，不觉得前秋和后秋已过。平步坦然回到故乡，却乘着好月光过沧洲。此诗以时间流逝起笔，转入归乡意境，禅意与乡情交融。",
+        "score": 4.0,
+        "subject": [
+            "禅理诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "豁达",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句写时间浑然不觉，后句写归乡乘月，虚实相生，首尾暗合。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“今日复明日”对“前秋与后秋”，工整自然。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "归故里实写，乘月过沧洲虚写，拓展意境。"
+                }
+            ]
+        },
+        "analysis": "此诗以时间意识切入，将秋夜归乡与禅悟结合，语言流畅，意境超脱。沧洲意象隐含隐逸之志，虚实转换自如，读来有旷达之气。",
+        "poetry_styles": [
+            {
+                "style": "旷达",
+                "imagery_analysis": "以日月、秋洲等意象构筑开阔境界，体现超脱。",
+                "realm": "妙品",
+                "reason": "情景交融，禅意与乡思浑然一体。"
+            }
+        ],
+        "imagery": [
+            "日",
+            "秋",
+            "月",
+            "沧洲"
+        ],
+        "allusions": [
+            {
+                "phrase": "沧洲",
+                "explanation": "常指隐士居所，喻超然世外。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“却乘好月过沧洲”以虚笔收束，意境悠远。"
+        }
+    },
+    {
+        "title": "偈二首  其一",
+        "author": "釋禮",
+        "paragraphs": [
+            "奪不奪，縱有餘。",
+            "臨岐不分袂，富貴卻蕭疏。",
+            "句裏不曾舒慷慨，禹門先自透金魚。"
+        ],
+        "paragraphs_simplified": [
+            "夺不夺，纵有余。",
+            "临岐不分袂，富贵却萧疏。",
+            "句里不曾舒慷慨，禹门先自透金鱼。"
+        ],
+        "translation": "即使争夺或不争夺，都还有余地。在岔路口不分别衣袖，富贵却显得萧条。诗句中不曾舒展慷慨之情，禹门却先透出金鱼（比喻科举及第或禅机顿悟）。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先陈述矛盾状态，后以典故点出禅机。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "‘禹门’指龙门，‘金鱼’喻登科，借典故暗示超脱。"
+                }
+            ]
+        },
+        "analysis": "此偈诗以抽象概念堆砌，意象如‘夺’‘萧疏’缺乏具体情境，禅理表达晦涩。结构上虽有转折，但语言生硬，未能构筑真切意境。情感流于表面，缺乏回甘，整体立意浅显，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图以古拙语言营造高远境界，但意象模糊，未能达成高古之境。",
+                "realm": "能",
+                "reason": "技法尚存，但意境隔膜，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "争斗",
+            "余地",
+            "岔路",
+            "衣袖",
+            "富贵",
+            "萧条",
+            "诗句",
+            "龙门",
+            "鱼"
+        ],
+        "allusions": [
+            {
+                "phrase": "禹門",
+                "explanation": "指龙门，象征科举或禅悟之门。"
+            },
+            {
+                "phrase": "金魚",
+                "explanation": "喻指金榜题名或禅机透彻。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "末句用典较含蓄，略有转折。"
+        }
+    }
+]

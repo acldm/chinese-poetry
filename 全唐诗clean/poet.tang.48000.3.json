@@ -1,0 +1,1124 @@
+[
+    {
+        "title": "哥舒翰引諺",
+        "author": "不詳",
+        "paragraphs": [
+            "狐向窟嗥不祥。"
+        ],
+        "paragraphs_simplified": [
+            "狐向窟嗥不祥。"
+        ],
+        "translation": "狐狸朝着自己的洞穴嚎叫，这是不吉祥的征兆。这句谚语以狐狸喻指背离根本、自毁根基的行为，警示人们不要做出违背常理、伤害自身根基的举动。",
+        "score": 3.2,
+        "subject": [
+            "讽喻诗"
+        ],
+        "emotion": [
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借物喻理"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以物性起兴，直指事理核心。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以“狐向窟嗥”这一反常现象，比喻背离根本、自取其祸的行为。"
+                }
+            ]
+        },
+        "analysis": "此谚语借物象以明义理，语意直白而警策。以狐狸向洞穴嚎叫这一反常之象，喻指违背常理、自毁根基之行。虽无繁复辞藻，然其意象选择精准，直指核心，具有强烈的警示意味。作为谚语，其功能在于传达一种基于生活经验的共识，而非追求审美上的曲折，故而在文学性上略显质朴，但其逻辑的自洽与意象的贴切，使其具备了实用层面的力量。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "取象于狐，意在指斥背本之行，虽简短而意旨明确。",
+                "realm": "能",
+                "reason": "以极简之语道出深刻事理，虽无华美辞藻，但逻辑清晰，警示性强。"
+            }
+        ],
+        "imagery": [
+            "狐",
+            "窟",
+            "嗥"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句仅此一句，意象与寓意结合紧密。"
+        }
+    },
+    {
+        "title": "代宗引諺",
+        "author": "不詳",
+        "paragraphs": [
+            "不癡不聾，不作阿家阿翁。"
+        ],
+        "paragraphs_simplified": [
+            "不痴不聋，不作阿家阿翁。"
+        ],
+        "translation": "如果不装傻充愣、装聋作哑，就做不了公公婆婆（或一家之主）。意指在处理家庭内部矛盾或复杂人际关系时，有时候需要难得糊涂，不能过于精明计较，才能维持和谐。",
+        "score": 3.5,
+        "subject": [
+            "家训诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "反语"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "通过否定句式确立一种处世哲学。",
+            "evidence": [
+                {
+                    "tag": "反语",
+                    "explanation": "“不痴不聋”实则是说必须痴、必须聋，才能胜任家长角色，语含反讽与无奈。"
+                }
+            ]
+        },
+        "analysis": "这句谚语以一种看似矛盾的逻辑，揭示了中国传统家庭伦理中一种独特的处世智慧。它并非提倡真正的愚钝，而是强调在特定情境下，为了维护家庭整体的和谐，长辈需具备一种包容与钝感的修养。语言通俗如话，却蕴含着对人情世故的深刻洞察。其妙处在于将“痴”与“聋”这种通常被视为负面的状态，转化为一种积极的治理手段，立意虽不新奇，但表达方式极具生活气息与辩证色彩。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "语言俚俗，意在言外，道出人情练达之境。",
+                "realm": "能",
+                "reason": "以通俗之语道出高明的处世哲学，不事雕琢，直指人心。"
+            }
+        ],
+        "imagery": [
+            "痴",
+            "聋",
+            "阿家阿翁"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句逻辑严密，口语化表达中见真章。"
+        }
+    },
+    {
+        "title": "鬼門關諺",
+        "author": "不詳",
+        "paragraphs": [
+            "鬼門關，十人去，九不還。"
+        ],
+        "paragraphs_simplified": [
+            "鬼门关，十人去，九不还。"
+        ],
+        "translation": "鬼门关这个地方，十个人去了，九个人都回不来。极言其地之险恶，生还希望之渺茫。",
+        "score": 3.8,
+        "subject": [
+            "边塞诗"
+        ],
+        "emotion": [
+            "恐惧",
+            "悲凉"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "数字"
+            ],
+            "presentation_tags": [
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先点明地点，再用数字极言其险，造成强烈的视觉与心理冲击。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“十人去，九不还”用近乎绝对的数字比例，极度渲染了环境的恶劣与死亡的高概率。"
+                }
+            ]
+        },
+        "analysis": "此谚语以极其冷酷的数字逻辑，构建出一种令人不寒而栗的真实感。它不诉诸情感的宣泄，而是通过近乎统计学的陈述，将鬼门关的恐怖具象化。这种白描式的恐怖，比任何形容词都更具穿透力。语言节奏短促有力，如重锤击鼓，一声紧似一声，将绝望的氛围渲染到极致。作为民谚，它剥离了所有修饰，仅凭事实的堆砌便达到了震撼人心的艺术效果，堪称恐怖描写的典范。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以数字构建死亡的确定性，营造出苍凉肃杀的氛围。",
+                "realm": "妙",
+                "reason": "用极简的数字对比，将无形的恐惧转化为可量化的绝望，震撼力极强。"
+            }
+        ],
+        "imagery": [
+            "鬼门关",
+            "人",
+            "还"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句一体，数字的运用是其核心亮点。"
+        }
+    },
+    {
+        "title": "河北諺",
+        "author": "不詳",
+        "paragraphs": [
+            "山東一條葛，無事莫撩撥。"
+        ],
+        "paragraphs_simplified": [
+            "山东一条葛，无事莫撩拨。"
+        ],
+        "translation": "山东有一条姓葛的（人或势力），若无要事，切勿去招惹他。这是一句带有警告性质的谚语，暗示某人或某势力不好惹。",
+        "score": 3.0,
+        "subject": [
+            "讽喻诗"
+        ],
+        "emotion": [
+            "恐惧"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先指明对象，再给出行动建议，以此反衬对象的不可侵犯性。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "以“一条葛”代指具体的某人或势力，形象生动。"
+                }
+            ]
+        },
+        "analysis": "这句谚语通过一种“禁令”式的口吻，间接确立了被指涉对象的威严。其核心在于“无事莫撩拨”这一反向劝诫，越是强调不要招惹，越能烘托出对象的强势与危险性。语言风格极其口语化，如同市井间的耳语相传，具有很强的江湖气息。虽然“葛”的指涉在后世已不明确，但这种“指名道姓”的威胁方式，保留了民间谚语最原始的粗粝感与直接性，是一种基于地缘与人际关系的生存法则的总结。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "语言简劲，警告意味浓厚，有一股不容置疑的力度。",
+                "realm": "能",
+                "reason": "以命令式的口吻传达敬畏之意，虽无文采，但气势逼人。"
+            }
+        ],
+        "imagery": [
+            "山東",
+            "葛"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句逻辑清晰，警告意图明确。"
+        }
+    },
+    {
+        "title": "李振引諺",
+        "author": "不詳",
+        "paragraphs": [
+            "百歲奴事三歲主。"
+        ],
+        "paragraphs_simplified": [
+            "百岁奴事三岁主。"
+        ],
+        "translation": "哪怕奴仆活到一百岁，也还是要侍奉只有三岁的主人。强调主仆名分一旦确立，便终身不可逾越，与年龄、资历无关。",
+        "score": 2.8,
+        "subject": [
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "利用年龄上的极端反差，强化等级制度的绝对性。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "“百岁”与“三岁”在年龄上形成巨大反差，以此凸显身份等级的不可动摇。"
+                }
+            ]
+        },
+        "analysis": "此谚语赤裸裸地揭示了封建等级制度的残酷与荒谬。它通过年龄与地位的极端错位，制造出一种强烈的张力，让人在感到荒诞的同时，又不得不接受其背后冷酷的社会逻辑。语言极度凝练，仅用七个字就勾勒出一幅令人窒息的权力图景。虽然其立意是维护等级秩序，但在客观上却成为了批判这种秩序的有力证据。作为一句引谚，它精准地传达了某种特定历史语境下的价值观，但因其缺乏情感的温度，读来只觉冰冷刺骨。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以年龄的极端反差，揭示等级制度的非理性。",
+                "realm": "凡",
+                "reason": "虽然对比强烈，但立意陈旧，仅为对封建等级的直白复述，缺乏审美升华。"
+            }
+        ],
+        "imagery": [
+            "奴",
+            "主",
+            "百岁",
+            "三岁"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句仅此一句，对比手法运用得当。"
+        }
+    },
+    {
+        "title": "王彥章引諺",
+        "author": "不詳",
+        "paragraphs": [
+            "人死留名，豹死留皮。"
+        ],
+        "paragraphs_simplified": [
+            "人死留名，豹死留皮。"
+        ],
+        "translation": "人死留名，豹死留皮。这句谚语的意思是：人活着应当留下名声，就像豹子死后会留下它的皮毛一样。它强调了名誉和 legacy 的重要性，用豹子的皮毛作为比喻，形象地表达了人应追求不朽声誉的观念。",
+        "score": 3.5,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "通过平行结构直接陈述道理，前半句讲人，后半句讲豹，形成类比。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "用豹死留皮比喻人死留名，使抽象概念具象化"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "人死留名，豹死留皮，句式工整，增强节奏感"
+                }
+            ]
+        },
+        "analysis": "此谚语以简练的平行结构构筑核心寓意，豹皮的意象与人名的抽象形成有效对照，避免了直白说教。其力量在于比喻的贴切与音韵的铿锵，但意象较为传统，缺乏更深层的意境开拓。整体上，它作为一句流传甚广的格言，在功能性上表现出色，但艺术性上未达高妙境界。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "豹皮与人名的类比，凸显刚健有力的生命价值观",
+                "realm": "能品",
+                "reason": "技法纯熟，寓意明确，但意象陈旧，缺乏新意"
+            }
+        ],
+        "imagery": [
+            "名",
+            "豹皮"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句一体，比喻精当，是谚语的核心精华"
+        }
+    },
+    {
+        "title": "孫光憲《北夢瑣言》引諺",
+        "author": "不詳",
+        "paragraphs": [
+            "小舅小叔，相追相逐。"
+        ],
+        "paragraphs_simplified": [
+            "小舅小叔，相追相逐。"
+        ],
+        "translation": "小舅小叔，相追相逐。这句谚语描述小舅和小叔（泛指年轻亲属）互相追逐嬉戏的场景。它可能用于形容家庭中亲密无间的互动，或讽刺某些无谓的追逐行为，语言直白，带有民间口语色彩。",
+        "score": 2.0,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直接描述行为，前后分句重复结构，强调动作的持续性。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "小舅小叔，相追相逐，句式重复，形成节奏"
+                },
+                {
+                    "tag": "白描",
+                    "explanation": "平铺直叙，不加修饰地记录日常场景"
+                }
+            ]
+        },
+        "analysis": "此谚语采用口语化的重复手法，勾勒出一幅家庭生活小景，但意象单薄，缺乏情感深度和艺术提炼。其价值在于捕捉了民间语言的鲜活感，然而作为诗句，它流于表面，未能通过意象或修辞提升审美层次。整体显得平淡无奇，仅具记录功能。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "聚焦亲属互动，体现生活本真状态",
+                "realm": "凡品",
+                "reason": "语言直白，缺乏诗意加工，近乎口水话"
+            }
+        ],
+        "imagery": [
+            "小舅",
+            "小叔",
+            "追逐"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "作为唯一句子，它完整表达了谚语意思，但无突出亮点"
+        }
+    },
+    {
+        "title": "諺 一",
+        "author": "不詳",
+        "paragraphs": [
+            "棗子塞鼻孔，懸棲閣却種。"
+        ],
+        "paragraphs_simplified": [
+            "枣子塞鼻孔，悬栖阁却种。"
+        ],
+        "translation": "枣子塞鼻孔，悬栖阁却种。这句谚语字面意思是：把枣子塞进鼻孔，却在悬栖阁（可能指高处）种植。它可能是一种荒诞的民间说法，用于讽刺行为矛盾或做事荒唐，但具体含义模糊，带有戏谑性质。",
+        "score": 1.5,
+        "subject": [
+            "打油诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前后两句行为矛盾，通过夸张和虚实对比制造荒诞效果。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "枣子塞鼻孔是极度夸张的荒谬行为"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "塞枣子（实）与种阁（虚）形成不协调的意象"
+                }
+            ]
+        },
+        "analysis": "此谚语意象混乱，逻辑断裂，塞枣与种阁的行为毫无关联，仅靠夸张手法勉强维系。其尝试以荒诞吸引注意，但缺乏内在统一性，导致整体不知所云。作为诗句，它既无意象之美，也无情感之真，属于失败的尝试。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "粗糙的意象拼接，试图表现民间幽默但失之粗陋",
+                "realm": "劣品",
+                "reason": "意象支离，逻辑不通，近乎胡言乱语"
+            }
+        ],
+        "imagery": [
+            "枣子",
+            "鼻孔",
+            "栖阁",
+            "种"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句唯一，但内容荒诞，无佳句可言"
+        }
+    },
+    {
+        "title": "諺 二",
+        "author": "不詳",
+        "paragraphs": [
+            "蟬鳴蛁蟟喚，黍種餻糜斷。"
+        ],
+        "paragraphs_simplified": [
+            "蝉鸣蛁蟟唤，黍种糕糜断。"
+        ],
+        "translation": "蝉鸣蛁蟟唤，黍种糕糜断。这句谚语的意思是：蝉和蛁蟟（一种蝉）在鸣叫，而黍米种子和糕糜（米粥）被切断。它可能描述夏季农事或饮食时节的变化，但意象跳跃，连接生硬，需结合上下文理解。",
+        "score": 2.5,
+        "subject": [
+            "节令诗",
+            "农事诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前半写自然声响，后半写人类活动，通过并列暗示季节关联。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "蝉鸣蛁蟟唤，黍种糕糜断，句式工整"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "具体描绘蝉声和食物处理，体现生活细节"
+                }
+            ]
+        },
+        "analysis": "此谚语以对偶结构并置自然与人文意象，试图通过蝉鸣与农食的对照传达季节感。但意象选择较为平实，情感渗透不足，未能营造出深远的意境。其优点在于捕捉了特定时节的声景，但整体停留在描述层面，缺乏升华。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "蝉声与农食的结合，反映夏季生活片段",
+                "realm": "凡品",
+                "reason": "描述具体但意境浅显，缺乏情感共鸣"
+            }
+        ],
+        "imagery": [
+            "蝉",
+            "蛁蟟",
+            "黍",
+            "糕糜"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "作为谚语，它完整呈现了意象组合，但无突出文采"
+        }
+    },
+    {
+        "title": "甯茵事諺",
+        "author": "不詳",
+        "paragraphs": [
+            "鵓鳩樹上鳴，意在麻子地。"
+        ],
+        "paragraphs_simplified": [
+            "鹁鸠树上鸣，意在麻子地。"
+        ],
+        "translation": "鹁鸠树上鸣，意在麻子地。这句谚语的意思是：鹁鸠（一种鸟）在树上鸣叫，但它的意图却在麻子地里。比喻表面行为与真实意图不符，常用于揭示人或事物的隐藏动机。",
+        "score": 3.0,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "思乡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先描述现象（鸟鸣），后揭示本质（意在别处），形成转折。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "用鹁鸠的行为比喻人的隐藏意图"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过自然物象寄托人情事理"
+                }
+            ]
+        },
+        "analysis": "此谚语巧妙运用比喻，以鹁鸠的鸣叫与心思的落差，简洁地揭示了表象与实质的矛盾。意象朴素却生动，寓言性强，易于引发联想。虽未使用复杂修辞，但逻辑清晰，具有一定的警示意味，在谚语中属中上之作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "鸟鸣与田地的对比，暗示言外之意",
+                "realm": "能品",
+                "reason": "比喻贴切，寓意明确，但艺术表现较为简单"
+            }
+        ],
+        "imagery": [
+            "鹁鸠",
+            "树",
+            "鸣",
+            "麻子地"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句一体，比喻精炼，是谚语的核心智慧所在"
+        }
+    },
+    {
+        "title": "鸕鷀諺",
+        "author": "不詳",
+        "paragraphs": [
+            "鸕鶿不打脚下塘。"
+        ],
+        "paragraphs_simplified": [
+            "鸬鹚不打脚下塘。"
+        ],
+        "translation": "这句谚语的意思是：鸬鹚（一种水鸟）不会啄食自己脚下的池塘。比喻人不应伤害自己周围的利益或亲近的人，体现了民间智慧中对自我约束的朴素认知。",
+        "score": 1.5,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直接陈述一个自然现象，以此隐喻处世道理，结构简单直白。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以鸬鹚不啄脚下塘的行为，类比人不应侵害近处利益。"
+                }
+            ]
+        },
+        "analysis": "此谚语以极简笔墨勾勒自然现象，意象单一，缺乏诗意的延展。其立意浅显，仅停留于生活经验的直白总结，未构筑深层意境。作为民间俗语，虽具实用价值，但作为文学作品，艺术性薄弱，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以自然物象传达道理，但缺乏韵味，流于直白。",
+                "realm": "劣",
+                "reason": "模仿自然风格却失之浅露，无含蓄之美，反显粗陋。"
+            }
+        ],
+        "imagery": [
+            "鸟",
+            "水"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全诗仅此一句，结构完整但平庸。"
+        }
+    },
+    {
+        "title": "鹽鐵諺",
+        "author": "不詳",
+        "paragraphs": [
+            "揚一益二。"
+        ],
+        "paragraphs_simplified": [
+            "扬一益二。"
+        ],
+        "translation": "这句谚语的意思是：扬州排名第一，益州（今成都）排名第二。指代唐代经济或地理上的重要排序，简要概括了两地的繁荣地位。",
+        "score": 1.5,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以数字对比直接点明两地排名，无铺垫，直述事实。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "用‘扬’和‘益’代指扬州和益州，以地名借代其繁荣程度。"
+                }
+            ]
+        },
+        "analysis": "此谚语极度凝练，仅四字便概括地域排名，但缺乏意象与情感的渗透。作为历史记录的碎片，它折射出唐代经济地理的轮廓，却未构筑任何审美空间。辞藻干瘪，立意老套，纯属功能性陈述，毫无文学感染力。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以简洁语言体现庄重，但因过于简略而失去典雅应有的韵味。",
+                "realm": "劣",
+                "reason": "追求典雅却流于口号式表达，未能达到含蓄或深邃的境界。"
+            }
+        ],
+        "imagery": [
+            "城市"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一一句，直接了当但平庸无奇。"
+        }
+    },
+    {
+        "title": "馮翊諺",
+        "author": "不詳",
+        "paragraphs": [
+            "苦泉羊，洛水漿。"
+        ],
+        "paragraphs_simplified": [
+            "苦泉羊，洛水浆。"
+        ],
+        "translation": "这句谚语的意思是：苦泉的羊肉，洛水的浆水。指代两地特产，简要描述地方风物，可能用于赞美或区分地域特色。",
+        "score": 1.5,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "细节描写"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以并列结构直接罗列两种特产，无复杂脉络，纯为白描。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "‘苦泉羊’与‘洛水浆’形成工整的对仗，增强节奏感。"
+                }
+            ]
+        },
+        "analysis": "此谚语采用白描手法，勾勒地方物产，意象具体但狭隘。对偶结构带来些许形式美，然内容单薄，未触及情感或哲理的深层。整体如风物清单，缺乏诗意的升华，属于平庸的民间记录。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以实物入诗，试图展现自然风貌，但止于表面描述，无空灵之境。",
+                "realm": "劣",
+                "reason": "模仿自然风格却困于琐碎，未能超脱日常，反显呆板。"
+            }
+        ],
+        "imagery": [
+            "动物",
+            "水"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一一句，对仗工整但立意浅显。"
+        }
+    },
+    {
+        "title": "丹徒諺",
+        "author": "不詳",
+        "paragraphs": [
+            "生東吳，死丹徒。"
+        ],
+        "paragraphs_simplified": [
+            "生东吴，死丹徒。"
+        ],
+        "translation": "这句谚语的意思是：出生在东吴，死在丹徒。表达了对丹徒之地的重视，可能反映当地习俗或地理优越性，隐含生死归宿的观念。",
+        "score": 1.5,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以生死对比直接点明地域归属，无迂回，情感直露。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "‘生’与‘死’的对照，强化丹徒作为终极归宿的意象。"
+                }
+            ]
+        },
+        "analysis": "此谚语以生死对立构筑张力，透露出对丹徒的执念，但意象抽象，缺乏具体场景的烘托。情感虽显，却流于口号，未通过细节描写引发共鸣。作为地域谚语，它折射民间心理，但文学性贫弱，难称佳作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以生死主题营造悲凉氛围，但因过于简略而显得空洞。",
+                "realm": "劣",
+                "reason": "追求悲慨却无实质内容，仅止于概念化表达，未能触动人心。"
+            }
+        ],
+        "imagery": [
+            "地方"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一一句，情感直接但缺乏深度。"
+        }
+    },
+    {
+        "title": "湖州里諺",
+        "author": "不詳",
+        "paragraphs": [
+            "放爾生，放爾命，放爾湖州做百姓。"
+        ],
+        "paragraphs_simplified": [
+            "放尔生，放尔命，放尔湖州做百姓。"
+        ],
+        "translation": "这句谚语的意思是：放你一条生路，放你一条性命，放你到湖州去做百姓。可能表达对湖州的向往或一种自由释放的祝愿，带有劝诫或安慰的口吻。",
+        "score": 1.5,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "排比"
+            ],
+            "presentation_tags": [
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "重章叠句"
+            ],
+            "structural_logic": "通过重复‘放尔’形成排比，层层推进，最终点明湖州归宿，结构有节奏感。",
+            "evidence": [
+                {
+                    "tag": "排比",
+                    "explanation": "三次重复‘放尔’，增强语势，强调释放与归宿的主题。"
+                }
+            ]
+        },
+        "analysis": "此谚语以排比句式营造韵律，透露出豁达的人生态度，但意象平淡，仅围绕‘百姓’生活，未拓展审美空间。情感表达直白，缺乏含蓄的余味，整体如口语对话，虽有结构巧思，却难掩内容的平庸。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以口语化表达试图贴近生活，但因缺乏意象提炼而显得粗糙。",
+                "realm": "劣",
+                "reason": "模仿自然风格却失之俚俗，未能达到清新脱俗的境界。"
+            }
+        ],
+        "imagery": [
+            "地方",
+            "人"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "排比结构带来些许节奏，但整体仍显浅白。"
+        }
+    },
+    {
+        "title": "益陽諺",
+        "author": "不詳",
+        "paragraphs": [
+            "長沙益陽，一時相卬。"
+        ],
+        "paragraphs_simplified": [
+            "长沙益阳，一时相卬。"
+        ],
+        "translation": "长沙和益阳，一时之间相互仰望（或相提并论）。",
+        "score": 2.5,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直接陈述长沙与益阳的地理关系",
+            "evidence": [
+                {
+                    "tag": "叙事",
+                    "explanation": "直接陈述事实，无修饰"
+                }
+            ]
+        },
+        "analysis": "此谚语以极简之笔勾勒长沙与益阳之地理关联，直白如话，缺乏意象经营，然作为民间口传，自有其质朴价值。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "意象简单，仅涉地名",
+                "realm": "能品",
+                "reason": "试图模仿自然风格，但过于直白，缺乏诗意"
+            }
+        ],
+        "imagery": [
+            "长沙",
+            "益阳"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一一句，直接陈述"
+        }
+    },
+    {
+        "title": "昭潭諺",
+        "author": "不詳",
+        "paragraphs": [
+            "昭潭無底橘洲浮。"
+        ],
+        "paragraphs_simplified": [
+            "昭潭无底橘洲浮。"
+        ],
+        "translation": "昭潭没有底，橘子洲漂浮。",
+        "score": 2.8,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "描写"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "描述昭潭和橘洲的特征",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "昭潭无底，夸张其深"
+                },
+                {
+                    "tag": "描写",
+                    "explanation": "描写橘洲浮"
+                }
+            ]
+        },
+        "analysis": "此谚语以夸张手法描绘昭潭之深与橘洲之浮，意象鲜明，虽简短却具画面感，然仍属直述，缺乏深层意蕴。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以地名入诗，勾勒自然景观",
+                "realm": "能品",
+                "reason": "有自然意象，但技法简单"
+            }
+        ],
+        "imagery": [
+            "昭潭",
+            "橘洲"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一一句，形象生动"
+        }
+    }
+]

@@ -1,0 +1,1342 @@
+[
+    {
+        "title": "送客至無相蘭若歸過慈雲嶺小憩崇壽寺書所見十首  其一○",
+        "author": "張鎡",
+        "paragraphs": [
+            "欲歸停馭重徘徊，破費林間雪一杯。",
+            "留取半山看未了，火雲時節約重來。"
+        ],
+        "paragraphs_simplified": [
+            "欲归停驭重徘徊，破费林间雪一杯。",
+            "留取半山看未了，火云时节约重来。"
+        ],
+        "translation": "想归去却停下马车反复徘徊，耗费了林间一杯雪水烹茶。留下半山景色看不尽，约好在火云时节再重来。",
+        "score": 2.5,
+        "subject": [
+            "山水诗",
+            "送别诗"
+        ],
+        "emotion": [
+            "闲适",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句点明徘徊不舍之情，次句以雪喻茶写实景；后两句转写留恋山景，约定重游。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "「雪一杯」以雪喻茶，写林间饮茶之雅"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过「半山看未了」寄托留恋"
+                }
+            ]
+        },
+        "analysis": "意象陈旧，林间雪、火云等词堆砌无新意。立意浅显，仅止于约期重游的客套，缺乏情感深度。技法平庸，比喻生硬，整体流于应酬诗的俗套，未见独特艺术价值。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以林泉意象营造淡泊之境，但用语直白，意境稀薄",
+                "realm": "劣",
+                "reason": "模仿冲淡而失之浅陋，如「破费」一词直露，破坏含蓄之美"
+            }
+        ],
+        "imagery": [
+            "林",
+            "雪",
+            "山",
+            "火云"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句相对通顺，点明徘徊之情"
+        }
+    },
+    {
+        "title": "過楓橋寺",
+        "author": "張鎡",
+        "paragraphs": [
+            "妙絕吾宗有舊題，趁晴逕過敢留詩。",
+            "只消記取今朝景，不是烏啼月落時。"
+        ],
+        "paragraphs_simplified": [
+            "妙绝吾宗有旧题，趁晴径过敢留诗。",
+            "只消记取今朝景，不是乌啼月落时。"
+        ],
+        "translation": "妙绝我们宗派有旧题，趁晴天直接经过敢留诗。只需记住今朝景，不是乌啼月落时。",
+        "score": 3.5,
+        "subject": [
+            "怀古诗",
+            "题画诗"
+        ],
+        "emotion": [
+            "赞美",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写趁晴留诗的豪兴，后两句通过对比强调当下景致的独特，避开经典意象。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "「今朝景」与「乌啼月落时」形成时空对照"
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "暗指不囿于张继《枫桥夜泊》的旧境"
+                }
+            ]
+        },
+        "analysis": "立意取巧，刻意避开「乌啼月落」的经典意象，彰显独立审美。语言简练，对比手法有效，但情感表达稍显直白，缺乏余韵。整体构思清晰，属技法成熟之作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以「晴」「今朝景」构筑清新之境，与传统愁景形成反差",
+                "realm": "能",
+                "reason": "立意清奇但笔力未逮，后两句议论稍露"
+            }
+        ],
+        "imagery": [
+            "晴",
+            "诗",
+            "景",
+            "乌啼",
+            "月落"
+        ],
+        "allusions": [
+            {
+                "phrase": "乌啼月落",
+                "explanation": "化用张继《枫桥夜泊》「月落乌啼霜满天」"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句点明主旨，对比巧妙"
+        }
+    },
+    {
+        "title": "聽琵琶",
+        "author": "張鎡",
+        "paragraphs": [
+            "四絃么鳳雜雛鶑，不作商船塞路聲。",
+            "花影透簾清晝夜，細將攏撚說多情。"
+        ],
+        "paragraphs_simplified": [
+            "四弦么凤杂雏莺，不作商船塞路声。",
+            "花影透帘清昼夜，细将拢撚说多情。"
+        ],
+        "translation": "琵琶的四根弦发出如小凤凰和雏莺般美妙的声音，不像商船堵塞道路的嘈杂声。花影透过帘子，在清澈的白天和夜晚，仔细地用拢和撚的指法诉说着多情。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先写琵琶声的美妙，再写在花影中用琵琶诉说情感。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以‘么凤杂雏莺’比喻琵琶声的悦耳。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "以‘说多情’赋予琵琶以人的情感。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过‘花影透帘’的景象抒发情感。"
+                }
+            ]
+        },
+        "analysis": "此诗以‘么凤杂雏莺’之喻勾勒琵琶声之清越，暗合商船塞路之喧嚣对比，彰显听觉之妙。花影透帘之景渲染昼夜之静谧，细述拢撚指法寄寓多情，构筑情景交融之境。整体意境不隔，情感回甘，然立意稍显平庸，意象如花影、琵琶皆属常见，未见独特新意。技法虽熟，缺乏深度，属能品之作，未能臻于妙境。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以清雅意象构筑听觉与视觉之交融。",
+                "realm": "能",
+                "reason": "试图模仿清奇之境，但意象陈旧，未能超脱。"
+            }
+        ],
+        "imagery": [
+            "琵琶",
+            "鸟",
+            "船",
+            "花",
+            "帘子"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句比喻生动，对比鲜明。"
+        }
+    },
+    {
+        "title": "紹興間國工胡偉琵琶擅稱一時其徒豪興得胡心傳之妙今年七十二清健伎益精從容話故都事使人感歎因書小詩與之",
+        "author": "張鎡",
+        "paragraphs": [
+            "半生繁會想梨園，醒耳秋風鳳語絃。",
+            "我亦秦關歸未暇，故都休說汴河邊。"
+        ],
+        "paragraphs_simplified": [
+            "半生繁会想梨园，醒耳秋风凤语弦。",
+            "我亦秦关归未暇，故都休说汴河边。"
+        ],
+        "translation": "半生繁华想梨园，醒耳秋风凤语弦。我亦秦关归未暇，故都休说汴河边。",
+        "score": 4.6,
+        "subject": [
+            "怀古诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "悲慨",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以梨园代指故都繁华，秋风弦语唤醒记忆；后句直抒归不得之憾，汴河意象暗指北宋旧都。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "「梨园」典出唐玄宗乐坊，代指艺术传承"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "「汴河」借指汴京，承载故国之思"
+                }
+            ]
+        },
+        "analysis": "典故运用自然，梨园、汴河等词浓缩历史沧桑。情感沉郁，「休说」二字以克制笔法写深悲，秋风弦语与秦关未归形成时空张力。技法老练，堪称怀古诗典范。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以秋风、弦语、汴河等意象构筑苍凉之境",
+                "realm": "妙",
+                "reason": "悲慨中见沉著，典故与情感水乳交融"
+            }
+        ],
+        "imagery": [
+            "梨园",
+            "秋风",
+            "弦",
+            "秦关",
+            "汴河"
+        ],
+        "allusions": [
+            {
+                "phrase": "梨园",
+                "explanation": "唐玄宗设梨园教授音乐，代指艺术传承"
+            },
+            {
+                "phrase": "汴河",
+                "explanation": "流经北宋汴京的运河，象征故都繁华"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "「故都休说」句以淡语写浓愁，余味深长"
+        }
+    },
+    {
+        "title": "許道士房",
+        "author": "張鎡",
+        "paragraphs": [
+            "凉蟬亂叫朝暮雨，獨鶴不迷前後山。",
+            "芎葉煮湯勝茗椀，栗花然火稱松關。"
+        ],
+        "paragraphs_simplified": [
+            "凉蝉乱叫朝暮雨，独鹤不迷前后山。",
+            "芎叶煮汤胜茗碗，栗花燃火称松关。"
+        ],
+        "translation": "凉蝉乱叫朝暮雨，独鹤不迷前后山。芎叶煮汤胜茗碗，栗花燃火称松关。",
+        "score": 3.0,
+        "subject": [
+            "山水诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "动静结合"
+            ],
+            "structure_tags": [
+                "对仗工整"
+            ],
+            "structural_logic": "前两句写蝉雨鹤山的自然景象，后两句转写道士房中煮药燃火的日常，以对仗句式并列景物。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "「独鹤不迷」赋予鹤以灵性"
+                },
+                {
+                    "tag": "白描",
+                    "explanation": "直写蝉叫、鹤立、煮汤、燃火等场景"
+                }
+            ]
+        },
+        "analysis": "意象选取杂乱，凉蝉、独鹤、芎叶、栗花等缺乏内在关联。对仗虽工，但「煮汤胜茗」等句俚俗，破坏整体意境。试图营造隐逸之趣，然笔力平庸，流于物象堆砌。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "罗列山居物象，但未形成统一意境",
+                "realm": "凡",
+                "reason": "貌似冲淡而实则生硬，如「胜茗椀」用语直露"
+            }
+        ],
+        "imagery": [
+            "蝉",
+            "雨",
+            "鹤",
+            "山",
+            "芎叶",
+            "栗花",
+            "松"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "「独鹤不迷」句相对自然，有隐逸之趣"
+        }
+    },
+    {
+        "title": "得家書  其一",
+        "author": "張鎡",
+        "paragraphs": [
+            "北堂萱獨雁行疎，旅夢通宵只敝廬。",
+            "未暇拆封忙喚僕，先將安否問何如。"
+        ],
+        "paragraphs_simplified": [
+            "北堂萱独雁行疏，旅梦通宵只敝庐。",
+            "未暇拆封忙唤仆，先将安否问何如。"
+        ],
+        "translation": "北堂的萱草独自稀疏，旅居的梦通宵只在破旧的庐舍。没空拆信先忙叫仆人，先问平安如何。",
+        "score": 3.8,
+        "subject": [
+            "思乡诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "思乡",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以萱草起兴勾勒孤寂，后以叙事收束凸显急切，结构紧凑。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "首句借北堂萱独雁疏暗寓思亲之切"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "未暇拆封而先问安否，刻画旅人心态"
+                }
+            ]
+        },
+        "analysis": "此诗以北堂萱草与雁行疏落起兴，构筑羁旅孤寂之境。首句借景抒情，萱草意象暗合思亲传统；次句以敝庐旅梦渲染漂泊之苦。后两句叙事转折，拆封前先问安否的细节，流露深切牵挂。整体情景交融，意象虽陈旧但情感真挚，然立意未脱窠臼，属技法成熟之作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "通过萱草、雁行等意象间接传达情感，避免直露。",
+                "realm": "能品",
+                "reason": "技法娴熟，但意象缺乏新意，未能突破传统范式。"
+            }
+        ],
+        "imagery": [
+            "萱草",
+            "雁",
+            "庐",
+            "仆"
+        ],
+        "allusions": [
+            {
+                "phrase": "北堂萱",
+                "explanation": "典出《诗经》，指代母亲或思亲之情"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以自然意象起兴，奠定全诗情感基调。"
+        }
+    },
+    {
+        "title": "得家書  其二",
+        "author": "張鎡",
+        "paragraphs": [
+            "玉塞金河阻去程，醉中嘗夢賦西征。",
+            "天時不與人心合，獨守寒窗數鴈聲。"
+        ],
+        "paragraphs_simplified": [
+            "玉塞金河阻去程，醉中尝梦赋西征。",
+            "天时不与人心合，独守寒窗数雁声。"
+        ],
+        "translation": "玉塞金河阻隔去程，醉中曾梦赋西征。天时不与人心合，独守寒窗数雁声。",
+        "score": 3.2,
+        "subject": [
+            "边塞诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "孤独",
+            "悲伤"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以边塞梦境虚写阻隔，后两句以寒窗独守实写孤寂，虚实相生。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "玉塞金河极言边塞遥远"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "醉梦西征为虚，独守寒窗为实"
+                }
+            ]
+        },
+        "analysis": "此诗以玉塞金河起笔，构筑边塞阻隔之象，醉梦西征虚写壮志，然天时不合直指现实困境。末句独守寒窗数雁声，以听觉细节渲染孤寂。意象堆砌痕迹明显，如玉塞金河与寒窗雁声拼接生硬，情感宣泄直白，缺乏审美回甘，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以边塞壮阔与寒窗孤寂对比营造悲凉，但意象衔接生硬。",
+                "realm": "凡品",
+                "reason": "辞藻堆砌，立意浅显，未能达成悲慨之境。"
+            }
+        ],
+        "imagery": [
+            "玉塞",
+            "金河",
+            "雁声",
+            "寒窗"
+        ],
+        "allusions": [
+            {
+                "phrase": "西征",
+                "explanation": "暗指征伐或远行典故"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以雁声数点收束，强化孤寂氛围。"
+        }
+    },
+    {
+        "title": "得家書  其三",
+        "author": "張鎡",
+        "paragraphs": [
+            "風沙來往稻粱謀，江北江南一歲遒。",
+            "非爲紅樓斷消息，待梅暗候自清愁。"
+        ],
+        "paragraphs_simplified": [
+            "风沙来往稻粱谋，江北江南一岁遒。",
+            "非为红楼断消息，待梅暗候自清愁。"
+        ],
+        "translation": "风沙来往为稻粱谋，江北江南一年将尽。非为红楼断消息，待梅暗候自清愁。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句以风沙稻粱写生计奔波，后两句以红楼梅候转写情感等待，结构松散。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "红楼代指繁华或佳人"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借梅候表达清愁自守"
+                }
+            ]
+        },
+        "analysis": "此诗以风沙稻粱谋起兴，勾勒生计奔波之态，一岁遒点明时序。后句转折，非为红楼断消息似有隐衷，待梅暗候自清愁意象模糊。整体立意浅显，红楼与梅候拼凑，缺乏情感深度，辞藻堆砌而无新意，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图以梅候含蓄表意，但意象陈旧，未能达成含蓄之美。",
+                "realm": "凡品",
+                "reason": "意象拼凑，立意未深化，流于表面。"
+            }
+        ],
+        "imagery": [
+            "风沙",
+            "稻粱",
+            "梅",
+            "红楼"
+        ],
+        "allusions": [
+            {
+                "phrase": "红楼",
+                "explanation": "典故，指代富贵或佳人"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句待梅暗候稍显意象，但整体平庸。"
+        }
+    },
+    {
+        "title": "雨中聞雁",
+        "author": "張鎡",
+        "paragraphs": [
+            "小雨終朝濕翠霏，渚蒲汀樹白瀰瀰。",
+            "若嫌鳴雁無厭足，回到潮州又索詩。"
+        ],
+        "paragraphs_simplified": [
+            "小雨终朝湿翠霏，渚蒲汀树白瀰瀰。",
+            "若嫌鸣雁无厌足，回到潮州又索诗。"
+        ],
+        "translation": "小雨终朝湿润翠霏，渚蒲汀树白茫茫。若嫌鸣雁无厌足，回到潮州又索诗。",
+        "score": 3.5,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "幽默"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句白描雨中景物，后两句拟人雁鸣索诗，由景及情，过渡自然。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "鸣雁无厌足、索诗赋予雁人性"
+                },
+                {
+                    "tag": "白描",
+                    "explanation": "小雨终朝湿翠霏直写雨景"
+                }
+            ]
+        },
+        "analysis": "此诗以小雨终朝湿翠霏起笔，白描雨中渚蒲汀树之景，意象清新湿润。后句转以拟人手法，写鸣雁索诗，幽默风趣，拓宽诗意空间。情景契合度高，雁鸣与雨景交融，情感闲适而不直露，整体自然流畅，属佳作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "雨景与雁鸣浑然天成，拟人手法增添生趣。",
+                "realm": "妙品",
+                "reason": "技法娴熟，意境真切，幽默中见雅致。"
+            }
+        ],
+        "imagery": [
+            "小雨",
+            "雁",
+            "蒲",
+            "树"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句拟人雁鸣索诗，点睛之笔，凸显幽默。"
+        }
+    },
+    {
+        "title": "看鴈",
+        "author": "張鎡",
+        "paragraphs": [
+            "曉晴羣鴈欲何之，正是青天似紙時。",
+            "橫斜數行有聲字，服殺虛空解作詩。"
+        ],
+        "paragraphs_simplified": [
+            "晓晴群雁欲何之，正是青天似纸时。",
+            "横斜数行有声字，服杀虚空解作诗。"
+        ],
+        "translation": "晓晴群雁欲何往，正是青天似纸时。横斜数行有声字，服杀虚空解作诗。",
+        "score": 4.0,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "赞美",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以青天似纸设喻，后两句以雁字有声收束，由景入理，结构紧凑。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "青天似纸喻天空广阔"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "服杀虚空极言雁字之妙"
+                }
+            ]
+        },
+        "analysis": "此诗以晓晴群雁起兴，青天似纸之喻构筑空灵之境。横斜雁字如声，想象奇特，服杀虚空解作诗直抒对自然造化的叹服。意象集中，情感豁达，虚实结合巧妙，整体意境清奇，技法纯熟，属能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "雁字与青天组合，营造出清朗奇崛的意境。",
+                "realm": "能品",
+                "reason": "比喻新颖，但未达神品之境。"
+            }
+        ],
+        "imagery": [
+            "雁",
+            "青天"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "横斜数行有声字，以通感手法写雁阵，意象生动。"
+        }
+    },
+    {
+        "title": "張以道歸自甬東先餉土物兩詩爲謝  其一",
+        "author": "張鎡",
+        "paragraphs": [
+            "梨柿魚鹽來海上，殷勤持送與閒官。",
+            "緣何似得千金贈，明日重親語笑歡。"
+        ],
+        "paragraphs_simplified": [
+            "梨柿鱼盐来海上，殷勤持送与闲官。",
+            "缘何似得千金赠，明日重亲语笑欢。"
+        ],
+        "translation": "梨、柿、鱼、盐从海上运来，殷勤地送给闲官。为何像得到千金赠礼，明日重新亲近谈笑欢。",
+        "score": 2.5,
+        "subject": [
+            "酬唱诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "细节描写"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直陈土物馈赠之事，次句以比喻强化情感，结构简单直白。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "缘何似得千金赠：将土物比作千金，强调情意之重。"
+                }
+            ]
+        },
+        "analysis": "此诗为酬谢之作，叙述友人自海上携梨柿鱼盐相赠，以千金喻之，显殷勤之意。意象陈旧，局限于日常物事，缺乏提炼；立意浅显，仅为应酬之语，未见深层情感或哲思。技法平庸，比喻虽存，却无新意，整体流于表面，属凡庸之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以平实语言构筑生活场景，但意象堆砌，未达自然之趣。",
+                "realm": "凡品",
+                "reason": "辞藻普通，立意老套，缺乏艺术升华。"
+            }
+        ],
+        "imagery": [
+            "梨",
+            "柿",
+            "鱼盐",
+            "闲官",
+            "千金"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句叙事清晰，为全诗基础。"
+        }
+    },
+    {
+        "title": "張以道歸自甬東先餉土物兩詩爲謝  其二",
+        "author": "張鎡",
+        "paragraphs": [
+            "紅滿芙蓉菊滿黄，連朝衰病負秋光。",
+            "乘除自此無憂惱，醉賞家園一萬場。"
+        ],
+        "paragraphs_simplified": [
+            "红满芙蓉菊满黄，连朝衰病负秋光。",
+            "乘除自此无忧恼，醉赏家园一万场。"
+        ],
+        "translation": "红花满芙蓉，菊花满黄，连续多日衰病辜负秋光。从此无忧无虑，醉赏家园一万场。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "豁达",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句写秋景与病况，后句转折抒豁达之情，结构有起伏。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "红满芙蓉菊满黄：句式工整，描绘秋色。"
+                }
+            ]
+        },
+        "analysis": "诗写秋日病中，以芙蓉菊黄起兴，后转醉赏家园之乐。意象虽常见，但红黄对比渲染秋光；情感从负秋光到无忧恼，有转折，然用语直白，缺乏含蓄之韵。整体技法尚可，但立意未脱俗套，未能深入挖掘病中感悟。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "试图以秋景与醉赏构筑疏放之境，但情感表达略显直露。",
+                "realm": "能品",
+                "reason": "有旷达之意，但未达冲淡之旨。"
+            }
+        ],
+        "imagery": [
+            "芙蓉",
+            "菊花",
+            "秋光",
+            "家园",
+            "醉"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "乘除自此无忧恼：点明豁达主题，情感转折鲜明。"
+        }
+    },
+    {
+        "title": "夜坐因觀楊伯虎和春字韵詩偶成五絕再寄  其一",
+        "author": "張鎡",
+        "paragraphs": [
+            "挑盡燈花夜未眠，清寒渾忘是春天。",
+            "霜侵綠鬢張居士，空坐書幃三十年。"
+        ],
+        "paragraphs_simplified": [
+            "挑尽灯花夜未眠，清寒浑忘是春天。",
+            "霜侵绿鬓张居士，空坐书帷三十年。"
+        ],
+        "translation": "挑尽灯花夜未眠，清寒完全忘记是春天。霜侵绿鬓张居士，空坐书帷三十年。",
+        "score": 3.8,
+        "subject": [
+            "杂诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首句写夜坐不眠，次句以霜鬓喻岁月，虚实相生，结构紧凑。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "霜侵绿鬓：以霜喻白发，暗示时光流逝。"
+                }
+            ]
+        },
+        "analysis": "此诗夜坐观诗，忘春寒而叹岁月。灯花、霜鬓意象凝练，营造清寂之境；三十年空坐，折射深沉孤寂。技法成熟，虚实结合，情感回甘而不宣泄，意境真切，属佳作。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "以夜灯与霜鬓构筑时光凝固之境，情感渗透于细节。",
+                "realm": "妙品",
+                "reason": "意境深沉，技法缜密。"
+            }
+        ],
+        "imagery": [
+            "灯花",
+            "夜",
+            "清寒",
+            "春天",
+            "霜",
+            "绿鬓",
+            "书帷"
+        ],
+        "allusions": [
+            {
+                "phrase": "张居士",
+                "explanation": "可能指隐士或张籍，泛指读书人。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "霜侵绿鬓张居士：意象浓缩，直指岁月之悲。"
+        }
+    },
+    {
+        "title": "夜坐因觀楊伯虎和春字韵詩偶成五絕再寄  其二",
+        "author": "張鎡",
+        "paragraphs": [
+            "案上因翻簡鐵堆，親朋何日和詩回。",
+            "高懷剩得清閒力，滿紙溪山秀色開。"
+        ],
+        "paragraphs_simplified": [
+            "案上因翻简铁堆，亲朋何日和诗回。",
+            "高怀剩得清闲力，满纸溪山秀色开。"
+        ],
+        "translation": "案上翻阅简牍堆，亲朋何日和诗回。高怀剩得清闲力，满纸溪山秀色开。",
+        "score": 3.2,
+        "subject": [
+            "酬唱诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句写翻书待和，后句以溪山秀色喻诗境，结构过渡自然。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "满纸溪山秀色开：以山水秀色喻诗作之美。"
+                }
+            ]
+        },
+        "analysis": "诗写翻简待友和诗，后抒清闲写景之怀。溪山秀色意象生动，但整体立意平浅，未脱酬唱俗套。技法虽有比喻，却无新奇，情感流于表面，属凡品。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以简牍与溪山构筑清闲之境，但意象组合平淡。",
+                "realm": "凡品",
+                "reason": "缺乏深度，辞藻堆砌。"
+            }
+        ],
+        "imagery": [
+            "案",
+            "简铁堆",
+            "亲朋",
+            "诗",
+            "溪山",
+            "秀色"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "满纸溪山秀色开：画面感较强，略显生动。"
+        }
+    },
+    {
+        "title": "夜坐因觀楊伯虎和春字韵詩偶成五絕再寄  其四",
+        "author": "張鎡",
+        "paragraphs": [
+            "宦情儂自本來無，君亦琳宮暫逸居。",
+            "西華武夷俱絕勝，可教詩卷此時疎。"
+        ],
+        "paragraphs_simplified": [
+            "宦情侬自本来无，君亦琳宫暂逸居。",
+            "西华武夷俱绝胜，可教诗卷此时疏。"
+        ],
+        "translation": "宦情我自本来无，你也暂居琳宫逸。西华武夷皆绝胜，可让诗卷此时疏。",
+        "score": 2.5,
+        "subject": [
+            "酬唱诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句自述无宦情，次句言友人逸居，后联以名山胜地衬托诗卷疏懒，逻辑直白。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "首联“宦情侬自本来无”与“君亦琳宫暂逸居”形成工整对仗。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "以“西华武夷俱绝胜”折射疏懒诗卷之趣。"
+                }
+            ]
+        },
+        "analysis": "此诗以平淡语起笔，直指无宦情之怀，后联以西华武夷之胜，折射出疏懒诗卷之趣。然意象陈旧，“琳宫”、“绝胜”皆常见，缺乏独特审美构筑。整体立意浅显，情景契合度弱，属应酬平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以平淡意象构筑冲淡之境，但流于表面，缺乏深意。",
+                "realm": "凡品",
+                "reason": "意象陈旧，立意浅显，未能真正体现冲淡之妙。"
+            }
+        ],
+        "imagery": [
+            "宦情",
+            "琳宫",
+            "西华",
+            "武夷",
+            "诗卷"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直白点题，最为通顺。"
+        }
+    },
+    {
+        "title": "夜坐因觀楊伯虎和春字韵詩偶成五絕再寄  其五",
+        "author": "張鎡",
+        "paragraphs": [
+            "苕霅從來著志和，子雲寧久占煙波。",
+            "速歸逕上清班好，時過南湖伴浩歌。"
+        ],
+        "paragraphs_simplified": [
+            "苕霅从来著志和，子云宁久占烟波。",
+            "速归径上清班好，时过南湖伴浩歌。"
+        ],
+        "translation": "苕霅之地历来以志和著称，子云岂能久占烟波。速归直上清班好，时过南湖伴浩歌。",
+        "score": 3.0,
+        "subject": [
+            "酬唱诗",
+            "劝勉诗"
+        ],
+        "emotion": [
+            "期待",
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句用张志和、扬雄之典，述隐居与归朝之辨，后两句直劝速归，末句以浩歌点题。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“志和”指张志和隐居烟波，“子云”指扬雄，但用典稍显生硬。"
+                },
+                {
+                    "tag": "直接抒情",
+                    "explanation": "“速归径上清班好”直抒劝勉之意。"
+                }
+            ]
+        },
+        "analysis": "此诗借典故以劝归，前联用张志和、扬雄之例，试图构筑典雅之境，然“子云宁久占烟波”于典实不符，削弱说服力。后联直白表达，情感虽豪迈，但意象缺乏新意，整体情景割裂，属平庸应酬之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以典故彰显典雅，但用典不精，反显堆砌。",
+                "realm": "凡品",
+                "reason": "用典失当，立意浅显，未能达到典雅之境。"
+            }
+        ],
+        "imagery": [
+            "苕霅",
+            "烟波",
+            "清班",
+            "南湖",
+            "浩歌"
+        ],
+        "allusions": [
+            {
+                "phrase": "志和",
+                "explanation": "指唐代张志和，隐居江湖，自号烟波钓徒。"
+            },
+            {
+                "phrase": "子云",
+                "explanation": "指汉代扬雄，字子云，此处或误用其隐居意。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句“时过南湖伴浩歌”情感奔放，最为流畅。"
+        }
+    },
+    {
+        "title": "春日",
+        "author": "張鎡",
+        "paragraphs": [
+            "銀葉煎香細雨聲，竹陰行處藥花明。",
+            "麥光小楷臨唐帖，更有人間第一清。"
+        ],
+        "paragraphs_simplified": [
+            "银叶煎香细雨声，竹阴行处药花明。",
+            "麦光小楷临唐帖，更有人间第一清。"
+        ],
+        "translation": "银叶煎香发出细雨声，竹阴行走处药花明亮。麦光小楷临摹唐帖，更是人间第一清雅。",
+        "score": 4.5,
+        "subject": [
+            "咏物诗",
+            "闲适诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首联以煎香、行处勾勒春日清景，后联以临帖事升华“第一清”之境，逻辑连贯。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "“银叶煎香”、“竹阴行处”细腻刻画春日闲事。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“细雨声”喻煎香之音，通感巧妙。"
+                }
+            ]
+        },
+        "analysis": "此诗以银叶煎香、竹阴药花等细节，构筑春日静谧之境，意象清新，情景交融。后联以临帖事点染，升华“人间第一清”之审美，情感含蓄而真切，整体意境高远，属妙品佳作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以清雅意象构筑独特之境，音律流畅，意境真切。",
+                "realm": "妙品",
+                "reason": "情景契合，意境真切，彰显清奇之风。"
+            }
+        ],
+        "imagery": [
+            "银叶",
+            "香",
+            "细雨",
+            "竹阴",
+            "药花",
+            "麦光",
+            "小楷",
+            "唐帖"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句“更有人间第一清”点题升华，最为精警。"
+        }
+    }
+]

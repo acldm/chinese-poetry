@@ -1,0 +1,89 @@
+[
+    {
+        "title": "送野雲孔鍊師回永嘉  其一",
+        "author": "韓淲",
+        "paragraphs": [
+            "野雲飛過玉溪雲，枉把清氛入世氛。",
+            "五十三參善知識，偉哉猶說象山君。"
+        ],
+        "paragraphs_simplified": [
+            "野云飞过玉溪云，枉把清氛入世氛。",
+            "五十三参善知识，伟哉犹说象山君。"
+        ],
+        "translation": "野云飞过玉溪云，徒然把清气带入尘世。五十三参善知识，伟大啊还在说象山君。",
+        "score": 3.0,
+        "subject": [
+            "送别诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以云喻道士，赞其超脱，用典融合儒释道，但意象跳跃。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'野云'喻孔炼师之飘逸。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用'象山君'（陆九渊）理学典故。"
+                }
+            ]
+        },
+        "analysis": "此诗以'野云'起兴，喻孔炼师之飘逸，'枉把清氛'暗讽尘世污浊。后联用'五十三参'佛典和'象山'理学，试图融合儒释道，但意象跳跃，'善知识'与'象山君'并置生硬，立意模糊，未能清晰传达送别之情，典故堆砌反失自然。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "典故过密，意境未开，缺乏疏朗之气。",
+                "realm": "劣",
+                "reason": "试图模仿高古但实则疏野之失，用典生硬。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "溪",
+            "气",
+            "山"
+        ],
+        "allusions": [
+            {
+                "phrase": "五十三参",
+                "explanation": "佛典，指善财童子参访五十三位善知识。"
+            },
+            {
+                "phrase": "象山君",
+                "explanation": "指陆九渊，南宋理学家。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句'野云飞过玉溪云'相对流畅，意象连贯。"
+        }
+    }
+]

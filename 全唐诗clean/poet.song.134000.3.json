@@ -1,0 +1,247 @@
+[
+    {
+        "title": "縱遊",
+        "author": "陸游",
+        "paragraphs": [
+            "人事元知不可諧，名山踏破幾青鞋。",
+            "百錢挂杖無時醉，一鍤隨身到處埋。",
+            "驛壁讀詩摩病眼，僧窗看竹散幽懷。",
+            "亦知詩料無窮盡，燈火蕭疏過縣街。"
+        ],
+        "paragraphs_simplified": [
+            "人事元知不可谐，名山踏破几青鞋。",
+            "百钱挂杖无时醉，一锸随身到处埋。",
+            "驿壁读诗摩病眼，僧窗看竹散幽怀。",
+            "亦知诗料无穷尽，灯火萧疏过县街。"
+        ],
+        "translation": "人事本知难和谐，名山踏破几青鞋。百钱挂杖随时醉，一锹随身备埋骨。驿壁读诗揉病眼，僧窗看竹散幽怀。亦知诗料无穷尽，灯火萧疏过县街。",
+        "score": 4.5,
+        "subject": [
+            "山水诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "夸张",
+                "用典"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应",
+                "卒章显志"
+            ],
+            "structural_logic": "首联写人事不合与游山之醉，颔联用典显旷达，颈联写旅途诗兴，尾联以诗料无穷作结。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "一锸随身用刘伶带锸葬我典故"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "名山踏破几青鞋"
+                }
+            ]
+        },
+        "analysis": "结构严谨，四联层层递进。用典自然，以刘伶典故显生死置之度外的旷达。驿壁读诗、僧窗看竹等细节生动，尾联升华至创作永恒，艺术成熟。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "以青鞋、百钱、一锸等意象构筑疏狂意境",
+                "realm": "妙",
+                "reason": "用典贴切，情感真挚，结构完整"
+            }
+        ],
+        "imagery": [
+            "山",
+            "鞋",
+            "钱",
+            "杖",
+            "酒",
+            "锹",
+            "窗",
+            "竹",
+            "灯"
+        ],
+        "allusions": [
+            {
+                "phrase": "一锸随身",
+                "explanation": "用刘伶典故，表示旷达不羁"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "一锸随身到处埋，用典精妙，气概非凡"
+        }
+    },
+    {
+        "title": "村居書事六首  其一",
+        "author": "陸游",
+        "paragraphs": [
+            "過門車馬誰曾入，塞路蓬蒿不復鋤。",
+            "雨漏日惟支敗屋，鼠餘時自緝殘書。"
+        ],
+        "paragraphs_simplified": [
+            "过门车马谁曾入，塞路蓬蒿不复锄。",
+            "雨漏日惟支败屋，鼠余时自缉残书。"
+        ],
+        "translation": "车马经过门前谁曾进入，道路堵塞蓬蒿不再锄除。雨漏日晒只支撑破屋，老鼠啃咬后自己修补残书。",
+        "score": 2.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "通过并列的破败景象直接呈现村居贫瘠状态，无转折或递进。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "以“雨漏”“鼠餘”等具体细节勾勒生活窘境。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "前后句结构对称，强化荒凉感。"
+                }
+            ]
+        },
+        "analysis": "意象陈旧，蓬蒿、败屋、鼠啮等物象堆砌，缺乏新意。立意浅显，仅停留于贫困表象的罗列，未见深层情感渗透。语言直白，无含蓄回甘之趣，整体构筑平淡，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "试图以村野物象构筑自然之境，但意象粗陋，未达疏朗之趣。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，徒有荒寒之形而无超逸之神。"
+            }
+        ],
+        "imagery": [
+            "蓬蒿",
+            "败屋",
+            "鼠",
+            "残书"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句起笔直接，意象相对完整。"
+        }
+    },
+    {
+        "title": "村居書事六首  其二",
+        "author": "陸游",
+        "paragraphs": [
+            "矮瓶煮粥猶難繼，小甑蒸糕豈解常。",
+            "偶得鹽醯便豪侈，晨餐滿舍野蔬香。"
+        ],
+        "paragraphs_simplified": [
+            "矮瓶煮粥犹难继，小甑蒸糕岂解常。",
+            "偶得盐醯便豪侈，晨餐满舍野蔬香。"
+        ],
+        "translation": "矮瓶煮粥还难以为继，小甑蒸糕岂能解常需。偶然得到盐醋便显豪侈，早餐满屋野蔬香。",
+        "score": 2.8,
+        "subject": [
+            "农事诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先述贫匮之状，后转偶然之乐，形成微小对比，但逻辑简单。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“豪侈”一词反讽物质匮乏。"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "“晨餐满舍野蔬香”以嗅觉细节渲染满足感。"
+                }
+            ]
+        },
+        "analysis": "情感流于表面，以“豪侈”反衬贫困，但意象如粥、糕、野蔬皆陈旧无奇。语言质朴却失之浅露，未构筑出深长余味，整体立意平庸，属应酬式村居记录。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以日常饮食写平淡之趣，但缺乏洗练，流于琐碎。",
+                "realm": "劣",
+                "reason": "欲效自然而实陷粗俗，无冲淡之境。"
+            }
+        ],
+        "imagery": [
+            "瓶",
+            "甑",
+            "盐醯",
+            "野蔬"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句“野蔬香”稍具生活气息。"
+        }
+    }
+]

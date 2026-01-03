@@ -1,0 +1,1296 @@
+[
+    {
+        "title": "郡圃上巳二首  其一",
+        "author": "楊萬里",
+        "paragraphs": [
+            "旋收雨夕放晴晨，禊日風光正可人。",
+            "間白參紅方是錦，疎桃散李不成春。"
+        ],
+        "paragraphs_simplified": [
+            "旋收雨夕放晴晨，禊日风光正可人。",
+            "间白参红方是锦，疏桃散李不成春。"
+        ],
+        "translation": "雨夕刚收，晴晨放晴，禊日风光正可人。间白参红方是锦，疏桃散李不成春。",
+        "score": 3.5,
+        "subject": [
+            "节令诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对比"
+            ],
+            "presentation_tags": [
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先点明雨后晴晨的背景，再染写风光与花色，最后以对比收束，强调春意浓郁。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“間白參紅方是錦”以锦缎比喻花色斑斓。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "“疎桃散李不成春”通过对比，反衬出风光的可人。"
+                }
+            ]
+        },
+        "analysis": "此诗写上巳节雨后晴景，开篇直叙天气转好，风光宜人。间白参红的比喻，勾勒出花色如锦的视觉盛宴，但“疏桃散李不成春”的批评略显直白，立意浅显，缺乏深层寄托。整体清新可读，然意象陈旧，未脱写景常套，情感流于表面。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "白、红、桃、李等意象，描绘出春日花色的浓丽景象。",
+                "realm": "能品",
+                "reason": "技法平实，写景准确，但意境未见新奇，属普通佳作。"
+            }
+        ],
+        "imagery": [
+            "雨",
+            "晨",
+            "风光",
+            "白",
+            "红",
+            "桃",
+            "李"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“旋收雨夕放晴晨，禊日風光正可人”以简练语言捕捉天气变化与风光宜人，最为自然。"
+        }
+    },
+    {
+        "title": "郡圃上巳二首  其二",
+        "author": "楊萬里",
+        "paragraphs": [
+            "尋春不見只思還，却在來僊小崦間。",
+            "映出一川桃李好，只消外面矮青山。"
+        ],
+        "paragraphs_simplified": [
+            "寻春不见只思还，却在来仙小崦间。",
+            "映出一川桃李好，只消外面矮青山。"
+        ],
+        "translation": "第一句：寻找春天却找不到，只想回去，却意外地在来仙的小山间发现了春色。第二句：映照出一川的桃李花美好，只需要外面矮矮的青山作为衬托。整首诗写寻春过程中的转折，从失望到意外发现美景，以简练笔法描绘自然之趣。",
+        "score": 3.5,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写寻春不遇而思归，后转折在意外地点发现美景，以景结情。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过描绘桃李和青山来表达寻春的喜悦"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "桃李好比美好的春景，青山象征自然衬托"
+                }
+            ]
+        },
+        "analysis": "此诗以白描手法勾勒寻春之趣，前两句写思归之念，后两句以小崦间桃李映青山之景作结，意境真切，情景交融。语言洗练，无堆砌之弊，情感含蓄有余味。整体构筑出一种意外发现的闲适之美，虽非顶级之作，但技法成熟，自然流畅。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "桃李、青山等意象清新，不事雕琢",
+                "realm": "能品",
+                "reason": "语言流畅，意境清新，但深度稍欠，属技法成熟之作"
+            }
+        ],
+        "imagery": [
+            "春",
+            "花",
+            "山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句以矮青山衬托桃李，转折点出意外之喜，意象凝聚"
+        }
+    },
+    {
+        "title": "看小舟除萍二首  其一",
+        "author": "楊萬里",
+        "paragraphs": [
+            "花伴吟哦柳伴行，生憎庭外晚衙聲。",
+            "獨携便面巡荷沼，自課蘭舟掠水萍。"
+        ],
+        "paragraphs_simplified": [
+            "花伴吟哦柳伴行，生憎庭外晚衙声。",
+            "独携便面巡荷沼，自课兰舟掠水萍。"
+        ],
+        "translation": "第一句：花儿伴随吟诗，柳树伴随行走，却厌恶庭院外的晚衙声音。第二句：独自携带便面（扇子）巡视荷塘，亲自驾驶兰舟掠过水面浮萍。整首诗写诗人除萍的闲适活动，对比官场喧嚣与自然宁静。",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "闲适诗"
+        ],
+        "emotion": [
+            "闲适",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句以花柳伴行反衬厌官场之声，后句写独游荷沼除萍，以行动表达超脱。",
+            "evidence": [
+                {
+                    "tag": "以乐衬哀",
+                    "explanation": "花柳之乐衬托对晚衙声的厌恶"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "花伴吟哦、柳伴行赋予自然以人性"
+                }
+            ]
+        },
+        "analysis": "此诗通过除萍小事，折射出诗人对官场生活的厌倦与对自然的向往。前句以花柳拟人化伴游，反衬晚衙声之扰；后句以独携便面、自课兰舟之细节，勾勒出疏野之趣。意境真切，情感在闲适中渗透愤懑，审美距离适中，有回甘之妙。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "花、柳、荷沼意象疏朗，体现不拘形迹",
+                "realm": "妙品",
+                "reason": "技法娴熟，以小见大，疏野中见真趣"
+            }
+        ],
+        "imagery": [
+            "花",
+            "柳",
+            "荷",
+            "萍",
+            "舟"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句以独携便面、自课兰舟之细节，生动展现疏野情怀"
+        }
+    },
+    {
+        "title": "看小舟除萍二首  其二",
+        "author": "楊萬里",
+        "paragraphs": [
+            "歲歲荷花苦未多，綠萍蓋水礙新荷。",
+            "請君六月重來看，雲錦千機不犯梭。"
+        ],
+        "paragraphs_simplified": [
+            "岁岁荷花苦未多，绿萍盖水碍新荷。",
+            "请君六月重来看，云锦千机不犯梭。"
+        ],
+        "translation": "第一句：年年荷花苦于不多，绿萍覆盖水面阻碍新荷生长。第二句：请您六月重来观看，那时云锦般的荷花千机织就，不犯梭（形容茂盛）。整首诗写除萍的必要性，以未来荷花盛景作期许。",
+        "score": 3.6,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "期待",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句写现状之弊，后句以未来盛景作结，显志于期许。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "云锦千机比喻荷花繁茂如织锦"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过除萍之事寄托对美好未来的期待"
+                }
+            ]
+        },
+        "analysis": "此诗以除萍为题，前句直陈绿萍碍荷之实，后句以虚笔描绘六月荷盛之景，虚实结合，构筑出期许之美。语言简练，意象鲜明，情感在闲适中流露期待。整体立意清晰，但稍显直白，缺乏深层回环。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "绿萍、新荷、云锦意象有力，体现生长之势",
+                "realm": "能品",
+                "reason": "结构紧凑，但意象略显单一，属实用之作"
+            }
+        ],
+        "imagery": [
+            "荷",
+            "萍",
+            "云锦"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句以云锦千机之喻，生动展现未来盛景，点明主旨"
+        }
+    },
+    {
+        "title": "讀退之李花詩",
+        "author": "楊萬里",
+        "paragraphs": [
+            "近紅暮看失燕支，遠白宵明雪色奇。",
+            "花不見桃惟見李，一生不曉退之詩。"
+        ],
+        "paragraphs_simplified": [
+            "近红暮看失燕支，远白宵明雪色奇。",
+            "花不见桃惟见李，一生不晓退之诗。"
+        ],
+        "translation": "第一句：近看红色在暮色中失去胭脂般的鲜艳，远看白色在夜晚明亮如雪色奇观。第二句：花中不见桃花只看见李花，一生都不明白韩愈（退之）的诗。整首诗通过对比红白李花，表达对韩愈诗的不解与赞美。",
+        "score": 4.2,
+        "subject": [
+            "咏物诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "暮"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句写李花红白之色变，后句点出对韩愈诗的不解，以典结情。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "退之指韩愈，引用其李花诗"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "红暮失色与远白宵明对比，突出李花奇观"
+                }
+            ]
+        },
+        "analysis": "此诗以李花为题，前句精工描绘红白李花在暮色与夜色中的变幻，意象奇崛；后句以退之典故直指韩愈诗之妙，流露敬佩与不解。情景契合度高，意境真切，情感在迷茫中见深度，整体构筑出咏物怀古之交融美。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "红白李花与雪色意象清奇，不落俗套",
+                "realm": "妙品",
+                "reason": "用典自然，意象独特，艺术价值较高"
+            }
+        ],
+        "imagery": [
+            "李花",
+            "红",
+            "白",
+            "雪"
+        ],
+        "allusions": [
+            {
+                "phrase": "退之",
+                "explanation": "指唐代诗人韩愈，字退之，其有李花诗"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以红白对比描绘李花色变，意象精奇，奠定全诗基调"
+        }
+    },
+    {
+        "title": "郡圃曉步因登披僊閣四首  其一",
+        "author": "楊萬里",
+        "paragraphs": [
+            "昨來風日較暄些，破曉來遊特地佳。",
+            "也自低頭花下過，依前撞落一頭花。"
+        ],
+        "paragraphs_simplified": [
+            "昨来风日较暄些，破晓来游特地佳。",
+            "也自低头花下过，依前撞落一头花。"
+        ],
+        "translation": "第一句：昨天风日较暖和，破晓来游特别美好。第二句：也自低头从花下经过，照旧撞落一头花。整首诗写清晨散步的闲趣，以撞落花的细节表现自然之乐。",
+        "score": 3.4,
+        "subject": [
+            "山水诗",
+            "闲适诗"
+        ],
+        "emotion": [
+            "闲适",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句写风日之佳与游时，后句以撞落花之动景作结，动静相生。",
+            "evidence": [
+                {
+                    "tag": "动静结合",
+                    "explanation": "低头花下过为静，撞落花为动"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "撞落一头花夸张表现花之繁茂"
+                }
+            ]
+        },
+        "analysis": "此诗以晓步为题，前句写风日暄和、破晓游佳，后句以撞落花之细节，勾勒出闲适之趣。语言平实，意象鲜活，但立意浅显，缺乏深层意蕴。情感直露，情景结合尚可，整体属平庸之作，无大瑕疵亦无亮点。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "风日、花意象普通，缺乏独特性",
+                "realm": "逸品",
+                "reason": "试图自然但流于浅俗，意象陈旧"
+            }
+        ],
+        "imagery": [
+            "风",
+            "日",
+            "花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句以撞落花之细节，稍显生动，但整体平庸"
+        }
+    },
+    {
+        "title": "郡圃曉步因登披僊閣四首  其二",
+        "author": "楊萬里",
+        "paragraphs": [
+            "李花半落雪成堆，末後桃花陸續開。",
+            "白錦地衣紅錦障，侵晨供張等儂來。"
+        ],
+        "paragraphs_simplified": [
+            "李花半落雪成堆，末后桃花陆续开。",
+            "白锦地衣红锦障，侵晨供张等侬来。"
+        ],
+        "translation": "李花半落，堆积如雪；最后桃花陆续开放。白锦般的地衣，红锦般的屏障，清晨准备着等待我来。",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写李花落、桃花开之景，再铺陈地衣锦障，点明清晨待客。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "李花半落雪成堆，以雪喻落花，形色兼备"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "白锦地衣红锦障，工整对仗，强化色彩对比"
+                }
+            ]
+        },
+        "analysis": "此诗勾勒春晨园圃之景，李花如雪堆积，桃花次第开放，意象清新生动。白锦地衣与红锦障的铺陈，渲染出富丽而不失雅致的氛围。侵晨待客之举，流露闲适自得之情。情景交融，意境真切，然整体平铺直叙，缺乏更深层的意蕴开掘，稍显平淡。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "以雪喻花，色彩对比鲜明，构筑繁富意象",
+                "realm": "能",
+                "reason": "意象丰美，技法纯熟，但立意未见新奇"
+            }
+        ],
+        "imagery": [
+            "花",
+            "雪",
+            "锦缎"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "李花半落雪成堆，比喻新颖，画面感强烈"
+        }
+    },
+    {
+        "title": "郡圃曉步因登披僊閣四首  其三",
+        "author": "楊萬里",
+        "paragraphs": [
+            "百五佳時更絕晨，園丁猶未放遊人。",
+            "瘦藤拄上披僊閣，四面花光照殺春。"
+        ],
+        "paragraphs_simplified": [
+            "百五佳时更绝晨，园丁犹未放游人。",
+            "瘦藤拄上披仙阁，四面花光照杀春。"
+        ],
+        "translation": "寒食佳时更是绝妙清晨，园丁尚未放游人进入。瘦藤支撑登上披仙阁，四面花光耀眼，照亮了整个春天。",
+        "score": 3.9,
+        "subject": [
+            "山水诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句点明寒食清晨独游，次句写登阁所见花光盛景。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "花光照杀春，极言花光之浓烈，力透纸背"
+                }
+            ]
+        },
+        "analysis": "此诗写寒食清晨独游披仙阁，园丁未放人，独享春光。瘦藤拄阁之态，生动形象；四面花光，境界开阔。“照杀春”三字，以夸张手法将春光之绚烂推向极致，力避陈词。整体清新自然，有疏野之趣，然意象稍显单薄，未臻浑成。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "独得自然真趣，不事雕琢，直指本心",
+                "realm": "妙",
+                "reason": "独辟蹊径，疏放不羁，但锤炼稍欠"
+            }
+        ],
+        "imagery": [
+            "时间",
+            "园丁",
+            "藤",
+            "阁",
+            "花光"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "四面花光照杀春，夸张有力，意境全出"
+        }
+    },
+    {
+        "title": "郡圃曉步因登披僊閣四首  其四",
+        "author": "楊萬里",
+        "paragraphs": [
+            "只道春來不見痕，風邀雨勒未忺人。",
+            "暄雲淑日消多少，花柳匆匆了却春。"
+        ],
+        "paragraphs_simplified": [
+            "只道春来不见痕，风邀雨勒未忺人。",
+            "暄云淑日消多少，花柳匆匆了却春。"
+        ],
+        "translation": "只说春来却不见痕迹，风邀雨阻让人不快。暖云好日消磨了多少，花柳匆匆结束了春天。",
+        "score": 3.7,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "惆怅",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句写春来无痕、风雨阻人，后句叹花柳匆匆，春光易逝。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "风邀雨勒，赋予风雨人性，生动传达春意未畅之憾"
+                }
+            ]
+        },
+        "analysis": "此诗感时伤逝，风邀雨勒，春意未畅；暄云淑日，花柳匆匆。拟人手法鲜活，但意象较抽象，情感表达直白，缺乏含蓄回甘之美。立意常见于咏春诗中，未见独特开掘，整体流于平庸。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "直指春光易逝，寄寓人生无常之叹",
+                "realm": "能",
+                "reason": "有感时伤逝之意，但情感挖掘未深"
+            }
+        ],
+        "imagery": [
+            "春",
+            "风雨",
+            "云日",
+            "花柳"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "花柳匆匆了却春，简洁有力，点明主题"
+        }
+    },
+    {
+        "title": "嘲報春花",
+        "author": "楊萬里",
+        "paragraphs": [
+            "嫩黄老碧已多時，騃紫癡紅略萬枝。",
+            "始有報春三兩朶，春深猶自不曾知。"
+        ],
+        "paragraphs_simplified": [
+            "嫩黄老碧已多时，騃紫痴红略万枝。",
+            "始有报春三两朵，春深犹自不曾知。"
+        ],
+        "translation": "嫩黄老碧已存在多时，傻紫痴红大概有万枝。才有报春的三两朵，春深了还不曾知道。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗",
+            "讽刺诗"
+        ],
+        "emotion": [
+            "讽刺"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "讽刺"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句铺陈百花已盛，次句点出报春花迟钝，形成反差。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "报春花不知春深，拟人化讽刺，略显直白"
+                }
+            ]
+        },
+        "analysis": "此诗嘲讽报春花迟钝，百花已开万枝，它才三两朵，春深不知。拟人手法有趣，但意象陈旧，语言直白，缺乏机锋。讽刺流于表面，未见深层意蕴，整体立意浅显，近于打油。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以自然语讽物，但失之浅露",
+                "realm": "凡",
+                "reason": "立意浅显，语言平庸，模仿幽默而失败"
+            }
+        ],
+        "imagery": [
+            "花",
+            "报春花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "春深犹自不曾知，点题之笔，略具讽刺"
+        }
+    },
+    {
+        "title": "垂絲海棠盛開",
+        "author": "楊萬里",
+        "paragraphs": [
+            "垂絲別得一風光，誰道全輸蜀海棠。",
+            "風攪玉皇紅世界，日烘青帝紫衣裳。",
+            "嬾無氣力仍春醉，睡起精神欲曉粧。",
+            "舉似老夫新句子，看渠桃杏敢承當。"
+        ],
+        "paragraphs_simplified": [
+            "垂丝别得一风光，谁道全输蜀海棠。",
+            "风搅玉皇红世界，日烘青帝紫衣裳。",
+            "懒无气力仍春醉，睡起精神欲晓妆。",
+            "举似老夫新句子，看渠桃杏敢承当。"
+        ],
+        "translation": "垂丝海棠另得一番风光，谁说全输蜀地海棠。风搅动玉皇的红世界，日烘烤青帝的紫衣裳。懒无气力仍如春醉，睡起精神欲要晓妆。举给老夫新句子，看那桃杏敢承当。",
+        "score": 4.2,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句点题自夸，次句虚实结合写风日烘托，三句拟人写醉态，末句议论收束。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "风搅玉皇红世界，以神话境界喻花海之绚烂"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "懒无气力仍春醉，赋予海棠慵懒醉态，生动传神"
+                }
+            ]
+        },
+        "analysis": "此诗咏垂丝海棠，首句即自诩其美不输蜀海棠。次句想象瑰丽，风搅红世界、日烘紫衣裳，境界宏阔，色彩绚烂。三句拟人，写海棠如醉如妆，妙趣横生。末句以桃杏承当作结，幽默自信。整体技法娴熟，意象新奇，但“玉皇”“青帝”用典稍显生硬，未尽浑成。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "色彩浓烈，想象奇崛，构筑华美意象",
+                "realm": "妙",
+                "reason": "意象繁富，想象奇特，但偶有雕琢痕迹"
+            }
+        ],
+        "imagery": [
+            "海棠",
+            "风",
+            "日",
+            "天帝",
+            "桃杏"
+        ],
+        "allusions": [
+            {
+                "phrase": "玉皇",
+                "explanation": "指玉皇大帝，象征红色世界"
+            },
+            {
+                "phrase": "青帝",
+                "explanation": "指东方之神，象征春天"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "风搅玉皇红世界，日烘青帝紫衣裳，想象奇特，色彩绚烂"
+        }
+    },
+    {
+        "title": "酴醾初發",
+        "author": "楊萬里",
+        "paragraphs": [
+            "一春長是怨春遲，過却春光總不知。",
+            "已負海棠桃李了，再三莫更負酴醾。"
+        ],
+        "paragraphs_simplified": [
+            "一春长是怨春迟，过却春光总不知。",
+            "已负海棠桃李了，再三莫更负酴醾。"
+        ],
+        "translation": "整个春天总是抱怨春天来得晚，错过了春光却总不知道。已经辜负了海棠和桃李，再三不要更辜负荼蘼。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先以抱怨春迟起笔，铺垫遗憾之情，末句点题告诫勿负酴醾，形成情感转折。",
+            "evidence": [
+                {
+                    "tag": "直接抒情",
+                    "explanation": "“再三莫更负酴醾”直截了当表达情感，无隐晦。"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "末句“再三莫更负酴醾”揭示全诗主旨，收束有力。"
+                }
+            ]
+        },
+        "analysis": "此诗以春迟为引，串联海棠、桃李与酴醾，构筑起春光流逝的意象链。情感从怨怼转向告诫，虽有层次，但意象陈旧，缺乏新奇之境。语言平实直白，未见精妙修辞，整体流于应景，未能升华至深邃意境。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以春光、花期为核，意象寻常，未脱俗套。",
+                "realm": "凡品",
+                "reason": "试图以自然语风抒情，但立意浅显，缺乏含蓄之味，流于平庸。"
+            }
+        ],
+        "imagery": [
+            "春光",
+            "海棠",
+            "桃李",
+            "荼蘼"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句点题，情感转折处最具代表性。"
+        }
+    },
+    {
+        "title": "荷亭倚欄",
+        "author": "楊萬里",
+        "paragraphs": [
+            "魚跳龜戲不曾閑，萍盡荷生尚未繁。",
+            "水面圜紋亂相入，玻瓈盆旋玉連環。"
+        ],
+        "paragraphs_simplified": [
+            "鱼跳龟戏不曾闲，萍尽荷生尚未繁。",
+            "水面圆纹乱相入，玻璃盆旋玉连环。"
+        ],
+        "translation": "鱼跳龟戏不曾闲，萍草尽荷花生但尚未繁茂。水面圆纹乱相入，玻璃盆旋转玉连环。",
+        "score": 4.0,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句写鱼龟动态，次句写荷萍静态，后两句以比喻勾勒水面波纹，动静相衬，层次分明。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“玻瓈盆旋玉连环”将水面波纹比作旋转的玻璃盆与玉环，形象生动。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "“鱼跳龟戏”与“水面圜纹”形成动态与静态的对比。"
+                }
+            ]
+        },
+        "analysis": "此诗捕捉荷亭瞬间景致，鱼龟之动与水面之静交融，比喻新奇，将寻常波纹升华为“玻瓈盆”“玉连环”之雅致意象。观察细腻，语言洗炼，虽无深沉情感，却以物象之趣构筑闲适之境，体现诚斋体对自然机趣的敏锐把握。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以鱼、龟、荷、水波为核心，意象清新，动静相宜。",
+                "realm": "能品",
+                "reason": "技法纯熟，比喻精妙，但意境未达超逸之境。"
+            }
+        ],
+        "imagery": [
+            "鱼",
+            "龟",
+            "萍",
+            "荷",
+            "水",
+            "波纹"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“玻瓈盆旋玉连环”比喻独特，最具诗味。"
+        }
+    },
+    {
+        "title": "披僊閣上觀酴醾二首  其一",
+        "author": "楊萬里",
+        "paragraphs": [
+            "仰架遥看時見些，登樓下瞰脫然佳。",
+            "酴醾蝴蝶渾無辨，飛去方知不是花。"
+        ],
+        "paragraphs_simplified": [
+            "仰架遥看时见些，登楼下瞰脱然佳。",
+            "酴醾蝴蝶浑无辨，飞去方知不是花。"
+        ],
+        "translation": "仰架遥看时隐约见到，登楼下瞰脱然佳。酴醾蝴蝶浑无辨，飞去方知不是花。",
+        "score": 4.2,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美",
+            "惊喜"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句写远观近看之景，后两句以误认蝴蝶为花，虚实相生，从视觉错觉中生发趣味。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“酴醾蝴蝶浑无辨”以蝴蝶喻花，凸显花之翩跹态。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "“飞去方知不是花”由实（花）转虚（蝶），点破幻象。"
+                }
+            ]
+        },
+        "analysis": "此诗以观花为题，巧用视觉混淆，将酴醾与蝴蝶交织，构筑虚实相生的妙境。语言诙谐，转折自然，从“浑无辨”到“方知”，层层递进，趣味盎然。虽为小景，却以机趣取胜，拓宽了咏物诗的戏谑维度。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以酴醾、蝴蝶为核心，意象灵动，虚实交融。",
+                "realm": "能品",
+                "reason": "构思新颖，但未及神品之空灵。"
+            }
+        ],
+        "imagery": [
+            "酴醾",
+            "蝴蝶",
+            "楼"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“飞去方知不是花”点破幻象，全诗精髓所在。"
+        }
+    },
+    {
+        "title": "披僊閣上觀酴醾二首  其二",
+        "author": "楊萬里",
+        "paragraphs": [
+            "酴醾約我早來看，及至來看花已殘。",
+            "動地寒風君莫怯，亂吹香雪灑欄干。"
+        ],
+        "paragraphs_simplified": [
+            "酴醾约我早来看，及至来看花已残。",
+            "动地寒风君莫怯，乱吹香雪洒栏干。"
+        ],
+        "translation": "荼醾约我早来看，及至来看花已残。动地寒风君莫怯，乱吹香雪洒栏干。",
+        "score": 3.8,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首句拟人写花期之约，次句转折写花残，后两句以豁达语对冲寒风，情感从遗憾转向超脱。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“酴醾约我”赋予花以人情，生动亲切。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“香雪”喻指飘落的花瓣，雅致凄美。"
+                }
+            ]
+        },
+        "analysis": "此诗以错过花期为憾，却以拟人笔法将酴醾人格化，末句借“香雪”之喻化解寒风之怯，情感由抑转扬。语言简练，转折自然，虽未脱俗套，但豁达之态可掬，体现了诗人对无常的坦然。",
+        "poetry_styles": [
+            {
+                "style": "旷达",
+                "imagery_analysis": "以酴醾、寒风、香雪为象，意象凄美而含超然。",
+                "realm": "能品",
+                "reason": "情感真挚，但意象未脱常见范畴。"
+            }
+        ],
+        "imagery": [
+            "酴醾",
+            "寒风",
+            "香雪",
+            "栏干"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“酴醾约我”拟人巧妙，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "亦山亭前梅子",
+        "author": "楊萬里",
+        "paragraphs": [
+            "道傍小樹復低枝，摘盡青梅肯更遺。",
+            "偶爾葉間留一箇，且看漏眼幾多時。"
+        ],
+        "paragraphs_simplified": [
+            "道旁小树复低枝，摘尽青梅肯更遗。",
+            "偶尔叶间留一个，且看漏眼几多时。"
+        ],
+        "translation": "道旁小树低枝，摘尽青梅怎肯再遗漏。偶尔叶间留一个，且看漏眼多少时。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "农事诗"
+        ],
+        "emotion": [
+            "闲适",
+            "趣味"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "白描"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "细节描写"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直述摘梅过程，从摘尽到偶留，平铺直叙，无起伏转折。",
+            "evidence": [
+                {
+                    "tag": "白描",
+                    "explanation": "“摘尽青梅肯更遗”以朴素语言记录动作，无修饰。"
+                }
+            ]
+        },
+        "analysis": "此诗记录摘梅琐事，语言直白如口语，意象单薄，仅止于物象罗列。缺乏情感深度与艺术提炼，近乎日常记录，未见诗意升华。虽有闲适之趣，但流于浅显，难称佳作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以树、梅子、叶为象，意象琐碎，缺乏提炼。",
+                "realm": "凡品",
+                "reason": "试图以自然语风写农事，但失之浅陋，未达冲淡之境。"
+            }
+        ],
+        "imagery": [
+            "树",
+            "梅子",
+            "叶"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句相对通顺，但整体平庸。"
+        }
+    },
+    {
+        "title": "塹荷池水",
+        "author": "楊萬里",
+        "paragraphs": [
+            "雨中來看塹池塘，自與畦丁細校量。",
+            "更放水痕高幾許，浮荷猶剩若干長。"
+        ],
+        "paragraphs_simplified": [
+            "雨中来看堑池塘，自与畦丁细校量。",
+            "更放水痕高几许，浮荷犹剩若干长。"
+        ],
+        "translation": "在雨中来看堑塞的池塘，自己和园丁仔细地计算比较。再放水痕迹高多少，浮着的荷叶还剩下多少长。",
+        "score": 2.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "全诗直接描述雨中观察池塘的场景，与园丁计算水量和荷叶长度，结构简单直白。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "描述了雨中看池塘和与园丁计算的细节。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过观察池塘和荷叶来流露对自然的关注。"
+                }
+            ]
+        },
+        "analysis": "此诗描绘雨中检视池塘的琐事，语言平实，缺乏诗意升华。意象如“雨”、“池塘”、“荷叶”虽具体但陈旧，未形成审美距离。情感流于表面，无回甘之趣，整体立意浅显，近乎日记体，未能超越日常经验。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "意象如“雨”、“池塘”、“水痕”过于直白，缺乏提炼，未能展现自然之趣。",
+                "realm": "劣作",
+                "reason": "试图模仿自然风格，但流于浅白，缺乏诗意和艺术加工。"
+            }
+        ],
+        "imagery": [
+            "雨",
+            "池塘",
+            "水",
+            "荷叶"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句“雨中來看塹池塘”稍具画面感，但整体平淡。"
+        }
+    }
+]

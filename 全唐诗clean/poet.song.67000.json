@@ -1,0 +1,1104 @@
+[
+    {
+        "title": "新安四詠  其四",
+        "author": "崔鶠",
+        "paragraphs": [
+            "我愛新安好，新安度歲華。",
+            "風烟迷郡閣，浦溆带人家。",
+            "南畝元多黍，丘中亦種麻。",
+            "更逢飄皂蓋，疆埸視新瓜。"
+        ],
+        "paragraphs_simplified": [
+            "我爱新安好，新安度岁华。",
+            "风烟迷郡阁，浦溆带人家。",
+            "南亩元多黍，丘中亦种麻。",
+            "更逢飘皂盖，疆埸视新瓜。"
+        ],
+        "translation": "我喜爱新安的美好，新安度过岁月年华。风烟迷漫郡阁，水边浦溆环绕着人家。南边的田地原本多产黍子，丘陵中也种植麻。又遇到飘动的黑色车盖，在田界边查看新结的瓜。",
+        "score": 3.5,
+        "subject": [
+            "山水诗",
+            "农事诗"
+        ],
+        "emotion": [
+            "闲适",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "以直抒胸臆起笔，转入景物与农事描写，终以田间巡视收束，展现对乡土的深情。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“南畝元多黍，丘中亦種麻”运用工整的对仗，强化田园生活的节奏感。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过风烟、郡阁、浦溆等意象，间接流露对新安风物的眷恋。"
+                }
+            ]
+        },
+        "analysis": "此诗以平实笔触勾勒新安风物，语言质朴而意象清晰。首联直陈喜爱之情，奠定基调；颔联以风烟迷漫、水绕人家的画面，渲染出宁静的居住环境；颈联聚焦农耕细节，黍麻并举，展现土地丰饶；尾联以皂盖巡瓜的动态场景收束，赋予田园生活以实际关怀。整体结构严谨，由宏观至微观，情感渗透于景物描写之中，但意象选择较为传统，缺乏突破性创新，属于工稳的应景之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "诗中风烟、郡阁、南亩、黍麻等意象，构筑出朴素的田园图景，符合“自然”风格中对日常生活的捕捉。",
+                "realm": "能品",
+                "reason": "技法娴熟，结构完整，但立意与用词皆循常规，未达妙品之境。"
+            }
+        ],
+        "imagery": [
+            "烟",
+            "建筑",
+            "水",
+            "家",
+            "田",
+            "黍",
+            "麻",
+            "车",
+            "瓜"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "尾联“更逢飄皂蓋，疆埸視新瓜”以动态细节收尾，生动体现田园劳作的实景。"
+        }
+    },
+    {
+        "title": "績溪道中三首  其一",
+        "author": "崔鶠",
+        "paragraphs": [
+            "䆉稏青衣未剡芒，聯拳荷葉已秋香。",
+            "笋輿十里青松路，高捲蒙紗遡晚凉。"
+        ],
+        "paragraphs_simplified": [
+            "䆉稏青衣未剡芒，联拳荷叶已秋香。",
+            "笋舆十里青松路，高卷蒙纱溯晚凉。"
+        ],
+        "translation": "稻禾青衣尚未吐芒，卷曲的荷叶已散发秋香。竹轿行经十里青松路，高卷蒙纱逆着晚凉而行。",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "行旅诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句静写植物形态与香气，后句动述旅途中的感官体验，以行踪串联景物。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“青衣”喻指稻禾叶片，赋予植物以人格色彩。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "静态的荷叶秋香与动态的竹轿行路形成对比，增强画面层次。"
+                }
+            ]
+        },
+        "analysis": "诗作捕捉旅途中的瞬间印象，以“青衣”“联拳”等词拟人化植物，生动传神。青松路与晚凉的触觉描写，营造出清幽的行旅氛围。秋香与蒙纱的嗅觉与视觉交织，体现细腻的观察力。整体节奏舒缓，情感内敛，但篇幅短小，意象集中，未充分展开山水长卷，属于精炼的即景小品。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "稻禾、荷叶、青松、晚凉等意象，皆取自寻常行旅所见，组合成清新自然的画面。",
+                "realm": "能品",
+                "reason": "语言流畅，情景交融，但题材局限于片段，未达超逸之境。"
+            }
+        ],
+        "imagery": [
+            "稻",
+            "荷",
+            "松",
+            "轿",
+            "纱",
+            "凉"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句“䆉稏青衣未剡芒，聯拳荷葉已秋香”以精炼的比喻勾勒植物形态，意象鲜明。"
+        }
+    },
+    {
+        "title": "績溪道中三首  其二",
+        "author": "崔鶠",
+        "paragraphs": [
+            "摐摐名木列千兵，風雨斜來捲旆旌。",
+            "愁倚寺門南下望，水烟不見小橋橫。"
+        ],
+        "paragraphs_simplified": [
+            "摐摐名木列千兵，风雨斜来卷旆旌。",
+            "愁倚寺门南下望，水烟不见小桥横。"
+        ],
+        "translation": "摐摐名木排列如千兵，风雨斜来卷动旗帜。愁倚寺门向南望去，水烟弥漫不见小桥横卧。",
+        "score": 3.6,
+        "subject": [
+            "山水诗",
+            "行旅诗"
+        ],
+        "emotion": [
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句以雄浑比喻写风雨中的树木，后句转入个人愁绪与远望的失落，形成情感转折。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“列千兵”将名木比作军队，强化风雨中的肃杀氛围。"
+                },
+                {
+                    "tag": "直接抒情",
+                    "explanation": "“愁倚”二字直白点出情绪，奠定全诗基调。"
+                }
+            ]
+        },
+        "analysis": "此诗前半以军事意象渲染风雨之势，树木如兵、旆旌翻卷，充满动感与张力；后半急转至愁倚寺门的静态孤独，水烟遮蔽小桥，象征归途迷茫。情感从外景的激烈转向内心的沉郁，对比强烈。但“愁”字直露，略减含蓄之美，整体属工整的抒情写景之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "名木、风雨、水烟等意象，共同构筑出苍凉悲壮的意境，契合“悲慨”之风。",
+                "realm": "能品",
+                "reason": "比喻生动，情感真切，但表达稍显直白，未臻沉郁顿挫之妙。"
+            }
+        ],
+        "imagery": [
+            "树",
+            "兵",
+            "雨",
+            "旗",
+            "门",
+            "烟",
+            "桥"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句“水烟不見小橋橫”以景结情，含蓄传达迷茫与失落。"
+        }
+    },
+    {
+        "title": "績溪道中三首  其三",
+        "author": "崔鶠",
+        "paragraphs": [
+            "山口含糊半吐雲，林頭時見綠紛紛。",
+            "何人解作孤鸞嘯，呼取凉風入帽裙。"
+        ],
+        "paragraphs_simplified": [
+            "山口含糊半吐云，林头时见绿纷纷。",
+            "何人解作孤鸾啸，呼取凉风入帽裙。"
+        ],
+        "translation": "山口模糊半吐云，林头时见绿意纷繁。谁人能解孤鸾长啸？呼唤凉风进入帽裙之间。",
+        "score": 4.2,
+        "subject": [
+            "山水诗",
+            "行旅诗"
+        ],
+        "emotion": [
+            "豁达",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句实写山林云雾之景，后句以虚笔设问孤鸾之啸，引出呼唤凉风的洒脱行为。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“孤鸞嘯”喻指超凡脱俗的清音，增添诗意。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "“何人解作”以问句引发联想，增强互动感。"
+                }
+            ]
+        },
+        "analysis": "诗作前半以“含糊”“纷纷”等词描摹山林云雾的朦胧美，后半突发奇想，以孤鸾啸引入神话意象，再以“呼取凉风”的动作收束，虚实相生，充满逸趣。语言灵动，情感豁达，将行旅中的孤寂转化为与自然的对话。意境清奇，节奏明快，堪称佳作。",
+        "poetry_styles": [
+            {
+                "style": "飘逸",
+                "imagery_analysis": "山口、云、林、孤鸾、凉风等意象，组合成空灵超脱的境界，体现“飘逸”之风。",
+                "realm": "妙品",
+                "reason": "想象独特，语言洒脱，情景交融，具有较高的艺术感染力。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "云",
+            "林",
+            "绿",
+            "鸟",
+            "风",
+            "衣"
+        ],
+        "allusions": [
+            {
+                "phrase": "孤鸞",
+                "explanation": "神话中的孤独凤凰，象征稀世之音或高洁情怀。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句“何人解作孤鸞嘯，呼取凉風入帽裙”以奇想与动作结合，展现超然心境。"
+        }
+    },
+    {
+        "title": "婆娑園",
+        "author": "崔鶠",
+        "paragraphs": [
+            "晚禽噪竹百千翅，殘菊橫枝三兩花。",
+            "好在山園養衰廢，風波不到野人家。"
+        ],
+        "paragraphs_simplified": [
+            "晚禽噪竹百千翅，残菊横枝三两花。",
+            "好在山园养衰废，风波不到野人家。"
+        ],
+        "translation": "傍晚鸟儿在竹间鸣叫，振翅无数；残菊横斜枝头，仅存三两花朵。好在山园中安养衰朽，风波到不了这野人之家。",
+        "score": 3.7,
+        "subject": [
+            "咏物诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句以密集与稀疏的对比写园中景物，后句直抒胸臆，点明山园避世的益处。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "“百千翅”与“三兩花”形成数量对比，突出晚景的喧闹与寂寥。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "以山园风波不至，寄托远离世俗纷扰的志趣。"
+                }
+            ]
+        },
+        "analysis": "此诗通过晚禽噪竹与残菊横枝的意象对比，生动呈现山园暮色。前句的“百千翅”以夸张手法写鸟群之盛，反衬后句“三兩花”的孤寂，暗含生命盛衰之理。后句直陈“养衰废”的恬淡心态，以“风波不到”强化隐居的安宁。语言简练，情感内敛，但意象略显陈旧，整体属平稳的田园抒怀。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "晚禽、残菊、山园等意象，营造出平和淡泊的氛围，符合“冲淡”之境。",
+                "realm": "能品",
+                "reason": "情感真挚，结构清晰，但创新不足，未能超越同类题材的常规表达。"
+            }
+        ],
+        "imagery": [
+            "鸟",
+            "竹",
+            "菊",
+            "园",
+            "风",
+            "家"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句“晚禽噪竹百千翅，殘菊橫枝三兩花”以对比手法勾勒园景，画面感强。"
+        }
+    },
+    {
+        "title": "句  其一",
+        "author": "崔鶠",
+        "paragraphs": [
+            "伯鸞下吳越。"
+        ],
+        "paragraphs_simplified": [
+            "伯鸾下吴越。"
+        ],
+        "translation": "伯鸾（人名）来到了吴越（地名）。这句诗简洁地叙述了伯鸾这一人物前往吴越地区的行动，可能隐含历史典故，但缺乏具体背景描绘。",
+        "score": 1.5,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "羁旅"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "单句直陈，无复杂结构，直接点出人物与地点。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "‘伯鸾’可能引用东汉梁鸿（字伯鸾）的典故，但未展开，仅作陈述。"
+                }
+            ]
+        },
+        "analysis": "此句作为残句，意象单薄，仅以人物与地名拼凑，缺乏情景交融与意境深度。语言直白无波澜，未能构筑任何审美空间，流于表面叙述，整体平庸至极。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "试图以简笔勾勒疏放之境，但意象空洞，未达自然之趣。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，徒有形式而无神韵，沦为粗疏之语。"
+            }
+        ],
+        "imagery": [
+            "伯鸾",
+            "吴越"
+        ],
+        "allusions": [
+            {
+                "phrase": "伯鸾",
+                "explanation": "可能指东汉隐士梁鸿，但此处仅作人名使用，未深化典故内涵。"
+            }
+        ],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句唯一，但无亮点，仅勉强通顺。"
+        }
+    },
+    {
+        "title": "句  其二",
+        "author": "崔鶠",
+        "paragraphs": [
+            "遙知金剎近，林表颺幡尾。"
+        ],
+        "paragraphs_simplified": [
+            "遥知金刹近，林表扬幡尾。"
+        ],
+        "translation": "远远便知金色佛寺已近在眼前，树林边缘处幡旗尾部随风飘扬。前句写感知，后句绘视觉，共同营造出远眺寺庙的宁静画面。",
+        "score": 3.0,
+        "subject": [
+            "山水诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句以‘遥知’引出空间感，后句以‘林表’承接细节，动静相衬，结构紧凑。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过‘金刹’与‘幡尾’的意象，间接流露对禅境的向往。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "‘近’的静态感知与‘扬’的动态描绘形成对比。"
+                }
+            ]
+        },
+        "analysis": "此联以简练笔法勾勒山寺远景，‘金刹’与‘幡尾’意象清丽，动静相生，构筑出恬淡的禅意空间。但情感表达较为含蓄，缺乏深层波澜，整体技法成熟而立意平实，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以‘金刹’‘幡尾’点染出清幽之境，但未突破常规，略显平淡。",
+                "realm": "能",
+                "reason": "意境清朗，但缺乏惊艳之笔，未能臻于妙境。"
+            }
+        ],
+        "imagery": [
+            "金刹",
+            "林表",
+            "幡尾"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "‘遥知金刹近’以感知起笔，更具空间张力。"
+        }
+    },
+    {
+        "title": "句  其三",
+        "author": "崔鶠",
+        "paragraphs": [
+            "小艇元從天上來，白雲自向盃中落。"
+        ],
+        "paragraphs_simplified": [
+            "小艇元从天上来，白云自向杯中落。"
+        ],
+        "translation": "小船仿佛从天而降，白云自然倒映入酒杯，似落其中。前句写船来之奇，后句绘云落之幻，虚实交融，想象超脱。",
+        "score": 4.0,
+        "subject": [
+            "山水诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句以‘天上’铺垫奇幻，后句以‘杯中’收束虚实，形成闭环，动静相映。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "将小艇比作天上来客，白云比作落杯之物，强化超然意境。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "‘天上’与‘杯中’虚实相生，拓宽想象空间。"
+                }
+            ]
+        },
+        "analysis": "此联以夸张比喻构筑飘逸之境，‘天上’与‘杯中’的意象碰撞，折射出物我两忘的豁达情怀。语言凝练，动静虚实交织，艺术感染力强，堪称能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "飘逸",
+                "imagery_analysis": "‘小艇’‘白云’意象轻盈，营造出洒脱超诣的意境。",
+                "realm": "妙",
+                "reason": "技法纯熟，意境高远，具回甘之韵。"
+            }
+        ],
+        "imagery": [
+            "小艇",
+            "天上",
+            "白云",
+            "杯"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘白云自向杯中落’以奇幻收尾，余味悠长。"
+        }
+    },
+    {
+        "title": "句  其四",
+        "author": "崔鶠",
+        "paragraphs": [
+            "翠裘錦帽初相識，魚虎彎環略岸飛。"
+        ],
+        "paragraphs_simplified": [
+            "翠裘锦帽初相识，鱼虎弯环略岸飞。"
+        ],
+        "translation": "身着翠裘头戴锦帽之人初次相识，鱼虎鸟弯曲环绕掠过岸边飞翔。前句写人物服饰与相遇，后句绘鸟类动态，场景生动。",
+        "score": 3.2,
+        "subject": [
+            "山水诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "动静结合",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句以‘初相识’引入人物，后句以‘略岸飞’烘托环境，动静相衬，场景连贯。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "‘翠裘锦帽’刻画服饰，‘鱼虎弯环’描绘鸟姿，细节丰富。"
+                },
+                {
+                    "tag": "侧面烘托",
+                    "explanation": "以鸟类动态衬托闲适氛围。"
+                }
+            ]
+        },
+        "analysis": "此联以工笔细描人物与自然，‘翠裘锦帽’与‘鱼虎弯环’意象鲜明，动静交织，勾勒出闲适场景。但‘初相识’略显突兀，情感衔接生硬，整体技法娴熟而意境未深，属凡品。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "试图以华美意象（翠裘、锦帽）营造秾丽之境，但未能融合自然。",
+                "realm": "能",
+                "reason": "辞藻堆砌，未达纤秾之妙，略显浮华。"
+            }
+        ],
+        "imagery": [
+            "翠裘",
+            "锦帽",
+            "鱼虎",
+            "岸"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘鱼虎弯环略岸飞’动态生动，更具画面感。"
+        }
+    },
+    {
+        "title": "句  其五",
+        "author": "崔鶠",
+        "paragraphs": [
+            "一從臺傾苑樹死，空餘飄瓦裁紋鴛。"
+        ],
+        "paragraphs_simplified": [
+            "一从台倾苑树死，空余飘瓦裁纹鸳。"
+        ],
+        "translation": "自从高台倾倒苑中树木枯死，空留飘落的瓦片雕刻着鸳鸯纹样。前句写衰败景象，后句以残留之物暗示往昔繁华，对比强烈。",
+        "score": 3.5,
+        "subject": [
+            "怀古诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句以‘台倾树死’铺垫衰败，后句以‘飘瓦纹鸳’收束，虚实对照，凸显沧桑。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过‘台倾’‘树死’等意象，间接表达对逝去繁华的感慨。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "‘飘瓦纹鸳’实写残物，虚指往昔，深化怀古之情。"
+                }
+            ]
+        },
+        "analysis": "此联以对比手法勾勒历史沧桑，‘台倾苑树死’与‘飘瓦裁纹鸳’意象凄美，虚实相生，折射出深沉的遗憾。语言凝练，情感回甘，整体具怀古之韵，属能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以衰败意象（台倾、树死）与残留之物（飘瓦、纹鸳）构筑悲凉之境。",
+                "realm": "能",
+                "reason": "情感真挚，但未能充分展开，略显局促。"
+            }
+        ],
+        "imagery": [
+            "台",
+            "苑树",
+            "飘瓦",
+            "纹鸳"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘空余飘瓦裁纹鸳’以残物寄意，余韵深长。"
+        }
+    },
+    {
+        "title": "句  其六",
+        "author": "崔鶠",
+        "paragraphs": [
+            "團臍紫蟹初欲嘗，染指腥鹽還復輟。"
+        ],
+        "paragraphs_simplified": [
+            "团脐紫蟹初欲尝，染指腥盐还复辍。"
+        ],
+        "translation": "团脐紫蟹刚想品尝，手指沾上腥盐又停下。团脐指雌蟹，紫蟹是紫色的螃蟹，初欲尝是刚想吃，染指是手指沾上，腥盐是腥味的盐，还复辍是又停止。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直接描述吃蟹的瞬间细节，无复杂结构。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "染指腥盐生动刻画动作细节"
+                }
+            ]
+        },
+        "analysis": "此句以白描手法勾勒食蟹琐事，染指一词虽具动态，但意象陈旧，立意浅显，仅停留于生活表象，缺乏审美升华与情感深度，属于平庸的日常记录。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "紫蟹与腥盐构成生活化意象，但未提炼出诗意",
+                "realm": "逸",
+                "reason": "试图追求自然却流于浅俗，未能超脱凡俗"
+            }
+        ],
+        "imagery": [
+            "紫蟹",
+            "腥盐"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一一句，细节描写较为生动"
+        }
+    },
+    {
+        "title": "句  其七",
+        "author": "崔鶠",
+        "paragraphs": [
+            "清明烟火尚闌珊，花信風來第幾番。"
+        ],
+        "paragraphs_simplified": [
+            "清明烟火尚阑珊，花信风来第几番。"
+        ],
+        "translation": "清明时节的烟火还稀疏，花信风吹来第几轮。清明是节气，烟火指祭祀烟火，尚阑珊是还稀疏，花信风是应花期而来的风，第几番是第几次。",
+        "score": 4.0,
+        "subject": [
+            "节令诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "通过清明烟火与花信风的设问，勾勒节令变迁的意境。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "第几番以问句增强余韵"
+                }
+            ]
+        },
+        "analysis": "诗句捕捉清明时序的微妙气息，烟火阑珊与花信风交织，设问句式拓展了时空感，意境清幽真切，折射出对自然节律的敏锐感知，整体凝练而富有余味。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "清明与花信风构成节令意象，清冷而独特",
+                "realm": "能",
+                "reason": "风格清奇，意境真切，技法成熟"
+            }
+        ],
+        "imagery": [
+            "清明",
+            "烟火",
+            "花信风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "设问句式赋予诗意以动态感"
+        }
+    },
+    {
+        "title": "句  其八",
+        "author": "崔鶠",
+        "paragraphs": [
+            "西山橫身映吳甸，意將萬里傾衡霍。"
+        ],
+        "paragraphs_simplified": [
+            "西山横身映吴甸，意将万里倾衡霍。"
+        ],
+        "translation": "西山横亘映照吴地田野，意欲将万里山势倾斜于衡霍。西山指西方山峦，横身是横卧，映吴甸是映照吴地，意将是意欲，万里形容广阔，倾衡霍指向衡山与霍山。",
+        "score": 4.2,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "开篇直陈山势雄伟，以夸张笔法收束，气势贯通。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "万里倾衡霍极言山势之磅礴"
+                }
+            ]
+        },
+        "analysis": "此句以夸张手法构筑宏大的空间意象，西山横身与万里倾霍相连，彰显山水之壮美与主体精神的张扬，意象雄阔而不失凝练，体现了对自然力的崇高摹写。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "西山与衡霍构成雄浑山水意象，拓展视觉边界",
+                "realm": "妙",
+                "reason": "气势雄浑，意境开阔，技法精妙"
+            }
+        ],
+        "imagery": [
+            "西山",
+            "吴甸",
+            "衡霍"
+        ],
+        "allusions": [
+            {
+                "phrase": "衡霍",
+                "explanation": "指衡山与霍山，泛指名山大川"
+            }
+        ],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "意将万里倾衡霍一句气势恢宏"
+        }
+    },
+    {
+        "title": "句  其九",
+        "author": "崔鶠",
+        "paragraphs": [
+            "綽約冰姿絕可憐。"
+        ],
+        "paragraphs_simplified": [
+            "绰约冰姿绝可怜。"
+        ],
+        "translation": "绰约的冰姿极其可爱。绰约是姿态优美，冰姿如冰般清雅，绝可怜是极其可爱。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "单句直陈，无复杂结构，直接赞美冰姿。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "冰姿比喻姿态清雅如冰"
+                }
+            ]
+        },
+        "analysis": "此句以冰姿喻人，绰约与绝可怜结合，但意象单一，缺乏铺陈与深层寄托，流于表面赞美，未能构筑丰富的审美空间，属于简略的咏物尝试。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "冰姿构成优美意象，但过于简略",
+                "realm": "逸",
+                "reason": "试图追求纤秾却失之单薄，未能丰满"
+            }
+        ],
+        "imagery": [
+            "冰姿"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一一句，直接描写姿态"
+        }
+    },
+    {
+        "title": "句  其一○",
+        "author": "崔鶠",
+        "paragraphs": [
+            "老去未覺躋攀難，一表獨立青冥裏。"
+        ],
+        "paragraphs_simplified": [
+            "老去未觉跻攀难，一表独立青冥里。"
+        ],
+        "translation": "老去不觉得攀登难，一表独立在青冥之中。老去是年老，未觉是不觉得，跻攀是攀登，难是困难，一表是特出，独立是独自站立，青冥是天空。",
+        "score": 4.0,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句铺垫老去不难，后句以独立青冥显志，逻辑递进。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "一表独立青冥里夸张超脱境界"
+                }
+            ]
+        },
+        "analysis": "诗句通过老去与独立的对比，构筑出超然物外的精神境界，青冥意象拓宽了空间感，彰显豁达人生观，情感回甘而不直露，整体凝练有力。",
+        "poetry_styles": [
+            {
+                "style": "旷达",
+                "imagery_analysis": "青冥构成高远意象，烘托独立精神",
+                "realm": "能",
+                "reason": "风格旷达，立意积极，技法成熟"
+            }
+        ],
+        "imagery": [
+            "青冥"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "一表独立青冥里意境高远"
+        }
+    }
+]

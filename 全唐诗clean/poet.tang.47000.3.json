@@ -1,0 +1,1117 @@
+[
+    {
+        "title": "熙寧元年八月十九日過湖州東林沈山用石榴皮寫絕句於壁自號回山人",
+        "author": "呂巖",
+        "paragraphs": [
+            "西鄰已富憂不足，東老雖貧樂有餘。",
+            "白酒釀來緣好客，黃金散盡爲收書。"
+        ],
+        "paragraphs_simplified": [
+            "西邻已富忧不足，东老虽贫乐有余。",
+            "白酒酿来缘好客，黄金散尽为收书。"
+        ],
+        "translation": "西边邻居已经富有却担忧不足，东边老者虽然贫穷但快乐有余。白酒酿成是因为好客，黄金散尽是为了收书。",
+        "score": 4.0,
+        "subject": [
+            "哲理诗",
+            "雜詩"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "对比"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句通过贫富对比点出知足常乐之理，次句以酒客书癖的具体行为诠释生活态度，结构紧凑，直指主题。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“西邻已富忧不足，东老虽贫乐有余”工整对仗，强化对比。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "富与贫、忧与乐的对照，突出哲理核心。"
+                }
+            ]
+        },
+        "analysis": "此诗以对比手法勾勒贫富之态，借酒与书寄托安贫乐道之志。语言简练，意境冲淡，颇具哲理。通过日常行为折射出超脱物欲的精神追求，整体自然流畅。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "白酒、黄金等意象平凡中见深意，营造恬淡氛围。",
+                "realm": "妙",
+                "reason": "以简驭繁，传达出淡泊明志的境界。"
+            }
+        ],
+        "imagery": [
+            "西邻",
+            "东老",
+            "白酒",
+            "黄金",
+            "书"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“西邻已富忧不足，东老虽贫乐有余”以对比开篇，直击主题。"
+        }
+    },
+    {
+        "title": "大雲寺茶詩",
+        "author": "呂巖",
+        "paragraphs": [
+            "玉蘂一鎗稱絕品，僧家造法極功夫。",
+            "兔毛甌淺香雲白，蝦眼湯翻細浪俱。",
+            "斷送睡魔離几席，增添清氣入肌膚。",
+            "幽叢自落溪巖外，不肯移根入上都。"
+        ],
+        "paragraphs_simplified": [
+            "玉蕊一枪称绝品，僧家造法极功夫。",
+            "兔毛瓯浅香云白，虾眼汤翻细浪俱。",
+            "断送睡魔离几席，增添清气入肌肤。",
+            "幽丛自落溪岩外，不肯移根入上都。"
+        ],
+        "translation": "玉蕊一枪称为绝品，僧家造茶方法极费功夫。兔毛瓯浅盛茶香如云白，虾眼汤翻滚细浪俱全。驱散睡魔离开几席，增添清气进入肌肤。幽丛自然落在溪岩之外，不肯移根进入上都。",
+        "score": 4.0,
+        "subject": [
+            "咏物诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "通感"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首联赞茶之品质与制法，颔联描绘烹茶细节与香气，颈联写茶之功效，尾联以茶性喻人品，不愿移根入都，彰显清高。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“玉蕊”喻茶叶之珍贵，形态优美。"
+                },
+                {
+                    "tag": "通感",
+                    "explanation": "“香云白”将嗅觉与视觉结合，增强美感。"
+                }
+            ]
+        },
+        "analysis": "此诗以茶为题，用玉蕊、兔毛瓯等意象细腻描绘茶事。结构完整，末句以茶性喻人品。意境清幽，描写生动，通过具体物象传达出对清雅生活的向往，整体协调。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "玉蕊、香云等意象清新脱俗，构筑出独特的茶境。",
+                "realm": "妙",
+                "reason": "对茶事的刻画细致入微，风格清奇而不落俗套。"
+            }
+        ],
+        "imagery": [
+            "玉蕊",
+            "兔毛瓯",
+            "虾眼汤",
+            "睡魔",
+            "清气",
+            "幽丛"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“兔毛瓯浅香云白，虾眼汤翻细浪俱”生动再现烹茶过程，意象鲜活。"
+        }
+    },
+    {
+        "title": "別詩二首 一",
+        "author": "呂巖",
+        "paragraphs": [
+            "無心獨坐轉黃庭，不逐時流入利名。",
+            "救老只存真一氣，修生長遣百神靈。",
+            "朝朝煉液歸瓊壠，夜夜朝元養玉英。",
+            "莫笑老人貧裏樂，十年功滿上三清。"
+        ],
+        "paragraphs_simplified": [
+            "无心独坐转黄庭，不逐时流入利名。",
+            "救老只存真一气，修生长遣百神灵。",
+            "朝朝炼液归琼垄，夜夜朝元养玉英。",
+            "莫笑老人贫里乐，十年功满上三清。"
+        ],
+        "translation": "无心独坐修炼黄庭经，不追逐时流追求名利。救老只存真一之气，修生长保百神灵验。日日炼丹液归琼垄，夜夜朝元养玉英。莫笑老人在贫穷中快乐，十年功满登上三清境。",
+        "score": 3.5,
+        "subject": [
+            "道教诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "从否定名利开始，描述修炼过程，以功德圆满结束。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "朝朝炼液归琼垄，夜夜朝元养玉英。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "上三清比喻成仙。"
+                }
+            ]
+        },
+        "analysis": "此诗以道教修炼为题材，语言古朴，意象集中于内丹术语。结构上从立意到实践再到成果，逻辑清晰。但意象较为陈旧，缺乏新意，属于技法成熟的应酬之作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "使用道教术语构筑超脱意境",
+                "realm": "能品",
+                "reason": "技法熟练但意境未达超凡"
+            }
+        ],
+        "imagery": [
+            "黄庭",
+            "真气",
+            "炼丹",
+            "玉英",
+            "三清"
+        ],
+        "allusions": [
+            {
+                "phrase": "黄庭",
+                "explanation": "道教经典《黄庭经》"
+            },
+            {
+                "phrase": "三清",
+                "explanation": "道教最高境界"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点明主题，立意明确。"
+        }
+    },
+    {
+        "title": "別詩二首 二",
+        "author": "呂巖",
+        "paragraphs": [
+            "時人受氣稟陰陽，均體乾坤壽命長。",
+            "爲重本宗能壽永，因輕元祖遂淪亡。",
+            "三宮自有迴流法，萬物那無運用方。",
+            "咫尺崑崙山上玉，幾人知是藥中王。"
+        ],
+        "paragraphs_simplified": [
+            "时人受气禀阴阳，均体乾坤寿命长。",
+            "为重本宗能寿永，因轻元祖遂沦亡。",
+            "三宫自有回流法，万物那无运用方。",
+            "咫尺昆仑山上玉，几人知是药中王。"
+        ],
+        "translation": "时人受气禀承阴阳，均平身体乾坤寿命长。为重本宗能长寿，因轻元祖遂沦亡。三宫自有回流之法，万物哪无运用之方。咫尺昆仑山上的玉，几人知道是药中王。",
+        "score": 3.5,
+        "subject": [
+            "道教诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "论述阴阳平衡的重要性，解释内部方法，以隐喻结束。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "三宫自有回流法，万物那无运用方。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "昆仑山上玉比喻仙药。"
+                }
+            ]
+        },
+        "analysis": "此诗阐述道教阴阳平衡之理，语言抽象，依赖内丹术语。结构严谨，但意象缺乏生动性，情感流露不足，属于说理诗中的平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以抽象概念表达淡泊意境",
+                "realm": "能品",
+                "reason": "立意浅显，未达深邃"
+            }
+        ],
+        "imagery": [
+            "阴阳",
+            "乾坤",
+            "三宫",
+            "昆仑山",
+            "药中王"
+        ],
+        "allusions": [
+            {
+                "phrase": "昆仑山",
+                "explanation": "道教神话中的仙山"
+            },
+            {
+                "phrase": "药中王",
+                "explanation": "最上等的仙药"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句提出核心观点。"
+        }
+    },
+    {
+        "title": "贈羅浮道士",
+        "author": "呂巖",
+        "paragraphs": [
+            "羅浮道士誰同流，草衣木食輕王侯。",
+            "世間甲子管不得，壺裏乾坤只自由。",
+            "數着殘棊江月曉，一聲長嘯海山秋。",
+            "飲餘回首話歸路，遙指白雲天際頭。"
+        ],
+        "paragraphs_simplified": [
+            "罗浮道士谁同流，草衣木食轻王侯。",
+            "世间甲子管不得，壶里乾坤只自由。",
+            "数着残棋江月晓，一声长啸海山秋。",
+            "饮余回首话归路，遥指白云天际头。"
+        ],
+        "translation": "罗浮道士谁与同流，草衣木食轻视王侯。世间甲子管不得，壶里乾坤只自由。数着残棋江月破晓，一声长啸海山秋。饮酒后回首话归路，遥指白云天际头。",
+        "score": 4.2,
+        "subject": [
+            "赠诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "豪放",
+            "洒脱"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "描述道士的超脱生活，通过具体活动展现自由，以指向白云结束。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "数着残棋江月晓，一声长啸海山秋。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "壶里乾坤比喻内心世界。"
+                }
+            ]
+        },
+        "analysis": "此诗生动描绘罗浮道士的逍遥形象，意象鲜明，如残棋、长啸等细节富有画面感。语言流畅，情感豪放，体现了道家的自由精神。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "通过自然景物和活动展现洒脱意境",
+                "realm": "妙品",
+                "reason": "意境开阔，技法娴熟"
+            }
+        ],
+        "imagery": [
+            "罗浮山",
+            "草衣木食",
+            "壶",
+            "残棋",
+            "江月",
+            "海山",
+            "白云"
+        ],
+        "allusions": [
+            {
+                "phrase": "壶里乾坤",
+                "explanation": "道教典故，指壶中别有洞天"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "数着残棋江月晓，一声长啸海山秋。画面感强，意境深远。"
+        }
+    },
+    {
+        "title": "宿州天慶觀殿門留贈符離道士",
+        "author": "呂巖",
+        "paragraphs": [
+            "秋景蕭條葉亂飛，庭松影裏坐移時。",
+            "雲迷鶴駕何方去，仙洞朝元失我期。"
+        ],
+        "paragraphs_simplified": [
+            "秋景萧条叶乱飞，庭松影里坐移时。",
+            "云迷鹤驾何方去，仙洞朝元失我期。"
+        ],
+        "translation": "秋景萧条树叶乱飞，在庭院松树影下坐了许久。云迷鹤驾去向何方，仙洞朝元错过了我的约期。",
+        "score": 4.0,
+        "subject": [
+            "赠诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "孤独",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写秋景，后写失落感，表达错过仙缘的遗憾。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "鹤驾比喻道士的坐骑。"
+                }
+            ]
+        },
+        "analysis": "此诗短小精悍，以秋景萧条烘托内心孤寂。后句用典表达错过仙缘的遗憾，语言含蓄，意境悲凉。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以秋景和失落感构筑悲凉意境",
+                "realm": "妙品",
+                "reason": "简洁而情感深沉"
+            }
+        ],
+        "imagery": [
+            "秋景",
+            "叶",
+            "松",
+            "云",
+            "鹤",
+            "仙洞"
+        ],
+        "allusions": [
+            {
+                "phrase": "鹤驾",
+                "explanation": "指仙人或道士的坐骑"
+            },
+            {
+                "phrase": "朝元",
+                "explanation": "道教朝拜元始天尊的仪式"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "秋景萧条叶乱飞，生动描绘环境。"
+        }
+    },
+    {
+        "title": "題黃鶴樓石照",
+        "author": "呂巖",
+        "paragraphs": [
+            "黃鶴樓前吹笛時，白蘋紅蓼滿江湄。",
+            "衷情欲訴誰能會，惟有清風明月知。"
+        ],
+        "paragraphs_simplified": [
+            "黄鹤楼前吹笛时，白蘋红蓼满江湄。",
+            "衷情欲诉谁能会，惟有清风明月知。"
+        ],
+        "translation": "黄鹤楼前吹笛之时，白蘋红蓼布满江岸。衷情欲诉谁能领会，唯有清风明月知晓。",
+        "score": 4.1,
+        "subject": [
+            "题诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先写景，后抒情，以清风明月为知己结束。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "衷情欲诉谁能会，惟有清风明月知。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "清风明月被赋予理解能力。"
+                }
+            ]
+        },
+        "analysis": "此诗以黄鹤楼为背景，通过笛声和植物意象营造氛围。后句将自然景物拟人化，表达无人理解的孤独，情感真挚，意境优美。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "以自然景物寄托内心情感",
+                "realm": "妙品",
+                "reason": "情感表达委婉而深刻"
+            }
+        ],
+        "imagery": [
+            "黄鹤楼",
+            "笛",
+            "白蘋",
+            "红蓼",
+            "江湄",
+            "清风",
+            "明月"
+        ],
+        "allusions": [
+            {
+                "phrase": "黄鹤楼",
+                "explanation": "武汉名楼，有仙人乘鹤传说"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "衷情欲诉谁能会，惟有清风明月知。直抒胸臆，余韵悠长。"
+        }
+    },
+    {
+        "title": "荅僧見",
+        "author": "呂巖",
+        "paragraphs": [
+            "三千里外無家客，七百年來雲水身。",
+            "行滿蓬萊爲別館，道成瓦礫盡黃金。",
+            "待賓榼裏常存酒，化藥爐中別有春。",
+            "積德求師何患少，由來天地不私親。"
+        ],
+        "paragraphs_simplified": [
+            "三千里外无家客，七百年来云水身。",
+            "行满蓬莱为别馆，道成瓦砾尽黄金。",
+            "待宾榼里常存酒，化药炉中别有春。",
+            "积德求师何患少，由来天地不私亲。"
+        ],
+        "translation": "三千里外无家可归的游子，七百年来如云水般漂泊之身。修行圆满时蓬莱仙山成为别馆，道成之后瓦砾皆化为黄金。待客的酒器中常存美酒，炼药的炉中另有春意。积德求师何须担忧年少，从来天地不偏私亲厚。",
+        "score": 4.0,
+        "subject": [
+            "游仙诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以漂泊之身起笔，继而铺陈修行成就，最终点明天地无私之理，层层递进。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "三千里外無家客，七百年來雲水身。对仗工整，时空交错。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "以云水身喻超脱之态，瓦砾尽黄金喻道成之效。"
+                }
+            ]
+        },
+        "analysis": "此诗构筑了道家修行者的超然形象，以云水身、蓬莱馆等意象渲染出世之境。语言凝练，虚实相生，彰显天地无私的哲理。意境真切，情感含蓄，有回甘之美，非堆砌之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "云水、瓦砾等意象冲淡自然，不着痕迹。",
+                "realm": "能",
+                "reason": "技法成熟，但意象略显陈旧，未能臻于妙境。"
+            }
+        ],
+        "imagery": [
+            "云水",
+            "蓬莱",
+            "瓦砾",
+            "黄金",
+            "酒",
+            "药炉",
+            "春",
+            "师",
+            "天地"
+        ],
+        "allusions": [
+            {
+                "phrase": "蓬莱",
+                "explanation": "传说中的海上仙山，象征修行境界。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以三千里、七百年时空跨度，奠定全诗漂泊与超脱的基调。"
+        }
+    },
+    {
+        "title": "與潭州智度寺慧覺詩",
+        "author": "呂巖",
+        "paragraphs": [
+            "達者推心兼濟物，聖賢傳法不離真。",
+            "請師開說西來意，七祖如今未有人。"
+        ],
+        "paragraphs_simplified": [
+            "达者推心兼济物，圣贤传法不离真。",
+            "请师开说西来意，七祖如今未有人。"
+        ],
+        "translation": "通达之人推心置腹兼济万物，圣贤传法不离真谛。请师父开示西来意旨，七祖至今无人承继。",
+        "score": 3.5,
+        "subject": [
+            "禅理诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句阐明修行宗旨，后句以问句求法，逻辑连贯，直指禅宗心法。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "请师开说西来意，以问句表达求法之诚。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "西来意暗指达摩西来典故，七祖指禅宗传承。"
+                }
+            ]
+        },
+        "analysis": "此诗直指禅宗心法，以推心济物、传法离真点明宗旨。语言简洁，但立意浅显，缺乏新意，未能深入禅机之妙，流于表面应答。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "语言简练，但意象单薄，缺乏层次。",
+                "realm": "能",
+                "reason": "试图洗炼，但因内容空泛，未能达到高古之境。"
+            }
+        ],
+        "imagery": [
+            "心",
+            "物",
+            "法",
+            "真",
+            "师",
+            "西来意",
+            "七祖"
+        ],
+        "allusions": [
+            {
+                "phrase": "西来意",
+                "explanation": "指达摩从西土来华传法的禅宗公案。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句阐明修行宗旨，涵盖推心济物与传法离真。"
+        }
+    },
+    {
+        "title": "參黃龍機悟後呈偈",
+        "author": "呂巖",
+        "paragraphs": [
+            "棄却瓢囊摵碎琴，如今不戀□中金。",
+            "自從一見黃龍後，始覺從前錯用心。"
+        ],
+        "paragraphs_simplified": [
+            "弃却瓢囊摵碎琴，如今不恋□中金。",
+            "自从一见黄龙后，始觉从前错用心。"
+        ],
+        "translation": "抛弃瓢囊摔碎琴，如今不恋□中金。自从一见黄龙后，才知从前错用心。",
+        "score": 4.2,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "悔恨",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句以弃物摔琴的实写动作，铺垫顿悟之因，后句虚写心境转变，最终显志。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "弃却瓢囊与错用心形成顿悟前后对比。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "实写弃物动作，虚写心理感悟。"
+                }
+            ]
+        },
+        "analysis": "此诗以弃物摔琴的意象，直指顿悟前后的转变。语言有力，情感从悔恨转向豁达，意境真切，不隔之感强烈。结构紧凑，彰显禅机顿悟之精神。",
+        "poetry_styles": [
+            {
+                "style": "精神",
+                "imagery_analysis": "以动态意象如弃、摔、见，凝聚顿悟之神。",
+                "realm": "妙",
+                "reason": "技法劲健，情感真实，近于妙品。"
+            }
+        ],
+        "imagery": [
+            "瓢囊",
+            "琴",
+            "金",
+            "黄龙"
+        ],
+        "allusions": [
+            {
+                "phrase": "黄龙",
+                "explanation": "指黄龙慧南禅师，象征禅宗顿悟。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句始觉从前错用心，直击顿悟核心，情感转折强烈。"
+        }
+    },
+    {
+        "title": "題僧房絕句",
+        "author": "呂巖",
+        "paragraphs": [
+            "唐朝進士，今日神仙。",
+            "足躡紫霧，却返洞天。"
+        ],
+        "paragraphs_simplified": [
+            "唐朝进士，今日神仙。",
+            "足蹑紫雾，却返洞天。"
+        ],
+        "translation": "唐朝时的进士，今日成为神仙。脚踏紫色云雾，返回洞天福地。",
+        "score": 2.8,
+        "subject": [
+            "游仙诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "白描"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句点明身份转变，后句以动作渲染仙姿，结构简单。",
+            "evidence": [
+                {
+                    "tag": "点染结合",
+                    "explanation": "唐朝进士为点，足蹑紫雾为染，烘托神仙形象。"
+                }
+            ]
+        },
+        "analysis": "此诗简洁，但意象陈旧，如进士、神仙、紫雾、洞天皆沿袭俗套。立意浅显，缺乏深层意蕴，近乎口号式赞美，未能构筑独特意境。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图自然，但因意象堆砌，反显刻意。",
+                "realm": "逸",
+                "reason": "模仿自然风格，但流于平庸，未能脱俗。"
+            }
+        ],
+        "imagery": [
+            "进士",
+            "神仙",
+            "紫雾",
+            "洞天"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以对比点明身份转变，最为通顺。"
+        }
+    },
+    {
+        "title": "賜齊州李希遇詩",
+        "author": "呂巖",
+        "paragraphs": [
+            "少飲欺心酒，休貪不義財。",
+            "福因慈善得，禍向巧姦來。"
+        ],
+        "paragraphs_simplified": [
+            "少饮欺心酒，休贪不义财。",
+            "福因慈善得，祸向巧奸来。"
+        ],
+        "translation": "少饮欺骗良心的酒，休贪不义之财。福气因慈善而得，灾祸向巧诈而来。",
+        "score": 2.5,
+        "subject": [
+            "家训诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "劝诫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句以对偶句式直接劝诫，后句阐明因果，逻辑直白。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "少飲欺心酒，休貪不義財。对仗工整，但内容说教。"
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "以慈善与巧奸对比，暗讽时弊。"
+                }
+            ]
+        },
+        "analysis": "此诗纯为道德训诫，语言平庸，缺乏诗意。对偶虽工，但立意陈腐，情感宣泄直白，无审美距离，近乎打油诗之流。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图典雅，但因说教味重，反显粗鄙。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，未能达典雅之境。"
+            }
+        ],
+        "imagery": [
+            "酒",
+            "财",
+            "福",
+            "慈善",
+            "祸",
+            "巧奸"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直接劝诫，最为直白。"
+        }
+    },
+    {
+        "title": "六言",
+        "author": "呂巖",
+        "paragraphs": [
+            "春暖羣花半開，逍遙石上徘徊。",
+            "獨攜玉律丹訣，閑踏青莎碧苔。",
+            "古洞眠來九載，流霞飲幾千杯。",
+            "逢人莫話他事，笑指白雲去來。"
+        ],
+        "paragraphs_simplified": [
+            "春暖群花半开，逍遥石上徘徊。",
+            "独携玉律丹诀，闲踏青莎碧苔。",
+            "古洞眠来九载，流霞饮几千杯。",
+            "逢人莫话他事，笑指白云去来。"
+        ],
+        "translation": "春意温暖，百花半开，在石上逍遥徘徊。独自携带修道的玉律丹诀，悠闲踏过青苔。在古洞中沉睡九年，畅饮流霞美酒数千杯。遇到世人莫谈他事，笑看白云自在去来。",
+        "score": 4.2,
+        "subject": [
+            "山水诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "以春景起笔，转入修道细节，再以饮宴延展时空，终以白云收束，形成超脱闭环。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "第二联'独携玉律丹诀，闲踏青莎碧苔'工整对仗"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "'古洞九载'实写修行，'流霞千杯'虚写仙饮"
+                }
+            ]
+        },
+        "analysis": "此诗构筑隐者逍遥之境。首联以春花半开、石上徘徊点染闲适，次联玉律青苔相映，勾勒修道者清寂身影。颈联时空陡转，古洞九载与流霞千杯形成张力，虚实相生。尾联'笑指白云'以动作收束，超然之态尽显。意象群如春花、青苔、古洞、白云，洗练清奇，全篇气韵流动，深得自然之趣。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "春花、青苔、白云等淡雅意象构筑冲和之境",
+                "realm": "妙",
+                "reason": "意象疏朗，情感内敛，符合'冲澹'之'遇之匪深，即之愈稀'的特质"
+            },
+            {
+                "style": "自然",
+                "imagery_analysis": "逍遥徘徊、闲踏碧苔等动作呈现天然本色",
+                "realm": "妙",
+                "reason": "语言平实如口语，却暗合道家'无为'真谛"
+            }
+        ],
+        "imagery": [
+            "花",
+            "石",
+            "苔",
+            "洞",
+            "霞",
+            "云"
+        ],
+        "allusions": [
+            {
+                "phrase": "流霞",
+                "explanation": "道教仙酒名，出自《论衡》'仙人辄饮我流霞'"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "尾句'笑指白云去来'以动作写超脱，余味悠长"
+        }
+    }
+]

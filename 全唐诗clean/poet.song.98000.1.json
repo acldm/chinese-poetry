@@ -1,0 +1,1161 @@
+[
+    {
+        "title": "别家山二絕  其二",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "就荒松菊莫相嗔，未肯微官縛此身。",
+            "若有督郵須束带，定將秫米付他人。"
+        ],
+        "paragraphs_simplified": [
+            "就荒松菊莫相嗔，未肯微官缚此身。",
+            "若有督邮须束带，定将秫米付他人。"
+        ],
+        "translation": "任凭松菊荒芜也不要埋怨，不愿意被微小的官职束缚自身。如果有督邮来需要束带迎接，我定将俸禄交给别人（指辞官）。",
+        "score": 4.0,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句以松菊荒芜起兴，表达不愿被官职束缚；次句用督邮典故，表明辞官决心。",
+            "evidence": [
+                {
+                    "tag": "托物言志",
+                    "explanation": "借松菊荒芜表达不愿为官的志向。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用督邮典故，暗示官场束缚。"
+                }
+            ]
+        },
+        "analysis": "此诗以松菊起兴，构筑归隐之志。松菊意象与微官束缚形成张力，暗合陶渊明之风。督邮典故的运用，折射出对官场的疏离。语言凝练，意境高远，堪称咏物佳作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "松菊意象营造出淡泊宁静的意境。",
+                "realm": "能品",
+                "reason": "意境深远，但创新稍显不足。"
+            }
+        ],
+        "imagery": [
+            "松",
+            "菊",
+            "官吏"
+        ],
+        "allusions": [
+            {
+                "phrase": "督邮",
+                "explanation": "古代官职，负责督察，这里代表官场束缚。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以松菊起兴，直接点明归隐之志。"
+        }
+    },
+    {
+        "title": "代答",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "塞污鉏蔓致蕃昌，草木懷君豈易忘。",
+            "出爲蒼生施此手，他時寧使故園荒。"
+        ],
+        "paragraphs_simplified": [
+            "塞污锄蔓致蕃昌，草木怀君岂易忘。",
+            "出为苍生施此手，他时宁使故园荒。"
+        ],
+        "translation": "治理污秽清除杂草导致繁荣，草木怀念君主怎能轻易忘记。出仕为百姓施展手段，将来宁愿让故乡荒芜。",
+        "score": 3.8,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首句写治理成效，次句写为百姓牺牲个人。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "草木怀君比喻百姓对君主的感恩。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借草木生长表达治理之志。"
+                }
+            ]
+        },
+        "analysis": "此诗以草木起兴，构筑治理之志。塞污鉏蔓意象与苍生福祉相呼应，折射出儒家济世情怀。语言质朴，情感真挚，但立意稍显老套，缺乏新意。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "草木意象与治理行为结合，体现力量感。",
+                "realm": "能品",
+                "reason": "表达直接，但意象普通。"
+            }
+        ],
+        "imagery": [
+            "植物",
+            "家园",
+            "百姓"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以故园荒芜为代价，凸显为苍生之决心。"
+        }
+    },
+    {
+        "title": "雪中度馮公嶺二絕  其一",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "雪積雲騰晝杳冥，萬山玉立不勝清。",
+            "舉頭祗恐是尺五，松柏已爲環珮聲。"
+        ],
+        "paragraphs_simplified": [
+            "雪积云腾昼杳冥，万山玉立不胜清。",
+            "举头只恐是尺五，松柏已为环佩声。"
+        ],
+        "translation": "雪堆积云翻腾白天昏暗，群山如玉立非常清冷。抬头只担心离天只有尺五，松柏已经发出环佩声。",
+        "score": 4.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句写全景，次句写细节和感受。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "万山玉立比喻雪山洁白如玉。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "雪积云腾是动，万山玉立是静；松柏声是动。"
+                }
+            ]
+        },
+        "analysis": "此诗描绘雪中群山，意象清奇。玉立比喻与环佩声通感，构筑出清冷高远的意境。语言洗炼，动静相生，但情感流露稍显直白。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "雪山与松柏意象营造出清冷奇绝的境界。",
+                "realm": "妙品",
+                "reason": "意象独特，音律和谐。"
+            }
+        ],
+        "imagery": [
+            "雪",
+            "云",
+            "山",
+            "松树"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以雪积云腾勾勒出昏暗清冷的雪景。"
+        }
+    },
+    {
+        "title": "雪中度馮公嶺二絕  其二",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "琪花風亂欲成團，度嶺人言路已漫。",
+            "我斥征夫第前邁，山翁不畏雪霜寒。"
+        ],
+        "paragraphs_simplified": [
+            "琪花风乱欲成团，度岭人言路已漫。",
+            "我斥征夫第前迈，山翁不畏雪霜寒。"
+        ],
+        "translation": "雪花被风吹乱想成团，过岭的人说路已漫没。我呵斥随行的人只管向前走，山中老人不畏惧雪霜寒冷。",
+        "score": 3.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "对比"
+            ],
+            "structure_tags": [
+                "对比"
+            ],
+            "structural_logic": "首句写雪景和路漫，次句写自己不畏艰难。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "琪花比喻雪花美丽。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "度岭人言路漫与我斥征夫前迈形成对比。"
+                }
+            ]
+        },
+        "analysis": "此诗以雪景为背景，叙事中见豪情。琪花意象与山翁形象相映，构筑出不畏艰险的意境。语言直白，情感外露，但意象稍显陈旧。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "雪与山翁意象体现坚韧不拔的精神。",
+                "realm": "能品",
+                "reason": "情感豪迈但意象普通。"
+            }
+        ],
+        "imagery": [
+            "雪",
+            "山",
+            "人",
+            "老人"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以山翁不畏雪霜，凸显豪迈气概。"
+        }
+    },
+    {
+        "title": "范才翁惠酴醿",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "寶刀分惠過墻西，瘦比寒梅不肯肥。",
+            "只恐東風苦無賴，爲君吹作玉花飛。"
+        ],
+        "paragraphs_simplified": [
+            "宝刀分惠过墙西，瘦比寒梅不肯肥。",
+            "只恐东风苦无赖，为君吹作玉花飞。"
+        ],
+        "translation": "宝刀分赐恩惠过墙西，瘦得比寒梅还不肯肥。只担心东风苦于无赖，为你吹成玉花飞舞。",
+        "score": 4.2,
+        "subject": [
+            "咏物诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首句写赠物和花瘦，次句写担心风吹花落。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "瘦比寒梅比喻花瘦。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "东风苦无赖，赋予东风人情。"
+                }
+            ]
+        },
+        "analysis": "此诗以宝刀和酴醿为喻，构筑赠答之情。瘦比寒梅意象与东风无赖相映，折射出对友人的关切。语言灵动，意境优美，但情感稍显婉约。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "宝刀与玉花意象交织，体现华美风格。",
+                "realm": "妙品",
+                "reason": "意象优美，音律和谐。"
+            }
+        ],
+        "imagery": [
+            "刀",
+            "梅",
+            "风",
+            "花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以东风吹玉花，虚实结合，意境飞动。"
+        }
+    },
+    {
+        "title": "題黄德老西亭二絕  其一",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "花木横斜轉小蹊，疏簾竹屋任髙低。",
+            "何人移得僧窗靜，置在君家廳事西。"
+        ],
+        "paragraphs_simplified": [
+            "花木横斜转小蹊，疏帘竹屋任高低。",
+            "何人移得僧窗静，置在君家厅事西。"
+        ],
+        "translation": "花木枝条横斜，转过一条小路；稀疏的竹帘和竹屋随意地高低错落。是谁能把僧人窗户下的那份宁静移来，安放在您家厅堂的西侧呢？",
+        "score": 3.2,
+        "subject": [
+            "题咏诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句直接描绘西亭的景物布局，后两句通过设问手法，点出将静谧环境移入人居的巧思。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "以“花木横斜”、“疏帘竹屋”等细节勾勒出环境的幽静错落。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "“何人移得僧窗静”以问句引发对宁静来源的思考。"
+                }
+            ]
+        },
+        "analysis": "此诗以白描手法勾勒西亭景物，花木与竹屋的布局显得随意而自然。后句的设问虽有意趣，但整体意境较为浅显，缺乏深层的审美回甘。意象组合虽和谐，却未突破传统园林诗的常见范式，流于表面的闲适描绘。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以寻常花木、竹屋意象构筑静谧氛围，但缺乏独特视角。",
+                "realm": "能",
+                "reason": "技法平实，意境未出新意，属能品中较为平淡之作。"
+            }
+        ],
+        "imagery": [
+            "花木",
+            "小蹊",
+            "竹屋",
+            "僧窗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以动态细节“横斜转”赋予景物生机，是全诗最具画面感之句。"
+        }
+    },
+    {
+        "title": "題黄德老西亭二絕  其二",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "吏冗文移紙作堆，誰能亭榭靜中開。",
+            "直須事外關門坐，莫放人從門外来。"
+        ],
+        "paragraphs_simplified": [
+            "吏冗文移纸作堆，谁能亭榭静中开。",
+            "直须事外关门坐，莫放人从门外来。"
+        ],
+        "translation": "官府文书繁杂堆积如纸山，谁能在这喧嚣中打开亭榭的宁静？索性在公务之外关门独坐，不要让外人从门外进来打扰。",
+        "score": 2.8,
+        "subject": [
+            "题咏诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "孤寂"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "抑扬结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以官场繁杂反衬亭榭宁静之难得，后两句直抒胸臆，提出闭门谢客的解决之道。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "“吏冗文移”与“亭榭静中开”形成喧嚣与宁静的强烈对比。"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "末句“莫放人从门外来”明确表达避世之志。"
+                }
+            ]
+        },
+        "analysis": "诗作以官场文书堆积起笔，转而抒发对宁静的渴望，情感直露但缺乏含蓄之美。后两句的闭门主张虽显决绝，却流于说教，未能通过意象营造出真正的超脱意境。整体立意浅显，情感表达过于直白，缺乏审美距离。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "试图以关门独坐展现疏放之态，但意象贫瘠，未达疏野真趣。",
+                "realm": "劣",
+                "reason": "情感宣泄直露，意象单薄，属画虎不成反类犬之作。"
+            }
+        ],
+        "imagery": [
+            "文移纸堆",
+            "亭榭",
+            "门"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以行动指令收束，语气坚决，是全诗情感最集中处。"
+        }
+    },
+    {
+        "title": "和李端明題靈峰",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "靈峰特立萬山中，秋逼濃嵐愈欝葱。",
+            "旁絕逶迤雖寡助，其如氣象自摩空。"
+        ],
+        "paragraphs_simplified": [
+            "灵峰特立万山中，秋逼浓岚愈郁葱。",
+            "旁绝逶迤虽寡助，其如气象自摩空。"
+        ],
+        "translation": "灵峰独自耸立在群山之中，秋意逼迫下浓密的山雾更显葱郁。虽然周围没有连绵山势的辅助，但其气势却自然直逼苍穹。",
+        "score": 4.1,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直接点出灵峰特立之势，次句以秋景烘托其郁勃气象；后两句通过对比，强调其不依赖外援而自成境界的崇高。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“气象自摩空”以夸张手法极言山势之高峻。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借灵峰特立不倚的形象，寄寓孤高自持的志向。"
+                }
+            ]
+        },
+        "analysis": "此诗以雄健笔力勾勒灵峰形象，秋岚浓染的动态与山势静立的静态相得益彰。后两句通过“虽寡助”与“自摩空”的转折，凸显其不假外物的内在气骨。意象凝练，境界开阔，将自然景观升华为精神象征，颇具劲健之风。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "以“特立”“摩空”等意象构筑雄强气格，力透纸背。",
+                "realm": "妙",
+                "reason": "气象宏大，托物言志手法纯熟，属妙品佳作。"
+            }
+        ],
+        "imagery": [
+            "灵峰",
+            "万山",
+            "秋岚"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“其如气象自摩空”一句，以动态描写收束全诗，将山势的崇高感推向极致。"
+        }
+    },
+    {
+        "title": "題大龍湫",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "龍湫噴薄髙且清，自料吾心略相似。",
+            "因流順勢無隱情，傾倒向人只如此。"
+        ],
+        "paragraphs_simplified": [
+            "龙湫喷薄高且清，自料吾心略相似。",
+            "因流顺势无隐情，倾倒向人只如此。"
+        ],
+        "translation": "大龙湫瀑布喷涌而下，既高且清；我自忖内心与这瀑布略有相似。因为它顺着地势奔流，毫无隐藏之情，就这样坦荡地向人倾泻。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句描写瀑布形态，后句由物及人，以瀑布的“无隐情”比喻内心的坦荡，完成从景物到情志的过渡。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“自料吾心略相似”将人心比作瀑布，直指性情之通。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借瀑布的顺势倾泻，寄托为人坦诚无隐的志趣。"
+                }
+            ]
+        },
+        "analysis": "诗作以瀑布的物理特性起兴，转而进行人格化比附，立意虽巧但略显直白。后两句强调“无隐情”的坦荡，情感表达清晰，却缺乏更深层的意象延展。整体构思平稳，但未在语言或意境上取得突破，属于技法成熟但新意不足的咏物诗。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以瀑布的奔流之态喻心性，取象直接，但缺乏含蓄韵味。",
+                "realm": "能",
+                "reason": "托物言志手法完整，但意象与情志的结合稍显生硬。"
+            }
+        ],
+        "imagery": [
+            "龙湫",
+            "瀑布",
+            "流水"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“倾倒向人只如此”一句，以白描手法收束，将瀑布的坦荡与诗人的心性融为一体。"
+        }
+    },
+    {
+        "title": "題妙明師靜軒",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "小徑禪房瑣綠苔，坐中聞葉亦幽哉。",
+            "此居不是能瀟洒，但我初從閙處来。"
+        ],
+        "paragraphs_simplified": [
+            "小径禅房琐绿苔，坐中闻叶亦幽哉。",
+            "此居不是能潇洒，但我初从闹处来。"
+        ],
+        "translation": "小路通向禅房，台阶上布满绿苔；静坐时听到落叶声，也觉得幽静极了。这居所并非真正潇洒超脱，只是我刚从喧闹尘世中来，暂得安宁。",
+        "score": 3.0,
+        "subject": [
+            "题咏诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以绿苔、落叶声营造幽静氛围，后两句通过对比，点出此居的宁静实为相对而言，源于对尘世的厌离。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "“能潇洒”与“初从闹处来”形成理想与现实的对比。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "借“闻叶”之声抒发暂得宁静的感触。"
+                }
+            ]
+        },
+        "analysis": "此诗以禅房绿苔、落叶声等细节刻画幽静，但后两句的转折削弱了意境的纯粹性。情感表达虽真实，却流于对“闹”与“静”的简单对比，未能深入禅理的超诣之境。整体构思平实，缺乏令人回味的审美深度，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以苔径叶声营造淡泊之境，但后句的直白解释破坏了含蓄美。",
+                "realm": "劣",
+                "reason": "意境浅露，情感表达缺乏克制，未能达到冲淡之境。"
+            }
+        ],
+        "imagery": [
+            "小径",
+            "禅房",
+            "绿苔",
+            "落叶"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以“琐绿苔”的细节描写，最能体现禅房的幽寂氛围。"
+        }
+    },
+    {
+        "title": "臘梅",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "縞衣仙子變新裝，淺染春前一様黄。",
+            "不肯皎然爭臘雪，只將孤艷付幽香。"
+        ],
+        "paragraphs_simplified": [
+            "缟衣仙子变新装，浅染春前一样黄。",
+            "不肯皎然争腊雪，只将孤艳付幽香。"
+        ],
+        "translation": "第一句：身着白绢衣的仙子换上了新装，浅浅地染上春天来临前的黄色。第二句：不愿与皎洁的腊雪争奇斗艳，只将孤独的艳丽寄托于幽深的香气之中。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先以拟人手法描绘腊梅的外观与色彩，再通过对比其不争之态，转入内在品格的寄托。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "将腊梅比作'縞衣仙子'，赋予其人的动作'變新裝'。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过'不肯皎然爭臘雪'表达不慕虚荣、甘于幽独的志向。"
+                }
+            ]
+        },
+        "analysis": "此诗以腊梅为载体，构筑出淡雅的视觉意象。'縞衣仙子'的拟人化处理，将梅花的素净与新黄之色融合，形成浅淡的春意预兆。后联以'不肯爭'与'付幽香'的对比，暗合传统士人不趋炎附势的品格，情感流露含蓄，意境清冷而不隔。整体技法稳妥，但意象略显陈旧，未能突破咏物诗的常规框架，属于技法成熟但缺乏新意的能品之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "梅花与幽香的意象组合，营造出远离尘嚣的淡泊氛围。",
+                "realm": "能品",
+                "reason": "意象清雅，但立意未脱前人窠臼，缺乏惊艳之笔。"
+            }
+        ],
+        "imagery": [
+            "梅花",
+            "雪",
+            "香"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句以'孤艷付幽香'收束，点明主旨，余韵较长。"
+        }
+    },
+    {
+        "title": "宿長蘆寺下四絕  其一",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "北風吹水拍船頭，晚泊長蘆祗欲愁。",
+            "試遣長髯伺煙際，望中李郭亦来不。"
+        ],
+        "paragraphs_simplified": [
+            "北风吹水拍船头，晚泊长芦只欲愁。",
+            "试遣长髯伺烟际，望中李郭亦来不。"
+        ],
+        "translation": "第一句：北风吹动水浪拍打船头，傍晚停泊在长芦寺下只觉满腹忧愁。第二句：试着派遣长须仆人观察烟雾边际，远望中李郭是否也已到来。",
+        "score": 2.8,
+        "subject": [
+            "羁旅诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直写景物与愁绪，次句通过仆人观望的动作与设问，深化孤寂感。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "以'北風吹水'的萧瑟景象烘托'祗欲愁'的心境。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "'亦来不'的疑问句式，暗示对同伴的期盼与失落。"
+                }
+            ]
+        },
+        "analysis": "诗作以北风、晚泊为背景，直抒羁旅之愁。意象选择平庸，如'拍船头'、'祗欲愁'等语，情感宣泄过于直白，缺乏审美距离。'長髯'借代仆人虽具细节，但整体意境未能超越一般行旅诗的套路。情感虽真，却流于表面，未能构筑深沉的孤独感，属于情感直露的凡品。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "北风与烟雾的意象试图营造悲凉氛围，但力度不足。",
+                "realm": "凡品",
+                "reason": "情感表达直白，意象陈旧，缺乏含蓄之美。"
+            }
+        ],
+        "imagery": [
+            "风",
+            "水",
+            "船",
+            "烟"
+        ],
+        "allusions": [
+            {
+                "phrase": "李郭",
+                "explanation": "可能指东汉李膺与郭泰，喻指贤达友人，但此处未明确。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句写景生动，'拍船头'具动态感，为全诗定调。"
+        }
+    },
+    {
+        "title": "宿長蘆寺下四絕  其二",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "来帆風飽自行快，去槳浪髙知進難。",
+            "舟子勿生淹泊恨，偶然遲速我殊安。"
+        ],
+        "paragraphs_simplified": [
+            "来帆风饱自行快，去桨浪高知进难。",
+            "舟子勿生淹泊恨，偶然迟速我殊安。"
+        ],
+        "translation": "第一句：来的帆船风势饱满自然行得快，去的桨浪高显知前进艰难。第二句：船夫不要产生滞留的怨恨，偶然的快慢我都很安适。",
+        "score": 2.5,
+        "subject": [
+            "酬唱诗"
+        ],
+        "emotion": [
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借事说理"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先通过行船快慢的对比，引出对船夫的劝解，以豁达心态化解怨恨。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "'来帆風飽'与'去槳浪髙'形成快慢对照，凸显世事无常。"
+                },
+                {
+                    "tag": "借事说理",
+                    "explanation": "借舟行之事，劝人勿怨偶然迟速，体现随缘之思。"
+                }
+            ]
+        },
+        "analysis": "此诗以行船为喻，试图阐发人生偶然的哲理。语言近乎口语，如'自行快'、'我殊安'等，缺乏诗歌应有的凝练与意象深度。对比手法虽存，但说理过于直白，近乎白话，未能营造诗意。情感豁达却流于表面，整体像一首应酬性的打油诗，缺乏艺术价值。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "帆与桨的意象本可生发，但处理得过于平实。",
+                "realm": "劣品",
+                "reason": "语言直白如口语，缺乏诗意提炼，近乎打油诗。"
+            }
+        ],
+        "imagery": [
+            "帆",
+            "桨",
+            "浪"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句稍显哲理，但表达平淡。"
+        }
+    },
+    {
+        "title": "宿長蘆寺下四絕  其三",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "建鄴春江水拍天，趁潮先發六宫船。",
+            "何時彤筆嚴清禁，縹緲金鋪生瑞煙。"
+        ],
+        "paragraphs_simplified": [
+            "建邺春江水拍天，趁潮先发六宫船。",
+            "何时彤笔严清禁，缥缈金铺生瑞烟。"
+        ],
+        "translation": "第一句：建邺的春江水浪拍天，趁着潮水先发六宫船。第二句：何时用红笔严格清理禁苑，缥缈的金色铺陈生出祥瑞烟雾。",
+        "score": 3.2,
+        "subject": [
+            "怀古诗",
+            "干谒诗"
+        ],
+        "emotion": [
+            "期待"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首句写建邺春江的壮阔景象，次句转入对朝廷清平的期待，以典故收束。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "'水拍天'极言江浪之大，渲染气势。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "'六宫船'、'彤笔'暗指宫廷制度，寄托对朝政的期许。"
+                }
+            ]
+        },
+        "analysis": "诗作以建邺春江起兴，意象宏大，但情感空泛，似有干谒权贵之意。'水拍天'与'生瑞烟'的描绘辞藻华丽，却缺乏真切的情感根基，流于浮泛。用典虽存，但未能深化主题，整体意境虚浮，属于辞藻堆砌而内涵不足的平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "春江与金铺的意象组合，试图营造华美氛围。",
+                "realm": "凡品",
+                "reason": "情感空洞，辞藻华丽但内容浮泛。"
+            }
+        ],
+        "imagery": [
+            "江",
+            "船",
+            "烟"
+        ],
+        "allusions": [
+            {
+                "phrase": "建鄴",
+                "explanation": "三国吴都，喻指历史兴衰。"
+            },
+            {
+                "phrase": "六宫",
+                "explanation": "泛指宫廷，暗指朝廷。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句气势恢宏，'水拍天'具画面感。"
+        }
+    },
+    {
+        "title": "宿長蘆寺下四絕  其四",
+        "author": "鄭剛中",
+        "paragraphs": [
+            "風伯清塵過浙西，隨春萬騎擁旌旗。",
+            "野人不識巡方意，警蹕還憂爲虜移。"
+        ],
+        "paragraphs_simplified": [
+            "风伯清尘过浙西，随春万骑拥旌旗。",
+            "野人不识巡方意，警跸还忧为虏移。"
+        ],
+        "translation": "第一句：风神清扫尘土经过浙西，随着春天万骑拥着旌旗。第二句：野人不识巡方的意图，警跸还担忧被虏转移。",
+        "score": 3.5,
+        "subject": [
+            "边塞诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以拟人手法写军队声势，次句借'野人'视角表达对时局的忧虑。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "'風伯清塵'将风神拟人，形容军队行进。"
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "通过'巡方'与'警跸'的典故，暗讽边防危机。"
+                }
+            ]
+        },
+        "analysis": "此诗写军队巡行，意象雄壮，如'萬騎擁旌旗'，但情感隐晦，借'野人'之口表达对虏患的忧虑。讽喻意图明显，却因表达迂回而力度不足，未能直指时弊。整体技法成熟，但立意未达深刻，属于有心讽喻却流于表面的能品之作。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery分析": "风与骑的意象组合，试图展现雄健气势。",
+                "realm": "能品",
+                "reason": "讽喻意图存，但表达不够犀利。"
+            }
+        ],
+        "imagery": [
+            "风",
+            "骑",
+            "旌旗"
+        ],
+        "allusions": [
+            {
+                "phrase": "風伯",
+                "explanation": "神话中的风神，喻指军队威势。"
+            },
+            {
+                "phrase": "巡方",
+                "explanation": "古代帝王巡视四方，暗指朝廷行动。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以拟人手法生动描绘军队行进。"
+        }
+    }
+]

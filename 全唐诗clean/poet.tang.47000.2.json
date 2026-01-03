@@ -1,0 +1,80 @@
+[
+    {
+        "title": "題病僧寮",
+        "author": "鄭遨",
+        "paragraphs": [
+            "佛前香印廢晨燒，金錫當門照寂寥。",
+            "童子不知師病困，報風吹折好芭蕉。"
+        ],
+        "paragraphs_simplified": [
+            "佛前香印废晨烧，金锡当门照寂寥。",
+            "童子不知师病困，报风吹折好芭蕉。"
+        ],
+        "translation": "佛前的香印已废弃晨烧，金锡杖立在门前照出寂寥。童子不知师父病困，只报告风吹折了美好的芭蕉。全诗通过僧寮细节，暗示病僧的孤寂与无人关怀的凄凉。",
+        "score": 2.2,
+        "subject": [
+            "题画诗",
+            "悼亡诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "以乐衬哀",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句写静态寂寥，后两句以童子无知反衬病困之悲。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“风吹折好芭蕉”暗喻命运摧残。"
+                },
+                {
+                    "tag": "侧面烘托",
+                    "explanation": "通过童子不识病困，侧面写出僧人的孤独。"
+                }
+            ]
+        },
+        "analysis": "诗中意象如香印、金锡、芭蕉等虽具佛门特色，但组合松散，未能深化病僧主题。情感表达依赖外部场景的堆砌，缺乏内在的悲悯深度。语言平淡，无警策之句，整体流于表面叙事。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以寂寥场景营造悲情，但意象单薄，未能触动人心。",
+                "realm": "劣",
+                "reason": "欲达悲慨而不得，反显琐碎无力。"
+            }
+        ],
+        "imagery": [
+            "佛",
+            "香印",
+            "金锡",
+            "童子",
+            "芭蕉"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以童子无知点出悲情，相对完整。"
+        }
+    }
+]

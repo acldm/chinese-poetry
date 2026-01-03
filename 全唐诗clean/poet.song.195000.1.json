@@ -1,0 +1,512 @@
+[
+    {
+        "title": "捨鞋",
+        "author": "釋慧開",
+        "paragraphs": [
+            "驗盡脚跟長與短，箇中寬窄已先知。",
+            "自從蹈著這些子，左右逢原顯大機。"
+        ],
+        "paragraphs_simplified": [
+            "验尽脚跟长与短，箇中宽窄已先知。",
+            "自从蹈著这些子，左右逢原显大机。"
+        ],
+        "translation": "验尽脚跟长与短，箇中宽窄已先知。自从蹈著这些子，左右逢原显大机。",
+        "score": 2.7,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先验脚跟长短，再述蹈著后左右逢原，展现修行过程的递进。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "鞋子比喻修行路径"
+                }
+            ]
+        },
+        "analysis": "此诗以舍鞋为喻，描述修行过程。‘验尽脚跟’细节生动，但‘左右逢原’陈词滥调，整体平庸，缺乏诗意升华。意象具象却未深化，情景契合度一般，情感流于表面，未能构筑独特艺术价值。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "脚跟与蹈著意象试图平实，但表达直白，未能达自然之妙。",
+                "realm": "能",
+                "reason": "技法熟练但立意老套，接近自然却失之浅显。"
+            }
+        ],
+        "imagery": [
+            "脚跟",
+            "鞋子",
+            "大机"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句‘验尽脚跟长与短’叙事清晰。"
+        }
+    },
+    {
+        "title": "牙藥",
+        "author": "釋慧開",
+        "paragraphs": [
+            "點著些兒，妙不可述。",
+            "纔開臭口，驗得骨出。"
+        ],
+        "paragraphs_simplified": [
+            "点著些儿，妙不可述。",
+            "才开臭口，验得骨出。"
+        ],
+        "translation": "点著些儿，妙不可述。才开臭口，验得骨出。",
+        "score": 2.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "无奈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句点出妙不可述，次句以臭口骨出验证，逻辑直露，缺乏层次。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "妙不可述与骨出夸大效果"
+                }
+            ]
+        },
+        "analysis": "此诗以牙药为喻，直指禅机。‘妙不可述’空洞，‘验得骨出’粗俗，意象浅陋，立意平庸，纯属打油诗级别。情景生硬拼凑，意境不隔但流于恶俗，情感宣泄无审美距离，整体为劣作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "臭口与骨出意象试图奇崛，但表达粗鄙，未能达清奇之境。",
+                "realm": "劣",
+                "reason": "试图清奇但实则滑稽，意象低俗。"
+            }
+        ],
+        "imagery": [
+            "牙药",
+            "口",
+            "骨"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句‘点著些儿，妙不可述’相对通顺。"
+        }
+    },
+    {
+        "title": "醫眼",
+        "author": "釋慧開",
+        "paragraphs": [
+            "開黑暗門，通向上竅。",
+            "內外障除，神光獨耀。"
+        ],
+        "paragraphs_simplified": [
+            "开黑暗门，通向上窍。",
+            "内外障除，神光独耀。"
+        ],
+        "translation": "打开黑暗之门，通向上的窍穴。内外障碍消除，神光独自闪耀。",
+        "score": 4.2,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以'黑暗门'喻无明，次句'神光独耀'直指悟境，逻辑直截。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'黑暗门'喻指认知障碍"
+                },
+                {
+                    "tag": "开门见山",
+                    "explanation": "首句即点明开悟主题"
+                }
+            ]
+        },
+        "analysis": "此诗以密教意象构筑禅悟境界，'黑暗门'与'神光'形成强烈视觉对冲，彰显顿悟瞬间的灵性光辉。语言洗练如刀，无冗余修饰，直指心性本源。内外障除的递进结构，暗合修行次第，却以独耀神光收束，形成刹那永恒的审美张力。整体呈现高古气象，不落言筌。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "黑暗与神光的意象组合，构筑出超越尘世的灵性空间",
+                "realm": "妙",
+                "reason": "以简驭繁，直抵禅心"
+            }
+        ],
+        "imagery": [
+            "黑暗",
+            "门",
+            "神光"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "神光独耀四字，凝聚全诗精神内核"
+        }
+    },
+    {
+        "title": "施湯",
+        "author": "釋慧開",
+        "paragraphs": [
+            "不是甘草大黄，亦非苦參半夏。",
+            "莫教一滴沾唇，直得通身汗下。"
+        ],
+        "paragraphs_simplified": [
+            "不是甘草大黄，亦非苦参半夏。",
+            "莫教一滴沾唇，直得通身汗下。"
+        ],
+        "translation": "不是甘草大黄，也不是苦参半夏。不要让一滴沾唇，就全身汗下。",
+        "score": 3.8,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "惊奇"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "双关"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先否定常规药性，再突转至药效猛烈，形成逻辑跌宕。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "通身汗下极言药效迅猛"
+                },
+                {
+                    "tag": "双关",
+                    "explanation": "汤药暗指禅门棒喝"
+                }
+            ]
+        },
+        "analysis": "此诗以药喻禅，构思奇崛。首句连用四味中药名，却以'不是'全盘否定，制造认知悬疑。次句'一滴沾唇'与'通身汗下'形成微观与宏观的剧烈反差，暗喻禅机触发时的身心震撼。语言俚俗中见锋芒，将玄奥禅理具象为可触的生理反应，体现禅宗'平常心是道'的机锋。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "药名与汗象的组合，构筑出刚猛凌厉的禅修体验",
+                "realm": "能",
+                "reason": "以俗物写玄理，别开生面"
+            }
+        ],
+        "imagery": [
+            "甘草",
+            "大黄",
+            "苦参",
+            "半夏",
+            "汗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "直得通身汗下，将抽象禅悟化为具象体感"
+        }
+    },
+    {
+        "title": "接待",
+        "author": "釋慧開",
+        "paragraphs": [
+            "洋銅汁羹，熱鐵丸飯。",
+            "滴粒纔沾，通身腐爛。"
+        ],
+        "paragraphs_simplified": [
+            "洋铜汁羹，热铁丸饭。",
+            "滴粒才沾，通身腐烂。"
+        ],
+        "translation": "洋铜汁羹，热铁丸饭。一滴才沾，全身腐烂。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恐惧"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "渲染"
+            ],
+            "structure_tags": [
+                "重章叠句"
+            ],
+            "structural_logic": "两句均以金属饮食起兴，重复强调沾染即腐的后果。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "通身腐烂的极端描述"
+                },
+                {
+                    "tag": "渲染",
+                    "explanation": "通过金属饮食意象渲染恐怖氛围"
+                }
+            ]
+        },
+        "analysis": "此诗意象选择过于直白，洋铜热铁的恐怖意象缺乏审美转化，近乎恫吓。虽试图以极端物象喻禅门接引之峻烈，但流于表面，未能如前作般在俗象中见灵性。语言粗砺而少回味，通身腐烂的描写更显刻意，失却禅诗应有的含蓄与机趣。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "金属饮食意象试图营造悲壮感，但未达预期",
+                "realm": "劣",
+                "reason": "意象选择失当，流于恐怖渲染"
+            }
+        ],
+        "imagery": [
+            "洋铜",
+            "热铁",
+            "羹",
+            "丸饭",
+            "腐烂"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "洋铜汁羹，热铁丸饭，意象组合尚具冲击力"
+        }
+    },
+    {
+        "title": "餛飩",
+        "author": "釋慧開",
+        "paragraphs": [
+            "寬著肚皮急叉手，鑊湯裡面翻筋斗。",
+            "渾身糜爛轉馨香，那箇禪和不開口。"
+        ],
+        "paragraphs_simplified": [
+            "宽著肚皮急叉手，镬汤里面翻筋斗。",
+            "浑身糜烂转馨香，那箇禅和不开口。"
+        ],
+        "translation": "宽著肚皮急叉手，镬汤里面翻筋斗。浑身糜烂转馨香，那箇禅和不开口。",
+        "score": 3.2,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "反讽"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句描绘滑稽动作，后句转折至禅和沉默，形成反讽。",
+            "evidence": [
+                {
+                    "tag": "反讽",
+                    "explanation": "以糜烂转馨香的悖论反讽禅门机锋"
+                },
+                {
+                    "tag": "叙事",
+                    "explanation": "通过动作序列构建禅门公案场景"
+                }
+            ]
+        },
+        "analysis": "此诗以市井饮食为喻，试图展现禅宗不拘形式的洒脱。宽肚叉手、翻筋斗等动作描写生动，但'浑身糜烂转馨香'的意象转换生硬，未能自然升华。结尾禅和不开口的处理，虽暗合'言语道断'之理，却因前文铺垫不足而显突兀。整体在俚俗与禅意间摇摆，未能达成平衡。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "市井动作与禅理结合，试图营造自然放达之境",
+                "realm": "能",
+                "reason": "意象选择有创意，但转化不够圆融"
+            }
+        ],
+        "imagery": [
+            "肚皮",
+            "叉手",
+            "镬汤",
+            "筋斗",
+            "糜烂",
+            "馨香"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "浑身糜烂转馨香，意象悖论最具张力"
+        }
+    },
+    {
+        "title": "孟少保戎裝相贊",
+        "author": "釋慧開",
+        "paragraphs": [
+            "英雄盖世上將軍，洞寇聞風喪膽魂。",
+            "寸刃不施機莫測，看渠談笑定乾坤。"
+        ],
+        "paragraphs_simplified": [
+            "英雄盖世上将军，洞寇闻风丧胆魂。",
+            "寸刃不施机莫测，看渠谈笑定乾坤。"
+        ],
+        "translation": "英雄盖世的上将，洞寇闻风丧胆。不施刀刃，机谋莫测，看他谈笑间平定天下。",
+        "score": 2.5,
+        "subject": [
+            "题画诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先扬后抑，首联渲染将军威名与敌寇之惧，尾联转写不战而胜的智谋，以谈笑收束。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "英雄盖世一词以超凡修辞凸显将军威势"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "寸刃代指武力，暗示不战而屈人之兵"
+                }
+            ]
+        },
+        "analysis": "此诗以简练笔法构筑将军形象，开篇'英雄盖世'直指威仪，'闻风丧胆'渲染敌寇之惧，形成声势。后联'寸刃不施'转折，托出智谋之深，'谈笑定乾坤'以举重若轻之态作结。然意象陈旧，如'盖世'、'定乾坤'皆属套语，缺乏新意。整体立意浅显，仅为应酬式赞颂，未能寄寓独特意境，流于表面颂扬，实为平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "试图以宏大意象构筑雄浑气魄，但因辞藻堆砌而流于粗豪。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，空有豪言而无实质内涵。"
+            }
+        ],
+        "imagery": [
+            "将军",
+            "敌人",
+            "武器",
+            "天下"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句'看渠谈笑定乾坤'稍具动态，以谈笑收束略显生动。"
+        }
+    }
+]

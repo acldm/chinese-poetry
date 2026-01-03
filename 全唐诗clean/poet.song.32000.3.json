@@ -1,0 +1,691 @@
+[
+    {
+        "title": "送方劭秘校",
+        "author": "王安石",
+        "paragraphs": [
+            "南浦柔條拂地垂，攀翻聊寄我西悲。",
+            "武昌官柳年年好，他日春風憶此時。"
+        ],
+        "paragraphs_simplified": [
+            "南浦柔条拂地垂，攀翻聊寄我西悲。",
+            "武昌官柳年年好，他日春风忆此时。"
+        ],
+        "translation": "南浦的柔嫩柳条垂到地面，我攀折柳枝聊以寄托西行的悲伤。武昌的官柳年年都长势良好，将来在春风中一定会回忆起此时此刻的情景。",
+        "score": 3.8,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "惜别",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "以柳枝起兴，通过攀折动作寄托离愁，后以官柳常好呼应未来回忆，形成时空闭环。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“攀翻聊寄我西悲”赋予柳枝以人的情感承载功能。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“武昌官柳年年好”以景物延续暗喻情谊长存。"
+                }
+            ]
+        },
+        "analysis": "此诗以柔柳垂地之景构筑离别场景，攀折柳枝的动作将物象与情感勾连，形成情景交融的审美空间。后联以官柳年年好作为情感支点，拓宽了时间维度，使离愁不滞于当下，而寄寓于未来追忆。整体技法圆熟，然意象仍囿于传统送别范式，未见新异之境。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "柔柳、官柳等植物意象构筑出缠绵而坚韧的离别氛围。",
+                "realm": "能品",
+                "reason": "情感表达符合悲慨风格中“壮士拂剑，浩然弥哀”的苍凉感，但意象选择较为常规。"
+            }
+        ],
+        "imagery": [
+            "柳条",
+            "春风",
+            "植物"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以动态的“攀翻”动作将静态景物转化为情感载体，更具表现力。"
+        }
+    },
+    {
+        "title": "答韓持國芙蓉堂二首  其一",
+        "author": "王安石",
+        "paragraphs": [
+            "投老歸來一幅巾，尚私榮祿備藩臣。",
+            "芙蓉堂下疏秋水，且與龜魚作主人。"
+        ],
+        "paragraphs_simplified": [
+            "投老归来一幅巾，尚私荣禄备藩臣。",
+            "芙蓉堂下疏秋水，且与龟鱼作主人。"
+        ],
+        "translation": "年老归来只有一幅头巾，还私下享受着藩臣的荣禄。芙蓉堂下秋水稀疏，暂且与龟鱼共为主人。",
+        "score": 3.5,
+        "subject": [
+            "酬唱诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直陈归隐状态，次句以龟鱼为伴点明志趣，结构直白。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "“荣禄”代指官职待遇。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "“与龟鱼作主人”以水族喻隐逸生活。"
+                }
+            ]
+        },
+        "analysis": "此诗语言平实，首句以“一幅巾”与“荣禄”形成物质对比，暗含自嘲。后联转向芙蓉堂秋水之景，借龟鱼意象寄托疏离官场之志。然整体立意浅显，意象组合缺乏深层张力，近乎口语应答，未达含蓄之境。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "龟鱼、秋水等意象试图营造荒率之趣，但缺乏“疏野”应有的真率精神。",
+                "realm": "凡品",
+                "reason": "模仿疏野风格而流于表面，未得自然真趣，反显刻意。"
+            }
+        ],
+        "imagery": [
+            "头巾",
+            "秋水",
+            "龟鱼"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“且与龟鱼作主人”以物为伴的表述更具意象性。"
+        }
+    },
+    {
+        "title": "答韓持國芙蓉堂二首  其二",
+        "author": "王安石",
+        "paragraphs": [
+            "乞得膠膠擾擾身，五湖煙水替風塵。",
+            "祇將鳬雁同爲侶，不與龜魚作主人。"
+        ],
+        "paragraphs_simplified": [
+            "乞得胶胶扰扰身，五湖烟水替风尘。",
+            "只将凫雁同为侣，不与龟鱼作主人。"
+        ],
+        "translation": "乞得纷扰的身躯，用五湖烟水替代尘世风尘。只将野鸭大雁作为伴侣，不与龟鱼做主人。",
+        "score": 3.6,
+        "subject": [
+            "酬唱诗"
+        ],
+        "emotion": [
+            "豁达",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句以五湖烟水比喻隐逸生活，后句通过凫雁与龟鱼的对比深化选择，逻辑连贯。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“五湖烟水替风尘”以自然景象喻超脱。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "“凫雁同为侣”实写物伴，虚写自由心境。"
+                }
+            ]
+        },
+        "analysis": "此诗与前首主题重复，意象选用（龟鱼、烟水）亦显雷同。前句“胶胶扰扰”叠词生动，但后联“不与龟鱼作主人”与前作句式相似，缺乏新意。整体构思平庸，未能突破酬唱诗的应酬惯性。",
+        "poetry_styles": [
+            {
+                "style": "飘逸",
+                "imagery_analysis": "凫雁、烟水等意象试图表现超然，但组合缺乏流动感。",
+                "realm": "凡品",
+                "reason": "欲达飘逸之境而意象堆砌，反显滞重。"
+            }
+        ],
+        "imagery": [
+            "烟水",
+            "凫雁",
+            "龟鱼"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“五湖烟水替风尘”以宏观景象概括隐逸，更具概括力。"
+        }
+    },
+    {
+        "title": "長干釋普濟坐化",
+        "author": "王安石",
+        "paragraphs": [
+            "投老唯公最故人，相尋長恨隔城闉。",
+            "百年俯仰隨薪盡，畫手空傳浄戒身。"
+        ],
+        "paragraphs_simplified": [
+            "投老唯公最故人，相寻长恨隔城闉。",
+            "百年俯仰随薪尽，画手空传净戒身。"
+        ],
+        "translation": "年老时只有您最像故人，互相寻找常恨隔着城门。百年光阴俯仰之间随柴薪燃尽，画工空传您净戒之身。",
+        "score": 4.0,
+        "subject": [
+            "悼亡诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前联写故人难寻之憾，后联以“薪尽”典出《庄子》点明生命短暂，最终归于空寂。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "“薪尽”代指生命终结。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“百年俯仰随薪尽”暗用《庄子·养生主》“指穷于为薪，火传也”典故。"
+                }
+            ]
+        },
+        "analysis": "此诗以故人长逝为切入点，“隔城闉”具象化生死之隔。后联用典精当，“薪尽”之喻将个体生命纳入宇宙循环，画手空传的结句更添虚无感。情感沉郁而表达克制，技法凝练，堪称悼亡诗中能品。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "城闉、薪尽等意象构筑出厚重苍茫的生死观照。",
+                "realm": "能品",
+                "reason": "符合沉著风格“绿林野屋，落日气清”的深沉格调，情感渗透力强。"
+            }
+        ],
+        "imagery": [
+            "故人",
+            "城闉",
+            "薪",
+            "画手"
+        ],
+        "allusions": [
+            {
+                "phrase": "薪尽",
+                "explanation": "出自《庄子·养生主》，以薪火比喻生命传承。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“百年俯仰随薪尽”以时间尺度升华悼亡主题，境界开阔。"
+        }
+    },
+    {
+        "title": "送黄吉甫入京題清凉寺壁",
+        "author": "王安石",
+        "paragraphs": [
+            "薰風洲渚薺花繁，看上征鞍立寺門。",
+            "投老難堪與君別，倚江從此望還轅。"
+        ],
+        "paragraphs_simplified": [
+            "薰风洲渚荠花繁，看上征鞍立寺门。",
+            "投老难堪与君别，倚江从此望还辕。"
+        ],
+        "translation": "暖风吹拂洲渚荠花繁茂，看您上马鞍立于寺门。年老难堪与您分别，倚江从此望您回车。",
+        "score": 3.7,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "惜别",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "细节描写"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前联以荠花繁茂、征鞍立寺的细节勾勒送别场景，后联直抒离别之苦，以“望还辕”收束全篇。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "“看上征鞍立寺门”捕捉瞬间动态。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“薰风洲渚荠花繁”以春景反衬离愁。"
+                }
+            ]
+        },
+        "analysis": "此诗以春日送别为背景，“薰风”“荠花”构筑明丽而哀婉的意境。前联“看上征鞍”的细节极具画面感，后联“倚江望还辕”将空间距离转化为情感绵延。整体情景契合度较高，但立意未脱送别诗窠臼。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "荠花、征鞍等意象以乐景写哀情，符合含蓄美学。",
+                "realm": "能品",
+                "reason": "情感表达较为克制，但意象创新不足。"
+            }
+        ],
+        "imagery": [
+            "薰风",
+            "荠花",
+            "征鞍",
+            "寺门"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“薰风洲渚荠花繁”以繁茂春景反衬离别，更具张力。"
+        }
+    },
+    {
+        "title": "與道原自何氏宅步至景德寺",
+        "author": "王安石",
+        "paragraphs": [
+            "前時偶見花如夢，紅紫紛披競淺深。",
+            "今日重來如夢覺，靜無餘馥可追尋。"
+        ],
+        "paragraphs_simplified": [
+            "前时偶见花如梦，红紫纷披竞浅深。",
+            "今日重来如梦觉，静无余馥可追寻。"
+        ],
+        "translation": "前时偶见花如梦，红紫纷披竞浅深：以前偶然见到花像梦一样，红色和紫色纷繁地铺开，竞相展示深浅层次。今日重来如梦觉，静无余馥可追寻：今天再次到来如同从梦中醒来，静静地没有残留的香气可以追寻。",
+        "score": 3.8,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "失落",
+            "感慨"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应",
+                "卒章显志"
+            ],
+            "structural_logic": "通过对比过去和现在的花景，表达对时光流逝的感慨。逻辑是：回忆过去花盛，如今花谢，情感从美好转为失落。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "花如梦，将花比作梦，突出虚幻感"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "前时与今日的对比，突出变化"
+                }
+            ]
+        },
+        "analysis": "此诗以花为媒介，构筑时光流逝的虚无感。前句以“红紫纷披”渲染春日繁盛，后句以“静无余馥”勾勒人去楼空之寂。意象选择精准，从视觉到嗅觉的转换自然，情感渗透于景物变迁中，不直露却真切。整体定性为佳作，但未达神品，因立意稍显常见。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "以花开花谢暗示时光流逝，情感隐于意象之后",
+                "realm": "能品",
+                "reason": "技法成熟，但立意未出新意"
+            }
+        ],
+        "imagery": [
+            "花",
+            "香气"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句“今日重来如梦觉，静无余馥可追寻”更点明主题"
+        }
+    },
+    {
+        "title": "過法雲寺",
+        "author": "王安石",
+        "paragraphs": [
+            "路過潮溝八九盤，招提雪脊隠雲端。",
+            "金鈿一一花總老，翠被重重山更寒。"
+        ],
+        "paragraphs_simplified": [
+            "路过潮沟八九盘，招提雪脊隐云端。",
+            "金钿一一花总老，翠被重重山更寒。"
+        ],
+        "translation": "路过潮沟八九盘，招提雪脊隐云端：路过潮沟多次盘绕，寺庙的雪白屋脊隐藏在云端。金钿一一花总老，翠被重重山更寒：金钿（指花朵）逐一凋谢，花都老了；翠被（指山色）重重，山更寒冷。",
+        "score": 3.2,
+        "subject": [
+            "山水诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "孤寂",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先写前往寺庙的路径和外观，再写所见花老山寒，情感从外景转向内心感受。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "金钿喻花朵，形象生动"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "山更寒，赋予山以寒意"
+                }
+            ]
+        },
+        "analysis": "此诗勾勒山寺幽深之景，以“雪脊隐云端”构筑高远意境，“金钿花老”与“翠被山寒”形成色彩与温度的对照。意象陈旧，如“金钿”“翠被”沿用传统比喻，缺乏新意。情感流于表面，未能深入，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以山寺和花老为意象，但组合生硬",
+                "realm": "凡品",
+                "reason": "辞藻堆砌，立意浅显"
+            }
+        ],
+        "imagery": [
+            "水",
+            "寺庙",
+            "山",
+            "花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句“路過潮溝八九盤，招提雪脊隠雲端”更具画面感"
+        }
+    },
+    {
+        "title": "光宅寺",
+        "author": "王安石",
+        "paragraphs": [
+            "齊安孤起宋興前，光宅相仍一水邊。",
+            "蜂分蟻爭今不見，故窠遺垤尚依然。"
+        ],
+        "paragraphs_simplified": [
+            "齐安孤起宋兴前，光宅相仍一水边。",
+            "蜂分蚁争今不见，故窠遗垤尚依然。"
+        ],
+        "translation": "齐安孤起宋兴前，光宅相仍一水边：齐安（地名）在宋朝兴起之前孤立而起，光宅寺依然在水边。蜂分蚁争今不见，故窠遗垤尚依然：蜂分蚁争（比喻纷争）现在看不见了，但旧巢和遗留的蚁穴还依然存在。",
+        "score": 4.5,
+        "subject": [
+            "怀古诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "感慨",
+            "怀古"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句写寺庙历史，后句写现状，通过对比表达历史变迁中的不变。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "蜂分蚁争比喻世事纷争"
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "通过古寺遗迹讽喻现实"
+                }
+            ]
+        },
+        "analysis": "此诗以光宅寺为历史见证，前句点明其起源，后句以“蜂分蚁争”暗喻世事纷扰，而“故窠遗垤”则勾勒遗迹之恒常。意象选择巧妙，从宏观历史到微观蚁穴，拓宽了时空感。情感含蓄，流露出对历史沧桑的沉思，整体凝练而有深度。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "以古寺和蚁穴为意象，承载历史变迁",
+                "realm": "妙品",
+                "reason": "立意深刻，技法娴熟"
+            }
+        ],
+        "imagery": [
+            "地名",
+            "寺庙",
+            "水",
+            "昆虫",
+            "巢穴"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句“蜂分蚁争今不见，故窠遗垤尚依然”更富哲理"
+        }
+    },
+    {
+        "title": "題勇老退居院",
+        "author": "王安石",
+        "paragraphs": [
+            "道人投老寄山林，偶坐翛然洗我心。",
+            "夢境此身能且在，明年寒食更相尋。"
+        ],
+        "paragraphs_simplified": [
+            "道人投老寄山林，偶坐翛然洗我心。",
+            "梦境此身能且在，明年寒食更相寻。"
+        ],
+        "translation": "道人投老寄山林，偶坐翛然洗我心：道人（指勇老）晚年寄居山林，偶然坐坐，翛然清静，洗涤我的心。梦境此身能且在，明年寒食更相寻：梦境中此身还能存在，明年寒食节再来相寻。",
+        "score": 3.7,
+        "subject": [
+            "题画诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "闲适",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句写道人生活对心灵的净化，后句写对未来的期待，情感从当下延伸到未来。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "梦境喻人生虚幻"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借退居院表达超脱心境"
+                }
+            ]
+        },
+        "analysis": "此诗描绘退居生活之宁静，以“翛然洗心”直指精神净化，后句以“梦境”暗喻人生无常，却以“明年寒食”寄托重逢之望。情感真挚，从洗涤到期待，层次分明。但“梦境”意象稍显陈旧，整体流畅而缺乏突破。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以山林和梦境为意象，营造宁静氛围",
+                "realm": "能品",
+                "reason": "技法成熟，但意象未出新意"
+            }
+        ],
+        "imagery": [
+            "人",
+            "自然",
+            "心",
+            "梦",
+            "节日"
+        ],
+        "allusions": [
+            {
+                "phrase": "寒食",
+                "explanation": "传统节日，在清明前一日，习俗为禁火冷食"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句“道人投老寄山林，偶坐翛然洗我心”更直接表达主题"
+        }
+    }
+]

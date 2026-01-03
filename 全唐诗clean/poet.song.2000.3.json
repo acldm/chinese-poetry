@@ -1,0 +1,843 @@
+[
+    {
+        "title": "第二訣",
+        "author": "釋善昭",
+        "paragraphs": [
+            "舒光辨賢哲，問答利生心，拔却眼中楔。"
+        ],
+        "paragraphs_simplified": [
+            "舒光辨贤哲，问答利生心，拔却眼中楔。"
+        ],
+        "translation": "舒展光芒以辨别贤哲，通过问答利益众生之心，拔除眼中的楔子。",
+        "score": 3.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以三句递进式结构阐述禅理：先言辨别贤哲，次言问答利生，终以拔楔喻破执。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“拔却眼中楔”以楔子比喻认知障碍，形象传达破除迷障之意。"
+                }
+            ]
+        },
+        "analysis": "此诀以简练笔法构筑禅宗机锋，三句层层递进，直指心性修养之要义。“拔却眼中楔”之喻，将抽象禅理具象化，虽无华丽辞藻，却渗透着直截了当的智慧。整体风格洗炼，意在破除执念，然意象稍显单一，缺乏诗歌的韵律美感。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "以“光”、“心”、“楔”为核心意象，通过日常物象传达禅理，简洁而富有深意。",
+                "realm": "能品",
+                "reason": "技法成熟，立意明确，但诗意稍弱，更似偈语而非诗。"
+            }
+        ],
+        "imagery": [
+            "光",
+            "心",
+            "楔"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "“拔却眼中楔”以生动比喻点明主旨，最具禅意和冲击力。"
+        }
+    },
+    {
+        "title": "第三訣",
+        "author": "釋善昭",
+        "paragraphs": [
+            "西國胡人說，濟水過新羅，北地用鑌鐵。"
+        ],
+        "paragraphs_simplified": [
+            "西国胡人说，济水过新罗，北地用镔铁。"
+        ],
+        "translation": "西域胡人传说，济水能渡新罗，北方使用镔铁。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "罗列三则异域见闻，看似无关联，实则暗喻禅理之不可思议，需超越常识。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“新罗”指古朝鲜王国，“镔铁”为西域精铁，借异域事物暗示禅境之玄妙。"
+                }
+            ]
+        },
+        "analysis": "此诀以三则地理物产之传说拼凑而成，意象跳跃，缺乏内在逻辑联系。语言直白如口语，近乎谜语，虽意图指向禅理之超越性，但作为诗歌，意象陈旧且堆砌，未能营造出诗意空间。整体立意浅显，流于表面。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "以“西国”、“济水”、“镔铁”等异域意象拼接，试图营造陌生化效果，但缺乏情感内核。",
+                "realm": "劣",
+                "reason": "意象杂乱，语言粗陋，未能达到禅诗应有的含蓄与深远，近乎打油诗。"
+            }
+        ],
+        "imagery": [
+            "国",
+            "人",
+            "水",
+            "铁"
+        ],
+        "allusions": [
+            {
+                "phrase": "新罗",
+                "explanation": "古朝鲜王国，此处借指遥远异域。"
+            },
+            {
+                "phrase": "镔铁",
+                "explanation": "西域所产精铁，象征稀有与坚韧。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句“西国胡人说”虽平淡，但作为起句尚能引入话题。"
+        }
+    },
+    {
+        "title": "句  其一",
+        "author": "釋善昭",
+        "paragraphs": [
+            "萬古碧潭空界月，再三撈摝始應知。"
+        ],
+        "paragraphs_simplified": [
+            "万古碧潭空界月，再三捞摝始应知。"
+        ],
+        "translation": "万古碧潭中空界之月，反复捞取方能知晓。",
+        "score": 4.2,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句以碧潭空月之景营造虚幻意境，后句通过捞取动作揭示顿悟之理，由景入理。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“碧潭空界月”比喻本性清净，捞取比喻修行求索。"
+                }
+            ]
+        },
+        "analysis": "此句以碧潭映月之象，构筑空灵禅境。万古之时间与空界之空间交织，暗示真理之永恒与虚幻。后句“再三捞摝始应知”以动作破静，点出唯有亲证方能领悟。意象纯净，语言凝练，情景交融，无说教之弊，有回甘之韵。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "核心意象“潭”与“月”象征清净自性，捞取动作暗喻修行过程，意境深远。",
+                "realm": "妙品",
+                "reason": "以简驭繁，寓深刻禅理于生动意象，不露锋芒而意蕴无穷。"
+            }
+        ],
+        "imagery": [
+            "潭",
+            "月"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“再三捞摝始应知”是全诗点睛之笔，将抽象禅理化为具体体验。"
+        }
+    },
+    {
+        "title": "句  其二",
+        "author": "釋善昭",
+        "paragraphs": [
+            "陣雲橫海上，拔劍攪龍門。"
+        ],
+        "paragraphs_simplified": [
+            "阵云横海上，拔剑搅龙门。"
+        ],
+        "translation": "战云横亘海上，拔剑搅动龙门。",
+        "score": 4.0,
+        "subject": [
+            "游侠诗",
+            "边塞诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "激昂"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "动静结合",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句以阵云横海之景渲染紧张氛围，后句以拔剑搅龙门之动展现英雄气概，气势连贯。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“搅龙门”以夸张手法表现剑势之猛，暗含鱼跃龙门之典。"
+                }
+            ]
+        },
+        "analysis": "此联以雄浑笔触勾勒出一幅壮士行侠图。阵云横海，景象开阔；拔剑搅龙门，动作凌厉。动静结合之下，豪情喷薄而出。虽仅十字，却蕴含巨大张力，将游侠的勇猛与不羁刻画得淋漓尽致。意象刚健，节奏铿锵。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "“阵云”、“海”、“剑”、“龙门”等意象组合，营造出磅礴的动感和力量。",
+                "realm": "能品",
+                "reason": "气势充沛，技法娴熟，但稍显直露，回味略欠。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "海",
+            "剑",
+            "门"
+        ],
+        "allusions": [
+            {
+                "phrase": "龙門",
+                "explanation": "指黄河龙门，传说鲤鱼跃过则化龙，此处借指非凡之举。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“拔剑搅龙门”动作感极强，是全联精神所在。"
+        }
+    },
+    {
+        "title": "句  其三",
+        "author": "釋善昭",
+        "paragraphs": [
+            "三頭六臂擎天地，忿怒那吒撲帝鐘。"
+        ],
+        "paragraphs_simplified": [
+            "三头六臂擎天地，忿怒那吒扑帝钟。"
+        ],
+        "translation": "三头六臂擎起天地，愤怒的那吒扑击帝钟。",
+        "score": 3.8,
+        "subject": [
+            "游仙诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "愤怒",
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "两句并列，前句写那吒法相之威，后句写其愤怒之态，共同塑造神话英雄形象。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“三头六臂擎天地”极言那吒神通广大，力大无穷。"
+                }
+            ]
+        },
+        "analysis": "此句借用那吒神话，以夸张笔法描绘其神威。三头六臂擎天，意象奇崛；扑击帝钟，动作暴烈。整体风格雄奇，但略显直白，缺乏含蓄之美。神话意象的运用虽生动，却稍欠节制，有堆砌之嫌。",
+        "poetry_styles": [
+            {
+                "style": "精神",
+                "imagery_analysis": "以“三头六臂”、“天地”、“那吒”、“帝钟”等神话意象，展现超凡的生命力。",
+                "realm": "能品",
+                "reason": "想象力丰富，但语言过于直露，诗意被神话叙述所掩盖。"
+            }
+        ],
+        "imagery": [
+            "头",
+            "臂",
+            "天",
+            "地",
+            "哪吒",
+            "钟"
+        ],
+        "allusions": [
+            {
+                "phrase": "那吒",
+                "explanation": "佛教护法神，后演变为神话英雄，以勇猛著称。"
+            },
+            {
+                "phrase": "帝钟",
+                "explanation": "道教法器，象征权威与神圣。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“三头六臂擎天地”意象奇特，最具视觉冲击力。"
+        }
+    },
+    {
+        "title": "句  其四",
+        "author": "釋善昭",
+        "paragraphs": [
+            "雪埋夜月深三尺，陸地行舟萬里程。"
+        ],
+        "paragraphs_simplified": [
+            "雪埋夜月深三尺，陆地行舟万里程。"
+        ],
+        "translation": "雪在夜晚的月光下埋得很深，有三尺厚；在陆地上行船，路程万里。",
+        "score": 3.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "通过两个极端意象的并置，构建超现实境界，从实景雪月过渡到虚景行舟。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "雪埋夜月深三尺，夸张雪的深度；陆地行舟万里程，夸张路程的遥远。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "雪埋夜月是实景，陆地行舟是虚景，形成对比。"
+                }
+            ]
+        },
+        "analysis": "此诗以雪埋夜月与陆地行舟的意象并置，构筑出一种超现实的禅境。雪的深邃与行舟的荒诞形成强烈视觉冲突，折射出对常规逻辑的超越。意象简洁有力，但缺乏更深层的转折，略显直白。整体上，是一首合格的禅诗，但意境不够深远，未能达到神品境界。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "意象独特，超脱常规，但生硬拼凑，未能自然融合。",
+                "realm": "能品",
+                "reason": "技法成熟，但意境不够真切，未能营造出不隔之境。"
+            }
+        ],
+        "imagery": [
+            "雪",
+            "月",
+            "舟"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "整首诗只有一句，意象集中。"
+        }
+    },
+    {
+        "title": "句  其五",
+        "author": "釋善昭",
+        "paragraphs": [
+            "三玄開正道，一句破邪宗。"
+        ],
+        "paragraphs_simplified": [
+            "三玄开正道，一句破邪宗。"
+        ],
+        "translation": "三玄开启正道，一句话打破邪宗。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "议论"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "通过工整对偶，直接陈述禅理，对比正邪，强调禅语的威力。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "三玄与一句，开正道与破邪宗，形成工整对偶。"
+                },
+                {
+                    "tag": "议论",
+                    "explanation": "直接讨论禅宗正邪之分。"
+                }
+            ]
+        },
+        "analysis": "此诗以对偶句式直陈禅理，语言精炼，气势铿锵。三玄与一句的对比，彰显禅宗顿悟的威力。但意象单一，缺乏形象性，更像偈语而非诗。立意虽正，但流于说教，审美价值有限，缺乏回甘。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "语言刚健有力，但过于直白，缺乏含蓄之美。",
+                "realm": "凡品",
+                "reason": "试图以劲健之语破邪，但失之粗露，未能达到含蓄或自然之境。"
+            }
+        ],
+        "imagery": [
+            "道",
+            "宗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "整首诗只有一句。"
+        }
+    },
+    {
+        "title": "三玄偈三首  其一",
+        "author": "釋智嵩",
+        "paragraphs": [
+            "須用直須用，心意莫定動。",
+            "三歲師子吼，十方沒狐種。"
+        ],
+        "paragraphs_simplified": [
+            "须用直须用，心意莫定动。",
+            "三岁师子吼，十方没狐种。"
+        ],
+        "translation": "该用时就直用，心意不要动摇。三岁狮子吼，十方狐狸绝种。",
+        "score": 2.8,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先劝诫心意坚定，再以比喻强调佛法威力，从劝导到象征，逻辑连贯。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以三岁狮子吼比喻佛法威力，狐种比喻邪魔。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过狮子和狐的意象，寄托破邪立正的志向。"
+                }
+            ]
+        },
+        "analysis": "此偈以劝诫起笔，继以生动的比喻，构筑出佛法无边的境界。狮子吼与狐种的对比，形象而有力，但语言略显粗犷，意象不够精致。整体上，是一首典型的禅偈，但诗味不足，更像说理，缺乏审美距离。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "语言有力，但意象陈旧，未能营造出精神之境。",
+                "realm": "凡品",
+                "reason": "试图以刚健之语显精神，但失之直露，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "狮子",
+            "狐"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句比喻生动，更具代表性。"
+        }
+    },
+    {
+        "title": "三玄偈三首  其二",
+        "author": "釋智嵩",
+        "paragraphs": [
+            "我有真如性，如同幕裏隠。",
+            "批破六門關，願出毗盧印。"
+        ],
+        "paragraphs_simplified": [
+            "我有真如性，如同幕里隐。",
+            "批破六门关，愿出毗卢印。"
+        ],
+        "translation": "我拥有真如本性，如同隐藏在幕布之后。愿打破六道之门关，显现出毗卢遮那佛的法印。",
+        "score": 2.8,
+        "subject": [
+            "禅理诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "虔诚",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先陈述真如本性隐藏，再表达打破障碍、显现佛法的愿望。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘如同幕裏隠’将真如性比作隐藏在幕布后。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "‘六門關’借代六道轮回，‘毗盧印’借代佛法。"
+                }
+            ]
+        },
+        "analysis": "此偈语以简练笔触勾勒修行者对真如本性的体悟。首句以‘幕裏隠’比喻真如之深藏，暗合佛教空性思想。次句‘批破六門關’直指解脱之愿，借‘毗盧印’象征佛法显现。全诗语言凝练，意象密集，但佛教术语构筑的意境对普通读者略显隔阂，宗教情感渗透字里行间，文学审美上更偏向教义宣导而非艺术营造。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "意象如‘幕’、‘六门关’、‘毗卢印’具有佛教象征性，构筑出超脱尘世的境界。",
+                "realm": "能品",
+                "reason": "技法成熟，但意境因术语而隔，未能达到自然流畅。"
+            }
+        ],
+        "imagery": [
+            "布幕",
+            "门关",
+            "佛印"
+        ],
+        "allusions": [
+            {
+                "phrase": "真如性",
+                "explanation": "佛教术语，指真实本性。"
+            },
+            {
+                "phrase": "六门关",
+                "explanation": "借代六道轮回之门。"
+            },
+            {
+                "phrase": "毗卢印",
+                "explanation": "毗卢遮那佛的法印，象征佛法。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句表达积极愿望，更具代表性。"
+        }
+    },
+    {
+        "title": "三玄偈三首  其三",
+        "author": "釋智嵩",
+        "paragraphs": [
+            "真骨金剛體可誇，六塵一拂求無遮。",
+            "廓落世界空爲體，體上無爲真到家。"
+        ],
+        "paragraphs_simplified": [
+            "真骨金刚体可夸，六尘一拂求无遮。",
+            "廓落世界空为体，体上无为真到家。"
+        ],
+        "translation": "真骨金刚体值得夸耀，一拂六尘求无遮。廓落世界以空为体，体上无为真到家。",
+        "score": 3.2,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先赞佛体，再述空体，最后点明归宿，从实到虚，卒章显志。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "真骨金刚体比喻坚固佛身。"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "最后以“真到家”点明悟道归宿。"
+                }
+            ]
+        },
+        "analysis": "此诗以金刚体起笔，气势雄浑，继而转向空体，最后归于无为。意象从实到虚，逻辑清晰，但语言较为直白，缺乏诗意转折。整体上，结构完整，但审美上未达高境，意象堆砌，缺乏新意。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "金刚体有雄浑感，但后半转向空寂，风格不统一。",
+                "realm": "能品",
+                "reason": "技法成熟，但意境不够深远，未能达到神品之境。"
+            }
+        ],
+        "imagery": [
+            "金刚体",
+            "六尘",
+            "世界",
+            "体"
+        ],
+        "allusions": [
+            {
+                "phrase": "真骨金刚体",
+                "explanation": "佛教术语，指佛的坚固身体。"
+            },
+            {
+                "phrase": "六尘",
+                "explanation": "佛教术语，指色声香味触法。"
+            },
+            {
+                "phrase": "毗卢印",
+                "explanation": "佛教术语，指佛的印相。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句点明归宿，更具总结性。"
+        }
+    },
+    {
+        "title": "臨卒書詩",
+        "author": "古成之",
+        "paragraphs": [
+            "物外乾坤誰得到，壺中日月我曾遊。",
+            "留今留古曾留得，一醉浮生萬事休。"
+        ],
+        "paragraphs_simplified": [
+            "物外乾坤谁得到，壶中日月我曾游。",
+            "留今留古曾留得，一醉浮生万事休。"
+        ],
+        "translation": "在世俗之外，谁能得到天地？我曾在壶中日月遨游。无论今古，都曾留下，一醉方休，浮生万事皆休。",
+        "score": 2.8,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首句以物外与壶中对比，提出超越世俗的疑问；次句以醉酒了结浮生，点明主题。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“壶中日月”比喻道家仙境，象征精神自由。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "“物外乾坤”与“壶中日月”形成空间对仗。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过壶中世界表达避世超脱的志向。"
+                }
+            ]
+        },
+        "analysis": "此诗以物外乾坤与壶中日月对举，构筑出世与入世的二元空间。语言凝练，但意象陈旧，缺乏新意。末句以醉酒了结浮生，流露出消极的避世情绪，整体立意浅显，未能在哲理层面深入挖掘。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图通过壶中日月营造冲淡之境，但意象组合较为生硬。",
+                "realm": "凡品",
+                "reason": "意象陈旧，立意浅显，未能达到冲淡之境。"
+            }
+        ],
+        "imagery": [
+            "乾坤",
+            "壶",
+            "日月",
+            "浮生"
+        ],
+        "allusions": [
+            {
+                "phrase": "壶中日月",
+                "explanation": "典出《后汉书·方术传》，指道家仙境。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "点明主题，语言直白。"
+        }
+    }
+]

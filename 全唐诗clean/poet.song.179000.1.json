@@ -1,0 +1,860 @@
+[
+    {
+        "title": "句  其四",
+        "author": "汪晫",
+        "paragraphs": [
+            "片片飛紅已謝春，紅移榴蕊更精神。"
+        ],
+        "paragraphs_simplified": [
+            "片片飞红已谢春，红移榴蕊更精神。"
+        ],
+        "translation": "片片落花已谢春，红光移到榴花蕊上更显精神。",
+        "score": 3.2,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句写春去，后句写夏来，通过对比展现季节更替。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "以飞红谢春与榴蕊精神相对，凸显生机转换。"
+                }
+            ]
+        },
+        "analysis": "此联以飞红谢春与榴蕊精神作对比，勾勒季节流转之景。意象转换自然，但立意未脱伤春悲秋之窠臼，情感流于表面，缺乏深层审美，整体为凡庸之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以自然意象表现生机，但对比生硬，未能浑然天成。",
+                "realm": "凡",
+                "reason": "意象陈旧，对比手法平庸，缺乏新意。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "春",
+            "夏"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句稍显积极，意象较鲜活。"
+        }
+    },
+    {
+        "title": "偈頌一百零一首  其一",
+        "author": "釋慧性",
+        "paragraphs": [
+            "萬疊峯巒秀，清虛杳靄間。",
+            "跨門一句子，擬議隔重關。"
+        ],
+        "paragraphs_simplified": [
+            "万叠峰峦秀，清虚杳霭间。",
+            "跨门一句子，拟议隔重关。"
+        ],
+        "translation": "万叠峰峦秀丽，在清虚的云雾之间。跨过门的一句话，打算议论却隔重重关隘。",
+        "score": 3.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句写景，后两句说理，以山水喻禅悟之难。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'隔重关'比喻禅悟的障碍，直指禅机。"
+                }
+            ]
+        },
+        "analysis": "此偈前两句以清虚之笔勾勒山水之境，后两句直指禅悟之难。意象空灵，但说理痕迹较重，未能完全融合情景，禅意直露，缺乏含蓄之美，整体为能品。",
+        "poetry_styles": [
+            {
+                "style": "超诣",
+                "imagery_analysis": "山水意象空灵，试图达超诣之境，但因说理直白，反显滞重。",
+                "realm": "能",
+                "reason": "禅理直露，缺乏含蓄与意境融合。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "云",
+            "门",
+            "关"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句写景优美，意象清虚。"
+        }
+    },
+    {
+        "title": "偈頌一百零一首  其二",
+        "author": "釋慧性",
+        "paragraphs": [
+            "指天指地，有甚巴鼻。",
+            "目顧四方，不知失利。",
+            "累及後代兒孫，以此遞相鈍置。"
+        ],
+        "paragraphs_simplified": [
+            "指天指地，有甚巴鼻。",
+            "目顾四方，不知失利。",
+            "累及后代儿孙，以此递相钝置。"
+        ],
+        "translation": "指天指地，有什么根据？环顾四周，不知道有什么损失。连累后代儿孙，因此互相愚弄。",
+        "score": 2.2,
+        "subject": [
+            "禅理诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "无奈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "反问"
+            ],
+            "presentation_tags": [
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以设问质疑权威，次句陈述现状，末句指出后果，形成递进式议论。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "“指天指地，有甚巴鼻”以反问句式质疑行为依据。"
+                },
+                {
+                    "tag": "议论",
+                    "explanation": "“累及後代兒孫”直接批判后果，缺乏意象渲染。"
+                }
+            ]
+        },
+        "analysis": "此偈语言直白，意象贫瘠，仅以“指天指地”“目顾四方”等抽象动作铺陈，缺乏具体物象支撑。情感流于表面，未通过意象折射深层禅理，反以说教口吻直陈弊端，显得浅露粗疏。结构虽清晰，但辞藻平庸，立意未脱俗套，整体呈现概念化倾向，未能构筑独特意境。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "试图以粗放语言模拟禅家疏狂，但意象空洞，未达自然之趣。",
+                "realm": "劣",
+                "reason": "语言直白却无深意，模仿疏野而流于粗鄙，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "天",
+            "地",
+            "四方",
+            "后代"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句设问直接点题，语言最简练。"
+        }
+    },
+    {
+        "title": "偈頌一百零一首  其三",
+        "author": "釋慧性",
+        "paragraphs": [
+            "電激雷奔，以毒攻毒。",
+            "撒土拋沙，拗直作曲。",
+            "箇裏翻身控角弓，誰能背手抽金鏃。"
+        ],
+        "paragraphs_simplified": [
+            "电激雷奔，以毒攻毒。",
+            "撒土抛沙，拗直作曲。",
+            "箇里翻身控角弓，谁能背手抽金镞。"
+        ],
+        "translation": "电激雷奔，以毒攻毒。撒土抛沙，把直的弄弯。其中翻身控制角弓，谁能背手抽金箭。",
+        "score": 2.8,
+        "subject": [
+            "禅理诗",
+            "游侠诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "动静结合",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句以激烈比喻铺垫冲突，末句通过动作细节推向高潮，试图营造紧张氛围。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“以毒攻毒”将禅机比作解毒之法。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“电激雷奔”夸大动态，强化冲突感。"
+                }
+            ]
+        },
+        "analysis": "此偈堆砌激烈意象，如“电激雷奔”“控角弓”，试图营造豪放气势，但意象间缺乏逻辑关联，流于表面炫技。情感宣泄直露，未通过虚实结合深化禅理。语言虽生动，却因过度夸张显得空洞，整体结构松散，未能凝练核心意境，仅止于动作描摹。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "以动态意象模拟刚健风格，但缺乏内在筋骨，显得生硬。",
+                "realm": "凡",
+                "reason": "意象激烈却无精神内核，模仿劲健而失之粗浮。"
+            }
+        ],
+        "imagery": [
+            "电",
+            "雷",
+            "毒",
+            "土",
+            "沙",
+            "弓",
+            "箭"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "末句动作描写具体，语言稍具张力。"
+        }
+    },
+    {
+        "title": "偈頌一百零一首  其四",
+        "author": "釋慧性",
+        "paragraphs": [
+            "不知立處高多少，回頭四顧白雲低。",
+            "等閑移步毗盧頂，拽轉南辰安向西。"
+        ],
+        "paragraphs_simplified": [
+            "不知立处高多少，回头四顾白云低。",
+            "等闲移步毗卢顶，拽转南辰安向西。"
+        ],
+        "translation": "不知道站的地方有多高，回头四顾白云低。等闲移步到毗卢顶，拽转南辰安向西。",
+        "score": 4.1,
+        "subject": [
+            "山水诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首句以空间感知起笔，次句通过动作“移步”实现虚实转换，形成由低到高的意境升华。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“白云低”以景物烘托高远心境。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "“毗卢顶”实指高处，“拽转南辰”虚写掌控宇宙。"
+                }
+            ]
+        },
+        "analysis": "此偈以空间层次构筑意境，从“回头四顾”到“移步毗卢顶”，通过视角转换展现禅悟过程。意象“白云”“南辰”清奇高远，虚实相生，折射出超脱心境。语言凝练，情感含蓄，未直露宣泄，反而通过景物与动作的契合，营造出悠远回甘的审美距离。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以高远意象构筑空灵境界，情景交融，意境真切。",
+                "realm": "妙",
+                "reason": "意象清奇，虚实结合自然，深得清奇之境。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "云",
+            "顶",
+            "南辰"
+        ],
+        "allusions": [
+            {
+                "phrase": "毗卢顶",
+                "explanation": "佛教术语，指佛之法身境界，象征至高悟境。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以疑问带出空间感，意象与情感契合度高。"
+        }
+    },
+    {
+        "title": "偈頌一百零一首  其五",
+        "author": "釋慧性",
+        "paragraphs": [
+            "要入牯牛隊，還披水牯皮。",
+            "全身行異類，拽杷又牽犁。"
+        ],
+        "paragraphs_simplified": [
+            "要入牯牛队，还披水牯皮。",
+            "全身行异类，拽耙又牵犁。"
+        ],
+        "translation": "要加入牯牛队，还得披上水牯皮。全身行异类，拽耙又牵犁。",
+        "score": 3.0,
+        "subject": [
+            "禅理诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "无奈",
+            "自嘲"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句以条件句点明身份转换，后句通过动作描写强化异化状态，直指禅机。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“披水牯皮”喻指伪装或融入。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "“拽耙牵犁”以农事代指修行劳作。"
+                }
+            ]
+        },
+        "analysis": "此偈以动物意象隐喻修行，语言质朴，但意象单一，仅围绕“牛皮”“耕犁”展开。情感流于自嘲，未通过物象深化哲理。结构紧凑，却因缺乏意象拓展显得局促，整体立意浅显，未能超越咏物表层，属于平庸的禅理说教。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以日常物象示禅，但意象粗糙，未达自然之妙。",
+                "realm": "凡",
+                "reason": "语言直白却无余味，模仿自然而流于浅俗。"
+            }
+        ],
+        "imagery": [
+            "牛",
+            "皮",
+            "耙",
+            "犁"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直接点题，逻辑清晰。"
+        }
+    },
+    {
+        "title": "偈頌一百零一首  其六",
+        "author": "釋慧性",
+        "paragraphs": [
+            "行盡迢迢路，無山不是家。",
+            "跨門一句子，擬議隔天涯。"
+        ],
+        "paragraphs_simplified": [
+            "行尽迢迢路，无山不是家。",
+            "跨门一句话，拟议隔天涯。"
+        ],
+        "translation": "走尽迢迢路，无山不是家。跨门一句话，拟议隔天涯。",
+        "score": 4.3,
+        "subject": [
+            "山水诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句以行路喻修行，后句通过“跨门”动作转折，点明禅意不可言传之理。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“无山不是家”以山水意象寄托随遇而安。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“拟议隔天涯”将思辨比作天涯之隔。"
+                }
+            ]
+        },
+        "analysis": "此偈以行路意象构筑禅境，语言简练而意境开阔。“无山不是家”彰显随缘自适之心，后句以“隔天涯”暗喻言语局限，虚实相生。情感含蓄，未直露说理，反而通过空间对比引发回甘。整体结构圆融，意象与哲理契合度高，颇具审美价值。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以山水意象冲和淡泊，暗合禅理，意境超诣。",
+                "realm": "妙",
+                "reason": "意象自然，情感节制，深得冲淡之神韵。"
+            }
+        ],
+        "imagery": [
+            "路",
+            "山",
+            "家",
+            "门"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“无山不是家”意象浑成，哲理深邃。"
+        }
+    },
+    {
+        "title": "偈頌一百零一首  其七",
+        "author": "釋慧性",
+        "paragraphs": [
+            "有語中無語，達磨九年空面壁。",
+            "無語中有語，空生巖畔花狼藉。",
+            "南斗八，北斗七。"
+        ],
+        "paragraphs_simplified": [
+            "有语中无语，达磨九年空面壁。",
+            "无语中有语，空生岩畔花狼藉。",
+            "南斗八，北斗七。"
+        ],
+        "translation": "在言语中蕴含无言的境界，达摩九年面壁徒劳无功。在无言中蕴含有言的境界，空生在岩畔花散乱。南斗八星，北斗七星。",
+        "score": 3.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "禅意",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先提出有无语的概念，再用达磨和空生的例子，最后以天文现象收尾。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "有语中无语与无语中有语形成对偶"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用达磨面壁的典故"
+                }
+            ]
+        },
+        "analysis": "这首禅偈以抽象概念构筑辩证关系，意象如达磨面壁、花狼藉，渲染出虚无的禅境。结构上从理念到例证，最后以星象拓宽空间，但意象组合略显杂乱，缺乏情感渗透，属于技法成熟但立意浅显的应制禅诗。",
+        "poetry_styles": [
+            {
+                "style": "超诣",
+                "imagery_analysis": "达磨面壁、花狼藉等意象试图超脱尘世，但组合略显杂乱",
+                "realm": "能品",
+                "reason": "模仿超诣风格，但意象堆砌，未能真正达到超脱境界"
+            }
+        ],
+        "imagery": [
+            "达磨",
+            "面壁",
+            "花",
+            "南斗",
+            "北斗"
+        ],
+        "allusions": [
+            {
+                "phrase": "達磨九年空面壁",
+                "explanation": "引用达摩面壁九年的禅宗典故"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点出核心禅理"
+        }
+    },
+    {
+        "title": "偈頌一百零一首  其八",
+        "author": "釋慧性",
+        "paragraphs": [
+            "啞却我口禿我舌，明眼衲僧難辨別。",
+            "今朝撒向諸人前，須彌燈王笑不徹。"
+        ],
+        "paragraphs_simplified": [
+            "哑却我口秃我舌，明眼衲僧难辨别。",
+            "今朝撒向诸人前，须弥灯王笑不彻。"
+        ],
+        "translation": "哑了我的口秃了我的舌，明眼的僧人难以辨别。今天撒向众人前，须弥灯王笑不停。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "禅意",
+            "困惑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先描述自身无言状态，再引出禅悟场景，最后以佛典收尾。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "哑却我口秃我舌夸张表达无言"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "须弥灯王是佛教中的佛"
+                }
+            ]
+        },
+        "analysis": "此诗以荒诞语言表达禅悟，意象如哑口、须弥灯王，构筑出反常规的禅境。逻辑跳跃剧烈，缺乏连贯意象链，语言粗犷而少韵律，属于内行自娱的禅偈，外行难解其意。",
+        "poetry_styles": [
+            {
+                "style": "洒脱",
+                "imagery_analysis": "哑口、须弥灯王等意象试图洒脱，但组合突兀",
+                "realm": "凡品",
+                "reason": "模仿洒脱风格，但语言粗犷，缺乏内在韵律"
+            }
+        ],
+        "imagery": [
+            "口",
+            "舌",
+            "衲僧",
+            "须弥灯王"
+        ],
+        "allusions": [
+            {
+                "phrase": "須彌燈王",
+                "explanation": "佛教中的佛名，象征光明"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句生动表达无言境界"
+        }
+    },
+    {
+        "title": "偈頌一百零一首  其九",
+        "author": "釋慧性",
+        "paragraphs": [
+            "天寒日短，三平二滿。",
+            "虎咬大蟲，雄鷄生卵。"
+        ],
+        "paragraphs_simplified": [
+            "天寒日短，三平二满。",
+            "虎咬大虫，雄鸡生卵。"
+        ],
+        "translation": "天气寒冷白天短，三平二满（可能指平衡）。虎咬大虫，雄鸡生卵（可能指荒谬）。",
+        "score": 1.5,
+        "subject": [
+            "禅理诗",
+            "打油诗"
+        ],
+        "emotion": [
+            "困惑",
+            "荒诞"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先列自然现象，再举反常事件，形成荒诞对比。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "虎咬大虫比喻不可能之事"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "雄鸡生卵夸张表达反常"
+                }
+            ]
+        },
+        "analysis": "全诗以白话罗列反常现象，意象如天寒、虎咬大虫，直指荒谬却无深层建构。语言直白如口语，缺乏诗意提炼，属于打油诗范畴，立意浅显至近乎无立意。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "天寒、虎咬大虫等意象试图自然，但组合荒谬",
+                "realm": "劣品",
+                "reason": "模仿自然风格，但语言粗鄙，缺乏审美价值"
+            }
+        ],
+        "imagery": [
+            "天寒",
+            "日短",
+            "虎",
+            "大虫",
+            "雄鸡"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句相对通顺"
+        }
+    },
+    {
+        "title": "偈頌一百零一首  其一○",
+        "author": "釋慧性",
+        "paragraphs": [
+            "言發非聲，舌頭無骨。",
+            "色前不物，狐狸戀窟。"
+        ],
+        "paragraphs_simplified": [
+            "言发非声，舌头无骨。",
+            "色前不物，狐狸恋窟。"
+        ],
+        "translation": "言语发出不是声音，舌头没有骨头。色相面前不是物体，狐狸留恋洞穴。",
+        "score": 3.2,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "禅意",
+            "执着"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "对仗工整"
+            ],
+            "structural_logic": "两句对称，先讲言语与舌头，再讲色相与狐狸，形成禅理对比。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "两句结构对称"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "狐狸恋窟比喻执着"
+                }
+            ]
+        },
+        "analysis": "此诗以精炼对偶探讨言语与色相，意象如舌头、狐狸，隐喻执着与超脱。但术语晦涩，意象生僻，内行或可体味，外行难入其境，技法虽密却少情感温度。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "舌头、狐狸等意象含蓄表达禅理，但过于隐晦",
+                "realm": "能品",
+                "reason": "模仿含蓄风格，但意象生僻，未能自然流露"
+            }
+        ],
+        "imagery": [
+            "舌头",
+            "狐狸",
+            "窟"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点出言语的虚幻"
+        }
+    }
+]

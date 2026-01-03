@@ -408,5 +408,159 @@
             "index": 3,
             "reason": "此句以景结情，将全诗的清冷意境推向极致，使人如闻其声，如临其境。"
         }
+    },
+    {
+        "title": "鼇溪  其一",
+        "author": "謝諤",
+        "paragraphs": [
+            "數版小橋橫晚晴，兩行古木弄春榮。",
+            "不知多少夜來雨，水到岸頭渾欲平。"
+        ],
+        "paragraphs_simplified": [
+            "数版小桥横晚晴，两行古木弄春荣。",
+            "不知多少夜来雨，水到岸头浑欲平。"
+        ],
+        "translation": "小桥横跨在晚晴中，两行古树在春意中摇曳。不知昨夜下了多少雨，水涨到岸边几乎平了。",
+        "score": 3.8,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以白描勾勒桥木之景，后以雨后水涨收束，动静相衬，情景自然交融。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“弄春荣”赋予古木以动态生机"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "“横晚晴”之静与“水到岸头”之动形成对照"
+                }
+            ]
+        },
+        "analysis": "此诗以简淡笔墨构筑雨后溪景，小桥古木与春水浑然一体，拟人手法点染出自然灵趣。意象选择精准，不事雕琢而意境自出，水涨欲平的细节尤见观察之微。整体情景契合度高，无生硬拼凑之弊，读来有余韵回甘之效。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "桥、木、水等意象洗练，共同渲染出宁静悠远的田园境界",
+                "realm": "能",
+                "reason": "技法纯熟，意境自然，但未达超逸之境"
+            }
+        ],
+        "imagery": [
+            "桥",
+            "树",
+            "水",
+            "雨"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "“不知多少夜来雨”转折自然，引出水涨结果，虚实相生"
+        }
+    },
+    {
+        "title": "鼇溪  其二",
+        "author": "謝諤",
+        "paragraphs": [
+            "藹藹煙雲望眼昏，亂紅翻逕綠遮門。",
+            "一聲啼鳥在何處，山外人家桑柘村。"
+        ],
+        "paragraphs_simplified": [
+            "蔼蔼烟云望眼昏，乱红翻径绿遮门。",
+            "一声啼鸟在何处，山外人家桑柘村。"
+        ],
+        "translation": "烟云朦胧望眼昏花，乱红翻飞小径绿意遮门。一声啼鸟不知在何处，山外人家是桑柘村。",
+        "score": 4.1,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前联铺陈烟云乱红之虚景，后联以鸟鸣设问引出山家实景，由虚入实，层次分明。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "“在何处”制造悬念，增强画面张力"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "“烟云”虚写与“桑柘村”实写相映"
+                }
+            ]
+        },
+        "analysis": "烟云乱红构筑出朦胧迷离的视觉空间，鸟鸣设问如画外音打破沉寂，最终点出山外村落，意境顿开。虚实转换自然，动静相衬，以声衬静。整体疏朗有致，无堆砌之病，唯意象稍显常规。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "烟云、乱红、啼鸟等意象组合，营造出清幽而略带奇趣的境界",
+                "realm": "妙",
+                "reason": "意境真切，结构精巧，有超逸之致"
+            }
+        ],
+        "imagery": [
+            "烟云",
+            "花",
+            "鸟",
+            "村庄",
+            "桑柘"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "“山外人家桑柘村”以实境收束，余韵悠长，点明归宿"
+        }
     }
 ]

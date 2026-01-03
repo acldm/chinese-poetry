@@ -1,0 +1,708 @@
+[
+    {
+        "title": "却客致假山石",
+        "author": "王存",
+        "paragraphs": [
+            "乞得林官就道閒，誅茅結宇即成灣。",
+            "閉門自有林巒秀，不用辛勤作假山。"
+        ],
+        "paragraphs_simplified": [
+            "乞得林官就道闲，诛茅结宇即成湾。",
+            "闭门自有林峦秀，不用辛勤作假山。"
+        ],
+        "translation": "乞求林官职位后得闲暇，除草结屋即成河湾。闭门自有林峦秀美，不需辛苦造假山。",
+        "score": 3.5,
+        "subject": [
+            "山水诗",
+            "隐逸诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句叙事归隐之始，后两句直陈真山水之胜，逻辑直白。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "以'真林峦'与'假山'对比，凸显自然之趣。"
+                },
+                {
+                    "tag": "白描",
+                    "explanation": "平实勾勒结屋闭门之景，不加雕饰。"
+                }
+            ]
+        },
+        "analysis": "此诗以白描手法勾勒归隐生活，真山水与人工假山的对照构筑出疏野之境。语言质朴却意象真切，闭门即见林峦，省去劳形之役，暗含对自然本真的推崇。立意虽浅显，但情景契合度较高，无堆砌之弊。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "林、茅屋、山、湾等意象洗练，组合成和谐的隐逸图景。",
+                "realm": "能",
+                "reason": "直抒胸臆，不事雕琢，符合自然风格的直率特质。"
+            }
+        ],
+        "imagery": [
+            "林",
+            "茅屋",
+            "山",
+            "湾"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第三句'闭门自有林峦秀'以简练语言点明主旨，最具代表性。"
+        }
+    },
+    {
+        "title": "句  其一",
+        "author": "王存",
+        "paragraphs": [
+            "病鸞方振翼，饑隼乍離韝。"
+        ],
+        "paragraphs_simplified": [
+            "病鸾方振翼，饥隼乍离鞲。"
+        ],
+        "translation": "病鸾刚振翅，饥鹰乍离鞲。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "挣扎"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "单句并列意象，以病鸾饥隼喻困境中的挣扎。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'病鸾'、'饥隼'喻人之困厄与反抗。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "赋予鸟兽以人的情态与动作。"
+                }
+            ]
+        },
+        "analysis": "此联以病鸾振翼、饥隼离鞲的意象，刻画挣扎之态。比喻生新，但意象组合略显生硬，缺乏深层意蕴。情感直露，审美距离不足，流于表面化表达。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "鸾、隼意象有力，但组合缺乏浑成之境。",
+                "realm": "逸",
+                "reason": "试图模仿劲健风格，但因意象单薄而显外强中干。"
+            }
+        ],
+        "imagery": [
+            "鸾",
+            "翼",
+            "隼",
+            "鞲"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "整句为唯一一句，意象集中。"
+        }
+    },
+    {
+        "title": "句  其二",
+        "author": "王存",
+        "paragraphs": [
+            "珠韉錫御恩猶在，玉輦親扶事已空。"
+        ],
+        "paragraphs_simplified": [
+            "珠鞯锡御恩犹在，玉辇亲扶事已空。"
+        ],
+        "translation": "珠鞯赐御恩犹在，玉辇亲扶事已空。",
+        "score": 2.5,
+        "subject": [
+            "怀古诗",
+            "宫词"
+        ],
+        "emotion": [
+            "遗憾",
+            "失落"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "对比"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句写恩宠犹存之实，后句写往事成空之虚，对比强烈。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "珠鞯对玉辇，锡御对亲扶，工整而缺乏灵动。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "恩在为实，事空为虚，形成反差。"
+                }
+            ]
+        },
+        "analysis": "此联对仗工整，辞藻华美，但情感空洞，似堆砌典故以应酬。虚实对比虽存，却无真切感，流于形式。整体如镂金错彩，内里空乏。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "珠鞯、玉辇意象富丽，但缺乏内在气韵。",
+                "realm": "凡",
+                "reason": "试图追求典雅，却因内容空洞而显雕琢过甚。"
+            }
+        ],
+        "imagery": [
+            "珠鞯",
+            "玉辇"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "整句为唯一一句，对仗可见技巧。"
+        }
+    },
+    {
+        "title": "句  其三",
+        "author": "王存",
+        "paragraphs": [
+            "二載京峴居，過從不獲屢。"
+        ],
+        "paragraphs_simplified": [
+            "二载京岘居，过从不获屡。"
+        ],
+        "translation": "二年居京岘，过从不获屡。",
+        "score": 1.5,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [],
+            "structural_logic": "直述居所与交往情况，无结构设计。",
+            "evidence": [
+                {
+                    "tag": "白描",
+                    "explanation": "平铺直叙，缺乏诗意提炼。"
+                }
+            ]
+        },
+        "analysis": "此句如日记账簿，仅陈述事实，无意象营造与情感升华。语言干瘪，格律松散，全无诗味，属劣作。",
+        "poetry_styles": [
+            {
+                "style": "实境",
+                "imagery_analysis": "仅'京岘'一词，无核心意象组合。",
+                "realm": "劣",
+                "reason": "试图记录实境，却因缺乏艺术加工而流于俚俗。"
+            }
+        ],
+        "imagery": [
+            "京岘"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "整句为唯一一句，仅勉强通顺。"
+        }
+    },
+    {
+        "title": "句  其四",
+        "author": "王存",
+        "paragraphs": [
+            "族居自買百閒屋，月賜官糜六萬錢。"
+        ],
+        "paragraphs_simplified": [
+            "族居自买百闲屋，月赐官糜六万钱。"
+        ],
+        "translation": "族居自买百闲屋，月赐官糜六万钱。",
+        "score": 1.0,
+        "subject": [
+            "打油诗"
+        ],
+        "emotion": [
+            "平淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [],
+            "structure_tags": [],
+            "structural_logic": "罗列财产与俸禄，无逻辑推进。",
+            "evidence": [
+                {
+                    "tag": "叙事",
+                    "explanation": "直述买屋与俸禄，如记账。"
+                }
+            ]
+        },
+        "analysis": "此句纯粹口语化记录，无任何意象与修辞，内容俚俗，格律全无。属打油诗之流，毫无审美价值。",
+        "poetry_styles": [
+            {
+                "style": "打油诗",
+                "imagery_analysis": "仅'屋'、'钱'二词，无艺术性。",
+                "realm": "劣",
+                "reason": "实为打油诗，无风格可言。"
+            }
+        ],
+        "imagery": [
+            "屋",
+            "钱"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "整句为唯一一句，仅勉强成句。"
+        }
+    },
+    {
+        "title": "踞湖山六題 踞湖山",
+        "author": "馬雲",
+        "paragraphs": [
+            "山臨太湖上，寺隠青蘿間。",
+            "五塢洞壑邃，衆峰屏障環。",
+            "濃嵐面光彩，驚波背潺湲。",
+            "雲歸定僧寂，月伴樵夫還。",
+            "林墅掩蒙密，級磴容躋攀。",
+            "錢氏建圭社，此地爲家山。"
+        ],
+        "paragraphs_simplified": [
+            "山临太湖上，寺隐青萝间。",
+            "五坞洞壑邃，众峰屏障环。",
+            "浓岚面光彩，惊波背潺湲。",
+            "云归定僧寂，月伴樵夫还。",
+            "林墅掩蒙密，级磴容跻攀。",
+            "钱氏建圭社，此地为家山。"
+        ],
+        "translation": "山临太湖上，寺隐青萝间。五坞洞壑邃，众峰屏障环。浓岚面光彩，惊波背潺湲。云归定僧寂，月伴樵夫还。林墅掩蒙密，级磴容跻攀。钱氏建圭社，此地为家山。",
+        "score": 3.8,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "由远及近，先写山湖全景，再述洞壑峰峦，后及云月僧樵，终以历史收尾。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "山臨太湖上，寺隠青蘿間與五塢洞壑邃，衆峰屏障環形成工整对仗。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过云归月伴的景致，传达出幽寂闲适的心境。"
+                }
+            ]
+        },
+        "analysis": "此诗以太湖山景为背景，勾勒寺隐萝间、峰峦环抱的布局。意象如云归月伴，营造出静谧氛围，但用语平实，缺乏独特视角。结构虽清晰，却未脱常规山水诗框架，整体工稳而少新意，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "意象取自山湖云月，虽自然却显陈套。",
+                "realm": "能品",
+                "reason": "描绘工整，但立意浅显，未达高境。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "湖",
+            "寺",
+            "藤",
+            "峰",
+            "云",
+            "月",
+            "樵夫"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "云归定僧寂，月伴樵夫还一句，意象组合幽静，颇具画面感。"
+        }
+    },
+    {
+        "title": "踞湖山六題 芳桂塢",
+        "author": "馬雲",
+        "paragraphs": [
+            "森森芳桂樹，團團削青玉。",
+            "春花飛澗戶，秋實墜岩曲。",
+            "霜條封翠紫，風葉摇香綠。",
+            "下有幽棲人，結芳避世俗。",
+            "學仙讀丹經，好道探藥籙。",
+            "植根滿群峰，不使樵夫觸。"
+        ],
+        "paragraphs_simplified": [
+            "森森芳桂树，团团削青玉。",
+            "春花飞涧户，秋实坠岩曲。",
+            "霜条封翠紫，风叶摇香绿。",
+            "下有幽栖人，结芳避世俗。",
+            "学仙读丹经，好道探药籙。",
+            "植根满群峰，不使樵夫触。"
+        ],
+        "translation": "森森芳桂树，团团削青玉。春花飞涧户，秋实坠岩曲。霜条封翠紫，风叶摇香绿。下有幽栖人，结芳避世俗。学仙读丹经，好道探药籙。植根满群峰，不使樵夫触。",
+        "score": 4.2,
+        "subject": [
+            "咏物诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先咏桂树形态，再写春秋花实，后及幽栖之人，终以树根护芳作结。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "團團削青玉将桂树比作青玉，形象生动。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过芳桂树象征幽栖人避世高洁的志趣。"
+                }
+            ]
+        },
+        "analysis": "此诗以芳桂为核心，描绘其春秋花实之态，并引入幽栖学仙之人。意象如霜条风叶，稍具生动，但结芳避世俗之主题流于常见。语言虽工，然立意未脱隐逸俗套，整体平顺而少深趣。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "花实霜叶，描绘细致，但未达纤秾之极致。",
+                "realm": "能品",
+                "reason": "刻画入微，但主题老套，缺乏新意。"
+            }
+        ],
+        "imagery": [
+            "树",
+            "花",
+            "果",
+            "霜",
+            "叶",
+            "人",
+            "峰"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "春花飞涧户，秋实坠岩曲一句，以季节对比展现时序流转，意象鲜明。"
+        }
+    },
+    {
+        "title": "踞湖山六題 飛泉塢",
+        "author": "馬雲",
+        "paragraphs": [
+            "高崖落飛泉，深源味冷冽。",
+            "雲津留玉乳，石髓澄金屑。",
+            "淙淙危磴響，滴滴蒼蘚缺。",
+            "濺沫灑明珠，滿澗融寒雪。",
+            "岩夫就潄飲，姬子臨浣潔。",
+            "不獨愈痼疾，自可清內熱。"
+        ],
+        "paragraphs_simplified": [
+            "高崖落飞泉，深源味冷冽。",
+            "云津留玉乳，石髓澄金屑。",
+            "淙淙危磴响，滴滴苍藓缺。",
+            "溅沫洒明珠，满涧融寒雪。",
+            "岩夫就漱饮，姬子临浣洁。",
+            "不独愈痼疾，自可清内热。"
+        ],
+        "translation": "高崖落飞泉，深源味冷冽。云津留玉乳，石髓澄金屑。淙淙危磴响，滴滴苍藓缺。溅沫洒明珠，满涧融寒雪。岩夫就漱饮，姬子临浣洁。不独愈痼疾，自可清内热。",
+        "score": 4.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "通感"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写飞泉源流，再描声色，后及人饮浣洁，终述疗效。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "玉乳、金屑、明珠等喻体，强化水的珍贵与美感。"
+                },
+                {
+                    "tag": "通感",
+                    "explanation": "味冷冽涉及味觉，淙淙响涉及听觉，感官交融。"
+                }
+            ]
+        },
+        "analysis": "此诗刻画飞泉之景，声色交融。玉乳金屑之喻精当，溅沫融雪之句动感十足。引入岩夫姬子，增添生活实感，虽涉疗愈之说，无损诗境。意象丰富，描写生动，属妙品之作。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "泉落崖壁，声色俱壮，颇具劲健之风。",
+                "realm": "妙品",
+                "reason": "意象生动，感官丰富，感染力强。"
+            }
+        ],
+        "imagery": [
+            "泉",
+            "源",
+            "云",
+            "石",
+            "磴",
+            "藓",
+            "珠",
+            "雪"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "溅沫洒明珠，满涧融寒雪一句，比喻新颖，画面感强。"
+        }
+    },
+    {
+        "title": "踞湖山六題 修竹塢",
+        "author": "馬雲",
+        "paragraphs": [
+            "檀欒遍岩川，幽谷氣象鮮。",
+            "風玉自宮徵，秋籟成管絃。",
+            "夕靄起碧霧，晨曦生綠煙。",
+            "花繁紫鳳飽，質勁蒼虬攣。",
+            "藤蘿交密蔭，仰不見雲天。",
+            "欲訪桃源路，塢塢疑相連。"
+        ],
+        "paragraphs_simplified": [
+            "檀栾遍岩川，幽谷气象鲜。",
+            "风玉自宫徵，秋籁成管弦。",
+            "夕霭起碧雾，晨曦生绿烟。",
+            "花繁紫凤饱，质劲苍虬挛。",
+            "藤萝交密荫，仰不见云天。",
+            "欲访桃源路，坞坞疑相连。"
+        ],
+        "translation": "檀栾遍岩川，幽谷气象鲜。风玉自宫徵，秋籁成管弦。夕霭起碧雾，晨曦生绿烟。花繁紫凤饱，质劲苍虬挛。藤萝交密荫，仰不见云天。欲访桃源路，坞坞疑相连。",
+        "score": 4.0,
+        "subject": [
+            "咏物诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "期待"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先写竹貌，再描风声秋籁，后及夕霭晨曦，终以桃源之思收尾。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "風玉将风声比作玉音，形象生动。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "桃源路引用桃花源典故，表达避世之愿。"
+                }
+            ]
+        },
+        "analysis": "此诗咏修竹，意象如风玉秋籁，视听交融。夕霭晨曦，色彩斑斓，藤萝蔽日，引出桃源之思。然紫凤苍虬之喻略显生硬，部分意象堆砌，整体构思有奇处，但稍杂而未纯。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "竹谷风声，意象清新，但部分比喻牵强。",
+                "realm": "能品",
+                "reason": "构思有新意，但执行稍杂，未达高境。"
+            }
+        ],
+        "imagery": [
+            "竹",
+            "谷",
+            "风",
+            "秋",
+            "霭",
+            "曦",
+            "花",
+            "藤",
+            "天"
+        ],
+        "allusions": [
+            {
+                "phrase": "桃源",
+                "explanation": "指桃花源，象征理想中的避世之地。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "夕霭起碧雾，晨曦生绿烟一句，色彩与光影交织，意境优美。"
+        }
+    }
+]

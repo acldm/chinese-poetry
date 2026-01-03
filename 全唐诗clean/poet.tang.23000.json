@@ -1,0 +1,74 @@
+[
+    {
+        "title": "戲贈戶部李巡官",
+        "author": "白居易",
+        "paragraphs": [
+            "好去民曹李判官，少貪公事且謀歡。",
+            "男兒未死爭能料，莫作忠州刺史看。"
+        ],
+        "paragraphs_simplified": [
+            "好去民曹李判官，少贪公事且谋欢。",
+            "男儿未死争能料，莫作忠州刺史看。"
+        ],
+        "translation": "去吧，民曹李判官，少贪图公事，暂且谋求欢乐。男儿还未死，谁能预料未来？不要把我看作忠州刺史。",
+        "score": 2.5,
+        "subject": [
+            "酬唱诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直接劝诫友人少贪公事，享乐当下，不要以刺史身份看自己。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "用'忠州刺史'指代诗人自己"
+                }
+            ]
+        },
+        "analysis": "这首戏赠诗语言直白，意在调侃友人。立意浅显，缺乏艺术深度，属于应酬之作。情感表达直接，但意象陈旧，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图自然但流于浅显",
+                "realm": "劣",
+                "reason": "模仿自然风格但缺乏韵味，画虎不成反类犬"
+            }
+        ],
+        "imagery": [
+            "官吏",
+            "公务",
+            "欢乐",
+            "男子",
+            "官职"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句直接点题，最通顺"
+        }
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "title": "宮詞  其四四",
+        "author": "王珪",
+        "paragraphs": [
+            "東宮花燭綵樓新，天上仙橋不鎻春。",
+            "徧出六宮歌舞奏，姮娥初到月虚輪。"
+        ],
+        "paragraphs_simplified": [
+            "东宫花烛彩楼新，天上仙桥不锁春。",
+            "遍出六宫歌舞奏，姮娥初到月虚轮。"
+        ],
+        "translation": "东宫的花烛和彩楼焕然一新，天上的仙桥不锁住春光。六宫都出来歌舞演奏，嫦娥初到月亮，月轮空虚。",
+        "score": 2.5,
+        "subject": [
+            "宫词",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "闲适",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写东宫景象，再写六宫歌舞，以嫦娥月轮收尾。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "天上仙桥比喻宫廷桥梁"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "姮娥初到赋予月亮人性"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过花烛、仙桥等景物表达春意"
+                }
+            ]
+        },
+        "analysis": "此诗描绘宫廷春夜盛景，花烛彩楼新，仙桥不锁春，六宫歌舞，姮娥月轮。意象堆砌，辞藻华丽却立意浅显，缺乏情感深度。情景契合度一般，意境不真切，流于表面。整体为平庸的应制之作。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "意象如花烛、彩楼、仙桥，追求华丽但缺乏新意。",
+                "realm": "凡品",
+                "reason": "试图模仿绮丽风格，但辞藻堆砌，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "烛",
+            "楼",
+            "桥",
+            "宫",
+            "舞",
+            "月"
+        ],
+        "allusions": [
+            {
+                "phrase": "姮娥",
+                "explanation": "指嫦娥，月宫仙子"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句意象较生动"
+        }
+    }
+]

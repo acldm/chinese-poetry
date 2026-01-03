@@ -1,0 +1,738 @@
+[
+    {
+        "title": "黄山雜詠 石牀峰",
+        "author": "鄧宗度",
+        "paragraphs": [
+            "原非人力建，造化琢磨成。",
+            "一枕遊仙夢，蟾波白晝生。"
+        ],
+        "paragraphs_simplified": [
+            "原非人力建，造化琢磨成。",
+            "一枕游仙梦，蟾波白昼生。"
+        ],
+        "translation": "原非人力所建，由自然造化琢磨而成。一枕游仙之梦，蟾宫波光在白昼生起。",
+        "score": 3.5,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直指石峰非人力之功，次句转入游仙梦境，虚实相生构筑超脱意境。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "造化琢磨成，将自然拟人化为工匠"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "游仙梦为虚，石峰为实"
+                }
+            ]
+        },
+        "analysis": "石床峰的描写以自然造化为主轴，首句直指非人力之功，次句以游仙梦与蟾波白昼的意象组合，构筑出超脱尘世的意境。情景契合度较高，但“蟾波白昼生”意象跳跃，略显生硬。技法成熟，但缺乏新意，整体定性为能品，意象陈旧而立意浅显。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "以石峰、造化为核心，试图营造自然永恒之境，但“蟾波”意象突兀，削弱了高古韵味。",
+                "realm": "能品",
+                "reason": "技法纯熟，但意象组合不够自然，模仿高古而略显雕琢。"
+            }
+        ],
+        "imagery": [
+            "石峰",
+            "造化",
+            "梦",
+            "月亮"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直指石峰非人力所建，简洁有力，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "黄山雜詠 祥符寺",
+        "author": "鄧宗度",
+        "paragraphs": [
+            "雲水最饒處，輪蹄無到時。",
+            "夜蟾生佛面，春雪印僧眉。"
+        ],
+        "paragraphs_simplified": [
+            "云水最饶处，轮蹄无到时。",
+            "夜蟾生佛面，春雪印僧眉。"
+        ],
+        "translation": "云水最丰饶之处，车马无到之时。夜月生佛面，春雪印僧眉。",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "题画诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句写环境幽静，云水与轮蹄对比凸显人迹罕至；后两句以夜蟾春雪细腻刻画佛寺清冷。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "夜蟾生佛面，春雪印僧眉，工整对仗"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "夜蟾生佛面，赋予月亮生命感"
+                }
+            ]
+        },
+        "analysis": "祥符寺的描写以幽静为核心，云水与轮蹄的对比凸显人迹罕至。夜蟾与春雪的意象，细腻刻画佛寺清冷，情景交融。但“春雪印僧眉”略显刻意，意象堆砌而情感深度不足。技法纯熟，但缺乏独特审美回甘，整体为能品。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以云水、佛面、僧眉构筑清幽之境，但“春雪印僧眉”雕琢感强，未能完全达到清奇自然。",
+                "realm": "能品",
+                "reason": "意象细腻，但组合稍显生硬，模仿清奇而略显纤巧。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "水",
+            "车",
+            "月亮",
+            "佛像",
+            "雪",
+            "僧人"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "夜蟾生佛面，春雪印僧眉，意象独特，细腻呈现佛寺清冷。"
+        }
+    },
+    {
+        "title": "黄山雜詠 石門峰",
+        "author": "鄧宗度",
+        "paragraphs": [
+            "暮雲無意鎖，春草豈能關。",
+            "何事棲霞客，從茲去不還。"
+        ],
+        "paragraphs_simplified": [
+            "暮云无意锁，春草岂能关。",
+            "何事栖霞客，从此去不还。"
+        ],
+        "translation": "暮云无意上锁，春草岂能关住。为何栖霞客，从此去不还。",
+        "score": 3.6,
+        "subject": [
+            "山水诗",
+            "送别诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "反问"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以暮云春草反衬人事无常，后两句直抒胸臆，点明离别之志。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "暮雲無意鎖，赋予云情感"
+                },
+                {
+                    "tag": "反问",
+                    "explanation": "何事棲霞客，加强语气"
+                }
+            ]
+        },
+        "analysis": "石门峰的描写以离别为主题，暮云与春草的意象反衬人事无常。末句直抒胸臆，情感真挚，但“春草豈能關”略显直白，意象不够深邃。情感流露自然，但缺乏审美距离，整体为能品。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以暮云、春草、栖霞客构筑离别之境，但后两句直白，未能完全含蓄悲慨。",
+                "realm": "能品",
+                "reason": "情感直接，但意象处理稍浅，模仿悲慨而略显直露。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "草",
+            "人"
+        ],
+        "allusions": [
+            {
+                "phrase": "栖霞客",
+                "explanation": "可能指隐士或游仙之人，象征离别者"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "何事栖霞客，从此去不还，情感直接，卒章显志。"
+        }
+    },
+    {
+        "title": "黄山雜詠 丹霞峰",
+        "author": "鄧宗度",
+        "paragraphs": [
+            "綺段堆青壁，點綴秋顔色。",
+            "幾使曉來風，縱橫裁不得。"
+        ],
+        "paragraphs_simplified": [
+            "绮段堆青壁，点缀秋颜色。",
+            "几使晓来风，纵横裁不得。"
+        ],
+        "translation": "绮段堆在青壁，点缀秋色。几使晓来风，纵横裁不得。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句以绮段比喻山色，后两句以风裁不得反衬自然完美，但逻辑稍显松散。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "綺段堆青壁，将山色比作彩缎"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "縱橫裁不得，强调自然不可雕琢"
+                }
+            ]
+        },
+        "analysis": "丹霞峰的描写以色彩为核心，绮段比喻生动，但“點綴秋顔色”意象陈旧。后两句以风裁不得反衬自然之妙，但整体缺乏新意，立意浅显。技法平庸，仅为凡品。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "以绮段、秋色试图营造华丽之境，但描写平淡，未能达到绮丽效果。",
+                "realm": "凡品",
+                "reason": "意象堆砌而无深度，模仿绮丽而流于表面。"
+            }
+        ],
+        "imagery": [
+            "彩缎",
+            "山壁",
+            "秋天",
+            "风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "绮段堆青壁，比喻较生动，奠定色彩基调。"
+        }
+    },
+    {
+        "title": "黄山雜詠 滴水巖",
+        "author": "鄧宗度",
+        "paragraphs": [
+            "石壁碎寒流，行人暮已愁。",
+            "更傾風月耳，無水不生秋。"
+        ],
+        "paragraphs_simplified": [
+            "石壁碎寒流，行人暮已愁。",
+            "更倾风月耳，无水不生秋。"
+        ],
+        "translation": "石壁碎寒流，行人暮已愁。更倾风月耳，无水不生秋。",
+        "score": 3.2,
+        "subject": [
+            "山水诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "悲伤"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "通感"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句写石壁寒流引发行人愁绪，后两句以风月与秋意连接，但逻辑稍乱。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "石壁碎寒流，将水声比作破碎"
+                },
+                {
+                    "tag": "通感",
+                    "explanation": "更傾風月耳，将视觉与听觉结合"
+                }
+            ]
+        },
+        "analysis": "滴水岩的描写以寒流与秋意为主题，首句意象生动，但“行人暮已愁”情感直露。后两句“無水不生秋”有哲理感，但整体意象拼凑，缺乏情景交融。技法一般，定性为凡品。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以石壁、寒流、秋意试图营造悲凉之境，但描写直白，未能深刻。",
+                "realm": "凡品",
+                "reason": "情感直露，意象处理粗糙，模仿悲慨而流于表面。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "水",
+            "人",
+            "风",
+            "月亮",
+            "秋天"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "石壁碎寒流，意象较佳，生动刻画水流之态。"
+        }
+    },
+    {
+        "title": "黄山雜詠 蒼豹",
+        "author": "鄧宗度",
+        "paragraphs": [
+            "却隠他山霧，來眠此洞雲。",
+            "區區麛鹿輩，戰栗敢子群。"
+        ],
+        "paragraphs_simplified": [
+            "却隐他山雾，来眠此洞云。",
+            "区区麛鹿辈，战栗敢子群。"
+        ],
+        "translation": "它却隐没于他山的雾中，前来安眠于此洞的云间。微不足道的鹿群之辈，战战兢兢岂敢成群结队。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "孤傲",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句以云雾烘托豹之超然，后句借鹿群战栗反衬其威势。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "豹的隐逸从容与鹿的战栗恐惧形成强烈反差"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "“敢子群”赋予鹿群心理活动，强化威慑感"
+                }
+            ]
+        },
+        "analysis": "此诗以云雾洞天构筑超然意境，借豹隐鹿栗的物象对比，暗喻孤高威严的生命姿态。前句“却隐”“来眠”的转折，勾勒出主动选择的栖居方式；后句“区区”“战栗”的贬抑词，通过鹿群的卑微反向确立豹的精神高度。意象组合虽简练却具张力，但“敢子群”稍显生硬，整体停留在物性表征层面，未向更深远的哲思拓展。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "云雾洞天与鹿群战栗的意象组合，呈现荒率天然的山林野趣",
+                "realm": "能",
+                "reason": "捕捉到山林野趣但意境未臻浑融，有疏脱之态而少含蓄之味"
+            }
+        ],
+        "imagery": [
+            "雾",
+            "云",
+            "洞",
+            "鹿"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“却隐他山雾，来眠此洞云”以云雾意象构筑超然境界，最具画面感"
+        }
+    },
+    {
+        "title": "遊黄山留題",
+        "author": "趙日巖",
+        "paragraphs": [
+            "半空嵐翠滴樓臺，物象冥搜入翦裁。",
+            "雲散峭峰殊華嶽，仙留靈跡勝天台。",
+            "丹砂水暖巖前湧，紫朮花香洞口開。",
+            "爲問神仙住何處，寄詩還許到蓬萊。"
+        ],
+        "paragraphs_simplified": [
+            "半空岚翠滴楼台，物象冥搜入剪裁。",
+            "云散峭峰殊华岳，仙留灵迹胜天台。",
+            "丹砂水暖岩前涌，紫朮花香洞口开。",
+            "为问神仙住何处，寄诗还许到蓬莱。"
+        ],
+        "translation": "半空中山色翠绿仿佛滴落楼台，景物经过深思构想融入诗篇。云散后险峰与华岳迥异，仙人遗迹比天台山更胜。丹砂水暖在岩前涌出，紫术花香从洞口飘散。试问神仙居于何处？寄诗或许能抵达蓬莱仙境。",
+        "score": 3.7,
+        "subject": [
+            "山水诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "赞美",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下",
+                "卒章显志"
+            ],
+            "structural_logic": "首联总写黄山奇景，颔颈联分述山水仙迹，尾联发问寄诗收束全篇。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "颔联“云散峭峰”对“仙留灵迹”，颈联“丹砂水暖”对“紫朮花香”"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“华岳”“天台”“蓬莱”皆仙山典故"
+                }
+            ]
+        },
+        "analysis": "此诗以工整对仗铺陈黄山奇景，虚实相生。颔联以华岳、天台作比，凸显黄山超凡地位；颈联丹砂紫朮的仙家意象，渲染道教圣地氛围。尾联寄诗蓬莱的构想，将现实山水升华为仙境漫游。然“物象冥搜入剪裁”稍显造作，整体意象堆砌有余而灵动不足，未能突破传统山水诗的范式。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "岚翠滴楼、丹砂紫朮等富丽意象构筑华美仙境",
+                "realm": "能",
+                "reason": "辞藻华美但情感深度不足，有雕琢痕迹"
+            }
+        ],
+        "imagery": [
+            "楼台",
+            "云",
+            "峰",
+            "水",
+            "花",
+            "洞"
+        ],
+        "allusions": [
+            {
+                "phrase": "华岳",
+                "explanation": "西岳华山，代指名山"
+            },
+            {
+                "phrase": "天台",
+                "explanation": "天台山，道教胜地"
+            },
+            {
+                "phrase": "蓬莱",
+                "explanation": "海上仙山"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“云散峭峰殊华岳，仙留灵迹胜天台”以对比凸显黄山超凡特质，气象开阔"
+        }
+    },
+    {
+        "title": "登樓望黄山",
+        "author": "徐師",
+        "paragraphs": [
+            "黄山樓上望黄山，水石雲霞未得攀。",
+            "三十六峰應笑我，紛紛塵事幾時閒。"
+        ],
+        "paragraphs_simplified": [
+            "黄山楼上望黄山，水石云霞未得攀。",
+            "三十六峰应笑我，纷纷尘事几时闲。"
+        ],
+        "translation": "在黄山楼上眺望黄山，山水云霞美景无法亲身攀登。三十六峰应该笑我尘事缠身，何时才能得闲？",
+        "score": 4.2,
+        "subject": [
+            "山水诗",
+            "羁旅诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "反问"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首句登楼望山实写，次句“未得攀”转折；后两句拟人发问，将山景与尘事对照。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“三十六峰应笑我”赋予山峰人性"
+                },
+                {
+                    "tag": "反问",
+                    "explanation": "“几时闲”的诘问强化无奈情绪"
+                }
+            ]
+        },
+        "analysis": "此诗以登楼远眺的视角，构筑“可望不可即”的山水意境。首句复沓“黄山”形成空间张力，次句“未得攀”道出遗憾。后两句拟人手法精妙，山峰笑人的构思，将自然永恒与人生匆忙的对照推向高潮。二十八字一气呵成，虚实相生，以简驭繁，堪称登临诗佳作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "以山峰笑人的意象曲折传达身不由己的感慨",
+                "realm": "妙",
+                "reason": "情感表达婉转深沉，余味悠长"
+            }
+        ],
+        "imagery": [
+            "楼",
+            "山",
+            "水",
+            "石",
+            "云",
+            "霞",
+            "峰"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“三十六峰应笑我，纷纷尘事几时闲”以拟人手法将自然与人生对照，立意新颖"
+        }
+    },
+    {
+        "title": "浮丘廟",
+        "author": "陳巨川",
+        "paragraphs": [
+            "浮丘羽化幾經年，千仞青溪有洞天。",
+            "丹竈石牀依舊在，雲深何處問神仙。"
+        ],
+        "paragraphs_simplified": [
+            "浮丘羽化几经年，千仞青溪有洞天。",
+            "丹灶石床依旧在，云深何处问神仙。"
+        ],
+        "translation": "浮丘仙人羽化已过多年，千仞高的青溪中有洞天福地。炼丹的炉灶和石床依然存在，云雾深处何处寻问神仙踪迹？",
+        "score": 3.5,
+        "subject": [
+            "怀古诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "怅惘",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "前两句实写仙迹遗存，后两句由实景转入虚无之问，形成今昔对照。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "尾句“何处问神仙”的诘问深化求仙无果的怅惘"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "丹灶石床为实，云深神仙为虚"
+                }
+            ]
+        },
+        "analysis": "此诗紧扣庙宇主题，以“羽化”与“依旧”的时间对照，构筑仙凡殊途的苍茫感。千仞青溪的洞天意象，与云深难问的结局形成空间纵深。丹灶石床的具象留存，反衬神仙踪迹的虚无缥缈。尾句设问收束，余韵悠长。然意象组合稍显常规，未能突破游仙诗的传统范式。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "羽化洞天、丹灶石床等意象营造超逸时空的仙家气象",
+                "realm": "能",
+                "reason": "意境清古但情感层次较单一"
+            }
+        ],
+        "imagery": [
+            "溪",
+            "洞天",
+            "丹灶",
+            "石床",
+            "云"
+        ],
+        "allusions": [
+            {
+                "phrase": "羽化",
+                "explanation": "道教术语，指成仙飞升"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“丹灶石床依旧在，云深何处问神仙”以实物存留反衬仙踪渺茫，对比强烈"
+        }
+    }
+]

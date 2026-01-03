@@ -1,0 +1,719 @@
+[
+    {
+        "title": "和劉後村梅花百詠  其二二",
+        "author": "方蒙仲",
+        "paragraphs": [
+            "一氣居然分冷暖，南枝開早北枝遲。",
+            "都城巧力真堪羨，競買梅花八月時。"
+        ],
+        "paragraphs_simplified": [
+            "一气居然分冷暖，南枝开早北枝迟。",
+            "都城巧力真堪羡，竞买梅花八月时。"
+        ],
+        "translation": "一股气竟然分出了冷暖，南边的枝条开得早，北边的开得迟。都城的巧妙力量真令人羡慕，竞相购买梅花在八月时节。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写梅花开的自然现象，再写都城人买梅花的奇事。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "南枝开早北枝迟形成工整对仗，凸显梅花开放的地域差异。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "一气分冷暖以气喻气候，暗示梅花对温度的敏感。"
+                }
+            ]
+        },
+        "analysis": "此诗以梅花开候为切入点，勾勒南北枝条的冷暖之别，意象陈旧，缺乏新意。后联转写都城八月竞买梅花的奇事，虽稍显突兀，但未提升整体立意。语言直白，缺乏艺术提炼，属于平庸的应景之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以自然现象写梅，但意象组合生硬，未能营造出清新之境。",
+                "realm": "凡品",
+                "reason": "模仿自然风格却流于直白，缺乏韵味，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "梅花",
+            "枝",
+            "城市"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "都城巧力真堪羡，竞买梅花八月时。此句稍具新奇感，但整体仍显平庸。"
+        }
+    },
+    {
+        "title": "和劉後村梅花百詠  其二三",
+        "author": "方蒙仲",
+        "paragraphs": [
+            "玉羽江蓮美莫當，酴醿縞袂雪爲裳。",
+            "白之謂白何分別，畢竟還梅是當行。"
+        ],
+        "paragraphs_simplified": [
+            "玉羽江莲美莫当，酴醿缟袂雪为裳。",
+            "白之谓白何分别，毕竟还梅是当行。"
+        ],
+        "translation": "玉羽般的江莲美得无与伦比，酴醿花像白绢衣袖，雪做衣裳。白叫做白有什么分别，毕竟梅花才是本行。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先写江莲、酴醿之美，再以设问对比，最终点明梅花为白之本色。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "玉羽、雪为裳以物喻梅，强化其洁白特质。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "白之谓白何分别引发思考，引出梅花当行的结论。"
+                }
+            ]
+        },
+        "analysis": "此诗通过比喻描绘江莲与酴醿的洁白，意象堆砌，辞藻华丽但缺乏深度。后联以设问强行转折，强调梅花为白之正宗，立意浅显，未能超越咏梅俗套。整体技法成熟却内涵空洞，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "追求辞藻的华美，但意象组合松散，未能构筑出精致的审美空间。",
+                "realm": "凡品",
+                "reason": "试图以绮丽取胜，但缺乏情感渗透，流于表面修饰。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "雪",
+            "梅花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "白之谓白何分别，毕竟还梅是当行。此句点题直接，但表达直白无余味。"
+        }
+    },
+    {
+        "title": "和劉後村梅花百詠  其二四",
+        "author": "方蒙仲",
+        "paragraphs": [
+            "自是不容加染涴，看來良亦富才情。",
+            "落羌女管聲聲怨，點壽陽粧片片輕。"
+        ],
+        "paragraphs_simplified": [
+            "自是不容加染涴，看来良亦富才情。",
+            "落羌女管声声怨，点寿阳妆片片轻。"
+        ],
+        "translation": "自然不容许添加染污，看来也富有才情。落下羌女的管乐声声怨，点在寿阳妆上片片轻。",
+        "score": 3.2,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写梅花高洁不容染污，再用典故形容其轻怨之美。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "寿阳妆指梅花妆典故，赋予梅花历史意蕴。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "不容加染涴以染污喻世俗侵扰，凸显梅花清高。"
+                }
+            ]
+        },
+        "analysis": "此诗以不容染涴起笔，勾勒梅花的高洁才情，意象尚可但表达生硬。后联用寿阳妆典，虽添文采，却与前文衔接不畅，羌女管声的怨情亦显突兀。整体用典堆砌，未能融为有机整体，属能品但未达妙境。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "借用典故试图营造典雅氛围，但意象间缺乏内在联系，显得刻意。",
+                "realm": "能品",
+                "reason": "典故运用未臻自然，削弱了整体的典雅韵味。"
+            }
+        ],
+        "imagery": [
+            "梅花",
+            "妆",
+            "音乐"
+        ],
+        "allusions": [
+            {
+                "phrase": "寿阳妆",
+                "解释": "指南朝寿阳公主梅花妆典故，喻梅花之美。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "自是不容加染涴，看来良亦富才情。此句直指梅花品格，但语言平实。"
+        }
+    },
+    {
+        "title": "和劉後村梅花百詠  其二五",
+        "author": "方蒙仲",
+        "paragraphs": [
+            "不把山林換市朝，鮮明自是一時標。",
+            "便令大冶安能鑄，儻有小山差可招。"
+        ],
+        "paragraphs_simplified": [
+            "不把山林换市朝，鲜明自是一时标。",
+            "便令大冶安能铸，傥有小山差可招。"
+        ],
+        "translation": "不把山林换成市朝，鲜明自然是一时的标格。即使大冶也怎能铸造，倘若有小山或许可招。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先申明梅花不慕荣华，再以冶炼比喻其不可复制，最终以小山可招作结。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "大冶安能铸以冶炼喻梅花之独特，强调其天然本色。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "山林市朝以空间借代世俗与隐逸的对立。"
+                }
+            ]
+        },
+        "analysis": "此诗托梅言志，强调其不换山林的高洁，意象抽象，立意老套。后联以大冶铸梅为喻，试图深化主题，但表达晦涩，小山可招亦显牵强。整体缺乏形象感，流于说教，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "追求高远古朴的意境，但意象空洞，未能构筑出超脱之境。",
+                "realm": "凡品",
+                "reason": "模仿高古风格却失之生硬，缺乏实质内容支撑。"
+            }
+        ],
+        "imagery": [
+            "自然",
+            "城市",
+            "冶炼",
+            "山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "不把山林换市朝，鲜明自是一时标。此句点明主旨，但语言直白无韵味。"
+        }
+    },
+    {
+        "title": "和劉後村梅花百詠  其二六",
+        "author": "方蒙仲",
+        "paragraphs": [
+            "腸斷當年古吹臺，酒酣欲叫謫仙回。",
+            "夜深落月照顔色，端的宮袍入夢來。"
+        ],
+        "paragraphs_simplified": [
+            "肠断当年古吹台，酒酣欲叫谪仙回。",
+            "夜深落月照颜色，端的宫袍入梦来。"
+        ],
+        "translation": "肠断在当年的古吹台，酒醉时想叫谪仙回来。夜深落月照颜色，确实宫袍入梦来。",
+        "score": 3.5,
+        "subject": [
+            "怀古诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "思乡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以肠断古吹台起笔，引入怀古之情，再写酒酣梦谪仙的虚实场景。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "古吹台、谪仙指李白相关典故，增添历史厚重感。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "夜深落月为实，宫袍入梦为虚，交织出迷离意境。"
+                }
+            ]
+        },
+        "analysis": "此诗借古吹台与谪仙典故，抒发怀古伤今之情，意象凝练，情感真切。虚实结合的手法营造出梦幻氛围，但主题与梅花关联较弱，略显游离。整体技法成熟，情感回甘，属能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以古迹与仙影构筑苍凉意境，流露出深沉的历史悲情。",
+                "realm": "能品",
+                "reason": "情感真挚但意象稍显集中，未能完全展开悲慨之境。"
+            }
+        ],
+        "imagery": [
+            "台",
+            "仙",
+            "袍"
+        ],
+        "allusions": [
+            {
+                "phrase": "古吹台",
+                "解释": "指开封吹台，李白曾游，象征文人怀古之地。"
+            },
+            {
+                "phrase": "谪仙",
+                "解释": "指李白，喻高才不羁之士。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "肠断当年古吹台，酒酣欲叫谪仙回。此句情感浓烈，用典自然，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "和劉後村梅花百詠  其二七",
+        "author": "方蒙仲",
+        "paragraphs": [
+            "智瓊久已乘龍去，留得人間十二枝。",
+            "插向瓦瓶伴孤枕，別無玉骨與冰肌。"
+        ],
+        "paragraphs_simplified": [
+            "智琼久已乘龙去，留得人间十二枝。",
+            "插向瓦瓶伴孤枕，别无玉骨与冰肌。"
+        ],
+        "translation": "智琼仙女早已乘龙离去，只留下人间十二枝梅花。插入瓦瓶陪伴孤枕，除此之外没有玉骨冰肌般的风姿。",
+        "score": 3.2,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "孤独",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句以仙女乘龙典故起笔，点出梅花之珍贵；后两句转入现实场景，以瓦瓶孤枕衬托梅花的清寂，形成虚实对比。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "将梅花比作智琼仙女遗留的仙枝"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用智琼乘龙典故增添超逸色彩"
+                }
+            ]
+        },
+        "analysis": "此诗以仙家典故开篇，构筑出梅花超凡脱俗的意象，然转入瓦瓶孤枕的实写后，意境由缥缈跌入凡俗。玉骨冰肌的喻体虽雅，却与前文仙气未能水乳交融，反显拼凑之痕。整体情感在孤寂与遗憾间游移，未能凝练成深沉的审美回甘，终落于凡品格局。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "仙枝与瓦瓶的意象转换生硬，未能达成高古意境",
+                "realm": "能",
+                "reason": "用典虽雅，但虚实过渡不自然，有雕琢之迹"
+            }
+        ],
+        "imagery": [
+            "梅",
+            "瓶",
+            "枕"
+        ],
+        "allusions": [
+            {
+                "phrase": "智琼乘龙",
+                "explanation": "出自《搜神记》，指仙女智琼下凡事"
+            }
+        ],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句用典超逸，奠定全诗基调"
+        }
+    },
+    {
+        "title": "和劉後村梅花百詠  其二八",
+        "author": "方蒙仲",
+        "paragraphs": [
+            "託根豈解媚中璫，採蕨祇當慕首陽。",
+            "未必木天無穢史，豈其枌省盡清郎。"
+        ],
+        "paragraphs_simplified": [
+            "托根岂解媚中璫，采蕨只当慕首阳。",
+            "未必木天无秽史，岂其枌省尽清郎。"
+        ],
+        "translation": "梅花扎根岂是为了讨好权贵，采摘蕨菜只当仰慕首阳山的高士。未必翰林院没有污秽历史，难道官署全是清廉之士？",
+        "score": 2.8,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "孤傲"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "反问",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句以反问起势，用首阳典故表明梅花不媚权贵的品格；后两句延伸至官场批判，形成由物及人的议论脉络。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "首阳采蕨典故指代伯夷叔齐的清高"
+                },
+                {
+                    "tag": "反问",
+                    "explanation": "连续反问强化批判力度"
+                }
+            ]
+        },
+        "analysis": "此诗借梅讽世，立意本有可观处。然用典过于密集，首阳、木天、枌省等词堆砌，反失咏物之本真。议论直露，缺乏意象烘托，如策论入诗，韵致全无。虽具批判锋芒，但流于说教，未能构筑诗性空间，终显枯槁。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以典故显风骨，实则议论喧宾夺主",
+                "realm": "逸",
+                "reason": "骨力未彰而意脉断裂，有粗率之嫌"
+            }
+        ],
+        "imagery": [
+            "梅",
+            "蕨",
+            "首阳山"
+        ],
+        "allusions": [
+            {
+                "phrase": "首阳",
+                "explanation": "伯夷叔齐采薇处，象征清高"
+            },
+            {
+                "phrase": "木天",
+                "explanation": "指翰林院"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句反问有力，点明主旨"
+        }
+    },
+    {
+        "title": "和劉後村梅花百詠  其二九",
+        "author": "方蒙仲",
+        "paragraphs": [
+            "雪兒按瑟侯門妬，玉女偷花帝座嗔。",
+            "彼美人兮笑林薄，風流別是一家春。"
+        ],
+        "paragraphs_simplified": [
+            "雪儿按瑟侯门妒，玉女偷花帝座嗔。",
+            "彼美人兮笑林薄，风流别是一家春。"
+        ],
+        "translation": "雪儿弹瑟引起侯门嫉妒，玉女偷花惹得帝座发怒。那位美人在林间嘲笑，风流别具一格自成春色。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "孤傲"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以神话人物反应衬托梅花之美，后两句直写梅花自得其乐，由外至内完成形象塑造。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "赋予梅花美人情态"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "侯门妒、帝座嗔极言其美"
+                }
+            ]
+        },
+        "analysis": "全诗堆砌神仙典故，雪儿、玉女等意象浮华，却未触及梅花本质。拟人手法流于表面，风流别是一家春的结句空泛，缺乏情感根基。辞藻秾丽而内涵空洞，如彩纸扎花，艳俗有余而真韵不足。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "追求华美而失之浮艳，无含蓄之美",
+                "realm": "逸",
+                "reason": "意象堆砌，无真情实感贯注"
+            }
+        ],
+        "imagery": [
+            "梅",
+            "雪",
+            "玉女"
+        ],
+        "allusions": [
+            {
+                "phrase": "雪儿",
+                "explanation": "唐代歌妓名，此处泛指佳人"
+            }
+        ],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句点题，但意蕴浅薄"
+        }
+    },
+    {
+        "title": "和劉後村梅花百詠  其三○",
+        "author": "方蒙仲",
+        "paragraphs": [
+            "綵葉如雲觀瑒蘂，金盆照日品桃花。",
+            "安知尤物真瓌特，落在西湖處士家。"
+        ],
+        "paragraphs_simplified": [
+            "彩叶如云观瑒蕊，金盆照日品桃花。",
+            "安知尤物真瑰特，落在西湖处士家。"
+        ],
+        "translation": "彩叶如云观赏瑒蕊，金盆照日品评桃花。谁知尤物真正瑰丽，却落在西湖隐士家。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "对比",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句以彩叶、金盆等富贵意象反衬，后两句转折点出梅花在隐士家的归宿，形成雅俗对比。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "彩叶如云形容繁茂"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "桃花与梅花、富贵与隐逸的对照"
+                }
+            ]
+        },
+        "analysis": "前两句铺陈桃李俗艳，意象繁复却与梅花无涉，至第三句方点出尤物，结构失衡。西湖处士的归宿虽合梅格，但转折生硬，缺乏内在逻辑。全诗如断线珍珠，意象散落未能串联，整体感薄弱。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图营造闲适之境，然意象拼凑",
+                "realm": "能",
+                "reason": "有归隐之意，但笔力未达浑成"
+            }
+        ],
+        "imagery": [
+            "叶",
+            "蕊",
+            "金盆",
+            "桃花",
+            "梅"
+        ],
+        "allusions": [
+            {
+                "phrase": "西湖处士",
+                "explanation": "指林逋，喻隐逸高士"
+            }
+        ],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句点明主旨，稍具深意"
+        }
+    }
+]

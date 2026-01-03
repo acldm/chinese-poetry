@@ -1,0 +1,1453 @@
+[
+    {
+        "title": "師友六言一首",
+        "author": "劉克莊",
+        "paragraphs": [
+            "聞諸師者本同，取之友者亦公。",
+            "高才有出象外，精義不離箇中。",
+            "南渡大儒管見，西山先生正宗。"
+        ],
+        "paragraphs_simplified": [
+            "闻诸师者本同，取之友者亦公。",
+            "高才有出象外，精义不离箇中。",
+            "南渡大儒管见，西山先生正宗。"
+        ],
+        "translation": "Teachers are fundamentally the same, and friends are chosen impartially. High talent transcends appearances, essential meanings reside within. Southern Crossing scholars' limited views, Xishan先生's orthodox teachings.",
+        "score": 3.0,
+        "subject": [
+            "哲理诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "The poem starts with the unity of teachers and friends, then discusses talent and meaning, and ends with historical references.",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "聞諸師者本同，取之友者亦公 is parallel in structure."
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "南渡大儒 and 西山先生 are allusions to historical figures."
+                }
+            ]
+        },
+        "analysis": "This poem presents philosophical ideas on mentorship and knowledge through concise language. The reliance on abstract concepts and obscure allusions reduces accessibility, creating a didactic tone that lacks poetic vitality. The structure is logical but fails to evoke sensory or emotional depth, resulting in a dry, intellectual exercise rather than an engaging lyrical work.",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "The poem uses abstract concepts rather than concrete images, aligning with a philosophical style but lacking vividness.",
+                "realm": "能品",
+                "reason": "Demonstrates structural competence and intellectual depth but lacks poetic resonance and emotional engagement."
+            }
+        ],
+        "imagery": [
+            "师",
+            "友",
+            "才",
+            "义"
+        ],
+        "allusions": [
+            {
+                "phrase": "南渡大儒",
+                "explanation": "Refers to scholars who crossed south during the Jin dynasty."
+            },
+            {
+                "phrase": "西山先生",
+                "explanation": "Likely refers to Zhen Dexiu, a Neo-Confucian scholar."
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "高才有出象外，精義不離箇中 captures the core idea most concisely."
+        }
+    },
+    {
+        "title": "記箕山商野事一首",
+        "author": "劉克莊",
+        "paragraphs": [
+            "放勛禪飲牛父，軒皇問牧馬童。",
+            "曰夫子致南面，稱天師拜下風。"
+        ],
+        "paragraphs_simplified": [
+            "放勋禅饮牛父，轩皇问牧马童。",
+            "曰夫子致南面，称天师拜下风。"
+        ],
+        "translation": "Emperor Yao abdicated to the ox-herder, the Yellow Emperor asked the horse-herder boy. He said the Master rules from the south, and called the Heavenly Teacher to bow down.",
+        "score": 2.0,
+        "subject": [
+            "怀古诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "Narrates historical anecdotes to convey a message about governance, but lacks development.",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "放勛 (Yao) and 軒皇 (Yellow Emperor) are historical allusions."
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "稱天師拜下風 exaggerates reverence for the sages."
+                }
+            ]
+        },
+        "analysis": "The poem recounts legendary tales of sage emperors, but the narrative is fragmented and overly reliant on archaic allusions. The language is dense and inaccessible, failing to create a cohesive poetic atmosphere. It reads more like a historical note than a lyrical work, lacking the imagery and flow necessary for poetic impact.",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "Uses historical figures and actions, but imagery is not vividly rendered.",
+                "realm": "劣品",
+                "reason": "Too obscure and lacking poetic flow; it feels like a dry historical account."
+            }
+        ],
+        "imagery": [
+            "牛",
+            "马",
+            "天"
+        ],
+        "allusions": [
+            {
+                "phrase": "放勛",
+                "explanation": "Emperor Yao."
+            },
+            {
+                "phrase": "軒皇",
+                "explanation": "Yellow Emperor."
+            },
+            {
+                "phrase": "夫子",
+                "explanation": "Possibly Confucius or a sage."
+            },
+            {
+                "phrase": "天師",
+                "explanation": "Heavenly Teacher, a Daoist title."
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "放勛禪飲牛父，軒皇問牧馬童 sets up the historical context."
+        }
+    },
+    {
+        "title": "赤姪孫改名圭行冠禮一首",
+        "author": "劉克莊",
+        "paragraphs": [
+            "冠非責童子禮，兒必讀手澤書。",
+            "簞瓢回也不改，宗廟赤爾何如。"
+        ],
+        "paragraphs_simplified": [
+            "冠非责童子礼，儿必读手泽书。",
+            "箪瓢回也不改，宗庙赤尔何如。"
+        ],
+        "translation": "The cap is not a child's ritual obligation; the son must read his father's books. Like Yan Hui who never changed his basket and gourd, how about Chi in the ancestral temple?",
+        "score": 2.5,
+        "subject": [
+            "家训诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "赞美",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "Starts with the ceremony and reading, then references Yan Hui to emphasize integrity.",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "回也 refers to Yan Hui, a disciple of Confucius."
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "The two lines have a parallel structure."
+                }
+            ]
+        },
+        "analysis": "This didactic poem on family values uses straightforward language but lacks elegance. The reference to Yan Hui feels tacked on, and the poem remains instructional without achieving poetic beauty. It reads like a moral aphorism, failing to engage emotionally or aesthetically.",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "Uses symbols like the cap, books, and basket to convey meaning, but imagery is static.",
+                "realm": "凡品",
+                "reason": "Too direct and lacking subtlety; it does not transcend its instructional purpose."
+            }
+        ],
+        "imagery": [
+            "冠",
+            "书",
+            "箪瓢",
+            "宗庙"
+        ],
+        "allusions": [
+            {
+                "phrase": "回也",
+                "explanation": "Yan Hui, known for his virtue and poverty."
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "冠非責童子禮，兒必讀手澤書 establishes the theme clearly."
+        }
+    },
+    {
+        "title": "霜菊",
+        "author": "劉克莊",
+        "paragraphs": [
+            "霜菊尤宜晚，纔開一兩葩。",
+            "不隨蒲柳變，索性待梅花。"
+        ],
+        "paragraphs_simplified": [
+            "霜菊尤宜晚，才开一两葩。",
+            "不随蒲柳变，索性待梅花。"
+        ],
+        "translation": "Frost chrysanthemums are especially suited for late blooming, only opening one or two flowers. They don't change with the willows, and simply wait for the plum blossoms.",
+        "score": 4.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "Describes the chrysanthemum's late blooming and steadfastness, implying a moral through natural imagery.",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "不隨蒲柳變 personifies the chrysanthemum as steadfast."
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "Contrasts with willows and awaits plum blossoms."
+                }
+            ]
+        },
+        "analysis": "This poem effectively uses the chrysanthemum as a symbol of resilience and patience. The imagery is crisp and evocative, with frost setting a vivid scene. The contrast with willows and anticipation of plum blossoms adds depth, achieving a harmonious blend of description and meaning. It stands as a refined work with subtle symbolism.",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "The chrysanthemum, willows, and plum blossoms create natural imagery that conveys endurance.",
+                "realm": "妙品",
+                "reason": "Artistically successful with concise language and profound symbolism."
+            }
+        ],
+        "imagery": [
+            "菊",
+            "柳",
+            "梅"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "不隨蒲柳變，索性待梅花 captures the poem's spirit of steadfastness."
+        }
+    },
+    {
+        "title": "蘇柑",
+        "author": "劉克莊",
+        "paragraphs": [
+            "橘裏爭棋叟，壺中賣藥公。",
+            "蘇柑肥似瓠，盛不得樗翁。"
+        ],
+        "paragraphs_simplified": [
+            "橘里争棋叟，壶中卖药公。",
+            "苏柑肥似瓠，盛不得樗翁。"
+        ],
+        "translation": "In the orange, an old man plays chess; in the pot, a man sells medicine. The Su citrus is as fat as a gourd, too big for the Chu old man to hold.",
+        "score": 2.0,
+        "subject": [
+            "咏物诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "闲适",
+            "幽默"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "Describes whimsical scenes and a large citrus, possibly symbolizing something, but lacks coherence.",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "肥似瓠 compares the citrus to a gourd."
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "盛不得樗翁 exaggerates the size of the citrus."
+                }
+            ]
+        },
+        "analysis": "The poem has a playful, almost absurd tone. The references to chess and medicine might allude to Daoist immortals, but the connection is vague. The description of the oversized citrus is humorous but lacks deeper meaning. The language is informal and bordering on colloquial, undermining any serious intent and resulting in a frivolous piece.",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "The imagery is quirky but not cohesive, focusing on odd details.",
+                "realm": "劣品",
+                "reason": "Too frivolous and lacking poetic weight; it reads like a joke rather than art."
+            }
+        ],
+        "imagery": [
+            "橘",
+            "棋",
+            "壶",
+            "药",
+            "瓠"
+        ],
+        "allusions": [
+            {
+                "phrase": "橘裏爭棋叟",
+                "explanation": "Might refer to a story about immortals playing chess inside an orange."
+            },
+            {
+                "phrase": "壺中賣藥公",
+                "explanation": "Could allude to a Daoist immortal selling medicine in a pot."
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "橘裏爭棋叟，壺中賣藥公 sets the whimsical scene."
+        }
+    },
+    {
+        "title": "小勞",
+        "author": "劉克莊",
+        "paragraphs": [
+            "性不耐閑懶，小勞方小佳。",
+            "鋸沉成薄片，末麝入新芽。"
+        ],
+        "paragraphs_simplified": [
+            "性不耐闲懒，小劳方小佳。",
+            "锯沉成薄片，末麝入新芽。"
+        ],
+        "translation": "本性无法忍受闲散懒惰，轻微劳作才觉稍好。锯取沉重木材制成薄片，将麝香粉末融入新芽中。此诗描述通过小劳作来调剂身心，涉及锯木与制茶的过程。",
+        "score": 2.8,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "白描",
+                "细节描写"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先陈述小劳的价值，后具体描述劳作内容，形成从理念到实践的推进。",
+            "evidence": [
+                {
+                    "tag": "白描",
+                    "explanation": "“性不耐闲懒”直接描述本性，语言朴素无华。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过锯木和制茶的小劳作，寄托对适度劳动的肯定。"
+                }
+            ]
+        },
+        "analysis": "此诗以平实语言勾勒小劳之益，意象如锯片、新芽具体但缺乏升华。结构简单，直述其事，未见深层意境。情感流于表面，缺乏审美距离，整体流于琐碎，未能以小见大。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以日常劳作展现自然之趣，但意象陈旧，缺乏提炼。",
+                "realm": "劣",
+                "reason": "语言过于直白，意境浅显，未能达到自然之品的空灵境界。"
+            }
+        ],
+        "imagery": [
+            "劳作",
+            "锯",
+            "薄片",
+            "粉末",
+            "新芽"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点明主题，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "病起",
+        "author": "劉克莊",
+        "paragraphs": [
+            "不求玉杵杵，不要水銀銀。",
+            "但祝未來世，長爲無病人。"
+        ],
+        "paragraphs_simplified": [
+            "不求玉杵杵，不要水银银。",
+            "但祝未来世，长为无病人。"
+        ],
+        "translation": "不寻求玉杵捣药，也不想要水银炼丹。只愿未来世世代代，永远做无病之人。此诗表达对疾病的厌倦和对健康生活的向往，隐含对现世医疗的失望。",
+        "score": 3.8,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "重复"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句否定现世疗法，后两句升华至来世愿望，形成转折。",
+            "evidence": [
+                {
+                    "tag": "重复",
+                    "explanation": "“杵杵”和“銀銀”的重复强调对药物的拒绝。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“玉杵”可能暗指捣药工具，但未深入典故。"
+                }
+            ]
+        },
+        "analysis": "诗作以拒绝药物开篇，转向对永恒健康的祈愿，情感真挚但表达稍显粗糙。重复手法增强语气，却失之生硬。哲理内核清晰，但缺乏意象支撑，显得直露。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以朴素语言表达豁达，但未能提炼出深意。",
+                "realm": "能",
+                "reason": "情感真实，结构完整，但语言缺乏锤炼。"
+            }
+        ],
+        "imagery": [
+            "玉杵",
+            "水银",
+            "病人"
+        ],
+        "allusions": [
+            {
+                "phrase": "玉杵",
+                "explanation": "可能指代捣药器具，但未明确用典。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句直抒胸臆，点明全诗主旨。"
+        }
+    },
+    {
+        "title": "物化",
+        "author": "劉克莊",
+        "paragraphs": [
+            "今朝風物甚美，明日陰晴未知。",
+            "夕陽無回照理，落花有上天時。"
+        ],
+        "paragraphs_simplified": [
+            "今朝风物甚美，明日阴晴未知。",
+            "夕阳无回照理，落花有上天时。"
+        ],
+        "translation": "今日风光景物极美，明日阴晴尚不可知。夕阳没有返回照耀的道理，落花自有升上天空的时刻。此诗通过自然景象的对比，抒发对世事无常和生命轮回的感慨。",
+        "score": 4.2,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句对比今昔，后两句以夕阳和落花深化哲理，层层递进。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“今朝”与“明日”、“夕陽”与“落花”形成工整对照。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过夕阳落花之景，寄托对时间流逝的感悟。"
+                }
+            ]
+        },
+        "analysis": "诗作以今昔对比起笔，借夕阳落花之象，构筑出时光无情的意境。语言凝练，对仗工整，虚实相生。情感含蓄，留有余味，展现了对自然规律的深刻洞察。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "意象如夕阳、落花清新自然，与哲理融合无间。",
+                "realm": "妙",
+                "reason": "情景交融，意境真切，语言精妙。"
+            },
+            {
+                "style": "含蓄",
+                "imagery_analysis": "未直说哲理，而通过景象暗示，耐人寻味。",
+                "realm": "妙",
+                "reason": "情感表达委婉，审美距离适中。"
+            }
+        ],
+        "imagery": [
+            "风物",
+            "阴晴",
+            "夕阳",
+            "落花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“落花有上天时”以物象喻轮回，意蕴深远。"
+        }
+    },
+    {
+        "title": "蚋",
+        "author": "劉克莊",
+        "paragraphs": [
+            "蚓穿槁壤及黄泉，蜂採花房與柳綿。",
+            "微蚋么麽殊嗜好，以醯爲蜜甕爲天。"
+        ],
+        "paragraphs_simplified": [
+            "蚓穿槁壤及黄泉，蜂採花房与柳绵。",
+            "微蚋么么殊嗜好，以醯为蜜瓮为天。"
+        ],
+        "translation": "蚯蚓穿透干土直抵黄泉，蜜蜂采集花房和柳絮。微小的蚋虫却有奇特嗜好，把醋当作蜜，把瓮当作天。此诗以昆虫为喻，讽刺那些价值观扭曲、自以为是的愚昧者。",
+        "score": 4.1,
+        "subject": [
+            "咏物诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "对比"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先列举蚯蚓蜜蜂的正常行为，后转折至蚋虫的荒谬，形成强烈反差。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“以醯为蜜”比喻颠倒黑白的认知。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借蚋虫讽刺人类社会中的愚行。"
+                }
+            ]
+        },
+        "analysis": "诗作通过蚯蚓蜜蜂与蚋虫的对比，尖锐批判了价值错乱的现象。意象生动，比喻巧妙，讽刺入木三分。语言劲健，结构紧凑，具有强烈的现实批判性。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "以昆虫喻人事，笔力刚健，批判有力。",
+                "realm": "妙",
+                "reason": "讽刺深刻，意象鲜明，艺术效果突出。"
+            }
+        ],
+        "imagery": [
+            "蚓",
+            "槁壤",
+            "黄泉",
+            "蜂",
+            "花房",
+            "柳绵",
+            "蚋",
+            "醯",
+            "蜜",
+            "瓮"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“以醯为蜜瓮为天”以荒诞比喻点明讽刺核心。"
+        }
+    },
+    {
+        "title": "雀",
+        "author": "劉克莊",
+        "paragraphs": [
+            "恰見趨燕市，俄聞集兔園。",
+            "雕籠馴養者，誰到翟公門。"
+        ],
+        "paragraphs_simplified": [
+            "恰见趋燕市，俄闻集兔园。",
+            "雕笼驯养者，谁到翟公门。"
+        ],
+        "translation": "刚看见它们奔向燕市，忽又听说聚集在兔园。那些被雕笼驯养的人，谁还会去翟公的门庭？此诗以鸟雀的迁徙比喻人的趋炎附势，借用翟公典故讽刺世态炎凉。",
+        "score": 3.7,
+        "subject": [
+            "咏物诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "孤独",
+            "感慨"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句描述鸟雀动态，后两句引入典故，由物及人，深化主题。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“翟公门”引用汉代翟公失势后门庭冷落的故事。"
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "通过历史典故讽刺当前趋炎附势的社会现象。"
+                }
+            ]
+        },
+        "analysis": "诗作以鸟雀的移动起兴，巧妙融入翟公典故，揭示人情冷暖。语言简练，意象如雕笼、兔园富有象征性。情感含蓄，批判性通过历史参照得以强化。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "未直说讽刺，而借物与典故婉转表达。",
+                "realm": "能",
+                "reason": "用典恰当，意在言外，但意象稍显晦涩。"
+            },
+            {
+                "style": "悲慨",
+                "imagery_analysis": "透露出对世态炎凉的悲凉感慨。",
+                "realm": "能",
+                "reason": "情感深沉，但表达略显直白。"
+            }
+        ],
+        "imagery": [
+            "燕市",
+            "兔园",
+            "雕笼",
+            "翟公门"
+        ],
+        "allusions": [
+            {
+                "phrase": "翟公",
+                "explanation": "汉代官员，失势后门可罗雀，喻世态炎凉。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“谁到翟公门”以问句收尾，强化了讽刺与孤独感。"
+        }
+    },
+    {
+        "title": "惜春",
+        "author": "劉克莊",
+        "paragraphs": [
+            "亂漂源裏紅雨，凈洗枝頭雪綿。",
+            "只訝歡非前日，安知春是去年。"
+        ],
+        "paragraphs_simplified": [
+            "乱漂源里红雨，净洗枝头雪绵。",
+            "只讶欢非前日，安知春是去年。"
+        ],
+        "translation": "红雨在乱漂源中飘落，净洗枝头的雪白绵絮。只惊讶欢乐不是从前，怎知春天已是去年。前两句描绘落花如雨、柳絮如雪的春景，后两句转入对时光流逝的讶异与感慨，以‘春是去年’点明物是人非之哀。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句以动景写落花与柳絮，后两句转入抒情，通过‘欢非前日’与‘春是去年’的对比，形成情景交融的脉络。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘红雨’喻落花，‘雪绵’喻柳絮，形象化春景凋零。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "以‘乱漂’‘净洗’之景，暗含春逝之悲。"
+                }
+            ]
+        },
+        "analysis": "意象陈旧，落花与柳絮的描绘流于俗套，情感表达浅显，未能构筑深邃的春逝之悲。语言平直，缺乏新意，整体平庸，仅止于对自然现象的浅层摹写，未见独特的艺术张力。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以自然景物抒情，但意象组合生硬，未能达到浑然天成之境。",
+                "realm": "凡品",
+                "reason": "模仿‘自然’风格失败，流于表面描摹，缺乏内在神韵。"
+            }
+        ],
+        "imagery": [
+            "红雨",
+            "枝头",
+            "雪绵"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句意象相对鲜明，但整体仍显平庸。"
+        }
+    },
+    {
+        "title": "予點",
+        "author": "劉克莊",
+        "paragraphs": [
+            "聲音笑貌可爲，顔色哭泣難揜。",
+            "聖人無私喜怒，見於誅予與點。"
+        ],
+        "paragraphs_simplified": [
+            "声音笑貌可为，颜色哭泣难掩。",
+            "圣人无私喜怒，见于诛予与点。"
+        ],
+        "translation": "声音笑貌可以做作，脸色哭泣难以掩饰。圣人无私喜怒，体现在诛杀予与点。前句论表象与本质的矛盾，后句以圣人典故强调无私之境，语言直白，近乎说理。",
+        "score": 2.0,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "平静",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直接提出表象与本质的对比，次句引入圣人典故作结，逻辑直露，缺乏诗意转折。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "‘可为’与‘难掩’形成虚实对照。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "‘诛予与点’暗指孔子诛少正卯之事，喻圣人无私。"
+                }
+            ]
+        },
+        "analysis": "用典生硬，立意抽象，缺乏形象美感。语言枯燥，近乎格言，未能通过意象传递情感，整体流于说教，缺乏诗歌应有的韵致与感染力。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图以典故构筑高古之境，但表达直白，未能达到含蓄深邃。",
+                "realm": "凡品",
+                "reason": "模仿‘高古’失败，显得迂腐而缺乏生气。"
+            }
+        ],
+        "imagery": [
+            "声音",
+            "笑貌",
+            "颜色",
+            "哭泣"
+        ],
+        "allusions": [
+            {
+                "phrase": "诛予与点",
+                "explanation": "可能指孔子诛杀少正卯之事，象征圣人无私喜怒。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句用典点题，但整体仍显生硬。"
+        }
+    },
+    {
+        "title": "客問宗旨一首",
+        "author": "劉克莊",
+        "paragraphs": [
+            "萬物泛觀皆我闥，諸君何事入吾褌。",
+            "不須苦問儂宗旨，醉裏聞之洛誦孫。"
+        ],
+        "paragraphs_simplified": [
+            "万物泛观皆我闼，诸君何事入吾裈。",
+            "不须苦问侬宗旨，醉里闻之洛诵孙。"
+        ],
+        "translation": "万物泛观都是我的门，诸君为何入我裈。不须苦问我的宗旨，醉里听到洛诵孙。前句以夸张手法表达万物归一的狂放，后句以醉态回应宗旨问题，语言粗俗，意象混乱。",
+        "score": 1.5,
+        "subject": [
+            "杂诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "双关"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以夸张自喻万物之主，次句以醉语作答，逻辑跳跃，缺乏连贯性。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "‘万物皆我闼’极度夸大自我境界。"
+                },
+                {
+                    "tag": "双关",
+                    "explanation": "‘裈’可能谐音或隐喻，但意义模糊。"
+                }
+            ]
+        },
+        "analysis": "语言粗俗，意象拼凑失当，‘闼’与‘裈’的搭配缺乏美感。试图以狂放姿态表达哲理，但流于逻辑混乱，整体拙劣，未能构筑任何诗意境界。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "试图模仿豪放之气，但用词鄙俗，反显粗鄙。",
+                "realm": "劣品",
+                "reason": "画虎不成反类犬，沦为粗率之作。"
+            }
+        ],
+        "imagery": [
+            "万物",
+            "闼",
+            "裈",
+            "醉",
+            "洛诵孙"
+        ],
+        "allusions": [
+            {
+                "phrase": "洛诵孙",
+                "explanation": "可能指诵读经典之人，但出处不明，意义含混。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句虽夸张，但意象混乱。"
+        }
+    },
+    {
+        "title": "咸淳龍飛大魁之歸卿大夫以某兄弟有一日之長俾主其事水村農卿謂某當爲詩爲壺山喚回百年英靈之氣客散詩成翌早錄呈且約同社屬和  其一",
+        "author": "劉克莊",
+        "paragraphs": [
+            "傾城迎侯錦歸忙，兒女鮮衣妓曉粧。",
+            "龍首榜來春滿郡，鷄栖車已夕還鄉。",
+            "團司局結慈恩寺，一炬燈傳舊弼坊。",
+            "莫作尋常先輩看，淳熙相府甲科郎。"
+        ],
+        "paragraphs_simplified": [
+            "倾城迎侯锦归忙，儿女鲜衣妓晓妆。",
+            "龙首榜来春满郡，鸡栖车已夕还乡。",
+            "团司局结慈恩寺，一炬灯传旧弼坊。",
+            "莫作寻常先辈看，淳熙相府甲科郎。"
+        ],
+        "translation": "全城迎接锦衣归乡忙，儿女鲜衣妓女晓妆。龙首榜来春满郡，鸡栖车已夕还乡。团司局结慈恩寺，一炬灯传旧弼坊。莫作寻常先辈看，淳熙相府甲科郎。全诗叙事科举及第后的归乡盛况，从迎候场景到历史典故，结尾点明身份尊贵。",
+        "score": 3.5,
+        "subject": [
+            "酬唱诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两联叙事归乡场景，后两联引入历史典故，结尾以‘淳熙相府’呼应开头，形成完整叙事链。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "如‘倾城’对‘儿女’，工整描绘场面。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "‘淳熙相府’指南宋淳熙年间宰相，提升诗作历史厚重感。"
+                }
+            ]
+        },
+        "analysis": "叙事流畅，意象丰富，从‘锦归’到‘灯传’，层层递进，勾勒出科举盛事的繁华。用典恰当，但整体偏于应酬，情感表达略显表面，未能深入个人心境。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "以典故与工整对偶构筑典雅氛围，符合酬唱诗的规范。",
+                "realm": "能品",
+                "reason": "技法成熟，但创新不足，属典型应制之作。"
+            }
+        ],
+        "imagery": [
+            "锦归",
+            "鲜衣",
+            "妓",
+            "龙首榜",
+            "鸡栖车",
+            "慈恩寺",
+            "灯",
+            "弼坊",
+            "相府"
+        ],
+        "allusions": [
+            {
+                "phrase": "淳熙相府",
+                "explanation": "指南宋淳熙年间的宰相府第，喻指作者家族显赫。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句点明身份，收束有力。"
+        }
+    },
+    {
+        "title": "咸淳龍飛大魁之歸卿大夫以某兄弟有一日之長俾主其事水村農卿謂某當爲詩爲壺山喚回百年英靈之氣客散詩成翌早錄呈且約同社屬和  其二",
+        "author": "劉克莊",
+        "paragraphs": [
+            "射策人如射利忙，豈知世有古來粧。",
+            "漢庭儒半壞科舉，天下士寧論國鄉。",
+            "但詫高標廣寒殿，誰能更讀善和坊。",
+            "觀君毛羽真鸞鳳，羞殺麤豪白面郎。"
+        ],
+        "paragraphs_simplified": [
+            "射策人如射利忙，岂知世有古来妆。",
+            "汉庭儒半坏科举，天下士宁论国乡。",
+            "但诧高标广寒殿，谁能更读善和坊。",
+            "观君毛羽真鸾凤，羞杀粗豪白面郎。"
+        ],
+        "translation": "射策人如射利忙，岂知世有古来妆。汉庭儒半坏科举，天下士宁论国乡。但诧高标广寒殿，谁能更读善和坊。观君毛羽真鸾凤，羞杀粗豪白面郎。前两句批评科举功利，后两句以比喻赞美对方才华，直斥庸辈。",
+        "score": 2.5,
+        "subject": [
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对比"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两联讽喻科举弊端，后两联转向赞美与对比，结尾以‘鸾凤’与‘白面郎’的对比显志。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘射策人如射利忙’以射利喻科举功利。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "‘广寒殿’喻指科举高中，‘善和坊’指读书之地。"
+                }
+            ]
+        },
+        "analysis": "议论尖锐，但用典生硬，语言直白缺乏诗意。‘鸾凤’与‘白面郎’的对比虽有力，却流于说教，整体缺乏审美距离，未能将讽喻升华为艺术。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以刚健笔力批判时弊，但用词粗率，反显枯燥。",
+                "realm": "凡品",
+                "reason": "模仿‘劲健’失败，沦为直白议论。"
+            }
+        ],
+        "imagery": [
+            "射策",
+            "利",
+            "妆",
+            "科举",
+            "士",
+            "广寒殿",
+            "善和坊",
+            "鸾凤",
+            "白面郎"
+        ],
+        "allusions": [
+            {
+                "phrase": "广寒殿",
+                "explanation": "月宫别称，喻指科举及第的荣耀。"
+            },
+            {
+                "phrase": "善和坊",
+                "explanation": "唐代坊名，象征读书治学之地。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句对比鲜明，但整体仍显直露。"
+        }
+    },
+    {
+        "title": "次江權軍宴新進士韻",
+        "author": "劉克莊",
+        "paragraphs": [
+            "病翁無計出愁城，喜甲科郎競拾青。",
+            "主禮尤隆真刺史，華宗相望兩魁星。",
+            "董生至論惟三策，韋氏單傳只一經。",
+            "舉首愛身如拱璧，修於家肯獻於廷。"
+        ],
+        "paragraphs_simplified": [
+            "病翁无计出愁城，喜甲科郎竞拾青。",
+            "主礼尤隆真刺史，华宗相望两魁星。",
+            "董生至论惟三策，韦氏单传只一经。",
+            "举首爱身如拱璧，修于家肯献于廷。"
+        ],
+        "translation": "病弱的老翁无法走出忧愁的城池，欣喜的是甲科郎们争相获取功名。主人的礼节尤其隆重，真是刺史的风范，华美的宗族中相望两位魁星。董生的最高理论只有三策，韦氏单传只有一部经书。举首爱护自身如同拱璧，在家修养肯于献给朝廷。",
+        "score": 3.6,
+        "subject": [
+            "宴饮诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典",
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以个人感慨开篇，转入对宴会的赞美，引用历史典故，最终以道德劝诫收尾。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "用'愁城'比喻忧愁的困境"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用董生和韦氏的典故"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "诗句结构对仗工整"
+                }
+            ]
+        },
+        "analysis": "此诗为典型的应酬之作，借宴会场景抒发对新进士的期许。语言工整，用典贴切，但意象陈旧，缺乏新意。结构清晰却流于程式化，情感表达较为克制，未能突破传统宴饮诗的窠臼。整体呈现一种稳健而平庸的特质，虽无败笔，亦无亮点。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "以'魁星'、'拱璧'等意象构筑庄重氛围，但缺乏灵动之气。",
+                "realm": "能品",
+                "reason": "技法成熟但立意浅显，未能超越同类题材的常规表达。"
+            }
+        ],
+        "imagery": [
+            "城",
+            "学者",
+            "星",
+            "玉"
+        ],
+        "allusions": [
+            {
+                "phrase": "董生",
+                "explanation": "可能指汉代董仲舒，以三策闻名"
+            },
+            {
+                "phrase": "韦氏",
+                "explanation": "可能指韦贤家族，以经学传家"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "董生至論惟三策，韋氏單傳只一經，用典精炼，概括力强。"
+        }
+    },
+    {
+        "title": "聞喜宴李教君瑞不赴小詩贊美",
+        "author": "劉克莊",
+        "paragraphs": [
+            "膾人肝與採山薇，舉世營營爲飽饑。",
+            "始信洋洋而逝矣，已烹鶂鶂復哇之。",
+            "伏雌雉亦防身害，疇昔羊能兆禍基。",
+            "獨有廣文君卓識，殘盃冷炙也牢辭。"
+        ],
+        "paragraphs_simplified": [
+            "脍人肝与采山薇，举世营营为饱饥。",
+            "始信洋洋而逝矣，已烹鶂鶂复哇之。",
+            "伏雌雉亦防身害，畴昔羊能兆祸基。",
+            "独有广文君卓识，残杯冷炙也牢辞。"
+        ],
+        "translation": "把人肝切碎和采山薇，全世界忙忙碌碌为了吃饱肚子。开始相信洋洋洒洒地逝去了，已经烹煮了鶂鶂又呕吐出来。潜伏的雌雉也防备身体受害，往昔的羊能预兆祸根。只有广文君有卓越见识，残羹冷炙也坚决推辞。",
+        "score": 3.2,
+        "subject": [
+            "宴饮诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "赞美",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "用典"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "以此衬彼"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "以激烈意象批判世态，转入历史典故，最终聚焦于主体的卓识，形成对比。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "用'脍人肝'比喻世态的残酷"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用伏雌雉和羊的典故"
+                }
+            ]
+        },
+        "analysis": "此诗意象晦涩，用典生僻，试图以激烈语言批判世俗，但流于表面。结构松散，逻辑跳跃，未能有效传达主题。情感表达过于隐晦，缺乏感染力。整体呈现一种力图深刻却失之造作的倾向，属于尝试讽喻但未得要领之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以'残杯冷炙'等意象试图营造悲凉氛围，但意象堆砌，缺乏统一性。",
+                "realm": "凡品",
+                "reason": "意象晦涩，立意浅显，未能达到讽喻诗应有的批判力度。"
+            }
+        ],
+        "imagery": [
+            "肝",
+            "植物",
+            "鸟",
+            "羊",
+            "食物"
+        ],
+        "allusions": [
+            {
+                "phrase": "伏雌雉",
+                "explanation": "可能出自《诗经》，象征谨慎"
+            },
+            {
+                "phrase": "羊",
+                "explanation": "可能指祭祀用的羊，预兆祸事"
+            },
+            {
+                "phrase": "广文君",
+                "explanation": "可能指郑广文，唐代文人"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "獨有廣文君卓識，殘盃冷炙也牢辭，直接点明主题，表达赞美。"
+        }
+    }
+]

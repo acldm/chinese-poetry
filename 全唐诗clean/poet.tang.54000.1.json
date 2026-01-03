@@ -1,0 +1,77 @@
+[
+    {
+        "title": "答僧問（題擬） 一",
+        "author": "約禪師",
+        "paragraphs": [
+            "寶蓋高高掛，其中事若何？",
+            "誰師言下旨，一句不消多。",
+            "（僧問）。"
+        ],
+        "paragraphs_simplified": [
+            "宝盖高高挂，其中事若何？",
+            "谁师言下旨，一句不消多。",
+            "（僧问）。"
+        ],
+        "translation": "宝盖高高悬挂，其中事理如何？谁能在言下领悟宗旨，一句就足够，无需多言。",
+        "score": 3.0,
+        "subject": [
+            "禅理诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以设问引出禅机，再以肯定句作答，结构简短直接。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "'其中事若何？'以问句激发思考，符合禅宗机锋。"
+                }
+            ]
+        },
+        "analysis": "此诗为禅门问答，语言极简，以'宝盖'起兴，但意象单一。设问与回答虽合禅理，却缺乏诗味，近乎口语。'一句不消多'虽含机锋，但整体未构筑审美意境，属于实用语录而非诗。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图以'宝盖'隐喻禅旨，但意象单薄，未能拓展含蓄之境。",
+                "realm": "凡品",
+                "reason": "模仿含蓄之简练，实则流于直白，未能引发深层联想。"
+            }
+        ],
+        "imagery": [
+            "宝盖"
+        ],
+        "allusions": [
+            {
+                "phrase": "宝盖",
+                "explanation": "佛教中华丽伞盖，象征庄严与禅机。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句'一句不消多'以简驭繁，点明禅门不立文字之旨。"
+        }
+    }
+]

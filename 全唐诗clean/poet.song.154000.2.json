@@ -1,0 +1,719 @@
+[
+    {
+        "title": "漢老弟寄和花發多風雨人生足別離韻十絕因和之  其一○",
+        "author": "虞儔",
+        "paragraphs": [
+            "十首新詩逼黄絹，數行妙墨寫烏絲。",
+            "摩挲老眼還驚顧，文采珊瑚鬭陸離。"
+        ],
+        "paragraphs_simplified": [
+            "十首新诗逼黄绢，数行妙墨写乌丝。",
+            "摩挲老眼还惊顾，文采珊瑚斗陆离。"
+        ],
+        "translation": "十首新诗逼近黄绢般精美，数行妙墨写在乌丝纸上。揉着老眼惊讶地观看，文采如珊瑚般绚丽多彩。",
+        "score": 2.5,
+        "subject": [
+            "酬唱诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美",
+            "惊奇"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以黄绢、乌丝比喻诗墨之精美，再以珊瑚斗陆离渲染文采之绚丽，结构直白。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "文采珊瑚斗陆离，将文采比作珊瑚的绚丽。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "十首新诗逼黄绢，夸大诗作逼近黄绢的精美。"
+                }
+            ]
+        },
+        "analysis": "此诗为应酬之作，意象陈旧，堆砌黄绢、乌丝、珊瑚等物象，缺乏新意。情感流于表面，仅以浮夸辞藻赞美他人诗墨，未见深层寄托。技法上虽用比喻，但整体立意浅显，属于典型的文人酬唱平庸之品。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "意象堆砌，试图营造华丽效果，但缺乏内在神韵。",
+                "realm": "能品",
+                "reason": "辞藻华丽但空洞，未能达到绮丽风格的深邃意境。"
+            }
+        ],
+        "imagery": [
+            "诗",
+            "墨",
+            "珊瑚"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句以珊瑚斗陆离描绘文采，意象稍显生动。"
+        }
+    },
+    {
+        "title": "和人二絕  其一",
+        "author": "虞儔",
+        "paragraphs": [
+            "眼底羣山入望來，攙天蒼弁獨崔嵬。",
+            "年來懷抱誰關鎖，祇傍登臨醉裏開。"
+        ],
+        "paragraphs_simplified": [
+            "眼底群山入望来，搀天苍弁独崔嵬。",
+            "年来怀抱谁关锁，只傍登临醉里开。"
+        ],
+        "translation": "眼底群山映入眼帘，高耸的苍弁山独自巍峨。年来怀抱谁来关锁，只在登高醉意中敞开。",
+        "score": 3.5,
+        "subject": [
+            "山水诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "孤独",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先写群山崔嵬之景，后抒怀抱醉开之情，由景入情，结构清晰。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "怀抱谁关锁，将心事拟作可关锁之物。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过眼底群山与苍弁山的壮景，烘托登高醉怀的豁达。"
+                }
+            ]
+        },
+        "analysis": "此诗写登高望远，意象如群山、苍弁，虽常见但有气势。情感真挚，以醉怀解关锁，流露孤独中的豁达。技法上拟人运用得当，但立意未脱登高怀古俗套，整体技法成熟，意境真切。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "山景与醉怀结合，构筑疏放自然的境界。",
+                "realm": "能品",
+                "reason": "意境疏野，但缺乏更高层次的超脱。"
+            }
+        ],
+        "imagery": [
+            "群山",
+            "苍弁山",
+            "醉"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句点明怀抱醉开，情感直指本心。"
+        }
+    },
+    {
+        "title": "和人二絕  其二",
+        "author": "虞儔",
+        "paragraphs": [
+            "廣文官冷復誰堪，心事無人可共談。",
+            "好雨忽來詩興動，苦無才調却懷慚。"
+        ],
+        "paragraphs_simplified": [
+            "广文官冷复谁堪，心事无人可共谈。",
+            "好雨忽来诗兴动，苦无才调却怀惭。"
+        ],
+        "translation": "广文官冷落还有谁堪当，心事无人可共同谈论。好雨忽然来诗兴动，却苦于没有才调而怀惭。",
+        "score": 2.8,
+        "subject": [
+            "酬唱诗",
+            "抒情诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情",
+                "对比"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先述官冷心事，后写雨动诗兴与怀惭，由事及情，结构直白。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "诗兴动与苦无才调形成才情矛盾的对比。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "好雨忽来触发诗兴，借雨抒怀。"
+                }
+            ]
+        },
+        "analysis": "此诗写官场失意与诗兴矛盾，情感真实但语言直白。意象如好雨陈旧，立意浅显，缺乏文采。情感宣泄无余味，属于平庸的文人牢骚之作，技法虽完整但无新意。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图含蓄表达才情矛盾，但直白无余韵。",
+                "realm": "凡品",
+                "reason": "表达直露，未能达到含蓄风格的深沉。"
+            }
+        ],
+        "imagery": [
+            "官",
+            "心事",
+            "雨",
+            "诗兴"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句点出诗兴与怀惭的矛盾，稍显真切。"
+        }
+    },
+    {
+        "title": "蚊蟲  其一",
+        "author": "虞儔",
+        "paragraphs": [
+            "嗟予意廣與才疎，天下何當貯一幮。",
+            "盡把饑蚊羈海外，却驅一世入華胥。"
+        ],
+        "paragraphs_simplified": [
+            "嗟予意广与才疏，天下何当贮一幮。",
+            "尽把饥蚊羁海外，却驱一世入华胥。"
+        ],
+        "translation": "叹我意广才疏，天下何时能贮一帐子防蚊。把饥蚊都羁留在海外，却驱一世入梦。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先叹才疏贮帐，后写驱蚊入梦，由实及虚，结构跳跃。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "尽把饥蚊羁海外，夸大驱蚊的力度。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "入华胥比喻入梦，寄托理想。"
+                }
+            ]
+        },
+        "analysis": "此诗借蚊虫抒怀才不遇，意象独特但语言生硬。贮一幮突兀，驱蚊入梦虚实结合，却显怪异。情感愤懑，但表达不够优雅，技法尝试新意但未臻成熟，属于立意可取而艺术性不足之作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以蚊虫入诗，试图构筑清奇意象，但流于怪异。",
+                "realm": "能品",
+                "reason": "意象新奇但处理生硬，未能达到清奇的自然境界。"
+            }
+        ],
+        "imagery": [
+            "蚊",
+            "帐子",
+            "梦"
+        ],
+        "allusions": [
+            {
+                "phrase": "华胥",
+                "explanation": "出自《列子》，指理想梦境。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句虚实结合，寄托理想。"
+        }
+    },
+    {
+        "title": "蚊蟲  其二",
+        "author": "虞儔",
+        "paragraphs": [
+            "賦形微細在汙渠，終日營營爲腹虛。",
+            "貪吏貪民膏血盡，不知何計與驅除。"
+        ],
+        "paragraphs_simplified": [
+            "赋形微细在污渠，终日营营为腹虚。",
+            "贪吏贪民膏血尽，不知何计与驱除。"
+        ],
+        "translation": "蚊虫赋形微细在污渠，终日营营为填饱肚子。贪吏贪尽民膏血，不知有何计策驱除。",
+        "score": 2.5,
+        "subject": [
+            "讽喻诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "无奈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先写蚊虫微细营营，后讽贪吏膏血，由物及人，结构直白。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "贪吏贪民膏血尽，将贪吏比作吸血蚊虫。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "蚊虫营营与贪吏吸血形成对比。"
+                }
+            ]
+        },
+        "analysis": "此诗借蚊虫讽贪吏，立意有社会意义，但语言直白粗糙。意象微细，缺乏诗意升华。情感愤懑却流于表面，技法简单，属于讽喻诗中的平庸之作，未能以雅言载道。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以蚊虫喻贪吏，试图表达悲愤，但意象浅露。",
+                "realm": "凡品",
+                "reason": "情感直露，未能达到悲慨的深沉境界。"
+            }
+        ],
+        "imagery": [
+            "蚊",
+            "污渠",
+            "官",
+            "血"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句点出蚊虫形态，为讽喻铺垫。"
+        }
+    },
+    {
+        "title": "過南京",
+        "author": "虞儔",
+        "paragraphs": [
+            "三蘇當日振英華，下榻相看意已佳。",
+            "太息樂全無復見，舊廬聞屬女真家。"
+        ],
+        "paragraphs_simplified": [
+            "三苏当日振英华，下榻相看意已佳。",
+            "太息乐全无复见，旧庐闻属女真家。"
+        ],
+        "translation": "三苏父子当年展现才华，下榻相看情意已佳。叹息乐全盛景不再重现，旧居听说已属女真之家。",
+        "score": 3.8,
+        "subject": [
+            "怀古诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句追忆三苏雅事，后句转折至现状衰败，形成今昔对比。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "以“女真”代指金人，暗示朝代更迭。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“三苏”典故凸显文化鼎盛，反衬当下荒凉。"
+                }
+            ]
+        },
+        "analysis": "此诗以三苏旧事起兴，构筑今昔对照的时空框架。意象选择精准，“旧庐”与“女真家”的并置，折射出文化沦丧的沉痛。情感表达含蓄，借古讽今之笔暗含对异族统治的隐忧。整体结构紧凑，末句点题，然意象略显陈旧，未能突破传统怀古诗的窠臼。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以“三苏”与“女真”对举，构筑历史沧桑感。",
+                "realm": "能品",
+                "reason": "技法成熟，但立意未出新意，属常规怀古之作。"
+            }
+        ],
+        "imagery": [
+            "三苏",
+            "旧庐",
+            "女真"
+        ],
+        "allusions": [
+            {
+                "phrase": "三苏",
+                "explanation": "指苏轼、苏辙、苏洵父子，宋代文豪。"
+            },
+            {
+                "phrase": "女真",
+                "explanation": "指金朝，暗示异族统治。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以“旧庐”与“女真家”的对比，强化历史悲剧感。"
+        }
+    },
+    {
+        "title": "迴至南京聞杜鵑",
+        "author": "虞儔",
+        "paragraphs": [
+            "夏木陰陰四月天，傷心滿目舊山川。",
+            "還轅已落春歸後，始到南京聞杜鵑。"
+        ],
+        "paragraphs_simplified": [
+            "夏木阴阴四月天，伤心满目旧山川。",
+            "还辕已落春归后，始到南京闻杜鹃。"
+        ],
+        "translation": "夏木成荫的四月天，满目旧山川令人伤心。回车时春光已逝，才到南京听到杜鹃啼鸣。",
+        "score": 4.1,
+        "subject": [
+            "羁旅诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首句写景，次句抒情；后两句叙事，以杜鹃声串联时空，呼应首句夏景。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“伤心满目”赋予山川情感。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "以夏木、杜鹃声烘托羁旅愁思。"
+                }
+            ]
+        },
+        "analysis": "诗作以夏景起笔，通过“阴阴”二字渲染幽深氛围，杜鹃声作为听觉意象，与视觉的“旧山川”交织，构筑出时空错位的孤寂感。情感表达克制，回车迟暮的叙事暗含人生迟暮之叹。整体意境真切，然“伤心”一词稍显直露，削弱了含蓄之美。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "夏木与杜鹃声结合，强化羁旅的沉重感。",
+                "realm": "能品",
+                "reason": "技法稳健，但情感表达略欠深度。"
+            }
+        ],
+        "imagery": [
+            "夏木",
+            "山川",
+            "杜鹃"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以“始到”与“闻杜鹃”的时间差，凸显迟来之憾。"
+        }
+    },
+    {
+        "title": "將至泗州聞杜鵑聲甚急",
+        "author": "虞儔",
+        "paragraphs": [
+            "長淮準擬濯塵埃，漢節何妨一往回。",
+            "杜宇不知歸路近，樹頭聲急更相催。"
+        ],
+        "paragraphs_simplified": [
+            "长淮准拟濯尘埃，汉节何妨一往回。",
+            "杜宇不知归路近，树头声急更相催。"
+        ],
+        "translation": "长淮本打算洗涤尘埃，持汉节何妨一往一回。杜宇鸟不知归路已近，树头声急更相催促。",
+        "score": 3.5,
+        "subject": [
+            "羁旅诗",
+            "行旅诗"
+        ],
+        "emotion": [
+            "羁旅",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "用典"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句写行旅目的，后句以杜鹃声催归，形成叙事推进。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“杜宇”化用望帝啼鹃典故，暗示归心。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "“声急更相催”赋予鸟声紧迫感。"
+                }
+            ]
+        },
+        "analysis": "此诗以行旅为背景，通过“濯尘埃”与“汉节”的意象，寄寓高洁志趣。杜鹃声的急迫与归路将近的对比，强化了归心似箭的情感。技法上动静结合，但意象组合稍显生硬，未能充分展开意境，整体趋于平实。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以杜鹃声催归，流露行旅中的真切体验。",
+                "realm": "能品",
+                "reason": "语言自然，但意境挖掘不足。"
+            }
+        ],
+        "imagery": [
+            "长淮",
+            "汉节",
+            "杜宇"
+        ],
+        "allusions": [
+            {
+                "phrase": "杜宇",
+                "explanation": "古蜀帝名，化用啼鹃典故。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以“声急更相催”动态描写，凸显归途紧迫。"
+        }
+    },
+    {
+        "title": "謝楊仲才惠芍藥  其一",
+        "author": "虞儔",
+        "paragraphs": [
+            "何人金印漫垂腰，赤脚憐濃不解嬌。",
+            "老去不因花妄想，沾泥柳絮似參寥。"
+        ],
+        "paragraphs_simplified": [
+            "何人金印漫垂腰，赤脚怜浓不解娇。",
+            "老去不因花妄想，沾泥柳絮似参寥。"
+        ],
+        "translation": "何人金印空垂腰间，赤脚怜爱浓艳不懂娇媚。老去不因花而妄想，沾泥柳絮似参寥禅师。",
+        "score": 4.2,
+        "subject": [
+            "咏物诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句反问起势，次句写花之态；后两句转写自身心境，以柳絮自比。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“沾泥柳絮”喻指超脱尘俗。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“参寥”指宋代诗僧参寥子，暗示禅意。"
+                }
+            ]
+        },
+        "analysis": "诗作以芍药为酬赠对象，首句反问金印，暗讽官场虚荣；次句以“赤脚”对“浓艳”，构筑雅俗对比。后两句转入禅理，柳絮沾泥之喻，彰显老去淡泊之志。意象清新，用典自然，情感表达含蓄而有回甘。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery分析": "以“柳絮”与“参寥”结合，寄寓超然心境。",
+                "realm": "妙品",
+                "reason": "意境深远，技法纯熟，属酬唱诗中佳作。"
+            }
+        ],
+        "imagery": [
+            "金印",
+            "赤脚",
+            "柳絮"
+        ],
+        "allusions": [
+            {
+                "phrase": "参寥",
+                "explanation": "指宋代诗僧参寥子，象征禅悟。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以“沾泥柳絮”自喻，点明超脱之志。"
+        }
+    }
+]

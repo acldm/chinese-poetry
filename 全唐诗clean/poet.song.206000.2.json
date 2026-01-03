@@ -1,0 +1,730 @@
+[
+    {
+        "title": "梅花集句  其一",
+        "author": "李龏",
+        "paragraphs": [
+            "蟾精雪魄孕靈荄，逐朵檀心巧勝裁。",
+            "要比春工高一著，凌寒先伴六花開。"
+        ],
+        "paragraphs_simplified": [
+            "蟾精雪魄孕灵荄，逐朵檀心巧胜裁。",
+            "要比春工高一著，凌寒先伴六花开。"
+        ],
+        "translation": "梅花如月精雪魄孕育花根，每朵花心精巧胜过人工裁剪。要比春工高一等，凌寒先伴雪花开放。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句以比喻刻画梅花形神，后句直指其凌寒早开之特质，结构直白。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以‘蟾精雪魄’喻梅花之高洁清冷。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "借‘凌寒先伴六花开’之景，寄托对梅花傲寒品格的赞美。"
+                }
+            ]
+        },
+        "analysis": "意象陈旧，‘蟾精雪魄’与‘凌寒’皆为梅花诗常见套路，缺乏新意。立意浅显，仅重复传统梅花傲寒主题，未见深层挖掘。辞藻堆砌，整体流于表面，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图以古雅意象构筑高远境界，但意象组合生硬，未达高古之真谛。",
+                "realm": "能品",
+                "reason": "模仿高古风格，但意象堆砌，缺乏精神内核，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "梅花",
+            "雪",
+            "春工",
+            "雪花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘凌寒先伴六花开’意象较生动，为全诗稍显亮点之句。"
+        }
+    },
+    {
+        "title": "梅花集句  其二",
+        "author": "李龏",
+        "paragraphs": [
+            "封植何人考厥初，一枝價直萬瓊琚。",
+            "未央宮裏三千女，捲上朱簾總不如。"
+        ],
+        "paragraphs_simplified": [
+            "封植何人考厥初，一枝价值万琼琚。",
+            "未央宫里三千女，卷上朱帘总不如。"
+        ],
+        "translation": "谁种植的梅花？考证其起源，一枝价值万琼琚。未央宫中三千美女，卷起朱帘都比不上。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "对比"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句设问并夸张梅花价值，后句用典对比，以宫廷美女衬托梅花，结构显志。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "‘一枝价值万琼琚’极言梅花珍贵。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "‘未央宫’借汉代宫殿代指宫廷，与梅花对比。"
+                }
+            ]
+        },
+        "analysis": "用典生硬，‘未央宫’与梅花关联牵强，立意浅显，仅借宫廷美女衬托，缺乏内在联系。辞藻浮华，整体平庸，有堆砌之嫌。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "试图以华美意象营造绮丽效果，但意象组合造作，未达绮丽之自然。",
+                "realm": "能品",
+                "reason": "模仿绮丽风格，但用典不当，反显浮艳，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "梅花",
+            "琼琚",
+            "未央宫",
+            "朱帘"
+        ],
+        "allusions": [
+            {
+                "phrase": "未央宫",
+                "explanation": "指汉代宫殿，此处借指宫廷，但用典不贴切。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "‘一枝价值万琼琚’夸张手法较突出，为全诗稍显有力之句。"
+        }
+    },
+    {
+        "title": "梅花集句  其三",
+        "author": "李龏",
+        "paragraphs": [
+            "冰姿元住藐姑山，一落風塵即厚顔。",
+            "寄語清香少愁結，春光不度玉門關。"
+        ],
+        "paragraphs_simplified": [
+            "冰姿元住藐姑山，一落风尘即厚颜。",
+            "寄语清香少愁结，春光不度玉门关。"
+        ],
+        "translation": "梅花冰姿原在藐姑山，一落风尘就厚颜无耻。寄语清香少些愁结，春光不度玉门关。",
+        "score": 1.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句以比喻和拟人写梅花高洁与堕落，后句寄语并引入边塞意象，结构跳跃。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "‘厚颜’一词赋予梅花人格，但贬损其形象。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "‘冰姿’喻梅花清冷，但与后句冲突。"
+                }
+            ]
+        },
+        "analysis": "拟人生硬，‘厚颜’与梅花高洁传统意象冲突，立意混乱，前句高洁后句愁结，缺乏统一。逻辑不通，整体劣作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以悲凉意象营造慨叹，但意象割裂，未达悲慨之深沉。",
+                "realm": "劣品",
+                "reason": "模仿悲慨风格，但用词不当，意境杂乱，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "梅花",
+            "藐姑山",
+            "风尘",
+            "玉门关"
+        ],
+        "allusions": [
+            {
+                "phrase": "藐姑山",
+                "explanation": "出自《庄子》，指仙境，喻梅花原居高洁之地。"
+            },
+            {
+                "phrase": "玉门关",
+                "explanation": "边塞意象，此处与春光不度结合，但用典突兀。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "‘冰姿元住藐姑山’意象尚可，为全诗稍显连贯之句。"
+        }
+    },
+    {
+        "title": "梅花集句  其四",
+        "author": "李龏",
+        "paragraphs": [
+            "粉容冰艷玉玲瓏，此外評花四海空。",
+            "可惜國香天不管，吹開吹落任東風。"
+        ],
+        "paragraphs_simplified": [
+            "粉容冰艳玉玲珑，此外评花四海空。",
+            "可惜国香天不管，吹开吹落任东风。"
+        ],
+        "translation": "梅花粉容冰艳玉玲珑，除此之外四海无花可评。可惜国香天不管，吹开吹落任由东风。",
+        "score": 2.2,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借物抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句以比喻和夸张写梅花之美，后句抒发天不管之憾，结构呼应。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘玉玲珑’喻梅花晶莹剔透。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "‘四海空’极言梅花无双。"
+                }
+            ]
+        },
+        "analysis": "意象陈旧，‘粉容冰艳’为俗套描写，立意浅显，抱怨天不管国香，无新意。辞藻堆砌，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "试图以纤巧秾丽意象营造美感，但描写浮于表面，未达纤秾之细腻。",
+                "realm": "能品",
+                "reason": "模仿纤秾风格，但意象俗艳，缺乏深度，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "梅花",
+            "玉",
+            "东风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘可惜国香天不管’情感稍显真切，为全诗稍显亮点之句。"
+        }
+    },
+    {
+        "title": "梅花集句  其五",
+        "author": "李龏",
+        "paragraphs": [
+            "霜晴十月玉谿村，占盡風情向小園。",
+            "采石浪寒青塚暗，是誰招此斷腸魂。"
+        ],
+        "paragraphs_simplified": [
+            "霜晴十月玉谿村，占尽风情向小园。",
+            "采石浪寒青冢暗，是谁招此断肠魂。"
+        ],
+        "translation": "霜晴十月的玉谿村，梅花占尽风情向小园。采石浪寒青冢暗，是谁招来这断肠魂。",
+        "score": 2.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "设问"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句写景并拟人梅花风情，后句以设问引入悲凉意象，结构显志但跳跃。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "‘占尽风情’赋予梅花人格。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "‘是谁招此断肠魂’引发悲慨。"
+                }
+            ]
+        },
+        "analysis": "前两句写景尚可，但后两句突然转入‘青冢’、‘断肠魂’，意象跳跃，与梅花主题脱节。立意不统一，有拼凑之感，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以悲凉意象营造慨叹，但意象不协调，未达悲慨之连贯。",
+                "realm": "能品",
+                "reason": "模仿悲慨风格，但意象杂乱，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "梅花",
+            "霜",
+            "村庄",
+            "园子",
+            "坟墓"
+        ],
+        "allusions": [
+            {
+                "phrase": "青冢",
+                "explanation": "指王昭君墓，此处用典突兀，与梅花关联弱。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "‘霜晴十月玉谿村’写景较自然，为全诗稍显连贯之句。"
+        }
+    },
+    {
+        "title": "梅花集句  其六",
+        "author": "李龏",
+        "paragraphs": [
+            "山屐經過滿逕蹤，高枝千歲對孤峰。",
+            "女冠夜覓香來處，須撥白雲三四重。"
+        ],
+        "paragraphs_simplified": [
+            "山屐经过满径踪，高枝千岁对孤峰。",
+            "女冠夜觅香来处，须拨白云三四重。"
+        ],
+        "translation": "穿着山鞋经过，小径上满是足迹；高高的枝条千年来对着孤峰。女道士在夜晚寻找香气的来源，需要拨开白云三四层。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句以静态描写勾勒山景，后两句引入人物活动，形成动静转换。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "“山屐經過滿逕蹤”通过足迹细节暗示人迹罕至。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“高枝千歲”以时间跨度比喻梅花古意。"
+                }
+            ]
+        },
+        "analysis": "此诗以山径足迹与孤峰高枝构筑幽深之境，但女冠寻香意象与主题衔接生硬，情景契合度不足。意境有隔，情感流于表面，未能通过细节传递真切感，整体属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "意象散乱，缺乏凝练，试图模仿自然却流于粗疏。",
+                "realm": "逸品",
+                "reason": "画虎不成反类犬，意象组合松散，未达冲淡之境。"
+            }
+        ],
+        "imagery": [
+            "山屐",
+            "径踪",
+            "高枝",
+            "孤峰",
+            "女冠",
+            "白云"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以足迹细节引入场景，最具画面感。"
+        }
+    },
+    {
+        "title": "梅花集句  其七",
+        "author": "李龏",
+        "paragraphs": [
+            "本是離騷國裏人，更無人爲作招魂。",
+            "誰家玉笛吹春怨，占斷孤山水月村。"
+        ],
+        "paragraphs_simplified": [
+            "本是离骚国里人，更无人为作招魂。",
+            "谁家玉笛吹春怨，占断孤山水月村。"
+        ],
+        "translation": "本是离骚国里的人，更没有人替他招魂。谁家的玉笛吹奏着春怨，独占了孤山的水月村。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句用典定调，后两句以设问转入现实场景，情感递进。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“離騷”“招魂”指屈原，借古喻今。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "“誰家玉笛”以问句引发悬念。"
+                }
+            ]
+        },
+        "analysis": "离骚与招魂典故堆砌，直指屈原悲慨，但玉笛春怨的转折突兀，情感跳跃缺乏连贯。意境有隔，典故未能自然融合，整体立意浅显，属于凡品。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图通过典故营造悲壮，但意象拼接生硬。",
+                "realm": "能品",
+                "reason": "典故使用失当，未达沉著之境。"
+            }
+        ],
+        "imagery": [
+            "离骚",
+            "招魂",
+            "玉笛",
+            "孤山",
+            "水月村"
+        ],
+        "allusions": [
+            {
+                "phrase": "離騷",
+                "explanation": "屈原作品，代指高洁文人。"
+            },
+            {
+                "phrase": "招魂",
+                "explanation": "招魂仪式，喻指追念逝者。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点明身份，典故运用直接。"
+        }
+    },
+    {
+        "title": "梅花集句  其八",
+        "author": "李龏",
+        "paragraphs": [
+            "獨上西樓四望賒，玉林瓊樹影交加。",
+            "春風也解嫌蕭索，借發明年最早花。"
+        ],
+        "paragraphs_simplified": [
+            "独上西楼四望赊，玉林琼树影交加。",
+            "春风也解嫌萧索，借发明年最早花。"
+        ],
+        "translation": "独自登上西楼四面远望，玉林琼树的影子交错。春风也懂得嫌弃萧索，借机催发明年最早的花。",
+        "score": 3.8,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "期待",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句实写登楼所见，后两句虚写春风拟人，形成虚实呼应。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“春風也解嫌蕭索”赋予春风情感。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "“借發明年”从实景转入未来期许。"
+                }
+            ]
+        },
+        "analysis": "拟人手法赋予春风情感，构筑期待之境。玉林琼树虽略显堆砌，但整体情景交融，情感有回甘。意境真切，通过虚实结合拓宽审美空间，技法成熟。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "语言流畅，拟人生动，未失含蓄。",
+                "realm": "妙品",
+                "reason": "情感流露自然，暗合流动之美。"
+            }
+        ],
+        "imagery": [
+            "西楼",
+            "玉林",
+            "琼树",
+            "春风",
+            "花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“春风也解嫌萧索”拟人巧妙，情感鲜活。"
+        }
+    },
+    {
+        "title": "梅花集句  其九",
+        "author": "李龏",
+        "paragraphs": [
+            "冰壺骨相自清臞，流落荒郊道轉孤。",
+            "正是花中巢許輩，風標高古漢唐無。"
+        ],
+        "paragraphs_simplified": [
+            "冰壶骨相自清臞，流落荒郊道转孤。",
+            "正是花中巢许辈，风标高古汉唐无。"
+        ],
+        "translation": "冰壶般的骨相自然清瘦，流落荒郊道路转孤。正是花中的巢父许由辈，风标高古汉唐所无。",
+        "score": 4.5,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以比喻定调，次句写境，后两句用典明志，一气呵成。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“冰壺骨相”喻指清高品格。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“巢許”代指隐士，标榜高古。"
+                }
+            ]
+        },
+        "analysis": "以冰壶比喻清臞骨相，寄寓隐逸之志。巢许典故自然融入，风标高古之境直追汉唐。意境真切，情感含蓄有回甘，通过托物言志构筑独特艺术价值。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "典故与比喻融合，彰显超逸之境。",
+                "realm": "妙品",
+                "reason": "直指汉唐风骨，无斧凿痕。"
+            },
+            {
+                "style": "清奇",
+                "imagery_analysis": "意象清峻，立意脱俗。",
+                "realm": "妙品",
+                "reason": "情景契合，意境独立。"
+            }
+        ],
+        "imagery": [
+            "冰壶",
+            "骨相",
+            "荒郊",
+            "花",
+            "巢许"
+        ],
+        "allusions": [
+            {
+                "phrase": "巢許",
+                "explanation": "巢父与许由，传说中的高洁隐士。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“风标高古汉唐无”总结全诗，点明主旨。"
+        }
+    }
+]

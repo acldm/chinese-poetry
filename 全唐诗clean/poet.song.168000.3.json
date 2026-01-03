@@ -1,0 +1,1220 @@
+[
+    {
+        "title": "觀海棠有成",
+        "author": "宋光宗",
+        "paragraphs": [
+            "東風用意施顔色，艷麗偏宜著雨時。",
+            "朝詠暮吟看不足，羨他逸蝶宿深枝。"
+        ],
+        "paragraphs_simplified": [
+            "东风用意施颜色，艳丽偏宜著雨时。",
+            "朝咏暮吟看不足，羡他逸蝶宿深枝。"
+        ],
+        "translation": "东风特意赋予色彩，艳丽最适宜在雨中时节。早晚吟咏观赏不足，羡慕那悠闲的蝴蝶栖息在深枝。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "羡慕"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句点明海棠之艳丽，次句深化雨中之态，后两句转写观者之情，以羡慕蝴蝶作结。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "东风用意施颜色，赋予自然以人的意图。"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "艳丽偏宜著雨时，刻画海棠在雨中的具体情态。"
+                }
+            ]
+        },
+        "analysis": "此诗咏海棠，意象陈旧，立意浅显。东风拟人化虽具巧思，但整体流于表面描摹，缺乏深层寄托。羡慕蝴蝶之闲逸，情感直白无回甘，意境未能超脱俗套。辞藻堆砌而肌理单薄，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "试图以艳丽意象构筑纤秾之境，但缺乏神韵，流于浮华。",
+                "realm": "逸品",
+                "reason": "画虎不成反类犬，徒具形式而无实质。"
+            }
+        ],
+        "imagery": [
+            "东风",
+            "海棠",
+            "蝴蝶",
+            "深枝"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点题，直接揭示主题。"
+        }
+    },
+    {
+        "title": "待月詩",
+        "author": "宋光宗",
+        "paragraphs": [
+            "入夜跏趺多待月，移時箕踞爲看山。",
+            "苔生晚片應知靜，雪動秋根會見閒。",
+            "瘦鶴獨隨行藥後，高僧相對試茶間。",
+            "疏篁百本松千尺，莫怪頻頻此往還。"
+        ],
+        "paragraphs_simplified": [
+            "入夜跏趺多待月，移时箕踞为看山。",
+            "苔生晚片应知静，雪动秋根会见闲。",
+            "瘦鹤独随行药后，高僧相对试茶间。",
+            "疏篁百本松千尺，莫怪频频此往还。"
+        ],
+        "translation": "入夜盘坐多待月，移时箕踞为看山。苔生晚片应知静，雪动秋根会见闲。瘦鹤独随行药后，高僧相对试茶间。疏竹百本松千尺，莫怪频频此往还。",
+        "score": 4.2,
+        "subject": [
+            "山水诗",
+            "闲适诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应",
+                "承上启下"
+            ],
+            "structural_logic": "先写待月看山之行为，再以苔雪鹤僧等细节渲染静闲之境，末句以频繁往还呼应前文。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "入夜跏趺多待月，移时箕踞为看山，句式工整。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "苔生晚片应知静，赋予苔以知觉。"
+                }
+            ]
+        },
+        "analysis": "此诗写待月之景，意境真切，动静结合得当。苔生雪动之细节，生动勾勒出秋夜静闲之境；瘦鹤高僧之象，渗透禅意。结构严谨，虚实相生，情感含蓄有回甘，整体技法成熟，颇具审美价值。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以苔、雪、鹤、僧等意象构筑静谧之境，契合冲淡之旨。",
+                "realm": "妙品",
+                "reason": "情景交融，意境深远。"
+            }
+        ],
+        "imagery": [
+            "月",
+            "山",
+            "苔",
+            "雪",
+            "鹤",
+            "高僧",
+            "茶",
+            "竹",
+            "松"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点明主题，行为与心境合一。"
+        }
+    },
+    {
+        "title": "和燕射",
+        "author": "宋光宗",
+        "paragraphs": [
+            "秋深欲曉歛輕烟，翠木森圍萬里川。",
+            "閶闔啟關傳法駕，玉津按武會英賢。",
+            "皇皇聖父明如日，挺挺良臣直似弦。",
+            "韜武歡呼稱萬壽，未饒天保報恩篇。"
+        ],
+        "paragraphs_simplified": [
+            "秋深欲晓敛轻烟，翠木森围万里川。",
+            "阊阖启关传法驾，玉津按武会英贤。",
+            "皇皇圣父明如日，挺挺良臣直似弦。",
+            "韬武欢呼称万寿，未饶天保报恩篇。"
+        ],
+        "translation": "秋深欲晓敛轻烟，翠木森围万里川。阊阖启关传法驾，玉津按武会英贤。皇皇圣父明如日，挺挺良臣直似弦。韬武欢呼称万寿，未饶天保报恩篇。",
+        "score": 2.2,
+        "subject": [
+            "应制诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "赞美",
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "用典"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首联写秋景与盛会，颔联颈联歌颂君臣，末句以报恩篇呼应前文。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "明如日、直似弦，比喻圣父良臣。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "天保，指《诗经》篇名，喻报恩。"
+                }
+            ]
+        },
+        "analysis": "此诗应制，辞藻华丽而内容空洞。歌功颂德，缺乏真情实感。意象陈旧，如秋深欲晓，无新意。夸张过度，浮夸无度，整体艺术价值低。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "试图以宏大意象构筑雄浑，但流于浮夸，缺乏力度。",
+                "realm": "劣品",
+                "reason": "画虎不成，徒具形式。"
+            }
+        ],
+        "imagery": [
+            "秋",
+            "烟",
+            "翠木",
+            "阊阖",
+            "玉津",
+            "英贤",
+            "圣父",
+            "良臣"
+        ],
+        "allusions": [
+            {
+                "phrase": "天保",
+                "explanation": "源自《诗经·小雅》，喻报恩之篇。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句写景，为全诗铺垫。"
+        }
+    },
+    {
+        "title": "題陸瑾漁家風景圖",
+        "author": "宋光宗",
+        "paragraphs": [
+            "翠嵐迎步興何長，笑領漁翁入醉鄉。",
+            "日暮渚田微雨後，鷺鷥閒暇稻花凉。"
+        ],
+        "paragraphs_simplified": [
+            "翠岚迎步兴何长，笑领渔翁入醉乡。",
+            "日暮渚田微雨后，鹭鸶闲暇稻花凉。"
+        ],
+        "translation": "翠岚迎步兴何长，笑领渔翁入醉乡。日暮渚田微雨后，鹭鸶闲暇稻花凉。",
+        "score": 4.5,
+        "subject": [
+            "题画诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句写山景迎客，次句写渔翁醉乡，后两句以雨后稻田鹭鸶作结，动静相宜。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "翠岚迎步，赋予山岚以人的动作。"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "鹭鸶闲暇稻花凉，刻画雨后闲适之态。"
+                }
+            ]
+        },
+        "analysis": "此诗题画，意境清新，动静结合得当。翠岚迎步拟人生动，鹭鸶闲暇细节传神。情感闲适，有回甘之美。整体构筑自然，情景交融，属妙品之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以翠岚、渔翁、鹭鸶等意象，清奇自然，契合画境。",
+                "realm": "妙品",
+                "reason": "清新脱俗，意境真切。"
+            }
+        ],
+        "imagery": [
+            "翠岚",
+            "渔翁",
+            "醉乡",
+            "日暮",
+            "渚田",
+            "微雨",
+            "鹭鸶",
+            "稻花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句鹭鸶闲暇稻花凉，细节生动，余韵悠长。"
+        }
+    },
+    {
+        "title": "題徐崇嗣沒骨牡丹圖",
+        "author": "宋光宗",
+        "paragraphs": [
+            "已過穀雨十六日，猶見牡丹鬭淺紅。",
+            "曾不争先及開早，能陪芍藥到薰風。"
+        ],
+        "paragraphs_simplified": [
+            "已过谷雨十六日，犹见牡丹斗浅红。",
+            "曾不争先及开早，能陪芍药到薰风。"
+        ],
+        "translation": "谷雨已过十六天，仍见牡丹争艳浅红。不曾争先开得早，能陪芍药直到薰风时节。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句点明时令与物象，次句以拟人手法描摹牡丹不争春的特性，结构直白。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“鬭淺紅”赋予牡丹争艳的动态，但意象陈旧。"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "“已過穀雨十六日”具体点出时间，缺乏新意。"
+                }
+            ]
+        },
+        "analysis": "此诗以牡丹为题，意象局限于传统花卉描写，缺乏独特视角。首句平铺直叙时令，次句虽用拟人，但“陪芍藥”之语流于俗套，未能构筑深意。整体情景契合度低，情感表达浅显，流于表面描摹，无回甘之韵。属平庸之作，辞藻堆砌而立意浅显。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "试图以牡丹与芍药之艳色展现纤秾之境，但意象单薄，未能达其繁复之美。",
+                "realm": "能",
+                "reason": "技法尚熟，但意境平庸，未脱俗套。"
+            }
+        ],
+        "imagery": [
+            "牡丹",
+            "芍药",
+            "风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句“能陪芍藥到薰風”稍具动态，较首句略生动。"
+        }
+    },
+    {
+        "title": "題楊補之紅梅圖",
+        "author": "宋光宗",
+        "paragraphs": [
+            "去年枝上見紅芳，約畧紅葩傅淺妝。",
+            "今日亭中足顔色，可能無意謝東皇。"
+        ],
+        "paragraphs_simplified": [
+            "去年枝上见红芳，约略红葩傅浅妆。",
+            "今日亭中足颜色，可能无意谢东皇。"
+        ],
+        "translation": "去年在枝头见到红花，仿佛红花略施淡妆。今日亭中颜色已足，或许无意感谢春神。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "通过今昔对比，从枝头到亭中，以红梅喻人，结构紧凑但立意老套。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“傅淺妝”将花比作人化妆，但缺乏新意。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借红梅无意谢春神，表达超脱，但流于表面。"
+                }
+            ]
+        },
+        "analysis": "此诗以红梅为题，通过今昔对比试图展现花之恒美。意象如“红芳”“浅妆”陈旧，缺乏独特性。末句“可能無意謝東皇”用典稍显文雅，但整体情感表达直白，无深层审美距离。情景拼凑，未能营造真切意境，属凡品。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "追求花色之丽，但意象堆砌，未达绮丽之精髓。",
+                "realm": "能",
+                "reason": "辞藻华丽但内涵空洞，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "枝",
+            "红芳",
+            "亭"
+        ],
+        "allusions": [
+            {
+                "phrase": "东皇",
+                "explanation": "司春之神，代指春天。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句“去年枝上見紅芳”较直接，作为起句尚通顺。"
+        }
+    },
+    {
+        "title": "題張萱游行士女圖",
+        "author": "宋光宗",
+        "paragraphs": [
+            "閒來洞口訪劉君，緩步輕擡玉線裙。",
+            "細白桃花擲流水，更無言語倚彤雲。"
+        ],
+        "paragraphs_simplified": [
+            "闲来洞口访刘君，缓步轻抬玉线裙。",
+            "细白桃花掷流水，更无言语倚彤云。"
+        ],
+        "translation": "闲来洞口拜访刘君，缓步轻抬玉线裙。细白桃花掷向流水，更无言语倚靠红云。",
+        "score": 3.2,
+        "subject": [
+            "题画诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "首句写访人，次句绘女态，以桃花流水衬托静默，结构流畅但意象普通。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "“緩步輕擡玉線裙”刻画动作，但缺乏生动性。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“玉線裙”喻衣饰，但未深化意境。"
+                }
+            ]
+        },
+        "analysis": "此诗题画，描摹士女游行之态。意象如“洞口”“桃花”“流水”陈旧，组合平淡。末句“更無言語倚彤雲”试图营造静谧，但情感表达浅露，无含蓄之美。整体情景契合度一般，意境不真切，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以流水桃花显自然之趣，但意象拼凑，未达自然之境。",
+                "realm": "能",
+                "reason": "技法平实，但缺乏灵动。"
+            }
+        ],
+        "imagery": [
+            "洞口",
+            "玉线裙",
+            "桃花",
+            "流水",
+            "彤云"
+        ],
+        "allusions": [
+            {
+                "phrase": "刘君",
+                "explanation": "可能指刘晨，仙人典故，但未明用。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句“更無言語倚彤雲”稍具画面感。"
+        }
+    },
+    {
+        "title": "賜楊萬里",
+        "author": "宋光宗",
+        "paragraphs": [
+            "黄蘆洲上雪初乾，風撼枯枝晚更寒。",
+            "靜艤小舟誰得似，生涯瀟洒一漁竿。"
+        ],
+        "paragraphs_simplified": [
+            "黄芦洲上雪初干，风撼枯枝晚更寒。",
+            "静舣小舟谁得似，生涯潇洒一渔竿。"
+        ],
+        "translation": "黄芦洲上雪刚干，风吹枯枝傍晚更寒。静泊小舟谁能比，生涯潇洒只一渔竿。",
+        "score": 3.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "豁达"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写景渲染寒寂，后两句以渔竿喻人生，结构清晰，由景入情。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“風撼枯枝”烘托心境，但意象常见。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“生涯瀟洒一漁竿”喻隐逸，但立意浅显。"
+                }
+            ]
+        },
+        "analysis": "此诗以冬景为背景，试图通过黄芦、枯枝等意象构筑萧瑟意境。后句以渔竿点出豁达，但情感表达直白，缺乏深层回甘。情景契合度尚可，但意象陈旧，整体未脱俗套，属能品中平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以寒景衬淡泊，但意象单薄，未达冲淡之妙境。",
+                "realm": "能",
+                "reason": "结构稳但意境浅。"
+            }
+        ],
+        "imagery": [
+            "黄芦",
+            "洲",
+            "雪",
+            "枯枝",
+            "小舟",
+            "渔竿"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句“生涯瀟洒一漁竿”点明主旨，较有代表性。"
+        }
+    },
+    {
+        "title": "句  其一",
+        "author": "宋光宗",
+        "paragraphs": [
+            "細疊輕綃色倍濃，晚霞猶在綠陰中。"
+        ],
+        "paragraphs_simplified": [
+            "细叠轻绡色倍浓，晚霞犹在绿阴中。"
+        ],
+        "translation": "细叠轻绡颜色更浓，晚霞还在绿阴之中。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "单句直陈物象与景色，无复杂结构，意象堆砌。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“輕綃”喻晚霞，但缺乏新意。"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "“色倍濃”描述颜色，但流于表面。"
+                }
+            ]
+        },
+        "analysis": "此断句以晚霞与绿阴为题，意象陈旧如“轻绡”“晚霞”，组合平淡。情感表达浅显，无深层意境。整体情景生硬，属平庸之作，辞藻堆砌而无实质。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "试图以色彩浓艳显纤秾，但意象单薄，未达其境。",
+                "realm": "劣",
+                "reason": "技法拙劣，意境全无。"
+            }
+        ],
+        "imagery": [
+            "轻绡",
+            "晚霞",
+            "绿阴"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一一句，尚通顺。"
+        }
+    },
+    {
+        "title": "句  其二",
+        "author": "宋光宗",
+        "paragraphs": [
+            "晴野花侵路，春陂水上橋。"
+        ],
+        "paragraphs_simplified": [
+            "晴野花侵路，春陂水上桥。"
+        ],
+        "translation": "晴朗的野外花朵蔓延道路，春天的池塘水漫上小桥。",
+        "score": 2.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直接铺陈春日野景，无转折或深层结构。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "花侵路、水上桥等细节勾勒出具体画面。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "花侵路为动景，水上桥为静景，形成对比。"
+                }
+            ]
+        },
+        "analysis": "此联以白描手法捕捉春日瞬间，意象清新却流于表象。花侵路与水漫桥的构图虽具画面感，但缺乏情感纵深与意象创新，仅为即景记录，艺术张力薄弱。整体呈现平面化特征，未能构筑立体意境，属于平庸写景之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "意象选取常规，未能通过自然之景折射深层心境。",
+                "realm": "能",
+                "reason": "技法纯熟但立意浅显，未达冲淡之境。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "路",
+            "水",
+            "桥"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句动态描写更为生动。"
+        }
+    },
+    {
+        "title": "句  其三",
+        "author": "宋光宗",
+        "paragraphs": [
+            "綺霞初結處，珠露未晞時。"
+        ],
+        "paragraphs_simplified": [
+            "绮霞初结处，珠露未晞时。"
+        ],
+        "translation": "绮丽的云霞刚凝结之时，珍珠般的露水还未干时。",
+        "score": 2.8,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "并列呈现晨间两个瞬间，无递进或转折。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "两句工整对仗，结构匀称。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "珠露喻露水如珍珠，增强形象感。"
+                }
+            ]
+        },
+        "analysis": "诗句以对偶工整见长，绮霞与珠露的意象组合精致，但情感内核空洞。晨景描写止于物象堆砌，未渗透主体情思，意境单薄。辞藻虽美，却如无根浮萍，缺乏扎根于生命体验的真切感，属于形式大于内容的应景之作。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "试图以绮丽辞藻营造纤秾之境，但意象缺乏内在张力。",
+                "realm": "能",
+                "reason": "辞藻华丽而内涵不足，未达纤秾之神髓。"
+            }
+        ],
+        "imagery": [
+            "霞",
+            "露"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句意象更为宏丽。"
+        }
+    },
+    {
+        "title": "句  其四",
+        "author": "宋光宗",
+        "paragraphs": [
+            "蓼岸飛寒蝶，汀沙戲水禽。"
+        ],
+        "paragraphs_simplified": [
+            "蓼岸飞寒蝶，汀沙戏水禽。"
+        ],
+        "translation": "蓼草岸边飞着寒蝶，汀沙上水禽嬉戏。",
+        "score": 2.6,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "平行描写两个场景，无主次之分。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "戏字赋予水禽以人的情态。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "飞蝶与戏禽形成动态呼应。"
+                }
+            ]
+        },
+        "analysis": "以拟人手法活化水禽，寒蝶意象点染秋意，画面生动却止于浅层。意象组合常见，缺乏独特视角与情感升华。整体如速写小品，虽具瞬间趣味，但未构筑持久审美空间，属于平庸即景。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "试图捕捉自然野趣，但意象提炼不足，流于粗疏。",
+                "realm": "能",
+                "reason": "有疏野之形而无其神，未能脱俗。"
+            }
+        ],
+        "imagery": [
+            "蝶",
+            "鸟",
+            "岸",
+            "沙"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句动态描写更为鲜明。"
+        }
+    },
+    {
+        "title": "梅",
+        "author": "張縯",
+        "paragraphs": [
+            "向來懶不賦梅詩，禪榻忘機鬢已絲。",
+            "月戶忽逢雙玉立，春風又見一年期。",
+            "樓高縹緲明霜影，竹冷橫斜浸雪枝。",
+            "尚笑閒塵除未盡，暗香猶著夢魂知。"
+        ],
+        "paragraphs_simplified": [
+            "向来懒不赋梅诗，禅榻忘机鬓已丝。",
+            "月户忽逢双玉立，春风又见一年期。",
+            "楼高缥缈明霜影，竹冷横斜浸雪枝。",
+            "尚笑闲尘除未尽，暗香犹著梦魂知。"
+        ],
+        "translation": "一向懒惰不写梅诗，禅榻上忘却机心鬓发已白。月户下忽见梅花如双玉立，春风中又见一年花期。楼高缥缈映明霜影，竹冷横斜浸着雪枝。尚笑闲尘除未尽，暗香还萦绕梦魂知晓。",
+        "score": 4.2,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "从懒于赋诗到见梅感怀，再到梦魂知香，层层递进，末句点题。",
+            "evidence": [
+                {
+                    "tag": "托物言志",
+                    "explanation": "以梅的高洁自喻超脱尘俗的情怀。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "双玉立喻梅花如玉般清雅。"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "末句暗香著梦魂，揭示梅花的精神内核。"
+                }
+            ]
+        },
+        "analysis": "此诗结构严谨，从禅榻忘机到月户逢梅，虚实相生，构筑出清冷高洁的意境。霜影雪枝的意象组合凝练，暗香萦绕梦魂的收束尤显含蓄深远。全篇以梅为媒介，寄寓了诗人对尘俗的超越与对永恒的追寻，情景交融，意蕴回甘，是咏物诗中的能品。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "梅、竹、雪、月等意象构筑出清冷奇崛的审美空间。",
+                "realm": "妙",
+                "reason": "意境真切，情感审美距离适中，具清奇之境。"
+            },
+            {
+                "style": "含蓄",
+                "imagery_analysis": "暗香梦魂的收束余味悠长，不直露情感。",
+                "realm": "妙",
+                "reason": "情感渗透于意象，未直接宣泄。"
+            }
+        ],
+        "imagery": [
+            "梅",
+            "榻",
+            "月",
+            "竹",
+            "雪",
+            "香"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "楼高缥缈明霜影，竹冷横斜浸雪枝画面感强，意象清冷。"
+        }
+    },
+    {
+        "title": "雲岩寺  其一",
+        "author": "張縯",
+        "paragraphs": [
+            "棟宇何年有，雲岩擁樹深。",
+            "山僧傳舊險，詩者有行吟。",
+            "雲影侵巾屨，江聲送古今。",
+            "荔枝何用數，撫字每勞心。"
+        ],
+        "paragraphs_simplified": [
+            "栋宇何年有，云岩拥树深。",
+            "山僧传旧险，诗者有行吟。",
+            "云影侵巾屦，江声送古今。",
+            "荔枝何用数，抚字每劳心。"
+        ],
+        "translation": "庙宇不知何年就有，云岩环绕树木深幽。山僧讲述旧日险境，诗人在此行吟。云影侵湿巾屦，江声送走古今。荔枝何须细数，抚慰百姓常劳心。",
+        "score": 3.5,
+        "subject": [
+            "山水诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "从寺庙历史起笔，转入行吟场景，末句以抚字劳心点出民生关怀。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "云影侵巾屦，江声送古今工整对仗。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "抚字代指治理百姓。"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "末句直指抚民劳心的主旨。"
+                }
+            ]
+        },
+        "analysis": "诗从寺庙时空感切入，云影江声的意象组合营造出历史苍茫感。但语言直白，荔枝抚字的转折略显生硬。整体结构清晰，却缺乏意象创新与情感深度，属于平实的纪游诗，未能充分挖掘怀古题材的潜力。",
+        "poetry_styles": [
+            {
+                "style": "实境",
+                "imagery_analysis": "云影江声等意象如实记录游览所见所感。",
+                "realm": "能",
+                "reason": "纪实性强，但审美提炼不足。"
+            },
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以工整对偶营造典雅感，但内涵支撑不足。",
+                "realm": "能",
+                "reason": "形式典雅而内容平实。"
+            }
+        ],
+        "imagery": [
+            "庙宇",
+            "云岩",
+            "树",
+            "僧",
+            "云",
+            "江",
+            "荔枝"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "云影侵巾屦，江声送古今意境较好，具时空感。"
+        }
+    },
+    {
+        "title": "雲岩寺  其二",
+        "author": "張縯",
+        "paragraphs": [
+            "檻外滔滔水，岩前冉冉雲。",
+            "行人舟似葉，題墨蘚生紋。",
+            "歲月帆檣去，山川楚蜀分。",
+            "十年三艤棹，永愧北山文。"
+        ],
+        "paragraphs_simplified": [
+            "槛外滔滔水，岩前冉冉云。",
+            "行人舟似叶，题墨藓生纹。",
+            "岁月帆樯去，山川楚蜀分。",
+            "十年三舣棹，永愧北山文。"
+        ],
+        "translation": "栏杆外江水滔滔，山岩前云朵缓缓飘动。行人乘坐的舟船如树叶般渺小，题写的墨迹已生出苔藓纹路。岁月随帆樯流逝，山川将楚地与蜀地划分。十年间三次停船，永远愧对北山之文。",
+        "score": 3.2,
+        "subject": [
+            "山水诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "闲适",
+            "愧疚"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句写景，后两句抒情，以岁月流逝和愧疚收尾。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“行人舟似葉”以树叶喻舟，凸显渺小感。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过“題墨蘚生紋”和“永愧北山文”寄托时光易逝之叹。"
+                }
+            ]
+        },
+        "analysis": "此诗以云岩寺为背景，勾勒出水云相映的静谧画面。意象如滔滔水、冉冉云，构筑出时空流转的意境，但“舟似叶”等比喻略显陈旧。情感从闲适转向愧疚，转折生硬，缺乏深层回甘。整体技法平实，未见新意，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "水云舟苔等意象自然组合，但缺乏灵动。",
+                "realm": "能品",
+                "reason": "试图模仿自然风格，但意象堆砌，未能达到冲淡之境。"
+            }
+        ],
+        "imagery": [
+            "水",
+            "云",
+            "舟",
+            "苔藓",
+            "帆樯",
+            "山川"
+        ],
+        "allusions": [
+            {
+                "phrase": "北山文",
+                "explanation": "指《北山移文》，借典表达愧对先贤之意。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "“歲月帆檣去，山川楚蜀分”以景寓时，较具概括力。"
+        }
+    }
+]

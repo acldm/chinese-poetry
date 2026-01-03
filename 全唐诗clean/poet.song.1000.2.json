@@ -1,0 +1,730 @@
+[
+    {
+        "title": "中秋感懷  其一",
+        "author": "宋白",
+        "paragraphs": [
+            "去年今夜此堂前，人正清歌月正圓。",
+            "今夜秋來人且散，不如雲霧蔽青天。"
+        ],
+        "paragraphs_simplified": [
+            "去年今夜此堂前，人正清歌月正圆。",
+            "今夜秋来人且散，不如云雾蔽青天。"
+        ],
+        "translation": "去年今夜在此堂前，人正清歌月正圆。今夜秋来人已散，不如云雾遮蔽青天。",
+        "score": 2.8,
+        "subject": [
+            "思乡诗",
+            "感怀诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "通过今昔对比，突出今夜的孤寂。首句回忆往昔团圆，次句以云雾蔽天喻心境阴霾。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "去年人月两团圆与今夜人散的对比"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "云雾蔽青天比喻心境的阴霾"
+                }
+            ]
+        },
+        "analysis": "此诗通过今昔对比构筑意境，去年清歌圆月与今夜人散形成强烈反差。云雾蔽青天的比喻折射出内心的孤寂，情景契合度较高。但意象陈旧，缺乏新意，整体立意浅显，流于表面。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以今昔对比营造悲凉氛围，但情感表达直白，缺乏含蓄之美。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，意象堆砌，未能达到悲慨的深沉境界。"
+            }
+        ],
+        "imagery": [
+            "堂",
+            "月",
+            "云",
+            "天"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句对比鲜明，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "中秋感懷  其二",
+        "author": "宋白",
+        "paragraphs": [
+            "雲彩冰光似去年，去年人月兩嬋娟。",
+            "今宵不辨連明坐，拚醉抽身黑處眠。"
+        ],
+        "paragraphs_simplified": [
+            "云彩冰光似去年，去年人月两婵娟。",
+            "今宵不辨连明坐，拼醉抽身黑处眠。"
+        ],
+        "translation": "云彩冰光似去年，去年人月两婵娟。今宵不辨连明坐，拼醉抽身黑处眠。",
+        "score": 2.5,
+        "subject": [
+            "思乡诗",
+            "感怀诗"
+        ],
+        "emotion": [
+            "孤独",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写景后抒情，直接表达醉眠避世。首句以云彩冰光起兴，次句直露情感。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "人月两婵娟比喻美好"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "拼醉抽身黑处眠夸张表达逃避"
+                }
+            ]
+        },
+        "analysis": "此诗以云彩冰光起兴，但情感表达直露，拼醉抽身黑处眠显得粗鄙。意境不真切，缺乏审美距离，整体流于表面，情感宣泄过度。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "试图模仿豪放洒脱，但语言粗率，缺乏精炼与精神内核。",
+                "realm": "劣",
+                "reason": "实则疏野，未能达到豪放的境界，反显粗俗。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "月",
+            "醉",
+            "黑处"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句尚有景致，为全诗唯一亮点。"
+        }
+    },
+    {
+        "title": "九日  其一",
+        "author": "宋白",
+        "paragraphs": [
+            "霜冷風清九月九，茱萸黄菊家園有。",
+            "何時玉殿接千官，稱觴共進南山壽。"
+        ],
+        "paragraphs_simplified": [
+            "霜冷风清九月九，茱萸黄菊家园有。",
+            "何时玉殿接千官，称觞共进南山寿。"
+        ],
+        "translation": "霜冷风清九月九，茱萸黄菊家园有。何时玉殿接千官，称觞共进南山寿。",
+        "score": 3.0,
+        "subject": [
+            "节令诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "期待",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "用典"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "点染结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先写重阳景物，后表达对朝廷的向往。前句点染秋景，后句显志颂圣。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "霜冷风清与茱萸黄菊对仗"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "南山寿出自《诗经》，祝寿之辞"
+                }
+            ]
+        },
+        "analysis": "此诗前两句写景，后两句转入对朝廷的称颂，情景脱节。用典南山寿虽典雅，但整体立意阿谀，缺乏真情实感，流于形式。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以典故和对仗营造典雅氛围，但内容空洞，未能达到典雅的高古境界。",
+                "realm": "凡",
+                "reason": "实则应制诗，技法成熟但情感虚假。"
+            }
+        ],
+        "imagery": [
+            "霜",
+            "风",
+            "茱萸",
+            "菊",
+            "玉殿"
+        ],
+        "allusions": [
+            {
+                "phrase": "南山寿",
+                "explanation": "出自《诗经》，祝寿之辞"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句卒章显志，直接点明主题。"
+        }
+    },
+    {
+        "title": "九日  其二",
+        "author": "宋白",
+        "paragraphs": [
+            "陶家籬落菊花開，醉擬西風立釣臺。",
+            "一座良交皆不見，數聲燕雁戛雲來。"
+        ],
+        "paragraphs_simplified": [
+            "陶家篱落菊花开，醉拟西风立钓台。",
+            "一座良交皆不见，数声燕雁戛云来。"
+        ],
+        "translation": "陶家篱落菊花开，醉拟西风立钓台。一座良交皆不见，数声燕雁戛云来。",
+        "score": 4.2,
+        "subject": [
+            "感怀诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "孤独",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "以菊花开起，以燕雁声结，中间写醉立钓台。动静结合，首尾呼应。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "燕雁戛云来赋予雁声动作"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "陶家指代隐逸生活"
+                }
+            ]
+        },
+        "analysis": "此诗意境清奇，醉立钓台与燕雁戛云形成动静对比，托物言志手法娴熟。情感含蓄，有回甘之美，整体水准较高，情景交融。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以陶家、钓台等意象构筑疏野之境，语言自然，意境独特。",
+                "realm": "妙",
+                "reason": "符合清奇风格，意象新颖，情感真挚。"
+            }
+        ],
+        "imagery": [
+            "菊",
+            "西风",
+            "钓台",
+            "燕雁"
+        ],
+        "allusions": [
+            {
+                "phrase": "陶家",
+                "explanation": "指陶渊明，象征隐逸"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句意境优美，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "九日  其三",
+        "author": "宋白",
+        "paragraphs": [
+            "秋色蕭蕭野水邊，茱萸時節菊花天。",
+            "明時未達青雲晚，惆悵登高又一年。"
+        ],
+        "paragraphs_simplified": [
+            "秋色萧萧野水边，茱萸时节菊花天。",
+            "明时未达青云晚，惆怅登高又一年。"
+        ],
+        "translation": "秋色萧萧野水边，茱萸时节菊花天。明时未达青云晚，惆怅登高又一年。",
+        "score": 3.5,
+        "subject": [
+            "思乡诗",
+            "感怀诗"
+        ],
+        "emotion": [
+            "惆怅",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写景后抒情，直接表达年华老去的惆怅。首句写景，次句抒情。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "青云晚比喻仕途迟滞"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "秋色萧萧与茱萸时节对仗"
+                }
+            ]
+        },
+        "analysis": "此诗情景交融，秋色萧萧烘托惆怅之情，但立意老套，缺乏新意。青云晚的比喻虽常见，但情感真挚，整体尚可。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图以秋景烘托情感，但表达较为直白，未能达到含蓄的深远境界。",
+                "realm": "能",
+                "reason": "情感克制，但意象陈旧，限制了艺术高度。"
+            }
+        ],
+        "imagery": [
+            "秋色",
+            "野水",
+            "茱萸",
+            "菊",
+            "青云"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句情感直接，点明全诗主旨。"
+        }
+    },
+    {
+        "title": "贈麻仲英",
+        "author": "宋白",
+        "paragraphs": [
+            "宣毫歙墨川箋紙，寄與麻家小秀才。",
+            "七歲能吟天骨異，前生應折桂枝來。"
+        ],
+        "paragraphs_simplified": [
+            "宣毫歙墨川笺纸，寄与麻家小秀才。",
+            "七岁能吟天骨异，前生应折桂枝来。"
+        ],
+        "translation": "寄送宣笔、歙墨、川笺纸给麻家的小秀才。七岁就能吟诗，天赋异禀，前生应是折桂枝（科举及第）而来。",
+        "score": 3.5,
+        "subject": [
+            "酬唱诗",
+            "干谒诗"
+        ],
+        "emotion": [
+            "赞美",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先点明寄送文房四宝，后以典故赞美少年天才，直入主题。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "折桂枝比喻科举及第，暗示前生宿慧"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "折桂枝出自《晋书·郤诜传》，属常见科举典故"
+                }
+            ]
+        },
+        "analysis": "此诗以文房四宝起兴，直指麻家小秀才之天赋异禀。折桂典故虽沿袭旧例，但用以烘托七岁吟诗之奇，尚见剪裁之功。整体结构简练，开篇即点明寄赠对象，尾联以宿慧之说升华，然意象如宣毫歙墨略显堆砌，立意未脱酬唱窠臼，属技法成熟而新意不足之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "文房四宝与折桂枝构成实物与象征的对照",
+                "realm": "能品",
+                "reason": "用典虽正，但意象陈旧，未能超脱俗套"
+            }
+        ],
+        "imagery": [
+            "笔",
+            "墨",
+            "纸",
+            "桂枝"
+        ],
+        "allusions": [
+            {
+                "phrase": "折桂枝",
+                "explanation": "出自《晋书·郤诜传》，喻指科举及第"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "前生应折桂枝来，以典故收束，点明主题"
+        }
+    },
+    {
+        "title": "中酒",
+        "author": "宋白",
+        "paragraphs": [
+            "中酒事俱妨，偷眠就黑房。",
+            "靜嫌鸚鵡鬧，渴憶荔枝香。",
+            "病與慵相續，心和夢尚狂。",
+            "從今改題品，不號醉爲鄉。"
+        ],
+        "paragraphs_simplified": [
+            "中酒事俱妨，偷眠就黑房。",
+            "静嫌鹦鹉闹，渴忆荔枝香。",
+            "病与慵相续，心和梦尚狂。",
+            "从今改题品，不号醉为乡。"
+        ],
+        "translation": "醉酒后诸事妨碍，偷偷在暗室中睡眠。静时嫌鹦鹉吵闹，渴时忆荔枝香气。病与慵懒相继，心和梦还狂放。从今改题目，不称醉为乡。",
+        "score": 3.8,
+        "subject": [
+            "宴饮诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "闲适",
+            "慵懒"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首联写醉酒妨事与偷眠，颔联颈联刻画环境与身心状态，尾联以改题作结，层层递进。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "病与慵相续，心和梦尚狂对仗工整，强化身心矛盾"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "偷眠、嫌鹦鹉闹等细节生动呈现醉态"
+                }
+            ]
+        },
+        "analysis": "此诗刻画醉酒心理，首联以偷眠黑房写狼狈之态，颔联以鹦鹉荔枝声色对举，颈联延伸病慵与梦狂之冲突，尾联自嘲改题，结构紧凑。细节如渴忆荔枝香，以味觉通感唤起记忆，颇具匠心。然整体意象如鹦鹉荔枝略显琐碎，情感流于直露，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "黑房、鹦鹉、荔枝等意象构筑日常醉境",
+                "realm": "能品",
+                "reason": "描写真切，但意境未见高远"
+            }
+        ],
+        "imagery": [
+            "房间",
+            "鸟",
+            "水果",
+            "酒"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "渴忆荔枝香，以味觉写渴，生动传神"
+        }
+    },
+    {
+        "title": "雲",
+        "author": "宋白",
+        "paragraphs": [
+            "化作奇形隨物態，散成文錦自天機。",
+            "紅堆遠嶠日初上，碧滿長空人未歸。",
+            "逸興狂來連海闊，高情間甚出山飛。",
+            "須知深處藏雷雨，不獨江邊遶釣磯。"
+        ],
+        "paragraphs_simplified": [
+            "化作奇形随物态，散成文锦自天机。",
+            "红堆远峤日初上，碧满长空人未归。",
+            "逸兴狂来连海阔，高情间甚出山飞。",
+            "须知深处藏雷雨，不独江边绕钓矶。"
+        ],
+        "translation": "云化作奇形随物态，散成文锦自天机。红云堆在远山日初上，碧空满天人未归。逸兴狂来连海阔，高情闲甚出山飞。须知深处藏雷雨，不独江边绕钓矶。",
+        "score": 4.5,
+        "subject": [
+            "咏物诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两联写云之形色变幻，后两联抒逸兴高情，尾联揭示深藏雷雨，呼应首联天机之说，形成闭环。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "散成文锦以锦绣喻云霞，状其华美"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "红堆远峤日初上，碧满长空人未归，设色壮丽，对仗精工"
+                }
+            ]
+        },
+        "analysis": "此诗咏云，首联以奇形文锦写其变幻天机，颔联红碧交映绘日出之景，人未归暗含羁旅之思。颈联转写逸兴高情，境界阔大如海阔山飞。尾联点出雷雨藏深，寓意不独钓矶一隅，升华物外之理。全诗意象飞动，虚实相生，结构严谨，属妙品佳作。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "云、日、海、山、雷雨构筑宏阔空间",
+                "realm": "妙品",
+                "reason": "意境开阔，托物言志，得云之神理"
+            }
+        ],
+        "imagery": [
+            "云",
+            "太阳",
+            "天空",
+            "海",
+            "山",
+            "雨",
+            "江",
+            "矶"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "须知深处藏雷雨，揭示哲理，深化主题"
+        }
+    },
+    {
+        "title": "春",
+        "author": "宋白",
+        "paragraphs": [
+            "隔岸黄鸝語，當軒白鳥斜。",
+            "晚來風緊處，飛絮滿人家。"
+        ],
+        "paragraphs_simplified": [
+            "隔岸黄鹂语，当轩白鸟斜。",
+            "晚来风紧处，飞絮满人家。"
+        ],
+        "translation": "隔岸黄鹂鸣叫，当窗白鸟斜飞。晚来风紧处，飞絮满人家。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句以黄鹂白鸟勾勒春景，后两句写风紧飞絮，由静转动，简洁收束。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "隔岸黄鹂语，当轩白鸟斜，对仗工整，绘声绘色"
+                },
+                {
+                    "tag": "白描",
+                    "explanation": "直接描绘景物，无修饰，显自然"
+                }
+            ]
+        },
+        "analysis": "此诗写春景，前两句以黄鹂白鸟对举，声色兼备，后两句转写风紧飞絮，画面由清丽转迷蒙。语言极简，但意象如黄鹂飞絮常见于咏春诗中，缺乏独特视角，整体立意浅显，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "鸟、风、絮构成典型春日画面",
+                "realm": "凡品",
+                "reason": "意象陈旧，未能突破常规"
+            }
+        ],
+        "imagery": [
+            "鸟",
+            "鸟",
+            "风",
+            "柳絮",
+            "房屋"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "晚来风紧处，飞絮满人家，有动态感，收束全篇"
+        }
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "title": "近峰晴雪",
+        "author": "舒岳祥",
+        "paragraphs": [
+            "小樓周匝玉屏開，木落林巒入座來。",
+            "欲喚老關商略此，兩峯高並致佳哉。"
+        ],
+        "paragraphs_simplified": [
+            "小楼周匝玉屏开，木落林峦入座来。",
+            "欲唤老关商略此，两峰高并致佳哉。"
+        ],
+        "translation": "小楼四周如玉屏般敞开，落叶与山峦映入座中。欲唤老友商议此事，两座山峰高耸并立，真是美妙。",
+        "score": 4.2,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以玉屏比喻雪后山景，次句写木落叶疏，山峦入座，动静相生；后两句转入邀友共赏，以山峰并立收束，呼应前文。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "玉屏开喻雪覆山峦，形象生动"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过晴雪山景流露闲适赞美之情"
+                }
+            ]
+        },
+        "analysis": "此诗以简练笔触勾勒雪后山景，玉屏之喻构筑清冷意境，木落峦入则动静相生，情景契合度高。意境真切如在目前，无隔阂之感。情感审美距离适中，余韵悠长，非直露宣泄，乃佳作之态。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以玉屏、木落、双峰等意象，构筑出澄澈高远的境界，符合清奇之境",
+                "realm": "妙",
+                "reason": "意境清新，意象选择精准，虽非顶尖但颇具神韵"
+            }
+        ],
+        "imagery": [
+            "楼",
+            "雪",
+            "山",
+            "树"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "玉屏之喻开篇即定全诗基调，意象鲜明"
+        }
+    }
+]

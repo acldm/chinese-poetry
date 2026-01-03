@@ -1,0 +1,401 @@
+[
+    {
+        "title": "題司空山觀",
+        "author": "李韶",
+        "paragraphs": [
+            "梁代真人上紫微，水盤山脚五雲飛。",
+            "杉松老盡無消息，猶得千一年度歸。"
+        ],
+        "paragraphs_simplified": [
+            "梁代真人上紫微，水盘山脚五云飞。",
+            "杉松老尽无消息，犹得千一年度归。"
+        ],
+        "translation": "梁代真人上紫微，水盘山脚五云飞。杉松老尽无消息，犹得千一年度归。",
+        "score": 4.5,
+        "subject": [
+            "怀古诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以梁代真人传说开篇，描绘山水云飞之景，再以杉松老尽衬托时间流逝，终以千年一归点出永恒。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "梁代真人指代历史人物，增添神秘色彩。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "千一年度归，极言归期之罕。"
+                }
+            ]
+        },
+        "analysis": "此诗融合历史与神话，意象高远，语言凝练。杉松老尽与千年一归形成强烈对比，折射出时空的苍茫感。用典自然，虚实相生，颇具飘逸之风。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "以真人、紫微等意象构筑出超脱尘俗的境界。",
+                "realm": "妙品",
+                "reason": "意境高远，用典自然，艺术价值突出。"
+            }
+        ],
+        "imagery": [
+            "真人",
+            "紫微",
+            "水",
+            "山",
+            "云",
+            "杉松"
+        ],
+        "allusions": [
+            {
+                "phrase": "梁代真人",
+                "explanation": "指梁朝时期的修道之人。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "体现时间流逝与永恒。"
+        }
+    },
+    {
+        "title": "與孫氏",
+        "author": "周默",
+        "paragraphs": [
+            "五十衰翁二十妻，目昏髮白已頭低。",
+            "絳幃深處休論議，天外青鸞伴木鷄。"
+        ],
+        "paragraphs_simplified": [
+            "五十衰翁二十妻，目昏发白已头低。",
+            "绛帏深处休论议，天外青鸾伴木鸡。"
+        ],
+        "translation": "五十衰翁二十妻，目昏发白已头低。绛帏深处休论议，天外青鸾伴木鸡。",
+        "score": 3.0,
+        "subject": [
+            "讽喻诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "对比",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直陈老夫少妻之状，再以深闺休议和青鸾木鸡暗示不般配的结局。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "五十衰翁与二十妻形成鲜明反差。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "木鸡象征呆滞，暗指婚姻无奈。"
+                }
+            ]
+        },
+        "analysis": "此诗以直白语言揭露婚姻不公，意象晦涩，如青鸾木鸡之喻令人费解。立意浅显，缺乏审美距离，流于抱怨，艺术性较低。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图通过衰翁、木鸡等意象表达悲愤，但意象堆砌，未能升华。",
+                "realm": "能品",
+                "reason": "技法平庸，意象晦涩，属凡品。"
+            }
+        ],
+        "imagery": [
+            "衰翁",
+            "妻",
+            "目",
+            "发",
+            "绛帏",
+            "青鸾",
+            "木鸡"
+        ],
+        "allusions": [
+            {
+                "phrase": "青鸾",
+                "explanation": "神话中的鸟，象征美好。"
+            },
+            {
+                "phrase": "木鸡",
+                "explanation": "出自《庄子》，喻呆滞。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "直陈事实，形象生动。"
+        }
+    },
+    {
+        "title": "與周默",
+        "author": "孫氏",
+        "paragraphs": [
+            "雨集枯池時漸滿，藤籠老木一翻新。",
+            "如今且悅目前景，粧點亭臺隨分春。"
+        ],
+        "paragraphs_simplified": [
+            "雨集枯池时渐满，藤笼老木一翻新。",
+            "如今且悦目前景，妆点亭台随分春。"
+        ],
+        "translation": "雨集枯池时渐满，藤笼老木一翻新。如今且悦目前景，妆点亭台随分春。",
+        "score": 3.5,
+        "subject": [
+            "酬唱诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "以雨满枯池、藤翻老木喻示新生，再劝人悦景赏春，体现随遇而安。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "藤笼老木一翻新，赋予藤木以主动更新之意。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过雨池、藤木之景传达乐观心境。"
+                }
+            ]
+        },
+        "analysis": "此诗以自然景象喻示人生更新，语言流畅，意境平和。借景抒情手法娴熟，但立意未脱常套，缺乏深度，属中庸之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以雨、池、藤、木等寻常意象构筑恬淡之境。",
+                "realm": "能品",
+                "reason": "技法平稳，意境和谐，但无突出创新。"
+            }
+        ],
+        "imagery": [
+            "雨",
+            "池",
+            "藤",
+            "木",
+            "亭台",
+            "春"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "表达及时行乐的态度。"
+        }
+    },
+    {
+        "title": "題南山池",
+        "author": "梁藻",
+        "paragraphs": [
+            "翡翠戲翻荷葉雨，鷺鷥飛破竹林烟。",
+            "時沽村酒臨軒酌，旋碾新茶靠石煎。"
+        ],
+        "paragraphs_simplified": [
+            "翡翠戏翻荷叶雨，鹭鸶飞破竹林烟。",
+            "时沽村酒临轩酌，旋碾新茶靠石煎。"
+        ],
+        "translation": "翡翠鸟在荷叶雨中嬉戏翻飞，鹭鸶鸟飞破了竹林的烟雾。时常买来村酒在窗前饮用，随即碾磨新茶靠着石头煎煮。",
+        "score": 4.2,
+        "subject": [
+            "山水诗",
+            "闲适诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句以动态鸟景勾勒竹林烟雨，后句以静态人事渲染闲适心境，情景交融。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "翡翠戲翻荷葉雨与鷺鷥飛破竹林烟形成工整对仗。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "戲翻赋予鸟类人性动作，增强画面生动性。"
+                }
+            ]
+        },
+        "analysis": "此诗以精炼笔触构筑南山池的幽居意境，翡翠与鹭鸶的动态交织，折射出自然生机的瞬间捕捉。荷叶雨与竹林烟的意象叠加，渲染出湿润朦胧的视觉层次，而村酒新茶的细节，则渗透出隐士生活的淡泊韵味。整体情景契合度高，意境不隔，情感回甘，属能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "鸟虫草木与日常器物相映，构筑出疏野之趣。",
+                "realm": "能品",
+                "reason": "技法纯熟，但意象略显常规，未达超逸之境。"
+            }
+        ],
+        "imagery": [
+            "翡翠",
+            "荷叶",
+            "鹭鸶",
+            "竹林",
+            "村酒",
+            "新茶"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以动破静，画面感最强。"
+        }
+    },
+    {
+        "title": "句  其一",
+        "author": "釋清晤",
+        "paragraphs": [
+            "鳥歸花影動，魚觸浪痕圓。"
+        ],
+        "paragraphs_simplified": [
+            "鸟归花影动，鱼触浪痕圆。"
+        ],
+        "translation": "鸟儿归巢，花影摇动；鱼儿触水，浪痕成圆。",
+        "score": 4.7,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "动静结合",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "单句内鸟动花静、鱼触浪圆，以微观动态揭示自然律动。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "鳥歸花影動与魚觸浪痕圓形成意象与音律的双重对称。"
+                }
+            ]
+        },
+        "analysis": "此句以极简语言凝练自然瞬间，鸟归与鱼触的动态对比，暗合视觉与触觉的通感。花影之动与浪痕之圆，构筑出动静相生的禅意空间。意象纯净无赘，意境深远不隔，情感含蓄有余韵，堪称妙品。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "以最少笔墨勾勒完整意境，字字珠玑。",
+                "realm": "妙品",
+                "reason": "精密度极高，无一字多余。"
+            }
+        ],
+        "imagery": [
+            "鸟",
+            "花影",
+            "鱼",
+            "浪痕"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句浑然一体，无分句优劣。"
+        }
+    }
+]

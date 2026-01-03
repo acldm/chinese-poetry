@@ -1,0 +1,1382 @@
+[
+    {
+        "title": "贈呂南叔談命二首  其一",
+        "author": "姚勉",
+        "paragraphs": [
+            "開口談天數似麻，向人諂笑詫榮華。",
+            "惟君說命能窮理，說到精微別一家。"
+        ],
+        "paragraphs_simplified": [
+            "开口谈天数似麻，向人谄笑诧荣华。",
+            "惟君说命能穷理，说到精微别一家。"
+        ],
+        "translation": "开口谈论天命像麻一样繁多，向人谄媚微笑，惊讶于荣华富贵。只有你说命能穷究道理，说到精微之处，另成一家。",
+        "score": 2.5,
+        "subject": [
+            "哲理诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以比喻和细节描写刻画一般相士的浮夸，再通过对比突出吕南叔的精微独到。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "通过'谄笑詫榮華'与'說命能窮理'的对比，凸显后者之高洁。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "'天數似麻'以麻喻天命之繁杂，形象生动。"
+                }
+            ]
+        },
+        "analysis": "此诗以对比手法勾勒相士之流品。首句以'天数似麻'喻谈命之繁杂，'谄笑詫榮華'直指世俗之态。转句推崇吕氏'穷理'之能，结句'精微别一家'虽赞其独到，然意象陈旧，立意未脱酬唱窠臼。整体平实，缺乏含蓄之韵，情景契合度浅，意境真切感不足。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "试图以'天数'、'精微'构筑清奇之境，但意象流于表面，未达超诣之境。",
+                "realm": "能",
+                "reason": "技法尚熟，但立意浅显，未能充分展现清奇之风。"
+            }
+        ],
+        "imagery": [
+            "天数",
+            "荣华",
+            "精微"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句直接点出吕南叔谈命的独特价值，是全诗核心。"
+        }
+    },
+    {
+        "title": "贈呂南叔談命二首  其二",
+        "author": "姚勉",
+        "paragraphs": [
+            "龍首皆求到鳳池，此心只爲利名馳。",
+            "吾儕所志惟天爵，厚祿高官總不知。"
+        ],
+        "paragraphs_simplified": [
+            "龙首皆求到凤池，此心只为利名驰。",
+            "吾侪所志惟天爵，厚禄高官总不知。"
+        ],
+        "translation": "龙头都求到凤池，此心只为利名驰骋。吾辈所志惟在天爵，厚禄高官总不理会。",
+        "score": 2.8,
+        "subject": [
+            "哲理诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对比"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句以比喻批判世俗对利名的追逐，后句通过对比彰显对天爵的坚守，卒章显志。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "'龍首'、'鳳池'喻指官场高位，形象化利名之追逐。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "'利名馳'与'天爵'形成鲜明对照，突出志向之高洁。"
+                }
+            ]
+        },
+        "analysis": "此诗以'龍首'、'鳳池'之喻切入，批判利名之驰骋，转而高扬'天爵'之志。意象虽具象，但'厚祿高官'等词陈腐，立意未脱说教之弊。情感表达直露，缺乏审美距离，整体构筑平淡，未能折射深邃之思。",
+        "poetry_styles": [
+            {
+                "style": "旷达",
+                "imagery_analysis": "试图以'天爵'之志展现旷达之怀，但言辞直白，未达冲淡之境。",
+                "realm": "能",
+                "reason": "情感真挚，但意象与修辞未臻精妙，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "龙首",
+            "凤池",
+            "利名",
+            "天爵",
+            "厚禄高官"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句'吾儕所志惟天爵'直指诗旨，彰显超脱之志。"
+        }
+    },
+    {
+        "title": "再贈尋賢相士二首  其一",
+        "author": "姚勉",
+        "paragraphs": [
+            "逢人說相不求錢，春色湖邊一醉顛。",
+            "眼法自高人幾看，不尋富貴只尋賢。"
+        ],
+        "paragraphs_simplified": [
+            "逢人说相不求钱，春色湖边一醉颠。",
+            "眼法自高人几看，不寻富贵只寻贤。"
+        ],
+        "translation": "逢人说相不求钱财，在春色湖边一醉颠狂。眼法自高人几番观看，不寻富贵只寻贤才。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "闲适",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直述相士不求钱之德，次句以春色湖边之景烘托其闲适，后句点明眼高只寻贤之旨。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "'春色湖邊一醉顛'以春景衬托相士之疏狂，情景交融。"
+                }
+            ]
+        },
+        "analysis": "此诗以'春色湖邊'之景切入，勾勒相士闲适之态，'不求錢'与'只尋賢'彰显其高洁。意象'春色'、'醉顛'生动，但整体立意浅显，未脱酬唱俗套。情感流于表面，意境真切感不足，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以'春色'、'醉顛'构筑自然之境，但修辞平淡，未达疏野之趣。",
+                "realm": "能",
+                "reason": "景物描写尚可，但缺乏深意，未能充分展现自然风格。"
+            }
+        ],
+        "imagery": [
+            "春色",
+            "湖",
+            "醉",
+            "眼睛",
+            "富贵",
+            "贤才"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句'逢人說相不求錢'直接点明相士之德，简洁有力。"
+        }
+    },
+    {
+        "title": "再贈尋賢相士二首  其二",
+        "author": "姚勉",
+        "paragraphs": [
+            "姦蔡邪丁兩貴臣，目光不瞬漫精神。",
+            "相師若有尋賢眼，莫看包羞祿位人。"
+        ],
+        "paragraphs_simplified": [
+            "奸蔡邪丁两贵臣，目光不瞬漫精神。",
+            "相师若有寻贤眼，莫看包羞禄位人。"
+        ],
+        "translation": "奸臣蔡京、丁谓两贵臣，目光不瞬漫无精神。相师若有寻贤之眼，莫看那些包羞禄位之人。",
+        "score": 3.2,
+        "subject": [
+            "讽喻诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "批判"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句以借代和夸张刻画奸臣之态，后句直斥相师应避禄位之人，卒章显志。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "'姦蔡邪丁'借蔡京、丁谓代指奸臣，讽喻现实。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "'目光不瞬漫精神'夸张描写奸臣之虚伪。"
+                }
+            ]
+        },
+        "analysis": "此诗以'姦蔡邪丁'之典切入，借古讽今，批判禄位之人。'目光不瞬'生动勾勒奸臣之态，后句告诫相师寻贤之眼。意象尖锐，但用典未明，情感宣泄过度，缺乏含蓄之美。整体劲健有余，典雅不足。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以'奸臣'、'目光'构筑劲健之风，但言辞直露，未达沉著之境。",
+                "realm": "能",
+                "reason": "批判力度强，但修辞粗糙，未能充分展现劲健之格。"
+            }
+        ],
+        "imagery": [
+            "奸臣",
+            "贵臣",
+            "眼睛",
+            "精神",
+            "贤眼",
+            "禄位"
+        ],
+        "allusions": [
+            {
+                "phrase": "姦蔡邪丁",
+                "explanation": "指蔡京和丁谓，北宋著名奸臣，用于借古讽今。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句'莫看包羞祿位人'直接点明讽喻之旨，犀利有力。"
+        }
+    },
+    {
+        "title": "再贈陳高眼二首  其一",
+        "author": "姚勉",
+        "paragraphs": [
+            "高眼先生本姓陳，閲人多矣妙通神。",
+            "地爐傳得麻衣法，恐是希夷身後身。"
+        ],
+        "paragraphs_simplified": [
+            "高眼先生本姓陈，阅人多矣妙通神。",
+            "地炉传得麻衣法，恐是希夷身后身。"
+        ],
+        "translation": "高眼先生本姓陈，阅人无数妙通神明。地炉传得麻衣相法，恐怕是希夷先生的后身。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "用典"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直述陈高眼之姓与能，次句以用典和比喻赞其相术承袭麻衣、希夷之传。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "'麻衣法'、'希夷'引用麻衣道者和陈抟之典，增添文化底蕴。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "'妙通神'比喻其相术高超如神。"
+                }
+            ]
+        },
+        "analysis": "此诗以'高眼先生'起笔，直赞其阅人之能，后句用'麻衣法'、'希夷'之典，构筑高古之境。意象'地爐'、'麻衣'具象，典故运用恰当，情感真挚而不浮夸。整体典雅有致，情景契合度较高，属能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "以'麻衣'、'希夷'之典构筑高古之风，典故深植，意境超然。",
+                "realm": "妙",
+                "reason": "用典精准，意象古朴，充分展现高古之韵。"
+            }
+        ],
+        "imagery": [
+            "高眼",
+            "先生",
+            "陈",
+            "人",
+            "炉",
+            "麻衣",
+            "希夷"
+        ],
+        "allusions": [
+            {
+                "phrase": "麻衣法",
+                "explanation": "麻衣道者的相术，相传为宋代相术经典。"
+            },
+            {
+                "phrase": "希夷",
+                "explanation": "陈抟，号希夷先生，道教高人，以相术闻名。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句'地爐傳得麻衣法，恐是希夷身後身'用典精妙，升华全诗。"
+        }
+    },
+    {
+        "title": "再贈陳高眼二首  其二",
+        "author": "姚勉",
+        "paragraphs": [
+            "狀元出應河連讖，人說先生相法真。",
+            "更有河連丞相出，不知高眼屬何人。"
+        ],
+        "paragraphs_simplified": [
+            "状元出应河连谶，人说先生相法真。",
+            "更有河连丞相出，不知高眼属何人。"
+        ],
+        "translation": "状元出现应验了河连的预言，人们都说先生的相法真实可信。更有河连丞相出现，不知道高明的眼力属于何人。解释：河连谶指某种预言或谶语；高眼指高明的相术眼力。",
+        "score": 2.5,
+        "subject": [
+            "酬唱诗",
+            "打油诗"
+        ],
+        "emotion": [
+            "疑惑",
+            "调侃"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先陈述预言应验的事实，后以设问质疑相士的眼力归属。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "末句‘不知高眼属何人’通过疑问句式引发思考，增强讽刺效果。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "‘河连谶’引用特定典故，暗示预言的真实性。"
+                }
+            ]
+        },
+        "analysis": "此诗以赠答形式调侃相士陈高眼，语言直白浅露，意象局限于‘状元’、‘丞相’等世俗功名，缺乏深层意境。立意流于表面，仅以设问制造悬念，未见情感沉淀或审美升华。整体结构松散，辞藻陈旧，属于应酬中的平庸之作，未脱打油诗窠臼。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以日常意象构建讽刺，但意象单薄，未能形成自然之趣。",
+                "realm": "劣作",
+                "reason": "模仿‘自然’风格却流于粗鄙，意象陈旧，缺乏诗味。"
+            }
+        ],
+        "imagery": [
+            "人",
+            "河",
+            "官职"
+        ],
+        "allusions": [
+            {
+                "phrase": "河连谶",
+                "explanation": "可能指特定预言或谶语，具体出处待考。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句设问直接点题，虽有力但立意浅显。"
+        }
+    },
+    {
+        "title": "贈蔣儒宗算星辰",
+        "author": "姚勉",
+        "paragraphs": [
+            "看破浮榮醉色醒，如貪青紫豈明經。",
+            "只煩君把天機泄，四海如今幾福星。"
+        ],
+        "paragraphs_simplified": [
+            "看破浮荣醉色醒，如贪青紫岂明经。",
+            "只烦君把天机泄，四海如今几福星。"
+        ],
+        "translation": "看破虚浮的荣华，从醉酒中清醒，如果贪图高官厚禄岂能通晓经书？只麻烦您把天机泄露，四海如今有几个福星？解释：浮荣指虚浮的荣华；青紫指高官服饰；明经指通晓经书；天机指天上的秘密；福星指带来好运的星宿。",
+        "score": 3.0,
+        "subject": [
+            "酬唱诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先批判世俗贪欲，后转向请求泄露天机，逻辑递进。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘醉色醒’比喻看破虚幻，形象生动。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "‘四海如今几福星’以问句收尾，强化对天机的追问。"
+                }
+            ]
+        },
+        "analysis": "此诗赠算命者蒋儒宗，借星辰之题抒发对世俗贪欲的批判，语言尚文雅但立意老套。‘浮荣’、‘青紫’等意象虽具象，却未脱功名窠臼，情感表达直露，缺乏含蓄之美。结构虽完整，但整体流于说教，未能构筑独特意境，属凡庸应酬之作。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "试图以简练语言表达哲理，但意象组合平淡，未达洗练之境。",
+                "realm": "凡品",
+                "reason": "技法平庸，缺乏创新，流于表面议论。"
+            }
+        ],
+        "imagery": [
+            "荣华",
+            "酒",
+            "官职",
+            "天机",
+            "星"
+        ],
+        "allusions": [
+            {
+                "phrase": "明经",
+                "explanation": "指通晓儒家经典，暗含科举制度背景。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘四海如今几福星’以问句收束，稍具气势。"
+        }
+    },
+    {
+        "title": "贈張山人談命",
+        "author": "姚勉",
+        "paragraphs": [
+            "等閒客裏捧茶甌，說到人間第一流。",
+            "圯上遺編今在否，異時來問赤松遊。"
+        ],
+        "paragraphs_simplified": [
+            "等闲客里捧茶瓯，说到人间第一流。",
+            "圯上遗编今在否，异时来问赤松游。"
+        ],
+        "translation": "在平常的客人中捧着茶杯，说到人间第一流的高人。圯上的遗编现在还在吗，将来时候来问赤松子仙游之事。解释：等闲指平常；茶瓯指茶杯；人间第一流指超凡之人；圯上遗编指黄石公授张良的兵书；赤松游指赤松子仙游。",
+        "score": 4.0,
+        "subject": [
+            "酬唱诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先描绘闲适场景，后以典故提问，虚实相生。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "‘圯上遗编’和‘赤松游’引用历史典故，增添文化厚度。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "现实场景与仙道典故交织，拓展意境。"
+                }
+            ]
+        },
+        "analysis": "此诗赠张山人谈命，以茶客闲谈引入，巧妙化用圯上授书与赤松子典故，构筑淡泊隐逸之境。语言凝练，典故运用自然，情感含蓄内敛，不落俗套。结构上由实入虚，层层递进，体现对命运超脱的哲思，属技法成熟之作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "典故深沉，意境苍古，契合高古之风。",
+                "realm": "能品",
+                "reason": "用典精当，但整体创新稍欠，未达妙品。"
+            }
+        ],
+        "imagery": [
+            "人",
+            "茶",
+            "桥",
+            "书",
+            "仙人"
+        ],
+        "allusions": [
+            {
+                "phrase": "圯上遗编",
+                "explanation": "指黄石公授张良的《太公兵法》，象征智慧传承。"
+            },
+            {
+                "phrase": "赤松游",
+                "explanation": "指赤松子仙游，象征超脱尘世。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘圯上遗编今在否’以典故设问，深化主题。"
+        }
+    },
+    {
+        "title": "贈古鑑相士",
+        "author": "姚勉",
+        "paragraphs": [
+            "以古爲名便異今，况能有鑑照人心。",
+            "舊聞古鑑知興替，借與清朝獻六箴。"
+        ],
+        "paragraphs_simplified": [
+            "以古为名便异今，况能有鉴照人心。",
+            "旧闻古鉴知兴替，借与清朝献六箴。"
+        ],
+        "translation": "以古为名便与今不同，何况能有镜子照见人心。旧闻古镜知道兴衰，借给清朝献上六种规劝。解释：古鉴指古镜；鉴照人心指洞察人心；兴替指兴衰；六箴指六种规劝文。",
+        "score": 3.8,
+        "subject": [
+            "酬唱诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先点明古鉴之名，后引申其功能，逻辑清晰。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘有鉴照人心’以镜喻相士洞察力。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "‘六箴’引用古代规劝文，增强厚重感。"
+                }
+            ]
+        },
+        "analysis": "此诗赠古鉴相士，以古镜为喻，赞其洞察人心之能。语言简洁，典故‘六箴’运用得当，暗含规劝时政之意。意象虽抽象但紧扣主题，情感克制而庄重。结构紧凑，未见冗余，整体工整，属能品中稳健之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "以古鉴为核心，构筑庄重典雅之境。",
+                "realm": "能品",
+                "reason": "技法纯熟，但意象略显抽象，未达高妙。"
+            }
+        ],
+        "imagery": [
+            "古代",
+            "镜子",
+            "心",
+            "兴衰",
+            "规劝"
+        ],
+        "allusions": [
+            {
+                "phrase": "六箴",
+                "explanation": "指古代六种规劝君王的箴文，如《虞人之箴》。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘旧闻古鉴知兴替’点明古鉴的历史功能。"
+        }
+    },
+    {
+        "title": "贈趙碧眼相士",
+        "author": "姚勉",
+        "paragraphs": [
+            "拂袖蓬萊羣玉峰，伊人不可遡游蹤。",
+            "煩君喚起山中睡，爲說蒼生渴雨龍。"
+        ],
+        "paragraphs_simplified": [
+            "拂袖蓬莱群玉峰，伊人不可溯游踪。",
+            "烦君唤起山中睡，为说苍生渴雨龙。"
+        ],
+        "translation": "拂袖离开蓬莱群玉峰，那人不可追溯游踪。麻烦您唤起山中睡者，为说苍生渴望雨龙。解释：蓬莱群玉峰指仙山；伊人指那人；溯游踪指追溯游踪；山中睡指隐士；苍生渴雨龙指百姓渴望甘霖。",
+        "score": 4.6,
+        "subject": [
+            "酬唱诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "豁达",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先描绘仙山幻境，后转向现实关怀，虚实转换自然。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "‘唤起山中睡’赋予动作以人性化，增强生动性。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "‘渴雨龙’比喻百姓对甘霖的渴望，意象宏大。"
+                }
+            ]
+        },
+        "analysis": "此诗赠赵碧眼相士，以蓬莱仙山起笔，虚写隐士高人，实寄苍生疾苦。意象瑰丽，‘渴雨龙’之喻既显气势，又透出深切关怀。情感由超逸转为殷切，虚实相生，结构流畅。语言生动，比喻新奇，在赠答诗中属上乘之作。",
+        "poetry_styles": [
+            {
+                "style": "飘逸",
+                "imagery_analysis": "仙山意象与苍生关怀结合，构筑飘逸而深沉之境。",
+                "realm": "妙品",
+                "reason": "意象宏大，情感真挚，技法娴熟。"
+            }
+        ],
+        "imagery": [
+            "仙山",
+            "山",
+            "隐士",
+            "百姓",
+            "龙"
+        ],
+        "allusions": [
+            {
+                "phrase": "蓬莱",
+                "explanation": "传说中的海上仙山，象征超脱凡尘。"
+            },
+            {
+                "phrase": "雨龙",
+                "explanation": "指龙王司雨，暗含对民生福祉的祈愿。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘烦君唤起山中睡’以行动感凸显主题，虚实交融。"
+        }
+    },
+    {
+        "title": "贈天台相士",
+        "author": "姚勉",
+        "paragraphs": [
+            "龍榜鳳池俱細事，十年身到待何如。",
+            "問天乞取百年活，圖得山中飽讀書。"
+        ],
+        "paragraphs_simplified": [
+            "龙榜凤池俱细事，十年身到待何如。",
+            "问天乞取百年活，图得山中饱读书。"
+        ],
+        "translation": "第一句：龙榜和凤池都是细微小事，十年努力后又能如何。龙榜指科举功名，凤池指中书省，均象征官场荣耀；第二句：向天祈求百年长寿，只为在山中安心读书。图得意为谋求，饱读书指沉浸于阅读。",
+        "score": 2.8,
+        "subject": [
+            "哲理诗",
+            "闲适诗"
+        ],
+        "emotion": [
+            "豁达",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句否定功名，后句直指读书志向，形成对比结构。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "龙榜凤池与十年身到形成工整对仗，强化节奏。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "以读书为寄托，表达超脱世俗之志。"
+                }
+            ]
+        },
+        "analysis": "此诗立意浅显，意象陈旧，龙榜凤池等词堆砌，缺乏新意。对比结构虽工整，但情感流于表面，未能构筑深邃意境。整体平庸，属应酬诗常见套路。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以山中读书营造淡泊之境，但意象单薄，未达冲淡之旨。",
+                "realm": "能",
+                "reason": "技法成熟但缺乏神韵，属能品下乘。"
+            }
+        ],
+        "imagery": [
+            "龙榜",
+            "凤池",
+            "山",
+            "书"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句直抒胸臆，较前句更显具体。"
+        }
+    },
+    {
+        "title": "贈鄒相士三首  其一",
+        "author": "姚勉",
+        "paragraphs": [
+            "浩蕩狂風晝雨霾，燥田渴雨欲生埃。",
+            "煩君爲覓爲霖手，傾倒天瓢澤九垓。"
+        ],
+        "paragraphs_simplified": [
+            "浩荡狂风昼雨霾，燥田渴雨欲生埃。",
+            "烦君为觅为霖手，倾倒天瓢泽九垓。"
+        ],
+        "translation": "第一句：狂风大作，白昼如雨雾笼罩，干燥的田地渴望雨水，几乎要扬起尘埃；第二句：麻烦您寻找施雨之手，倾倒天瓢滋润九州。为霖手指雨，九垓指天下。",
+        "score": 3.2,
+        "subject": [
+            "干谒诗"
+        ],
+        "emotion": [
+            "期待",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句渲染旱情之急，后句祈求施雨，由景入情，逻辑连贯。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以天瓢喻雨具，夸张倾倒泽九垓，强化施雨之效。"
+                },
+                {
+                    "tag": "侧面烘托",
+                    "explanation": "通过旱田焦渴，侧面烘托对相士能力的期待。"
+                }
+            ]
+        },
+        "analysis": "此诗以旱情喻困境，意象生动，但立意仍陷于干谒俗套。狂风燥田的描绘虽具画面感，却未突破传统祈雨诗的框架。情感表达直白，缺乏含蓄回甘。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "狂风天瓢等意象试图营造力度，但整体未达劲健之骨力。",
+                "realm": "能",
+                "reason": "技法工整但流于表面，属能品。"
+            }
+        ],
+        "imagery": [
+            "狂风",
+            "雨",
+            "田",
+            "天瓢"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句用典自然，祈求之意更显迫切。"
+        }
+    },
+    {
+        "title": "贈鄒相士三首  其二",
+        "author": "姚勉",
+        "paragraphs": [
+            "玉帳元戎過福州，誰擔此擔向邊頭。",
+            "中宵敧枕難成寐，底道儂無隔夜愁。"
+        ],
+        "paragraphs_simplified": [
+            "玉帐元戎过福州，谁担此担向边头。",
+            "中宵敧枕难成寐，底道侬无隔夜愁。"
+        ],
+        "translation": "第一句：元帅经过福州，谁承担此重任前往边疆；玉帐指军营，元戎指统帅；第二句：深夜斜枕难以入睡，难道说我没有隔夜之愁。底道意为怎说，侬指我。",
+        "score": 3.5,
+        "subject": [
+            "边塞诗",
+            "赠别诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "反问"
+            ],
+            "presentation_tags": [
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "伏笔铺垫"
+            ],
+            "structural_logic": "前句设问责任之重，后句以不眠反问愁绪，层层递进。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "谁担此担引发思考，增强张力。"
+                },
+                {
+                    "tag": "反问",
+                    "explanation": "底道侬无隔夜愁以反诘强化愁绪。"
+                }
+            ]
+        },
+        "analysis": "此诗情感真挚，深夜不眠的细节描写生动，但意象如玉帐边头较为常见。设问与反问的运用虽增层次，却未脱边塞诗愁苦窠臼，整体平实。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "试图以夜愁体现沉痛，但意象单薄，未达沉著之凝练。",
+                "realm": "能",
+                "reason": "情感真实但艺术提炼不足。"
+            }
+        ],
+        "imagery": [
+            "玉帐",
+            "元戎",
+            "边头",
+            "枕"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句以反问收尾，情感更显深沉。"
+        }
+    },
+    {
+        "title": "贈鄒相士三首  其三",
+        "author": "姚勉",
+        "paragraphs": [
+            "人生有子萬事足，不問官稱有與無。",
+            "老子希文何事好，踏渠脚步得堯夫。"
+        ],
+        "paragraphs_simplified": [
+            "人生有子万事足，不问官称有与无。",
+            "老子希文何事好，踏渠脚步得尧夫。"
+        ],
+        "translation": "第一句：人生有子万事满足，不问官职有无；第二句：老子希文何事好，踏他脚步得尧夫。希文指范仲淹，尧夫指邵雍，均喻贤人。",
+        "score": 3.8,
+        "subject": [
+            "哲理诗",
+            "赠答诗"
+        ],
+        "emotion": [
+            "豁达",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句立论有子足乐，后句用典明志，由浅入深。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "希文、尧夫借古人喻道德追求。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "以脚步代指行为方式。"
+                }
+            ]
+        },
+        "analysis": "此诗用典精当，希文尧夫的引入提升了哲理深度，但前句流于俗套。整体结构紧凑，情感由豁达转向敬佩，属赠答诗中较佳之作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "以古人典故构筑高远格调，但子嗣意象稍显平实。",
+                "realm": "妙",
+                "reason": "用典自然，属妙品下乘。"
+            }
+        ],
+        "imagery": [
+            "子",
+            "官",
+            "脚步"
+        ],
+        "allusions": [
+            {
+                "phrase": "希文",
+                "explanation": "指范仲淹，喻贤臣。"
+            },
+            {
+                "phrase": "尧夫",
+                "explanation": "指邵雍，喻隐士。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句用典深化主题，最具代表性。"
+        }
+    },
+    {
+        "title": "題小西湖",
+        "author": "姚勉",
+        "paragraphs": [
+            "主人胸次一西湖，新展蘇堤小畫圖。",
+            "待種梅花三百本，請君雪裏訪林逋。"
+        ],
+        "paragraphs_simplified": [
+            "主人胸次一西湖，新展苏堤小画图。",
+            "待种梅花三百本，请君雪里访林逋。"
+        ],
+        "translation": "第一句：主人胸中有西湖，新展苏堤如小画图；胸次指胸怀，苏堤指杭州西湖堤；第二句：等待种植梅花三百株，请您雪中探访林逋。林逋为宋代隐士，爱梅。",
+        "score": 4.2,
+        "subject": [
+            "题画诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "引用"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句以西湖喻胸怀，后句用典邀约，由景及人，呼应自然。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "胸次比西湖，构筑虚实相生之境。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "林逋之典增添文化意蕴。"
+                }
+            ]
+        },
+        "analysis": "此诗意境清奇，以胸怀喻湖景，虚实结合巧妙。林逋典故的运用不着痕迹，雪中访梅的意象勾勒出高洁情趣，整体流畅自然，属题画诗佳作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "西湖与梅花的组合清雅脱俗，意境真切。",
+                "realm": "妙",
+                "reason": "情景交融，属妙品。"
+            }
+        ],
+        "imagery": [
+            "西湖",
+            "苏堤",
+            "梅花",
+            "雪",
+            "林逋"
+        ],
+        "allusions": [
+            {
+                "phrase": "林逋",
+                "explanation": "宋代隐士，梅妻鹤子，喻高洁。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句用典点睛，升华全诗意境。"
+        }
+    },
+    {
+        "title": "再題小西湖  其一",
+        "author": "姚勉",
+        "paragraphs": [
+            "閤前白倚竹扶疎，梅似逋僊柳似蘇。",
+            "待向山椒結茅屋，更添偉觀占江湖。"
+        ],
+        "paragraphs_simplified": [
+            "阁前白倚竹扶疏，梅似逋仙柳似苏。",
+            "待向山椒结茅屋，更添伟观占江湖。"
+        ],
+        "translation": "阁前白色倚靠竹子枝叶茂盛，梅花像逋仙（林逋）柳树像苏轼。等待向山顶结茅屋，更添宏伟景观占据江湖景色。详细：阁前（楼阁前）白（可能指花或雪）倚靠竹子扶疏（枝叶繁茂），梅花比喻林逋的孤高，柳树比喻苏轼的潇洒。待向山椒（山顶）结茅屋，更添伟观（宏伟景象）占江湖（占据江湖风光）。",
+        "score": 3.0,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写景物，后表达隐居愿望，结构简洁。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“梅似逋仙柳似苏”以林逋和苏轼比喻梅柳，彰显清雅意象。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过竹、梅、柳等景物，折射隐逸情怀。"
+                }
+            ]
+        },
+        "analysis": "此诗以竹、梅、柳等意象构筑清雅意境，比喻贴切，将梅花比作林逋之孤高，柳树比作苏轼之潇洒，彰显诗人对隐逸生活的向往。结构由景入情，自然流畅，但意象陈旧，缺乏新意，整体立意浅显，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以淡泊意象营造闲适氛围，但意境不深。",
+                "realm": "能品",
+                "reason": "技法成熟但未能达到深远意境，流于表面。"
+            }
+        ],
+        "imagery": [
+            "竹",
+            "梅",
+            "柳",
+            "屋",
+            "江湖"
+        ],
+        "allusions": [
+            {
+                "phrase": "逋仙",
+                "explanation": "指林逋，宋代隐士，以梅鹤著称。"
+            },
+            {
+                "phrase": "苏",
+                "explanation": "指苏轼，宋代文豪。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句写景更生动，意象集中。"
+        }
+    },
+    {
+        "title": "再題小西湖  其二",
+        "author": "姚勉",
+        "paragraphs": [
+            "深深晴日漲湖煙，開著蓬窗飽看蓮。",
+            "只怕客來童放鶴，又催花裏棹歸船。"
+        ],
+        "paragraphs_simplified": [
+            "深深晴日涨湖烟，开着蓬窗饱看莲。",
+            "只怕客来童放鹤，又催花里棹归船。"
+        ],
+        "translation": "深深的晴天日子，湖上雾气升起，开着船窗尽情看莲花。只怕客人来了童子放鹤，又催促在花中划船回家。详细：晴朗日子，湖烟（雾气）涨起，蓬窗（船窗）打开饱看莲（莲花）。客来时童子放鹤，又催促棹（划）归船（回家船）。",
+        "score": 3.2,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先写湖上闲景，后写客来之事，表达闲适中的小烦恼。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "“开着蓬窗饱看莲”刻画具体动作，渲染闲适氛围。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "“放鹤”与“棹归船”形成动静对比。"
+                }
+            ]
+        },
+        "analysis": "此诗以晴日、湖烟、莲等意象渲染宁静氛围，后句引入客来童放鹤的细节，增添生活情趣。但语言平实，缺乏诗意升华，整体流于表面叙事，未能深入情感内核，属于凡品。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以平实语言呈现自然之趣，但直白有余，韵味不足。",
+                "realm": "能品",
+                "reason": "叙事清晰但意境不深，未能浑然天成。"
+            }
+        ],
+        "imagery": [
+            "日",
+            "烟",
+            "莲",
+            "鹤",
+            "船"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句写景更集中，意象鲜明。"
+        }
+    }
+]

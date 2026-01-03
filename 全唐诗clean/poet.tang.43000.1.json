@@ -1,0 +1,897 @@
+[
+    {
+        "title": "惆悵詩九首 四",
+        "author": "顧甄遠",
+        "paragraphs": [
+            "秋遇人間好風景，焦桐韻滿華堂靜。",
+            "鑑鸞釵燕恨何窮，忍向銀牀空抱影。"
+        ],
+        "paragraphs_simplified": [
+            "秋遇人间好风景，焦桐韵满华堂静。",
+            "鉴鸾钗燕恨何穷，忍向银床空抱影。"
+        ],
+        "translation": "秋天遇到人间美好的风景，焦桐（古琴）的韵声充满华丽的厅堂，一片寂静。镜中的鸾鸟和钗上的燕子，遗憾无穷，忍心向着银床（井栏）空抱着自己的影子。",
+        "score": 3.8,
+        "subject": [
+            "闺怨诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先写秋景之静美，后转首饰之恨，以空抱影结，情感层层递进。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过秋景和琴韵衬托内心孤寂"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "焦桐喻古琴，鸾钗喻首饰"
+                }
+            ]
+        },
+        "analysis": "秋日美景与焦桐韵满构筑静谧氛围，反衬出鉴鸾钗燕的无限遗憾。银床抱影的细节，将无形愁绪具象化，意象虽陈旧但组合巧妙。全诗以乐景写哀情，情感表达含蓄而深沉，技法纯熟，然立意未脱传统闺怨窠臼。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以秋景、琴韵、首饰等意象构筑愁绪，境界悲凉",
+                "realm": "能",
+                "reason": "情感深沉，但意象组合缺乏新意"
+            },
+            {
+                "style": "含蓄",
+                "imagery_analysis": "不直说愁，而借物象暗示",
+                "realm": "能",
+                "reason": "表达委婉，但力度稍弱"
+            }
+        ],
+        "imagery": [
+            "秋",
+            "风景",
+            "焦桐",
+            "华堂",
+            "鸾",
+            "钗",
+            "燕",
+            "银床",
+            "影"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "鉴鸾钗燕恨何穷，忍向银床空抱影，情感浓缩，意象生动"
+        }
+    },
+    {
+        "title": "惆悵詩九首 五",
+        "author": "顧甄遠",
+        "paragraphs": [
+            "綠槐影裏傍青樓，陌上行人空舉頭。",
+            "煙水露花無處問，搖鞭凝睇不勝愁。"
+        ],
+        "paragraphs_simplified": [
+            "绿槐影里傍青楼，陌上行人空举头。",
+            "烟水露花无处问，摇鞭凝睇不胜愁。"
+        ],
+        "translation": "在绿槐的影子旁依偎着青楼，路上的行人空自抬头。烟水露花无处可问，摇着鞭子凝视远方，不胜愁苦。",
+        "score": 3.0,
+        "subject": [
+            "羁旅诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "羁旅",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句写场景和行人，后两句写无处问和摇鞭凝睇，情感从外景转向内心。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "烟水露花烘托愁绪"
+                }
+            ]
+        },
+        "analysis": "绿槐青楼点明风月场所，行人举头似有所寻。烟水露花无处问，表达漂泊中的迷茫。摇鞭凝睇的动作细节，刻画愁态生动。但意象组合平庸，缺乏独特视角，整体流于表面。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "场景真实，但意象缺乏提炼",
+                "realm": "逸",
+                "reason": "试图自然但失之平淡"
+            },
+            {
+                "style": "悲慨",
+                "imagery_analysis": "愁绪弥漫，但表达直白",
+                "realm": "能",
+                "reason": "情感真实但深度不足"
+            }
+        ],
+        "imagery": [
+            "绿槐",
+            "青楼",
+            "行人",
+            "烟水",
+            "露花",
+            "鞭"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "烟水露花无处问，摇鞭凝睇不胜愁，画面感强"
+        }
+    },
+    {
+        "title": "惆悵詩九首 六",
+        "author": "顧甄遠",
+        "paragraphs": [
+            "役盡心神銷盡骨，恩情未斷忽分離。",
+            "平生此恨無言處，只有衣襟淚得知。"
+        ],
+        "paragraphs_simplified": [
+            "役尽心神销尽骨，恩情未断忽分离。",
+            "平生此恨无言处，只有衣襟泪得知。"
+        ],
+        "translation": "耗尽心神，销尽骨肉，恩情未断却忽然分离。平生此恨无处诉说，只有衣襟上的泪水知道。",
+        "score": 3.2,
+        "subject": [
+            "悼亡诗",
+            "闺怨诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "悔恨"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "直抒胸臆"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句叙述分离之痛，后句点明无言之恨，以泪结，情感强烈。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "役尽心神销尽骨夸大悲伤程度"
+                }
+            ]
+        },
+        "analysis": "役尽心神销尽骨，以夸张手法写身心俱损，恩情未断忽分离，突显命运无常。无言处只有衣襟泪，细节真实，但语言直露，缺乏含蓄韵味。情感虽真，却少审美距离。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "直写心神骨肉之痛，境界悲切",
+                "realm": "能",
+                "reason": "情感强烈但表达欠含蓄"
+            }
+        ],
+        "imagery": [
+            "心神",
+            "骨",
+            "恩情",
+            "衣襟",
+            "泪"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "平生此恨无言处，只有衣襟泪得知，细节动人"
+        }
+    },
+    {
+        "title": "惆悵詩九首 七",
+        "author": "顧甄遠",
+        "paragraphs": [
+            "濃醪豔唱愁難破，骨瘦魂消病已成。",
+            "若爲多羅年少死，始甘人道有風情。"
+        ],
+        "paragraphs_simplified": [
+            "浓醪艳唱愁难破，骨瘦魂消病已成。",
+            "若为多罗年少死，始甘人道有风情。"
+        ],
+        "translation": "浓酒艳唱，愁绪难破，骨瘦魂消，病已成。如果是为了多罗（可能指年轻貌美）年少而死，才甘心让人说有风情。",
+        "score": 3.0,
+        "subject": [
+            "爱情诗",
+            "悼亡诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "痴情"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句写酒唱难破愁，后句写为情而死甘心，情感从压抑到决绝。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "骨瘦魂消病已成夸大相思之苦"
+                }
+            ]
+        },
+        "analysis": "浓醪艳唱与愁难破形成反差，骨瘦魂消刻画病态痴情。后句假设为情死，才甘心被称有风情，立意在古典诗词中常见，辞藻艳丽但堆砌感强，缺乏新意。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "浓醪艳唱意象华丽，但流于表面",
+                "realm": "逸",
+                "reason": "试图绮丽但失之浮艳"
+            },
+            {
+                "style": "悲慨",
+                "imagery_analysis": "愁病交加，但表达直白",
+                "realm": "能",
+                "reason": "情感深沉但意象陈旧"
+            }
+        ],
+        "imagery": [
+            "浓醪",
+            "艳唱",
+            "骨",
+            "魂",
+            "病",
+            "多罗",
+            "年少",
+            "风情"
+        ],
+        "allusions": [
+            {
+                "phrase": "多罗",
+                "explanation": "可能指多罗树或佛教用语，代指年轻貌美，但不确切"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "浓醪艳唱愁难破，骨瘦魂消病已成，意象密集"
+        }
+    },
+    {
+        "title": "惆悵詩九首 八",
+        "author": "顧甄遠",
+        "paragraphs": [
+            "淚滿羅衣酒滿巵，一聲歌斷怨傷離。",
+            "如今兩地心中事，直是瞿曇也不知。"
+        ],
+        "paragraphs_simplified": [
+            "泪满罗衣酒满巵，一声歌断怨伤离。",
+            "如今两地心中事，直是瞿昙也不知。"
+        ],
+        "translation": "泪水湿满罗衣，酒满酒杯，一声歌声断绝，怨恨伤离。如今两地心中事，直是释迦牟尼也不知道。",
+        "score": 3.8,
+        "subject": [
+            "离别诗",
+            "爱情诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "离别"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句写泪酒歌断，后句用瞿昙不知，强调心事之深，情感升华。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "瞿昙指佛祖，喻心事难解"
+                }
+            ]
+        },
+        "analysis": "泪满罗衣酒满巵，以并置手法强化离别之痛，一声歌断怨伤离，直接点题。后句用瞿昙不知，借典故深化情感，表达心事之深连佛祖难解。用典恰当，情感浓烈，但稍显直白。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "泪酒歌离，境界悲切",
+                "realm": "能",
+                "reason": "情感强烈，用典巧妙"
+            },
+            {
+                "style": "含蓄",
+                "imagery_analysis": "借瞿昙暗示心事难解",
+                "realm": "能",
+                "reason": "表达委婉，但力度稍弱"
+            }
+        ],
+        "imagery": [
+            "泪",
+            "罗衣",
+            "酒",
+            "巵",
+            "歌",
+            "瞿昙"
+        ],
+        "allusions": [
+            {
+                "phrase": "瞿昙",
+                "explanation": "释迦牟尼的姓，代指佛祖"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "如今两地心中事，直是瞿昙也不知，用典出彩"
+        }
+    },
+    {
+        "title": "惆悵詩九首 九",
+        "author": "顧甄遠",
+        "paragraphs": [
+            "橫泥杯觴醉復醒，愁牽時有小詩成。",
+            "早知惹得千般恨，悔不天生解薄情。"
+        ],
+        "paragraphs_simplified": [
+            "横泥杯觞醉复醒，愁牵时有小诗成。",
+            "早知惹得千般恨，悔不天生解薄情。"
+        ],
+        "translation": "在泥泞中举杯饮酒，醉了又醒。愁绪牵引，时常有小诗写成。早知会招来千般悔恨，后悔没有天生懂得薄情（即无情）。",
+        "score": 3.2,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "悔恨"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志",
+                "首尾呼应"
+            ],
+            "structural_logic": "以饮酒醉醒起兴，引出写诗排遣愁绪，最终以悔恨作结，形成情感循环。",
+            "evidence": [
+                {
+                    "tag": "愁牵",
+                    "explanation": "以比喻手法将愁绪拟人化，形象表达情感牵引。"
+                },
+                {
+                    "tag": "千般恨",
+                    "explanation": "夸张手法强调悔恨之深重。"
+                },
+                {
+                    "tag": "悔不天生解薄情",
+                    "explanation": "卒章显志，直接点明核心悔意。"
+                }
+            ]
+        },
+        "analysis": "此诗以饮酒与写诗为线索，勾勒出诗人借酒消愁、愁极成诗的内心轨迹。意象如横泥杯觞，虽具象却显粗陋，未能升华意境。情感表达直白，悔恨之语流于表面，缺乏含蓄之美。整体构思平实，未脱俗套，属于情感宣泄而非审美沉淀。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图通过饮酒与写诗表达悲慨，但意象陈旧，情感直露。",
+                "realm": "能品",
+                "reason": "技法尚熟，但立意浅显，未能达到悲慨的深沉境界。"
+            }
+        ],
+        "imagery": [
+            "酒",
+            "诗",
+            "恨",
+            "情"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "直接点明悔恨之情，情感强烈，是全诗核心。"
+        }
+    },
+    {
+        "title": "登清居臺",
+        "author": "魏巒",
+        "paragraphs": [
+            "迤邐清居臺，連延白雲外。",
+            "側聆天上語，下視飛鳥背。"
+        ],
+        "paragraphs_simplified": [
+            "迤逦清居台，连延白云外。",
+            "侧聆天上语，下视飞鸟背。"
+        ],
+        "translation": "蜿蜒的清居台，连绵延伸到白云之外。侧耳倾听天上的言语，向下俯视飞鸟的背脊。",
+        "score": 4.2,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句描绘清居台的蜿蜒形态，次句以白云外拓展空间；后两句通过听觉与视觉的转换，构建高远意境。",
+            "evidence": [
+                {
+                    "tag": "迤逦",
+                    "explanation": "以叠词勾勒台势的曲折，增强画面感。"
+                },
+                {
+                    "tag": "侧聆天上语",
+                    "explanation": "听觉描写，暗示与天界的接近，虚实相生。"
+                },
+                {
+                    "tag": "下视飞鸟背",
+                    "explanation": "夸张视角，凸显登临之高。"
+                }
+            ]
+        },
+        "analysis": "此诗以简练笔法构筑高远意境。起句“迤逦”与“连延”对仗工稳，将清居台的形态与白云外的空间融为一体；后两句以“侧聆”与“下视”的感官转换，生动呈现登临者的超然视角。意象纯净，动静结合，无一字抒情而闲适之意自现，体现了高度的空间艺术与含蓄美学。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "以高台、白云、天语、飞鸟等意象，营造出清奇高远的古代隐逸境界。",
+                "realm": "妙品",
+                "reason": "意境超诣，技法缜密，颇具高古之风。"
+            }
+        ],
+        "imagery": [
+            "台",
+            "云",
+            "天",
+            "鸟"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "以“迤逦”和“连延”勾勒清居台的形态，意境开阔，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "游昌化精舍",
+        "author": "柳明獻",
+        "paragraphs": [
+            "寶臺侵漢遠，金地接霞高。",
+            "何必遊天外，忻此契盧敖。"
+        ],
+        "paragraphs_simplified": [
+            "宝台侵汉远，金地接霞高。",
+            "何必游天外，忻此契卢敖。"
+        ],
+        "translation": "宝台高耸，直逼银河，金色大地连接着高处的彩霞。何必游历天外？欣喜于此契合卢敖。",
+        "score": 3.8,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "用典"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志",
+                "承上启下"
+            ],
+            "structural_logic": "前两句以对偶句极写精舍之宏伟，后两句以反问转折，用典点明满足于本地胜境之志。",
+            "evidence": [
+                {
+                    "tag": "宝台侵汉远",
+                    "explanation": "夸张手法，形容台高侵逼银河。"
+                },
+                {
+                    "tag": "忻此契卢敖",
+                    "explanation": "用卢敖典故，表达契合仙游的喜悦。"
+                }
+            ]
+        },
+        "analysis": "前半以“侵汉”“接霞”的宏大意象，成功渲染精舍的壮丽气势；后半借卢敖之典，以反问句式收束，虽有立意，但语言趋于直白，削弱了诗意的含蓄。用典恰当，但整体结构前紧后松，未能将景物与情感深度融合，流于说明性表达。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图以宝台、金地等意象构筑高古意境，但后半用典略显直白。",
+                "realm": "能品",
+                "reason": "前半气势宏大，后半用典点题，但诗味不足。"
+            }
+        ],
+        "imagery": [
+            "台",
+            "地",
+            "霞",
+            "天"
+        ],
+        "allusions": [
+            {
+                "phrase": "卢敖",
+                "explanation": "古代仙人，象征超脱世俗的境界。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“宝台侵汉远，金地接霞高”以夸张手法描绘精舍之高耸，意象壮丽。"
+        }
+    },
+    {
+        "title": "善卷先生壇",
+        "author": "蔡崑",
+        "paragraphs": [
+            "幾到壇邊登閣望，因思遺跡詠今朝。",
+            "當時爲有重華出，不是先生傲帝堯。"
+        ],
+        "paragraphs_simplified": [
+            "几到坛边登阁望，因思遗迹咏今朝。",
+            "当时为有重华出，不是先生傲帝尧。"
+        ],
+        "translation": "多次到坛边登阁眺望，因而思念遗迹，咏叹今朝。当时因为有重华（舜）出现，不是先生傲视帝尧。",
+        "score": 2.5,
+        "subject": [
+            "怀古诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "承上启下",
+                "卒章显志"
+            ],
+            "structural_logic": "首句记登临之事，次句引出怀古之情；后两句用历史典故，解释善卷不傲帝尧的原因，以议论作结。",
+            "evidence": [
+                {
+                    "tag": "重华",
+                    "explanation": "舜帝典故，用于说明历史背景。"
+                },
+                {
+                    "tag": "帝尧",
+                    "explanation": "尧帝典故，与善卷对比。"
+                }
+            ]
+        },
+        "analysis": "此诗以登坛怀古起笔，但语言平实，缺乏诗意提炼。后半直接引用历史人物，以解释性语句阐明观点，虽用典却未能化典为诗，更像史论而非抒情。意象单薄，情感表达直露，未能通过景物或意境传递怀古之思，整体流于叙述。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以坛、阁等意象和典故营造典雅氛围，但执行直白。",
+                "realm": "凡品",
+                "reason": "技法平庸，缺乏诗味，未能达到典雅之境。"
+            }
+        ],
+        "imagery": [
+            "坛",
+            "阁",
+            "迹"
+        ],
+        "allusions": [
+            {
+                "phrase": "重华",
+                "explanation": "舜帝，古代贤君。"
+            },
+            {
+                "phrase": "帝尧",
+                "explanation": "尧帝，古代圣君。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“几到坛边登阁望”提供具体行动，虽平淡但尚有场景感。"
+        }
+    },
+    {
+        "title": "句",
+        "author": "蔡崑",
+        "paragraphs": [
+            "飄飄隨暮雨，颯颯落秋山。"
+        ],
+        "paragraphs_simplified": [
+            "飘飘随暮雨，飒飒落秋山。"
+        ],
+        "translation": "飘飘地随着暮雨，飒飒地落在秋山。",
+        "score": 4.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "叠词",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以对偶句直接呈现秋山暮雨的动态景象，通过叠词强化听觉与视觉感受。",
+            "evidence": [
+                {
+                    "tag": "飘飘",
+                    "explanation": "叠词描绘轻柔飘动之态。"
+                },
+                {
+                    "tag": "飒飒",
+                    "explanation": "拟声词，模拟风雨声，增强现场感。"
+                },
+                {
+                    "tag": "暮雨",
+                    "explanation": "点明时间与天气，营造氛围。"
+                }
+            ]
+        },
+        "analysis": "此联以极简笔墨勾勒出秋山暮雨的动态美。叠词“飘飘”与“飒飒”精准捕捉了雨丝的轻盈与声响，对仗工整，意境浑然。无一字抒情而恬淡之意自现，体现了白描手法的高超与自然之趣，堪称以少胜多的典范。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以暮雨、秋山等意象，通过叠词与对偶，展现清新自然的意境。",
+                "realm": "妙品",
+                "reason": "技法纯熟，意境清奇，自然天成。"
+            }
+        ],
+        "imagery": [
+            "雨",
+            "山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“飘飘随暮雨”以叠词描绘动态，意境优美，是全诗精华。"
+        }
+    },
+    {
+        "title": "題鄜州相思鋪",
+        "author": "令狐挺",
+        "paragraphs": [
+            "誰把相思號此河，塞垣車馬往來多。",
+            "只應自古征人淚，灑向空川作逝波。"
+        ],
+        "paragraphs_simplified": [
+            "谁把相思号此河，塞垣车马往来多。",
+            "只应自古征人泪，洒向空川作逝波。"
+        ],
+        "translation": "谁给这条河起名叫相思？边塞的车马往来频繁。只应该从古至今征人的泪水，洒向空旷的河川成为流逝的波浪。",
+        "score": 3.8,
+        "subject": [
+            "边塞诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "忧愁",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "以设问开篇，引出相思河之名，继而描述边塞车马繁多，最终以征人泪水化作逝波收束，情感层层递进。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "“誰把相思號此河”以疑问句式引发思考，增强感染力。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“灑向空川作逝波”将泪水比作流逝的波浪，形象化愁绪。"
+                }
+            ]
+        },
+        "analysis": "此诗以边塞相思河为意象载体，开篇设问直指主题，暗含对征人命运的诘问。车马往来的喧嚣与空川逝波的寂寥形成对比，折射出战争背景下个体情感的渺小。泪水化波的比喻虽不新奇，但通过“自古”一词拓宽了时间维度，使悲情具有历史沉淀感。整体语言凝练，意境苍凉，然意象组合略显常规，未能突破同类题材的固有框架。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以“相思河”“征人泪”构筑苍茫意境，符合悲慨中对生命无常的咏叹。",
+                "realm": "能品",
+                "reason": "技法纯熟，情感传递清晰，但意象创新不足，属同类作品中稳健之作。"
+            }
+        ],
+        "imagery": [
+            "河",
+            "车马",
+            "泪",
+            "川",
+            "波"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“灑向空川作逝波”以动态意象收束全诗，情感浓缩度最高。"
+        }
+    }
+]

@@ -1,0 +1,908 @@
+[
+    {
+        "title": "武夷精舍雜詠 止宿寮",
+        "author": "朱熹",
+        "paragraphs": [
+            "故人肯相尋，共寄一茅宇。",
+            "山水爲留行，無勞具雞黍。"
+        ],
+        "paragraphs_simplified": [
+            "故人肯相寻，共寄一茅宇。",
+            "山水为留行，无劳具鸡黍。"
+        ],
+        "translation": "老朋友愿意来相访，共同寄居在一间茅屋。山水挽留我们的行程，无需准备鸡和黍米的饭食。",
+        "score": 3.5,
+        "subject": [
+            "山水诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以故人相访起笔，借山水留行之景，烘托闲适淡泊之情，结构直白。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过山水留行来表达闲适之情"
+                }
+            ]
+        },
+        "analysis": "此诗以简练之笔勾勒故人相访之景，茅宇共寄，山水留行，流露出淡泊宁静之趣。意象自然，情感含蓄，颇具隐逸之风。情景契合度较高，但立意稍显平淡，整体呈现一种平和的审美距离。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "茅宇、山水等意象构筑自然之境",
+                "realm": "能品",
+                "reason": "技法纯熟，意境淡远，但缺乏深刻新意"
+            }
+        ],
+        "imagery": [
+            "故人",
+            "茅宇",
+            "山水",
+            "雞黍"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "山水爲留行，無勞具雞黍更显闲适之情"
+        }
+    },
+    {
+        "title": "武夷精舍雜詠 石門塢",
+        "author": "朱熹",
+        "paragraphs": [
+            "朝開雲氣擁，暮掩薜蘿深。",
+            "自笑晨門者，那知孔氏心。"
+        ],
+        "paragraphs_simplified": [
+            "朝开云气拥，暮掩薜萝深。",
+            "自笑晨门者，那知孔氏心。"
+        ],
+        "translation": "早晨打开门云气簇拥，傍晚关闭时薜萝深掩。自嘲笑那守门的人，怎能知道孔子的心。",
+        "score": 4.0,
+        "subject": [
+            "山水诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先写朝暮云气薜萝之景，后以典故作结，对比世俗与高深之心。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用晨门者和孔子典故，表达对世俗的超越"
+                }
+            ]
+        },
+        "analysis": "石门塢一诗，朝暮云气薜萝，构筑幽深之境。后两句用晨门者之典，反衬孔氏之心，暗含对隐逸生活的肯定。典故运用自然，哲理深邃，意境超然，情感回甘。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "云气、薜萝等意象高古脱俗",
+                "realm": "妙品",
+                "reason": "用典精妙，意境超然，技法高古"
+            }
+        ],
+        "imagery": [
+            "云气",
+            "薜萝",
+            "晨门",
+            "孔氏"
+        ],
+        "allusions": [
+            {
+                "phrase": "晨門者",
+                "explanation": "指《论语》中守门的小吏，象征世俗之人"
+            },
+            {
+                "phrase": "孔氏心",
+                "explanation": "孔子的思想，代表高深之道"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "自笑晨門者，那知孔氏心点明主旨"
+        }
+    },
+    {
+        "title": "武夷精舍雜詠 觀善齋",
+        "author": "朱熹",
+        "paragraphs": [
+            "負笈何方來，今朝此同席。",
+            "日用無餘功，相看俱努力。"
+        ],
+        "paragraphs_simplified": [
+            "负笈何方来，今朝此同席。",
+            "日用无余功，相看俱努力。"
+        ],
+        "translation": "背着书箱从哪里来，今天在此同席而坐。日常没有多余功夫，互相看着都在努力。",
+        "score": 3.5,
+        "subject": [
+            "酬唱诗",
+            "家训诗"
+        ],
+        "emotion": [
+            "期待",
+            "勉励"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "叙事"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以问答起笔，直述学者相聚之景，后两句强调日常功夫和相互勉励。",
+            "evidence": [
+                {
+                    "tag": "叙事",
+                    "explanation": "叙述负笈而来和同席努力的情景"
+                }
+            ]
+        },
+        "analysis": "观善斋诗以问答起笔，直述学者相聚之景。后两句强调日常功夫和相互勉励，体现儒家修身之旨。语言质朴，立意明确，但缺乏意象的深度和审美距离，整体平实。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "负笈、同席等意象典雅",
+                "realm": "能品",
+                "reason": "技法平稳，但立意浅显，缺乏新意"
+            }
+        ],
+        "imagery": [
+            "负笈",
+            "同席",
+            "日用"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "日用無餘功，相看俱努力体现勤勉精神"
+        }
+    },
+    {
+        "title": "武夷精舍雜詠 寒栖館",
+        "author": "朱熹",
+        "paragraphs": [
+            "竹間彼何人，抱甕靡遺力。",
+            "遥夜更不眠，焚香坐看壁。"
+        ],
+        "paragraphs_simplified": [
+            "竹间彼何人，抱瓮靡遗力。",
+            "遥夜更不眠，焚香坐看壁。"
+        ],
+        "translation": "竹林间那人是谁，抱着瓦罐不留余力。长夜更加不眠，焚香静坐看墙壁。",
+        "score": 4.0,
+        "subject": [
+            "山水诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "孤独",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "以问句引出人物，后描述夜坐焚香之景，虚实结合，烘托清幽心境。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "以问句引出人物，增加悬念"
+                }
+            ]
+        },
+        "analysis": "寒栖馆诗以竹间问句开篇，勾勒隐士形象。抱瓮不遗余力，焚香夜坐，描绘出清苦而自足的生活图景。意象清幽，情感内敛，情景契合，意境真切，具有较高的审美价值。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "竹间、抱瓮、焚香等意象清奇脱俗",
+                "realm": "妙品",
+                "reason": "意境独特，描写细腻，技法精妙"
+            }
+        ],
+        "imagery": [
+            "竹",
+            "瓮",
+            "香",
+            "壁"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "遥夜更不眠，焚香坐看壁展现静夜沉思"
+        }
+    },
+    {
+        "title": "武夷精舍雜詠 晚對亭",
+        "author": "朱熹",
+        "paragraphs": [
+            "倚笻南山巔，却立有晚對。",
+            "蒼峭矗寒空，落日明影翠。"
+        ],
+        "paragraphs_simplified": [
+            "倚筇南山巅，却立有晚对。",
+            "苍峭矗寒空，落日明影翠。"
+        ],
+        "translation": "倚着竹杖在南山顶，却立在那里有晚对。苍翠陡峭矗立在寒空，落日照亮影子翠绿。",
+        "score": 4.5,
+        "subject": [
+            "山水诗",
+            "题画诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先点明地点和动作，后描绘苍峭寒空与落日翠影，动静结合，画面感强。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过落日寒空之景表达豪迈之情"
+                }
+            ]
+        },
+        "analysis": "晚对亭诗以倚筇起笔，点明地点。后两句描绘苍峭寒空与落日翠影，色彩对比鲜明，意境开阔。动静结合，极具画面感，情景交融，情感回甘，堪称佳作。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "苍峭、落日等意象劲健有力",
+                "realm": "妙品",
+                "reason": "气势雄浑，描写生动，技法高超"
+            }
+        ],
+        "imagery": [
+            "南山",
+            "竹杖",
+            "落日",
+            "寒空"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "蒼峭矗寒空，落日明影翠最具画面感"
+        }
+    },
+    {
+        "title": "武夷精舍雜詠 鐵笛亭",
+        "author": "朱熹",
+        "paragraphs": [
+            "何人轟鐵笛，噴薄兩崖開。",
+            "千載留餘響，猶疑笙鶴來。"
+        ],
+        "paragraphs_simplified": [
+            "何人轰铁笛，喷薄两崖开。",
+            "千载留余响，犹疑笙鹤来。"
+        ],
+        "translation": "什么人轰然吹响铁笛，声音喷薄而出，震开了两岸。千年后仍留下余音，让人怀疑是笙箫和仙鹤飞来。",
+        "score": 4.2,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句以问句起笔，写铁笛声势，次句转入余音千载，引入仙界意象，营造空灵意境。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "笙鹤比喻仙乐，增添神秘感"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "喷薄两崖开，极言笛声之洪亮"
+                }
+            ]
+        },
+        "analysis": "此诗以铁笛亭为题，首句以问句起笔，声势夺人，笛声“喷薄”二字极具动感，勾勒出山谷回响之景。后句转入余音千载，引入“笙鹤”意象，将现实声响升华为仙界幻听，虚实相生。整体意境空灵，然“犹疑”二字稍显直白，未能完全含蓄。作为杂咏，其技法纯熟，但立意未脱朱子理学框架，略显说教。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "以铁笛声勾连古今，融入仙鹤意象，构筑超脱时空的意境。",
+                "realm": "妙品",
+                "reason": "以笛声营造虚实结合之境，艺术水准高，但情感表达稍欠深度。"
+            },
+            {
+                "style": "清奇",
+                "imagery_analysis": "笛声与笙鹤交织，形成清幽奇异的画面感。",
+                "realm": "妙品",
+                "reason": "意境清幽，但“犹疑”一词略损含蓄之美。"
+            }
+        ],
+        "imagery": [
+            "铁笛",
+            "崖",
+            "笙鹤"
+        ],
+        "allusions": [
+            {
+                "phrase": "笙鹤",
+                "explanation": "典出《列仙传》，指仙乐或仙人坐骑，象征超凡境界。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "千载留余响，犹疑笙鹤来，余韵悠长，意境升华。"
+        }
+    },
+    {
+        "title": "武夷精舍雜詠 釣磯",
+        "author": "朱熹",
+        "paragraphs": [
+            "削成蒼石稜，倒影寒潭碧。",
+            "永日靜垂竿，茲心竟誰識。"
+        ],
+        "paragraphs_simplified": [
+            "削成苍石棱，倒影寒潭碧。",
+            "永日静垂竿，兹心竟谁识。"
+        ],
+        "translation": "岩石削成棱角，倒影映在碧绿的寒潭中。整日静静地垂钓，这份心绪究竟谁能理解。",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "孤独",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句描绘钓矶景色，冷峻画面；后两句转入垂钓者心境，表达孤高之情。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "削成苍石棱，倒影寒潭碧，工整对仗"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "兹心竟谁识，赋予心以人的情感"
+                }
+            ]
+        },
+        "analysis": "诗写钓矶，首句以“削”“倒”二字勾勒石棱与潭影，画面冷峻。后句直抒胸臆，“永日静垂竿”显隐逸之志，“兹心竟谁识”道出孤寂。整体结构紧凑，但“竟谁识”稍显直露，未能完全含蓄。作为理学家诗，其托物言志手法娴熟，然情感深度有限，未臻化境。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "寒潭垂竿，意境淡泊，远离尘嚣。",
+                "realm": "能品",
+                "reason": "以景衬情，但情感表达较为直白，缺乏余味。"
+            },
+            {
+                "style": "疏野",
+                "imagery_analysis": "垂钓之野趣，流露自然疏放之态。",
+                "realm": "能品",
+                "reason": "野趣有余，但深度不足。"
+            }
+        ],
+        "imagery": [
+            "石棱",
+            "寒潭",
+            "竿"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "永日静垂竿，兹心竟谁识，直接点明心境。"
+        }
+    },
+    {
+        "title": "武夷精舍雜詠 茶竈",
+        "author": "朱熹",
+        "paragraphs": [
+            "仙翁遺石竈，宛在水中央。",
+            "飲罷方舟去，茶烟裊細香。"
+        ],
+        "paragraphs_simplified": [
+            "仙翁遗石灶，宛在水中央。",
+            "饮罢方舟去，茶烟袅细香。"
+        ],
+        "translation": "仙人遗留的石灶，仿佛在水中央。饮茶后乘舟离去，茶烟袅袅散发细香。",
+        "score": 3.9,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "通感"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "前句写石灶来历，虚实结合；后句写饮茶后情景，以通感手法收尾，营造闲适意境。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "仙翁遗石灶，以仙人喻石灶之古雅"
+                },
+                {
+                    "tag": "通感",
+                    "explanation": "茶烟袅细香，视觉与嗅觉交融"
+                }
+            ]
+        },
+        "analysis": "此诗以茶灶为题，首句引入“仙翁”意象，赋予石灶神秘色彩。“宛在水中央”化用《诗经》意境，增添诗意。后句写饮茶后乘舟离去，“茶烟袅细香”以通感手法，将茶香具象化，余韵悠长。整体清新自然，但“仙翁”稍显俗套，未脱前人窠臼。作为杂咏，其意境闲适，然深度稍欠。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "语言平实，描绘饮茶日常，流露自然之趣。",
+                "realm": "能品",
+                "reason": "清新但无突破。"
+            },
+            {
+                "style": "纤秾",
+                "imagery_analysis": "茶烟袅细香，细节细腻，感官丰富。",
+                "realm": "能品",
+                "reason": "技法纯熟，但意象常见。"
+            }
+        ],
+        "imagery": [
+            "石灶",
+            "水",
+            "方舟",
+            "茶烟"
+        ],
+        "allusions": [
+            {
+                "phrase": "仙翁",
+                "explanation": "可能指传说中的仙人，如葛洪，象征超脱。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "饮罢方舟去，茶烟袅细香，动作与嗅觉结合，生动。"
+        }
+    },
+    {
+        "title": "武夷精舍雜詠 漁艇",
+        "author": "朱熹",
+        "paragraphs": [
+            "出載長烟重，歸裝片月輕。",
+            "千巖猿鶴友，愁絕棹歌聲。"
+        ],
+        "paragraphs_simplified": [
+            "出载长烟重，归装片月轻。",
+            "千岩猿鹤友，愁绝棹歌声。"
+        ],
+        "translation": "出航时载着浓重的烟雾，归航时只带着一片轻月。千岩万壑中的猿鹤为友，愁苦至极的划船歌声。",
+        "score": 3.7,
+        "subject": [
+            "山水诗",
+            "羁旅诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句对比出归之景，后句写与猿鹤为伴却愁苦，表达羁旅之忧。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "出载长烟重，归装片月轻，工整对比"
+                },
+                {
+                    "tag": "以乐衬哀",
+                    "explanation": "猿鹤友之乐衬托棹歌声之愁"
+                }
+            ]
+        },
+        "analysis": "诗写渔艇，首句以“长烟重”与“片月轻”对举，画面感强，暗含出归之别。后句“千岩猿鹤友”本应闲适，却接“愁绝棹歌声”，转折突兀，情感张力大。然“愁绝”稍显直露，未能含蓄。整体意境苍凉，但作为理学家诗，其情感表达略显刻意，未达自然。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "愁绝棹歌声，直接抒发悲凉之情。",
+                "realm": "能品",
+                "reason": "情感表达较为直白。"
+            },
+            {
+                "style": "沉著",
+                "imagery_analysis": "出载归装之对比，体现沉稳笔力。",
+                "realm": "能品",
+                "reason": "技法成熟，但情感稍显刻意。"
+            }
+        ],
+        "imagery": [
+            "烟",
+            "月",
+            "岩",
+            "猿鹤",
+            "棹歌"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "出载长烟重，归装片月轻，对比鲜明，意象生动。"
+        }
+    },
+    {
+        "title": "次公濟精舍韻",
+        "author": "朱熹",
+        "paragraphs": [
+            "一室空山裏，纖塵迥莫侵。",
+            "若非同臭味，誰肯遠過臨。",
+            "健策凌丹壑，清詩動玉琴。",
+            "溪邊一回首，平地足崎嶔。"
+        ],
+        "paragraphs_simplified": [
+            "一室空山里，纤尘迥莫侵。",
+            "若非同臭味，谁肯远过临。",
+            "健策凌丹壑，清诗动玉琴。",
+            "溪边一回首，平地足崎嶔。"
+        ],
+        "translation": "一间屋子在空山中，纤尘也无法侵入。如果不是志同道合，谁肯远道而来。健步登上红壑，清诗如动玉琴。在溪边一回首，平地也显得崎岖。",
+        "score": 3.6,
+        "subject": [
+            "酬唱诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句写空山之净与知音之稀，后两句写友人来访之乐，结尾回首感慨世路艰难。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "清诗动玉琴，以琴声喻诗之美"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "谁肯远过临，强调知音难得"
+                }
+            ]
+        },
+        "analysis": "此诗为酬唱之作，首联以空山纤尘起兴，喻高洁之境。颔联设问，点出同道之稀。颈联写友人健步清诗，生动如画。尾联“溪边一回首”陡转，以“平地足崎嶔”作结，暗含世路艰难。整体结构严谨，但“若非同臭味”稍显直白，未能含蓄。作为酬唱诗，其技法纯熟，然情感深度有限，未脱应酬窠臼。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "语言工整，空山玉琴，构筑高雅意境。",
+                "realm": "能品",
+                "reason": "酬唱诗常见套路，立意未新。"
+            },
+            {
+                "style": "高古",
+                "imagery_analysis": "空山意象，体现超脱世俗之志。",
+                "realm": "能品",
+                "reason": "意境高古，但情感表达较为直白。"
+            }
+        ],
+        "imagery": [
+            "空山",
+            "纤尘",
+            "丹壑",
+            "玉琴",
+            "溪"
+        ],
+        "allusions": [
+            {
+                "phrase": "同臭味",
+                "explanation": "典出《周易》“同心之言，其臭如兰”，指志同道合。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "溪边一回首，平地足崎嶔，意境深远，有哲理。"
+        }
+    },
+    {
+        "title": "奉同公濟諸兄自精舍來集沖佑之歲寒軒因邀諸羽客同飲公濟有詩贈守元章師因次其韻",
+        "author": "朱熹",
+        "paragraphs": [
+            "蓬萊清淺今幾年，武夷突兀還蒼然。",
+            "但忻丹籍有期運，不悟翠壁無寅緣。",
+            "鼎中龍虎應浪語，紙上爻彖非真傳。",
+            "明朝猿叫三峽路，一葉徑上滄浪船。"
+        ],
+        "paragraphs_simplified": [
+            "蓬莱清浅今几年，武夷突兀还苍然。",
+            "但忻丹籍有期运，不悟翠壁无寅缘。",
+            "鼎中龙虎应浪语，纸上爻彖非真传。",
+            "明朝猿叫三峡路，一叶径上沧浪船。"
+        ],
+        "translation": "蓬莱仙境的水清浅了，如今有几年了？武夷山高耸依然苍翠。只欣喜丹籍（道教名册）有命运期限，却不知翠绿的山壁没有攀附的缘分。鼎中炼丹的龙虎（水火）之说应是虚妄之言，纸上的卦辞彖传并非真实传承。明晨猿猴啼叫于三峡路上，一叶小舟径直驶上沧浪之船。",
+        "score": 3.8,
+        "subject": [
+            "游仙诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两联写景抒怀，以蓬莱、武夷起兴；后两联转入议论，批判丹术虚妄；末句以行舟意象收束，寄托超脱之志。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“鼎中龙虎”比喻炼丹术中的水火调和，暗指其虚幻。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“蓬莱”引用神话仙山，营造缥缈意境。"
+                }
+            ]
+        },
+        "analysis": "此诗以蓬莱、武夷等仙山意象构筑起超然物外的基调，丹籍、鼎炉等道教元素渗透着对长生虚妄的冷峻审视。结构上由景入理，层层递进，末句“一叶径上沧浪船”以孤舟意象直指归隐之志，虚实相生，拓宽了哲理的深度。然用典稍显堆砌，意象间衔接略生硬，未能全然消融典故与情感的隔阂，整体呈现一种知性化的疏离感。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "蓬莱、武夷等意象构筑出高远古朴的仙家境界，但略失自然流动。",
+                "realm": "能",
+                "reason": "试图模仿高古之境，但典故运用稍显刻意，未能达到浑然天成的神妙之境。"
+            }
+        ],
+        "imagery": [
+            "仙山",
+            "丹籍",
+            "鼎",
+            "船"
+        ],
+        "allusions": [
+            {
+                "phrase": "蓬莱",
+                "explanation": "神话中的海上仙山，象征超脱尘世的理想境界。"
+            },
+            {
+                "phrase": "龙虎",
+                "explanation": "道教炼丹术语，指水火或铅汞，喻指炼丹术。"
+            },
+            {
+                "phrase": "爻彖",
+                "explanation": "《易经》中的卦辞和彖辞，代指占卜预言。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            0,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "“明朝猿叫三峽路，一葉徑上滄浪船”以动态意象收束全诗，寄托超然远引之志，最具画面感与哲思深度。"
+        }
+    }
+]

@@ -1,0 +1,1348 @@
+[
+    {
+        "title": "戲贈史次仲",
+        "author": "李廌",
+        "paragraphs": [
+            "世俗匪吾謀，嘉篇常見投。",
+            "舊交皆炫曜，夫子獨淹留。",
+            "禮樂尚虛器，衣冠何自囚。",
+            "秪應凉冷後，蕭颯更清秋。"
+        ],
+        "paragraphs_simplified": [
+            "世俗匪吾谋，嘉篇常见投。",
+            "旧交皆炫曜，夫子独淹留。",
+            "礼乐尚虚器，衣冠何自囚。",
+            "秪应凉冷后，萧颯更清秋。"
+        ],
+        "translation": "世俗的谋划非我所图，却常收到友人寄来的美好诗篇。旧日之交皆在炫耀浮华，唯独先生您却长久滞留不前。礼乐之道已成虚设的器具，士大夫的衣冠何必自我囚禁？只应在凉秋萧瑟之后，才显出更加清冷的秋意。",
+        "score": 3.2,
+        "subject": [
+            "酬唱诗",
+            "咏怀诗"
+        ],
+        "emotion": [
+            "孤傲",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "反问"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两联以世俗与友人对比，突出对方之清高；后两联转入对礼乐虚妄的议论，末句以秋景收束，暗示超脱之境。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "旧交炫曜与夫子淹留形成鲜明对照，凸显人物品格。"
+                },
+                {
+                    "tag": "反问",
+                    "explanation": "衣冠何自囚以反问强化对世俗礼法的质疑。"
+                }
+            ]
+        },
+        "analysis": "此诗以酬赠为表，内里却暗藏对士林浮华的冷峻批判。起句直陈己志，不落俗套；颔联通过对比手法，勾勒出两种人生姿态，夫子形象由此凸显。颈联转而议论礼乐衣冠之虚妄，笔锋犀利，直指士人自我束缚之弊。尾联借秋后凉冷之景，寄寓萧散清高之志，意象与情思交融自然。全诗结构紧凑，语言凝练，虽用典不多，但立意清晰，不失为一首含蓄有力的讽喻之作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以秋后凉冷之境象征超脱世俗之志，意境清峻。",
+                "realm": "能",
+                "reason": "技法成熟，立意清晰，但意象略显常规，未达妙品之境。"
+            }
+        ],
+        "imagery": [
+            "秋",
+            "衣冠",
+            "礼乐"
+        ],
+        "allusions": [
+            {
+                "phrase": "礼乐",
+                "explanation": "指儒家传统礼乐制度，此处暗讽其虚设。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "礼乐尚虚器，衣冠何自囚以反问直指士人自我囚禁之弊，议论犀利。"
+        }
+    },
+    {
+        "title": "秋曉",
+        "author": "李廌",
+        "paragraphs": [
+            "秋色已飄零，凄凄曉更清。",
+            "蕪城宿殘靄，雲日遞微明。",
+            "瓦冷寒霜色，庭空槁葉聲。",
+            "悲歡更盈耳，簫鼓和鐃鉦。"
+        ],
+        "paragraphs_simplified": [
+            "秋色已飘零，凄凄晓更清。",
+            "芜城宿残霭，云日递微明。",
+            "瓦冷寒霜色，庭空槁叶声。",
+            "悲欢更盈耳，箫鼓和铙钲。"
+        ],
+        "translation": "秋色已经凋零，凄清的早晨更加冷寂。荒芜的城池残留着夜霭，云层与日光交替透出微光。屋瓦寒冷凝结霜色，庭院空旷只有枯叶之声。悲欢之声更充斥耳畔，箫鼓与铙钲之声相互应和。",
+        "score": 2.8,
+        "subject": [
+            "写景诗"
+        ],
+        "emotion": [
+            "凄凉",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首联点明秋晨之景，颔联写城与天的朦胧，颈联以声色渲染空寂，尾联突然转入喧闹的乐声，形成反差。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "瓦冷寒霜色，庭空槁叶声工整对仗，强化视觉与听觉。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "槁叶声之静与箫鼓声之动对比，突出环境复杂。"
+                }
+            ]
+        },
+        "analysis": "此诗以秋晓为题，铺陈景物却缺乏情感深度。首联直述秋色凄清，意象陈旧；颔联写城霭云日，虽用对偶但画面模糊；颈联声色描写稍显细腻，然整体仍流于表面。尾联悲欢箫鼓之句，突兀转入喧闹，与前文冷寂之景衔接生硬，未能形成统一意境。全诗技法平庸，堆砌常见秋景意象，情感表达浅露，无独特审美价值。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以秋景营造悲凉氛围，但意象组合松散，未能凝聚深沉情感。",
+                "realm": "劣",
+                "reason": "意象堆砌，情感空洞，尾联转折生硬，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "秋色",
+            "霜",
+            "落叶",
+            "箫鼓"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "瓦冷寒霜色，庭空槁叶声以白描手法勾勒声色，相对真切。"
+        }
+    },
+    {
+        "title": "青泥雪中和德麟韵",
+        "author": "李廌",
+        "paragraphs": [
+            "君笑吾癡絕，吾知自不癡。",
+            "遠游陪勝士，歸橐有新詩。",
+            "笑覺山途近，寒因酒力遲。",
+            "相從畏嘲謔，別後復懷思。"
+        ],
+        "paragraphs_simplified": [
+            "君笑吾痴绝，吾知自不痴。",
+            "远游陪胜士，归橐有新诗。",
+            "笑觉山途近，寒因酒力迟。",
+            "相从畏嘲谑，别后复怀思。"
+        ],
+        "translation": "您笑我痴狂至极，我自知并不愚痴。远游时陪伴高雅之士，归来行囊中装有新诗。谈笑间觉得山路变近，因酒力驱寒而迟缓。相处时害怕被嘲弄，分别后却又思念。",
+        "score": 3.5,
+        "subject": [
+            "酬唱诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "双关"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首联以对话起，点明痴绝主题；颔联叙事远游得诗；颈联写旅途感受，虚实相生；尾联抒发别后情思，呼应首联之痴。",
+            "evidence": [
+                {
+                    "tag": "双关",
+                    "explanation": "痴绝既指友人笑谈，又暗含对诗艺的执着。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "山途近为实感，酒力迟为虚写，交融成趣。"
+                }
+            ]
+        },
+        "analysis": "此诗以雪中酬韵为背景，语言平实却暗含机趣。首联以对话切入，自嘲中透出自信；颔联叙事简洁，归橐有新诗点明文人雅趣；颈联笑觉山途近一句，以主观感受化解旅途艰辛，颇具巧思；尾联怀思之情自然流露，无矫饰之态。全诗结构圆融，情感真挚，虽无惊人之语，但技法纯熟，读来亲切有味。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以日常对话和旅途感受入诗，不事雕琢，流露真性情。",
+                "realm": "能",
+                "reason": "语言自然流畅，情感真切，但意象未出新意。"
+            }
+        ],
+        "imagery": [
+            "雪",
+            "山",
+            "酒",
+            "诗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "笑觉山途近以主观感受写旅途之乐，灵动自然。"
+        }
+    },
+    {
+        "title": "秋蝶",
+        "author": "李廌",
+        "paragraphs": [
+            "粉蝶爾何知，秋深尚戲飛。",
+            "憐渠迷節物，猶若弄春暉。",
+            "露葉今非昔，霜叢疇可依。",
+            "籬邊菊無幾，薄命寄餘菲。"
+        ],
+        "paragraphs_simplified": [
+            "粉蝶尔何知，秋深尚戏飞。",
+            "怜渠迷节物，犹若弄春晖。",
+            "露叶今非昔，霜丛畴可依。",
+            "篱边菊无几，薄命寄余菲。"
+        ],
+        "translation": "粉蝶你懂得什么，秋深了还在嬉戏飞舞。怜惜它迷恋时节景物，仿佛还在玩弄春日阳光。沾露的叶子已非往昔，覆霜的草丛哪可依托？篱边菊花已所剩无几，薄命之身只能寄托于残余的芬芳。",
+        "score": 4.1,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "怜惜",
+            "悲伤"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "设问"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首联设问点题，写秋蝶反常行为；颔联拟人描摹其迷春之态；颈联转折写环境严酷；尾联以菊残蝶薄收束，点明命运无依。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "粉蝶尔何知赋予蝶以人性，增强怜惜之情。"
+                },
+                {
+                    "tag": "以乐衬哀",
+                    "explanation": "戏飞弄春晖之乐景反衬秋日之哀情。"
+                }
+            ]
+        },
+        "analysis": "此诗咏秋蝶而寄寓身世之感，构思精巧，情感深沉。首联以设问起，语带调侃却暗含悲悯；颔联迷节物、弄春晖之态，刻画出蝶的天真与执迷；颈联露叶霜丛之变，陡转严峻，暗示生存困境；尾联借菊残蝶薄，将物我命运融为一体，余韵悠长。全诗意象统一，技法娴熟，拟人手法运用得当，于咏物中见人生感慨，堪称佳作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "以秋蝶喻人，不直说命运而命运自现，意在言外。",
+                "realm": "妙",
+                "reason": "咏物而不滞于物，情感寄托深远，技法精妙。"
+            }
+        ],
+        "imagery": [
+            "蝶",
+            "秋",
+            "霜",
+            "菊"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "篱边菊无几，薄命寄余菲以物喻人，含蓄深沉。"
+        }
+    },
+    {
+        "title": "宿路北",
+        "author": "李廌",
+        "paragraphs": [
+            "晚日明青嶂，春風送馬蹄。",
+            "數朝秦嶺北，今夜洛陽西。",
+            "禁水綠波滿，蕪城碧草齊。",
+            "客心歸更速，解轡恨棲雞。"
+        ],
+        "paragraphs_simplified": [
+            "晚日明青嶂，春风送马蹄。",
+            "数朝秦岭北，今夜洛阳西。",
+            "禁水绿波满，芜城碧草齐。",
+            "客心归更速，解辔恨栖鸡。"
+        ],
+        "translation": "夕阳照亮青色山峦，春风吹送马蹄疾行。多日在秦岭以北，今夜已至洛阳西边。禁苑之水绿波盈满，荒城碧草整齐茂盛。客子归心更加急切，解下马缰却恨栖鸡报晓。",
+        "score": 3.0,
+        "subject": [
+            "羁旅诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "思乡",
+            "急切"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "首联写景叙事，点明旅途；颔联以地名对仗写行程之快；颈联写目的地景物；尾联直抒归心似箭，却因鸡鸣而恨。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "数朝秦岭北，今夜洛阳西工整对仗，突出时空转换。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "马蹄动与栖鸡静对比，衬托客心焦灼。"
+                }
+            ]
+        },
+        "analysis": "此诗写羁旅归途，语言流畅但缺乏新意。首联晚日春风之景平实；颔联地名对仗虽工整，却显堆砌；颈联禁水芜城之写，意象寻常；尾联归心恨鸡之句，情感直露，无余味。全诗结构平稳，但意象陈旧，如绿波碧草之类，落入俗套，未能传达出深沉的思乡之情，整体流于应酬之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以常规羁旅意象铺陈，缺乏独特视角。",
+                "realm": "凡",
+                "reason": "技法平庸，意象陈旧，情感表达浅显。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "马",
+            "水",
+            "草"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "晚日明青嶂，春风送马蹄以景起兴，相对生动。"
+        }
+    },
+    {
+        "title": "分題得古香爐",
+        "author": "李廌",
+        "paragraphs": [
+            "質爲浮休棄，形惟好古宜。",
+            "埏陶異甓礫，香火近神祇。",
+            "冷暖非恒德，興衰彼一時。",
+            "舍茲何所適，爾意勿遲遲。"
+        ],
+        "paragraphs_simplified": [
+            "质为浮休弃，形惟好古宜。",
+            "埏陶异甓砾，香火近神祇。",
+            "冷暖非恒德，兴衰彼一时。",
+            "舍兹何所适，尔意勿迟迟。"
+        ],
+        "translation": "The substance is discarded as ephemeral, the form is solely suited for antiquity. Molded from clay, different from bricks and stones, the incense smoke approaches the gods. Cold and warmth are not constant virtues, rise and fall are of that moment. Abandoning this, where to go? Your mind should not delay.",
+        "score": 3.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "豁达",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "The poem starts by describing the censer's material and form, then its function and transient nature, ending with a moral exhortation.",
+            "evidence": [
+                {
+                    "tag": "托物言志",
+                    "explanation": "Uses the censer to reflect on the transient nature of things and the need for decisive action."
+                }
+            ]
+        },
+        "analysis": "此诗咏古香炉，首联点出其质弃形宜，颔联写其制作与神近，颈联转论冷暖兴衰之无常，尾联劝人勿迟。整体结构平稳，但意象陈旧，缺乏新意。语言尚算凝练，然立意浅显，未能深入挖掘物之内涵，流于表面描述。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图通过古香炉营造典雅氛围，但意象不够鲜明。",
+                "realm": "能品",
+                "reason": "技法成熟，但缺乏独特艺术价值。"
+            }
+        ],
+        "imagery": [
+            "香炉",
+            "陶土",
+            "香火",
+            "神明",
+            "冷暖"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "尾联提出行动建议，有哲理意味。"
+        }
+    },
+    {
+        "title": "和次仲硯詩",
+        "author": "李廌",
+        "paragraphs": [
+            "聞道端溪好，疑應爲土風。",
+            "彼人非博識，此語未爲公。",
+            "野客雖云美，才華恐未同。",
+            "濡毫滋墨外，文渙亦徒空。"
+        ],
+        "paragraphs_simplified": [
+            "闻道端溪好，疑应为土风。",
+            "彼人非博识，此语未为公。",
+            "野客虽云美，才华恐未同。",
+            "濡毫滋墨外，文涣亦徒空。"
+        ],
+        "translation": "Hearing that Duanxi is good, suspect it should be due to local custom. That person is not knowledgeable, this saying is not public. Though the wild guest is said to be beautiful, his talent might not match. Dipping the brush to nourish ink beyond, the writing disperses in vain.",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "疑惑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "The poem starts by mentioning Duanxi inkstone, then questions its reputation, criticizes the person, and ends with the futility of writing.",
+            "evidence": [
+                {
+                    "tag": "议论",
+                    "explanation": "The poem is largely critical commentary on the inkstone and its user."
+                }
+            ]
+        },
+        "analysis": "此诗酬唱砚台，首联提及端溪砚，颔联质疑其评价，颈联批评野客才华不足，尾联言文笔徒劳。全诗以议论为主，但语言直白，缺乏诗意。意象薄弱，情感流于表面，未能以物寄情，显得枯燥。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "试图简洁，但过于直白。",
+                "realm": "凡品",
+                "reason": "议论过多，缺乏诗歌的韵味。"
+            }
+        ],
+        "imagery": [
+            "砚台",
+            "端溪",
+            "野客",
+            "笔墨",
+            "文章"
+        ],
+        "allusions": [
+            {
+                "phrase": "端溪",
+                "explanation": "著名砚台产地，代指优质砚石。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "尾联点出文笔徒空，有总结性。"
+        }
+    },
+    {
+        "title": "秋溪",
+        "author": "李廌",
+        "paragraphs": [
+            "秋溪已澄徹，山色貯溪中。",
+            "雲度前洲白，霞生別嶠紅。",
+            "波瀾寒自鑑，魚雁共遊空。",
+            "棄置功名念，羊裘作釣翁。"
+        ],
+        "paragraphs_simplified": [
+            "秋溪已澄彻，山色贮溪中。",
+            "云度前洲白，霞生别峤红。",
+            "波澜寒自鉴，鱼雁共游空。",
+            "弃置功名念，羊裘作钓翁。"
+        ],
+        "translation": "The autumn stream is already clear, the mountain colors stored in the stream. Clouds pass the front islet white, rosy clouds arise from the other peak red. Waves and cold reflect themselves, fish and wild geese swim together in emptiness. Abandoning thoughts of fame and merit, in sheepskin robe I become a fishing old man.",
+        "score": 4.2,
+        "subject": [
+            "山水诗",
+            "隐逸诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "The poem describes the autumn stream's clarity, then the scenery with clouds and mist, reflects on the cold waves and fish/geese, and ends with the decision to abandon fame and become a fisherman.",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "The beautiful autumn scenery leads to the sentiment of reclusion."
+                }
+            ]
+        },
+        "analysis": "此诗描绘秋溪景色，首联写溪清山色，颔联以云霞渲染色彩，颈联动静结合，尾联点出归隐之志。意象鲜明，情景交融，语言凝练。通过自然之美，自然过渡到超脱尘世之念，意境真切，有回甘之美。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以淡雅之笔勾勒秋景，营造宁静氛围。",
+                "realm": "妙品",
+                "reason": "情景契合，意境深远。"
+            }
+        ],
+        "imagery": [
+            "秋溪",
+            "山色",
+            "云",
+            "霞",
+            "波澜",
+            "鱼雁",
+            "羊裘"
+        ],
+        "allusions": [
+            {
+                "phrase": "羊裘",
+                "explanation": "指严子陵隐居钓鱼的典故，象征不慕名利。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "尾联直抒胸臆，点明归隐主题。"
+        }
+    },
+    {
+        "title": "釣臺 其一",
+        "author": "李廌",
+        "paragraphs": [
+            "釣國固有術，直鈎寧漫勞。",
+            "吾常鄙龍伯，豈復羨琴高。",
+            "濯足風波地，遊心虎豹韜。",
+            "誰云無是子，天下自囂囂。"
+        ],
+        "paragraphs_simplified": [
+            "钓国固有术，直钩宁漫劳。",
+            "吾常鄙龙伯，岂复羡琴高。",
+            "濯足风波地，游心虎豹韬。",
+            "谁云无是子，天下自嚣嚣。"
+        ],
+        "translation": "Fishing for the country has its methods, straight hook is not in vain. I often despise Longbo, how could I envy Qingao? Washing feet in the place of wind and waves, wandering mind in the tactics of tigers and leopards. Who says there is no such person? The world is naturally noisy.",
+        "score": 3.8,
+        "subject": [
+            "怀古诗",
+            "游侠诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "The poem starts with fishing methods, then expresses disdain for mythical figures, describes washing feet and wandering mind, and ends with a comment on the world.",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "References to Longbo (a giant fisherman) and Qingao (a mythical figure) to express disdain for conventional pursuits."
+                }
+            ]
+        },
+        "analysis": "此诗借钓臺抒怀，首联论钓术，颔联鄙视龙伯、琴高等传说，颈联写濯足游心，尾联讽刺天下喧嚣。全诗用典丰富，语言劲健，但略显晦涩。情感豪迈，有超然物外之志，但意象稍杂。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "以豪放之语表达超脱，但用典过多。",
+                "realm": "能品",
+                "reason": "技法成熟，但不够自然。"
+            }
+        ],
+        "imagery": [
+            "钓",
+            "直钩",
+            "龙伯",
+            "琴高",
+            "风波",
+            "虎豹韬"
+        ],
+        "allusions": [
+            {
+                "phrase": "龙伯",
+                "explanation": "神话中的巨人，善钓鱼，象征超凡脱俗。"
+            },
+            {
+                "phrase": "琴高",
+                "explanation": "传说中的仙人，乘鲤鱼升天，象征长生不老。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "濯足风波地，游心虎豹韬。形象生动，表达超然心态。"
+        }
+    },
+    {
+        "title": "釣臺 其二",
+        "author": "李廌",
+        "paragraphs": [
+            "此地有天險，雙臺千仞岡。",
+            "眼寬知世窄，望極使神傷。",
+            "慘澹諸峰立，縈紆一水長。",
+            "振衣懷古罷，新句入斜陽。"
+        ],
+        "paragraphs_simplified": [
+            "此地有天险，双台千仞冈。",
+            "眼宽知世窄，望极使神伤。",
+            "惨澹诸峰立，萦纡一水长。",
+            "振衣怀古罢，新句入斜阳。"
+        ],
+        "translation": "This place has natural dangers, two platforms on a thousand-ren ridge. Broad eyes know the world is narrow, looking to the extreme makes the spirit hurt. Desolate peaks stand, winding water is long. Dusting off clothes after reminiscing, new lines enter the slanting sun.",
+        "score": 4.0,
+        "subject": [
+            "怀古诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "The poem describes the dangerous platform, then the feeling of the world being narrow, the desolate peaks and long river, and ends with dusting off clothes and writing new lines at sunset.",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "The landscape evokes a sense of historical sorrow and personal reflection."
+                }
+            ]
+        },
+        "analysis": "此诗写钓臺景色与怀古之情，首联点出地势险要，颔联写视野开阔而心伤，颈联描绘峰水之景，尾联在夕阳中怀古赋诗。意象壮阔，情感深沉，语言凝练。通过实景与虚情的结合，营造出苍凉的意境。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以悲凉之景抒发感慨，意境深远。",
+                "realm": "妙品",
+                "reason": "情景交融，情感真挚。"
+            }
+        ],
+        "imagery": [
+            "天险",
+            "双台",
+            "千仞冈",
+            "诸峰",
+            "一水",
+            "斜阳"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "眼宽知世窄，望极使神伤。深刻表达登高望远的复杂心境。"
+        }
+    },
+    {
+        "title": "秋風",
+        "author": "李廌",
+        "paragraphs": [
+            "萬籟靜中起，扶摇風怒號。",
+            "半天鳴劍戟，平地卷波濤。",
+            "鷁退宋都疾，鵬摶溟海高。",
+            "賀蘭吹不盡，何用戰蓬蒿。"
+        ],
+        "paragraphs_simplified": [
+            "万籁静中起，扶摇风怒号。",
+            "半天鸣剑戟，平地卷波涛。",
+            "鹢退宋都疾，鹏抟溟海高。",
+            "贺兰吹不尽，何用战蓬蒿。"
+        ],
+        "translation": "在万籁俱寂中突然响起，旋风怒吼。半空中如剑戟鸣响，平地里卷起波涛。鹢鸟在宋都急速退飞，大鹏在溟海高飞搏击。贺兰山的风吹不尽，何必在蓬蒿间战斗。解释：万籁指自然界声响；扶摇指旋风；剑戟比喻风声；鹢是水鸟，鹏是大鹏鸟；贺兰指山名；蓬蒿指野草。",
+        "score": 4.2,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首联以静衬动，点明风起；颔联以兵器声和波涛喻风势；颈联用典故拓宽意境；尾联以反问收束，点明风之不尽与超然精神。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘半天鸣剑戟’将风声比作兵器交击，渲染凌厉感。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "‘平地卷波涛’夸大风力，凸显其磅礴。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "‘鷁退宋都’‘鹏抟溟海’引用古籍，虚实相生。"
+                }
+            ]
+        },
+        "analysis": "此诗以秋风为题，勾勒出动静交织的壮阔图景。首句‘万籁静中起’以静衬动，奠定突兀之势；颔联‘半天鸣剑戟’以兵器声喻风声，渲染其凌厉与磅礴，意象真切而不隔。颈联用宋都鹢退、鹏抟溟海之典，拓宽时空维度，暗含逆境奋发之志。尾联‘贺兰吹不尽’以山风不尽反衬，‘何用战蓬蒿’直指超然物外之境，情感回甘，非寻常咏物之作。整体技法缜密，情景交融，堪称能品。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "以风为核心，辅以剑戟、波涛、鹏鸟等意象，构筑苍茫动荡之境。",
+                "realm": "妙",
+                "reason": "意象雄健，用典自然，但部分词句略显雕琢，未达神品之浑然。"
+            }
+        ],
+        "imagery": [
+            "风",
+            "鸟",
+            "山",
+            "草"
+        ],
+        "allusions": [
+            {
+                "phrase": "鷁退宋都",
+                "explanation": "出自《左传》，指鹢鸟逆风退飞，象征逆境中的疾速。"
+            },
+            {
+                "phrase": "鹏抟溟海",
+                "explanation": "出自《庄子·逍遥游》，指大鹏高飞，喻志向高远。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘半天鸣剑戟，平地卷波涛’以比喻和夸张浓缩风之威势，意象生动，最具代表性。"
+        }
+    },
+    {
+        "title": "范蜀公挽詩  其一",
+        "author": "李廌",
+        "paragraphs": [
+            "蚤歲青雲近，英聲四海馳。",
+            "能懷天下寶，獨讓月中枝。",
+            "既已登龍坂，咸觀入鳳池。",
+            "如何老清禁，偃蹇卧明時。"
+        ],
+        "paragraphs_simplified": [
+            "蚤岁青云近，英声四海驰。",
+            "能怀天下宝，独让月中枝。",
+            "既已登龙坂，咸观入凤池。",
+            "如何老清禁，偃蹇卧明时。"
+        ],
+        "translation": "早年仕途高升，名声传遍四海。能胸怀天下珍宝，却独让月中桂枝。已登上龙坂高处，众人都见其入凤池。为何在清禁中老去，偃蹇卧于明时。解释：青云指高官；月中枝指科举及第；龙坂喻高位；凤池指中书省；清禁指朝廷；偃蹇指困顿。",
+        "score": 3.1,
+        "subject": [
+            "挽诗",
+            "悼亡诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "首尾呼应",
+                "承上启下"
+            ],
+            "structural_logic": "首联述其早年声名；颔联以宝物和桂枝喻其才德；颈联以龙坂、凤池典故写其仕途；尾联反问其晚年困顿，形成对比。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘月中枝’借科举及第喻才华出众。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "‘登龙坂’‘入凤池’引用仕途典故，烘托其地位。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "‘清禁’代指朝廷，暗示政治环境。"
+                }
+            ]
+        },
+        "analysis": "此诗为挽范蜀公之作，追述其生平。首联以‘青云近’‘英声驰’铺陈早年显赫，意象平实；颔联‘怀天下宝’‘让月中枝’用比喻暗喻才德，但‘独让’一词略显突兀，未充分展开。颈联典故堆砌，虽烘托仕途，却失之板滞。尾联‘如何老清禁’以反问收束，点出晚景偃蹇，情感转为遗憾，但整体立意浅显，缺乏深层挖掘。技法成熟却流于应酬，未见独特审美。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "以仕途意象为主，如青云、龙坂、凤池，构筑传统士人图景。",
+                "realm": "能",
+                "reason": "用典规范，但意象陈旧，情感表达较为表面，未达高古之境。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "宝",
+            "枝",
+            "龙",
+            "凤"
+        ],
+        "allusions": [
+            {
+                "phrase": "月中枝",
+                "explanation": "指科举及第，源自月宫折桂传说。"
+            },
+            {
+                "phrase": "登龙坂",
+                "explanation": "喻仕途高升，可能出自《战国策》等典籍。"
+            },
+            {
+                "phrase": "入凤池",
+                "explanation": "指任中书省要职，源自魏晋官制。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "‘如何老清禁，偃蹇卧明时’以反问直指晚景，情感真挚，相对突出。"
+        }
+    },
+    {
+        "title": "范蜀公挽詩  其二",
+        "author": "李廌",
+        "paragraphs": [
+            "仁人宜有勇，無欲故能剛。",
+            "凜凜回天力，危危極諫章。",
+            "一言扶日御，萬古正乾綱。",
+            "首犯龍鱗意，淵衷亮未忘。"
+        ],
+        "paragraphs_simplified": [
+            "仁人宜有勇，无欲故能刚。",
+            "凛凛回天力，危危极谏章。",
+            "一言扶日御，万古正乾纲。",
+            "首犯龙鳞意，渊衷亮未忘。"
+        ],
+        "translation": "仁人应当有勇，无欲所以能刚强。凛凛有回天之力，危危中极尽谏章。一言扶持日御，万古端正乾纲。首先触犯龙鳞之意，深心显然未忘。解释：仁人指范蜀公；回天力喻扭转局势；谏章指奏章；日御指太阳，喻朝政；乾纲指国家纲纪；龙鳞指皇帝；渊衷指深心。",
+        "score": 3.8,
+        "subject": [
+            "挽诗",
+            "咏怀诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首联提出仁人刚勇之论；颔联以‘回天力’‘极谏章’写其行动；颈联以‘扶日御’‘正乾纲’喻其功绩；尾联点明触犯龙鳞而初心不改。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "‘回天力’夸大谏言之力，凸显其影响力。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "‘扶日御’以太阳喻朝政，暗指匡扶社稷。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "‘犯龙鳞’引用臣子直谏典故，强化忠勇形象。"
+                }
+            ]
+        },
+        "analysis": "此诗聚焦范蜀公的谏诤精神，开篇直指仁人之勇，以‘无欲故能刚’奠定议论基调。颔联‘凛凛回天力’以夸张手法渲染其谏章之力，意象峻烈；颈联‘一言扶日御’比喻精当，构筑社稷之功，动静结合。尾联‘首犯龙鳞意’用典点题，情感由敬佩转为豪迈。整体结构紧凑，但部分词句如‘危危’略显重复，情感宣泄稍过，审美距离不足。技法娴熟，立意正统。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "以刚勇、谏章、龙鳞等意象，构筑刚直不阿之境。",
+                "realm": "能",
+                "reason": "气势劲健，但意象较为单一，缺乏含蓄之味。"
+            }
+        ],
+        "imagery": [
+            "人",
+            "力",
+            "章",
+            "日",
+            "龙"
+        ],
+        "allusions": [
+            {
+                "phrase": "犯龙鳞",
+                "explanation": "指触怒皇帝，源自《韩非子》等典籍，喻直谏。"
+            },
+            {
+                "phrase": "扶日御",
+                "explanation": "喻匡扶朝政，可能出自神话或历史典故。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘凛凛回天力，危危极谏章’以夸张和对偶浓缩其谏诤精神，最具张力。"
+        }
+    },
+    {
+        "title": "范蜀公挽詩  其三",
+        "author": "李廌",
+        "paragraphs": [
+            "慶寧雖首議，濮廟一何公。",
+            "君子初無黨，賢臣惟盡忠。",
+            "死生全大節，社稷倚元功。",
+            "疾彼梁丘子，依違秪尚同。"
+        ],
+        "paragraphs_simplified": [
+            "庆宁虽首议，濮庙一何公。",
+            "君子初无党，贤臣惟尽忠。",
+            "死生全大节，社稷倚元功。",
+            "疾彼梁丘子，依违秪尚同。"
+        ],
+        "translation": "庆宁虽为首议，濮庙何其公正。君子初无党派，贤臣只尽忠心。死生保全大节，社稷倚仗元功。痛恨那梁丘子，依违只尚苟同。解释：庆宁指事件；濮庙指濮议；梁丘子指依附权贵者；依违指模棱两可。",
+        "score": 2.9,
+        "subject": [
+            "挽诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "承上启下",
+                "卒章显志"
+            ],
+            "structural_logic": "首联述庆宁、濮庙之事；颔联以君子贤臣对比；颈联强调死生大节；尾联以梁丘子反衬其忠直。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "‘君子’与‘梁丘子’对比，凸显忠奸。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "‘梁丘子’代指依附者，讽喻时弊。"
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "通过濮议事件，暗讽当时党争。"
+                }
+            ]
+        },
+        "analysis": "此诗借庆宁、濮庙典故，议论范蜀公之公正。首联‘一何公’直述其事，但‘庆宁’‘濮庙’专有名词堆砌，意象晦涩。颔联‘君子无党’‘贤臣尽忠’对比鲜明，却流于说教。颈联‘死生全大节’情感激昂，但‘社稷倚元功’空泛。尾联以‘疾彼梁丘子’收束，讽喻依附之风，然整体立意浅显，缺乏诗意升华。技法平庸，情感直露，近乎口号。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以忠奸对比意象为主，构筑政治批判之境。",
+                "realm": "劣",
+                "reason": "意象陈旧，议论空洞，试图悲慨却流于粗鄙，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "君子",
+            "贤臣",
+            "大节",
+            "社稷",
+            "梁丘子"
+        ],
+        "allusions": [
+            {
+                "phrase": "庆宁",
+                "explanation": "指北宋庆宁年间政治事件。"
+            },
+            {
+                "phrase": "濮庙",
+                "explanation": "指濮议，北宋英宗朝争议事件。"
+            },
+            {
+                "phrase": "梁丘子",
+                "explanation": "可能指依附权贵的学者，具体出处待考。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "‘死生全大节，社稷倚元功’相对凝练，情感真挚。"
+        }
+    },
+    {
+        "title": "范蜀公挽詩  其四",
+        "author": "李廌",
+        "paragraphs": [
+            "荆舒昔未懲，抗疏誓身爭。",
+            "衛鞅雖難屈，桑羊屢請烹。",
+            "危言知不用，脫屣謝浮榮。",
+            "豈戀三台近，全無萬世清。"
+        ],
+        "paragraphs_simplified": [
+            "荆舒昔未惩，抗疏誓身争。",
+            "卫鞅虽难屈，桑羊屡请烹。",
+            "危言知不用，脱屣谢浮荣。",
+            "岂恋三台近，全无万世清。"
+        ],
+        "translation": "荆舒昔日未受惩，抗疏誓以身争。卫鞅虽难屈服，桑羊屡请烹煮。危言知不被用，脱鞋谢绝浮荣。岂恋三台高位，全无万世清名。解释：荆舒指叛乱者；抗疏指上奏章；卫鞅、桑羊指法家人物；脱屣指弃官；三台指高官；万世清指清名。",
+        "score": 3.0,
+        "subject": [
+            "挽诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "首尾呼应",
+                "伏笔铺垫"
+            ],
+            "structural_logic": "首联以荆舒未惩起笔，写其抗争；颔联用卫鞅、桑羊典故喻其难屈；颈联转写危言不用后弃官；尾联以反问强调不恋高位。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "‘卫鞅’‘桑羊’引用法家人物，暗喻政治斗争。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "‘三台近’与‘万世清’对比，凸显淡泊。"
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "通过历史典故，讽喻当时官场。"
+                }
+            ]
+        },
+        "analysis": "此诗以历史典故切入，写范蜀公之政治遭遇。首联‘荆舒未惩’用典生僻，意象隔膜；颔联‘卫鞅’‘桑羊’堆砌法家人物，虽对比其难屈，却失之晦涩。颈联‘危言知不用’情感转淡，‘脱屣谢浮荣’以动作喻弃官，较生动。尾联反问收束，强调清高，但‘全无万世清’略显直白。整体用典过多，意境不隔但情感回甘不足，技法尚可但立意未新。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "以弃官、清名等意象，构筑超脱之境。",
+                "realm": "能",
+                "reason": "试图疏野，但典故堆砌削弱自然之味，未达高古。"
+            }
+        ],
+        "imagery": [
+            "荆舒",
+            "卫鞅",
+            "桑羊",
+            "三台",
+            "清"
+        ],
+        "allusions": [
+            {
+                "phrase": "荆舒",
+                "explanation": "指周代荆舒叛乱，喻政治对手。"
+            },
+            {
+                "phrase": "卫鞅",
+                "explanation": "即商鞅，法家代表，喻刚直难屈。"
+            },
+            {
+                "phrase": "桑羊",
+                "explanation": "可能指桑弘羊，法家人物，屡请烹煮喻政治迫害。"
+            },
+            {
+                "phrase": "三台",
+                "explanation": "指尚书、中书、门下三省高官。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "‘危言知不用，脱屣谢浮荣’以动作喻弃官，意象生动，相对突出。"
+        }
+    }
+]

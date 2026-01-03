@@ -1,0 +1,87 @@
+[
+    {
+        "title": "桃花魚",
+        "author": "韓淲",
+        "paragraphs": [
+            "小市春晴魚上來，桃花休數鱖魚肥。",
+            "江湖不見玄真子，蓑笠風前事事稀。"
+        ],
+        "paragraphs_simplified": [
+            "小市春晴鱼上来，桃花休数鳜鱼肥。",
+            "江湖不见玄真子，蓑笠风前事事稀。"
+        ],
+        "translation": "小市春晴鱼上来，桃花休数鳜鱼肥。江湖不见玄真子，蓑笠风前事事稀。",
+        "score": 3.8,
+        "subject": [
+            "咏物诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写春市鱼肥之景，后句引入玄真子典故，由实转虚，点出隐逸之思。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "玄真子指代唐代隐士张志和，暗含渔隐之意"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "蓑笠风前象征隐逸生活"
+                }
+            ]
+        },
+        "analysis": "此诗以春市鱼肥起兴，后用玄真子典故，将物象与隐逸情怀相绾合。典故运用自然，情感含蓄，有余味。意象如桃花鳜鱼生动，但整体未脱咏物怀古常轨，未能开辟新境。技法成熟，然立意未见超卓。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "以鱼肥典故寄托隐逸之思，但表达稍显直白，含蓄韵味不足",
+                "realm": "能品",
+                "reason": "用典得体，但意境未臻高古之浑成"
+            }
+        ],
+        "imagery": [
+            "小市",
+            "春晴",
+            "鱼",
+            "桃花",
+            "鳜鱼",
+            "江湖",
+            "玄真子",
+            "蓑笠"
+        ],
+        "allusions": [
+            {
+                "phrase": "玄真子",
+                "explanation": "唐代诗人张志和，自号玄真子，以渔隐著称"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句用典点题，情感升华，为全诗核心"
+        }
+    }
+]

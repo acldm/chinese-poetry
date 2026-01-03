@@ -1,0 +1,598 @@
+[
+    {
+        "title": "次韻孫翊尉  其一",
+        "author": "李石",
+        "paragraphs": [
+            "口頭截斷不須工，誰信春秋是國風。",
+            "筆下均調成一氣，東屯喚起杜陵翁。"
+        ],
+        "paragraphs_simplified": [
+            "口头截断不须工，谁信春秋是国风。",
+            "笔下均调成一气，东屯唤起杜陵翁。"
+        ],
+        "translation": "口头截断不需要精巧工整，谁相信《春秋》是《诗经》中的国风。笔下均匀调和成一气，东屯唤起杜陵翁（指杜甫）。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "哲理诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以设问质疑经典，次句用典呼应杜甫，结构紧凑但缺乏深度。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用《春秋》、《诗经》国风、杜陵翁（杜甫）等典故"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "‘谁信’构成设问句式"
+                }
+            ]
+        },
+        "analysis": "此诗通过典故议论诗学本质，意象陈旧，立意浅显，仅停留在对经典的表面引用。语言缺乏新意，情感平淡，未能构筑真切意境。整体技法平庸，无深层审美价值。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以典故营造典雅氛围，但堆砌痕迹明显",
+                "realm": "逸品",
+                "reason": "画虎不成反类犬，典故堆砌却无真意，流于形式"
+            }
+        ],
+        "imagery": [
+            "口头",
+            "春秋",
+            "笔",
+            "杜陵翁"
+        ],
+        "allusions": [
+            {
+                "phrase": "春秋",
+                "explanation": "孔子编年史，此处指经典"
+            },
+            {
+                "phrase": "国风",
+                "explanation": "《诗经》组成部分"
+            },
+            {
+                "phrase": "杜陵翁",
+                "explanation": "指唐代诗人杜甫"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "提及杜甫稍具深度，但整体仍显平庸"
+        }
+    },
+    {
+        "title": "次韻孫翊尉  其二",
+        "author": "李石",
+        "paragraphs": [
+            "芻狗分明迹已陳，鑿開七竅是天真。",
+            "低枝斥鷃從渠笑，深水蛟龍得自神。"
+        ],
+        "paragraphs_simplified": [
+            "刍狗分明迹已陈，凿开七窍是天真。",
+            "低枝斥鷃从渠笑，深水蛟龙得自神。"
+        ],
+        "translation": "刍狗（祭祀用品）的痕迹已陈旧，凿开七窍（指混沌开窍）是天真自然。低枝上的斥鷃（小鸟）任凭它笑，深水蛟龙得自神妙境界。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对比"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句用典故铺垫，次句通过比喻对比不同境界，结构清晰但意蕴不足。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以刍狗、斥鷃、蛟龙比喻不同人或境界"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过物象表达超脱志向"
+                }
+            ]
+        },
+        "analysis": "此诗运用比喻和典故，意象有对比，但立意老套，缺乏创新。情感含蓄却未能深入，意境不够真切。技法虽成熟，但整体流于说教，无回甘之味。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以蛟龙意象营造力量感，但比喻生硬",
+                "realm": "逸品",
+                "reason": "欲仿劲健而失之粗疏，意象拼凑缺乏内在张力"
+            }
+        ],
+        "imagery": [
+            "刍狗",
+            "七窍",
+            "斥鷃",
+            "蛟龙"
+        ],
+        "allusions": [
+            {
+                "phrase": "刍狗",
+                "explanation": "出自《道德经》，指被废弃之物"
+            },
+            {
+                "phrase": "七窍",
+                "explanation": "出自《庄子》，混沌开窍典故"
+            },
+            {
+                "phrase": "斥鷃",
+                "explanation": "出自《庄子》，喻见识短浅者"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "深水蛟龙句稍显境界，但整体平庸"
+        }
+    },
+    {
+        "title": "次韻孫翊尉  其三",
+        "author": "李石",
+        "paragraphs": [
+            "子佩青青得玉工，先生老矣舞雩風。",
+            "仙官便擬輕藜藿，我欲求爲田舍翁。"
+        ],
+        "paragraphs_simplified": [
+            "子佩青青得玉工，先生老矣舞雩风。",
+            "仙官便拟轻藜藿，我欲求为田舍翁。"
+        ],
+        "translation": "子佩青青（学子服饰）得玉工精雕，先生老了有舞雩之风（指孔子与弟子论志的闲适）。仙官便拟轻视藜藿（粗劣食物），我欲求为田舍翁（农夫）。",
+        "score": 2.5,
+        "subject": [
+            "酬唱诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "对比"
+            ],
+            "presentation_tags": [
+                "用典",
+                "对比"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句写学子与先生，次句直抒归隐之志，结构直白但缺乏层次。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "舞雩风出自《论语》，田舍翁指农夫"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "仙官与田舍翁的对比"
+                }
+            ]
+        },
+        "analysis": "此诗用典表达归隐之志，但情感直白，意象陈旧如田舍翁。语言缺乏提炼，意境浅显，无深层情感渗透。整体为应酬式平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以田园意象营造淡泊，但语言直露",
+                "realm": "逸品",
+                "reason": "欲仿冲淡而失之浅白，缺乏含蓄韵味"
+            }
+        ],
+        "imagery": [
+            "子佩",
+            "玉工",
+            "舞雩风",
+            "仙官",
+            "藜藿",
+            "田舍翁"
+        ],
+        "allusions": [
+            {
+                "phrase": "舞雩风",
+                "explanation": "出自《论语》，指曾皙浴沂风雩的志向"
+            },
+            {
+                "phrase": "田舍翁",
+                "explanation": "常见意象，指农夫"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "归隐之志表达直接，但无亮点"
+        }
+    },
+    {
+        "title": "頌古塔祖勝二首  其一",
+        "author": "李石",
+        "paragraphs": [
+            "蘆花岸下蓼灘頭，上得鈎時便上鈎。",
+            "一曲漁歌川棹撥，五湖烟水月輪秋。"
+        ],
+        "paragraphs_simplified": [
+            "芦花岸下蓼滩头，上得钩时便上钩。",
+            "一曲渔歌川棹拨，五湖烟水月轮秋。"
+        ],
+        "translation": "芦花岸下蓼草滩头，上得钩时便上钩（钓鱼）。一曲渔歌，川棹拨动，五湖烟水，秋月轮圆。",
+        "score": 4.2,
+        "subject": [
+            "山水诗",
+            "田园诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "首句写景，次句以渔歌秋月收束，动静相生，意境连贯。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过渔歌、烟水、秋月表达闲适"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "拨棹（动）与烟水（静）相映"
+                }
+            ]
+        },
+        "analysis": "此诗描绘渔家生活，意象清新如芦花、蓼滩、渔歌、烟水、秋月。情景交融，意境真切，白描自然无雕琢。动静结合营造出淡远之趣，技法成熟，堪称能品。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以简练笔触勾勒秋江渔乐，浑然天成",
+                "realm": "妙品",
+                "reason": "情景契合度高，意境不隔，有回甘之味"
+            }
+        ],
+        "imagery": [
+            "芦花",
+            "蓼滩",
+            "钩",
+            "渔歌",
+            "船",
+            "湖",
+            "水",
+            "月亮"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "五湖烟水月轮秋句意境悠远，全诗精华所在"
+        }
+    },
+    {
+        "title": "頌古塔祖勝二首  其二",
+        "author": "李石",
+        "paragraphs": [
+            "天津橋上弄猢猻，女子從來不出門。",
+            "却被罔明穿鼻孔，鬢邊香撼玉梅魂。"
+        ],
+        "paragraphs_simplified": [
+            "天津桥上弄猢狲，女子从来不出门。",
+            "却被罔明穿鼻孔，鬓边香撼玉梅魂。"
+        ],
+        "translation": "天津桥上耍猴子，女子从来不出门。却被罔明（不明）穿鼻孔，鬓边香撼动玉梅魂。",
+        "score": 1.5,
+        "subject": [
+            "禅理诗",
+            "打油诗"
+        ],
+        "emotion": [],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "双关"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "首句叙事，次句转折，但逻辑混乱，意象跳跃无关联。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "弄猢狲比喻戏耍"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "现实场景与玉梅魂的虚幻结合"
+                }
+            ]
+        },
+        "analysis": "此诗意象奇特如弄猢狲、穿鼻孔、玉梅魂，但逻辑断裂，不知所云。语言粗俗，情感模糊，试图幽默或讽刺却流于低俗。整体为劣作，缺乏审美价值。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "试图以奇特意象营造野趣，但失之粗鄙",
+                "realm": "劣品",
+                "reason": "画虎不成反类犬，意象低俗，意境全无"
+            }
+        ],
+        "imagery": [
+            "桥",
+            "猴子",
+            "人",
+            "名字",
+            "身体部位",
+            "鬓发",
+            "香味",
+            "花"
+        ],
+        "allusions": [
+            {
+                "phrase": "罔明",
+                "explanation": "可能指禅宗公案，但此处含义不明"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句相对通顺，但全诗低劣"
+        }
+    },
+    {
+        "title": "楊尉三和篇補其二以爲答不敢虛盛意  其一",
+        "author": "李石",
+        "paragraphs": [
+            "前時赤旱要刑鵝，今日平田漲綠波。",
+            "不特蛟龍偏得意，可知蚯蚓亦能歌。"
+        ],
+        "paragraphs_simplified": [
+            "前时赤旱要刑鹅，今日平田涨绿波。",
+            "不特蛟龙偏得意，可知蚯蚓亦能歌。"
+        ],
+        "translation": "前些时候大旱，需要刑罚鹅（可能指求雨仪式），今日平田却涨起了绿色的波浪（雨水充沛）。不仅蛟龙特别得意（因为水多），连蚯蚓也能唱歌（比喻小生物也因雨水而欢欣）。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先写旱灾，再写雨涝，通过对比突出自然变化，最后以蚯蚓能歌点出欢欣之情。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "用蛟龙和蚯蚓比喻水生动物和小生物在雨水充足时的欢欣。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "前时旱与今日涝的对比，突出变化。"
+                }
+            ]
+        },
+        "analysis": "此诗通过旱涝对比，折射出自然无常的荒诞感。意象选择蛟龙与蚯蚓，构筑出一种幽默的张力，但立意浅显，缺乏深层意蕴。情感流露直白，缺乏含蓄之美，整体流于表面。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以自然现象表达哲理，但意象陈旧，未能达到冲淡之境。",
+                "realm": "凡品",
+                "reason": "模仿自然风格，但语言直白，缺乏韵味，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "旱",
+            "田",
+            "水",
+            "龙",
+            "虫"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "最后一句以蚯蚓能歌点题，最具代表性。"
+        }
+    },
+    {
+        "title": "楊尉三和篇補其二以爲答不敢虛盛意  其二",
+        "author": "李石",
+        "paragraphs": [
+            "湖亭飲酒對新鵝，金錯杯中卷白波。",
+            "村鼓鼕鼕更堪憶，畫船照水採菱歌。"
+        ],
+        "paragraphs_simplified": [
+            "湖亭饮酒对新鹅，金错杯中卷白波。",
+            "村鼓冬冬更堪忆，画船照水采菱歌。"
+        ],
+        "translation": "在湖亭饮酒，对着新鹅（可能指新酿的酒或新来的鹅），金错杯中卷起白波（酒波）。村鼓冬冬更值得回忆，画船照水，采菱歌起。",
+        "score": 3.0,
+        "subject": [
+            "宴饮诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写饮酒场景，再写村鼓和画船，通过视听结合描绘宴饮之乐。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "湖亭饮酒对新鹅与村鼓鼕鼕更堪忆形成对偶。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "金错杯中卷白波比喻酒波。"
+                }
+            ]
+        },
+        "analysis": "此诗描绘宴饮场景，意象如湖亭、新鹅、画船等，构筑出闲适的意境。但语言平实，缺乏新意，情感流露直白，未能达到含蓄之美。整体为应酬之作，立意浅显。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "试图以华丽意象描绘宴饮，但堆砌辞藻，缺乏实质。",
+                "realm": "凡品",
+                "reason": "模仿绮丽风格，但意象陈旧，流于表面。"
+            }
+        ],
+        "imagery": [
+            "亭",
+            "酒",
+            "鹅",
+            "杯",
+            "水",
+            "鼓",
+            "船",
+            "歌"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句直接点出宴饮场景，最具代表性。"
+        }
+    }
+]

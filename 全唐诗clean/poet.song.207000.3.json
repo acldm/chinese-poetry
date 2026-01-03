@@ -1,0 +1,2008 @@
+[
+    {
+        "title": "雪中  其一",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "朔風吹冷裂窗紗，重把羅幃繡幕遮。",
+            "青女先將霜起早，素娥始放雪飛花。"
+        ],
+        "paragraphs_simplified": [
+            "朔风吹冷裂窗纱，重把罗帏绣幕遮。",
+            "青女先将霜起早，素娥始放雪飞花。"
+        ],
+        "translation": "朔风寒冷吹裂窗纱，重新用罗帏绣幕遮挡。青女早早兴起霜雪，素娥开始飘放雪花。",
+        "score": 3.2,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写风寒遮挡，后写霜雪起兴，逻辑清晰，由外及内。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "青女和素娥被拟人化，分别代表霜和雪，赋予自然以灵性"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过寒冷窗纱与飞雪景象，间接流露孤寂情感"
+                }
+            ]
+        },
+        "analysis": "此诗以冷峻笔触勾勒冬日景象，风裂窗纱的细节刻画生动，青女素娥的拟人手法赋予自然以灵性。雪飞花的比喻虽常见，但与霜起早的对仗工整，整体意境清冷而真切。然而，意象略显陈旧，缺乏新意，情感流于表面，未能突破常规咏物诗的框架。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "风、窗纱、霜、雪等意象构筑清冷世界，试图呈现清奇之境。",
+                "realm": "能品",
+                "reason": "技法成熟，但立意浅显，模仿清奇风格而未达高妙，有形无神。"
+            }
+        ],
+        "imagery": [
+            "风",
+            "窗纱",
+            "霜",
+            "雪"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "朔风吹冷裂窗纱生动描绘寒冷，最具画面感与冲击力。"
+        }
+    },
+    {
+        "title": "雪中  其二",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "曉來紅日尚羞明，四外彤雲欲詐晴。",
+            "一夜九天開玉闕，六花萬里散璚英。"
+        ],
+        "paragraphs_simplified": [
+            "晓来红日尚羞明，四外彤云欲诈晴。",
+            "一夜九天开玉阙，六花万里散琼英。"
+        ],
+        "translation": "清晨红日还羞于明亮，四周彤云似乎要诈晴。一夜之间九天打开玉阙，六花万里飘散琼英。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "期待"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先写天色朦胧，后写雪盛景壮，由阴转雪，逻辑连贯。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "红日羞明赋予自然情感，增强生动性"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "一夜九天开玉阙极言雪势之大，渲染宏大气象"
+                }
+            ]
+        },
+        "analysis": "此诗气象开阔，红日羞明的拟人巧妙，彤云诈晴的转折生动。后两句以玉阙、琼英比喻雪景，境界宏大，试图营造壮丽画面。但“六花”指雪虽雅，整体意象堆砌，情感空洞，缺乏深层意蕴，流于表面铺陈。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "红日、彤云、玉阙、琼英构筑壮丽雪景，试图展现雄浑气魄。",
+                "realm": "能品",
+                "reason": "技法熟练，但辞藻堆砌，情感浮泛，未达雄浑之神韵。"
+            }
+        ],
+        "imagery": [
+            "红日",
+            "彤云",
+            "玉阙",
+            "琼英"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "一夜九天開玉闕气势磅礴，最具视觉冲击力与想象力。"
+        }
+    },
+    {
+        "title": "雪中  其三",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "飛廉滕六逞寒威，費酒陪詩爲解頤。",
+            "雪待夜深飛落盡，梅嗔風惡放開遲。"
+        ],
+        "paragraphs_simplified": [
+            "飞廉滕六逞寒威，费酒陪诗为解颐。",
+            "雪待夜深飞落尽，梅嗔风恶放开迟。"
+        ],
+        "translation": "飞廉滕六逞现寒威，费酒陪诗为了开颜。雪等待夜深飞落尽，梅嗔怪风恶放开迟。",
+        "score": 3.4,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先写风雪逞威，后写雪尽梅开，由寒转柔，逻辑转折自然。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "飞廉风神、滕六雪神典故，增添文采"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "梅嗔怪风恶，赋予梅花情感，生动有趣"
+                }
+            ]
+        },
+        "analysis": "此诗用典自然，飞廉滕六的引入增添文采，梅嗔风恶的拟人生动。但“费酒陪诗”略显直白，整体意境不够凝练，情感表达较为随意，未能将典故与景物深度融合，显得有些松散。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "风、雪、梅等意象，带有野趣，试图呈现疏放之态。",
+                "realm": "能品",
+                "reason": "部分语句粗糙，模仿疏野而失之散漫，未达自然之境。"
+            }
+        ],
+        "imagery": [
+            "风",
+            "雪",
+            "梅"
+        ],
+        "allusions": [
+            {
+                "phrase": "飞廉",
+                "explanation": "风神"
+            },
+            {
+                "phrase": "滕六",
+                "explanation": "雪神"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "梅嗔風惡放開遲拟人巧妙，富有情趣与幽默感。"
+        }
+    },
+    {
+        "title": "龍虎山祈雨早行有作",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "兩三條電復無雨，六七點星微上雲。",
+            "鞭起卧龍我騎去，揮戈叱問五雷君。"
+        ],
+        "paragraphs_simplified": [
+            "两三条电复无雨，六七点星微上云。",
+            "鞭起卧龙我骑去，挥戈叱问五雷君。"
+        ],
+        "translation": "两三条闪电却无雨，六七点星星微上云。鞭起卧龙我骑去，挥戈叱问五雷君。",
+        "score": 3.0,
+        "subject": [
+            "游仙诗"
+        ],
+        "emotion": [
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "借代"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写雷电无雨，后写骑龙问雷，由观察转入神话想象，逻辑跳跃。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "鞭起卧龙我骑去，极言行动之迅猛与豪气"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "五雷君代指雷神，增强神话色彩"
+                }
+            ]
+        },
+        "analysis": "此诗想象奇特，鞭起卧龙的夸张手法彰显豪迈，挥戈叱问五雷君充满神话色彩。但“两三条电”等语句过于直白，缺乏诗意锤炼，整体显得粗犷而欠精致，情感宣泄直露，审美距离不足。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "电、星、卧龙、五雷君构筑奇幻场景，试图展现豪放气概。",
+                "realm": "能品",
+                "reason": "创意有余但文采不足，模仿豪放而流于粗鄙，未达高境。"
+            }
+        ],
+        "imagery": [
+            "电",
+            "星",
+            "卧龙",
+            "五雷"
+        ],
+        "allusions": [
+            {
+                "phrase": "卧龙",
+                "explanation": "诸葛亮，此处指龙"
+            },
+            {
+                "phrase": "五雷君",
+                "explanation": "雷神"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "鞭起卧龍我騎去想象大胆，最具个性与行动感。"
+        }
+    },
+    {
+        "title": "題棲鳳亭  其一",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "亭前綠密玉成叢，鳳宿枝頭烟雨空。",
+            "簫管一聲人未寢，滿林明月浸清風。"
+        ],
+        "paragraphs_simplified": [
+            "亭前绿密玉成丛，凤宿枝头烟雨空。",
+            "箫管一声人未寝，满林明月浸清风。"
+        ],
+        "translation": "亭前绿密如玉成丛，凤宿枝头烟雨空。箫管一声人未寝，满林明月浸清风。",
+        "score": 4.5,
+        "subject": [
+            "题画诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "通感"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先写亭前景色，后写声月交融，由静入动，意境连贯统一。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "绿密玉成丛比喻绿树成荫，形象生动"
+                },
+                {
+                    "tag": "通感",
+                    "explanation": "明月浸清风，视觉与触觉交融，增强意境"
+                }
+            ]
+        },
+        "analysis": "此诗意境清幽，绿密玉成丛的比喻生动，凤宿枝头的意象空灵。后两句箫管明月，动静结合，营造出超逸的境界。情感含蓄，回味悠长，整体艺术价值较高，情景契合度高，意境真切不隔。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "亭、绿丛、凤、烟雨、箫管、明月、清风构筑淡雅世界，深得冲淡之神。",
+                "realm": "妙品",
+                "reason": "技法精妙，意境冲淡，有回甘，符合冲淡风格之高境。"
+            }
+        ],
+        "imagery": [
+            "亭",
+            "绿丛",
+            "凤",
+            "烟雨",
+            "箫管",
+            "明月",
+            "清风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "滿林明月浸清風通感巧妙，意境深远，余韵悠长。"
+        }
+    },
+    {
+        "title": "題棲鳳亭  其二",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "竹也多年管風月，鳳兮幾夜宿雲烟。",
+            "林間有客吹簫去，竹化成龍鳳入天。"
+        ],
+        "paragraphs_simplified": [
+            "竹也多年管风月，凤兮几夜宿云烟。",
+            "林间有客吹箫去，竹化成龙凤入天。"
+        ],
+        "translation": "竹子多年掌管清风明月，凤凰几夜栖息在云雾中。林间有客吹箫离去，竹子化作龙凤飞上天空。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句以拟人笔法写竹凤的自然属性，后两句引入人的介入，通过虚实结合完成意象升华。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "竹化成龙凤入天，以神话意象拓展物象边界"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "竹管风月，赋予自然物以人格"
+                }
+            ]
+        },
+        "analysis": "此诗构筑隐逸意境，竹与凤的意象交织形成虚实相生的空间。但‘竹化成龙’的转折缺乏铺垫，导致意脉断裂。整体技法娴熟，然意境清奇有余而缜密不足，属于能品中段之作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以竹凤为核心，构筑超脱尘俗的仙家气象",
+                "realm": "能",
+                "reason": "意境独特但结构松散，未能完全实现清奇之境的圆融"
+            }
+        ],
+        "imagery": [
+            "竹",
+            "凤",
+            "云烟",
+            "箫",
+            "龙"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "意象组合自然，虚实转换富有想象力"
+        }
+    },
+    {
+        "title": "題棲鳳亭  其三",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "潘氏亭前飲一宵，酒酣對竹嘯瓊簫。",
+            "不知棲鳳來多少，鳳去人歸竹寂寥。"
+        ],
+        "paragraphs_simplified": [
+            "潘氏亭前饮一宵，酒酣对竹啸琼箫。",
+            "不知栖凤来多少，凤去人归竹寂寥。"
+        ],
+        "translation": "在潘氏亭前饮酒一夜，酒醉对着竹子吹奏玉箫。不知栖息了多少凤凰，凤凰离去人归来，竹子显得寂寥。",
+        "score": 3.0,
+        "subject": [
+            "宴饮诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句叙事写宴饮场景，后两句通过设问与对比转入情感抒发。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "不知栖凤来多少，引发读者联想"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "凤来与凤去的时空对照"
+                }
+            ]
+        },
+        "analysis": "此诗以酒宴起兴，通过凤凰来去的设问构建情感张力。但‘琼箫’一词略显辞藻堆砌，整体立意浅显，未能突破传统宴饮诗的窠臼。情感转折自然，但意境单薄。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以酒竹凤构建闲适场景",
+                "realm": "逸",
+                "reason": "情感流露自然，但意象陈旧缺乏新意"
+            }
+        ],
+        "imagery": [
+            "亭",
+            "酒",
+            "竹",
+            "箫",
+            "凤"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "情感转折有力，寂寥意境收束全篇"
+        }
+    },
+    {
+        "title": "題棲鳳亭  其四",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "聲傳琴瑟風生枕，影瀉琅玕月滿庭。",
+            "白鳳飛來枝外宿，夜深點破一林青。"
+        ],
+        "paragraphs_simplified": [
+            "声传琴瑟风生枕，影泻琅玕月满庭。",
+            "白凤飞来枝外宿，夜深点破一林青。"
+        ],
+        "translation": "声音传来琴瑟之音，风生枕畔；影子洒落如玉的月光，布满庭院。白凤飞来栖息在枝头外，深夜点破一林青翠。",
+        "score": 4.0,
+        "subject": [
+            "咏物诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以声影并置构建静谧空间，次句以凤来点睛完成动态注入。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "影泻琅玕，以玉喻月光质感"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "点破一林青，赋予凤以灵性"
+                }
+            ]
+        },
+        "analysis": "此诗意境优美，声影与凤的意象结合紧密，‘点破一林青’极具动感与穿透力。动静转换自然，情景交融无间。虽‘琅玕’稍显晦涩，但整体构筑出清幽绝尘的审美空间。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以声影凤构建多层次感官体验",
+                "realm": "妙",
+                "reason": "成功营造清幽意境，动静结合妙合无垠"
+            }
+        ],
+        "imagery": [
+            "琴瑟",
+            "风",
+            "影",
+            "月",
+            "凤",
+            "林"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "动态描写生动，点睛之笔破静为动"
+        }
+    },
+    {
+        "title": "梅花有嘆",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "蒼苔玉艷委西施，玉膽冰姿尚伯夷。",
+            "春色一般清濁異，梅花亦自有安危。"
+        ],
+        "paragraphs_simplified": [
+            "苍苔玉艳委西施，玉胆冰姿尚伯夷。",
+            "春色一般清浊异，梅花亦自有安危。"
+        ],
+        "translation": "苍苔上玉艳的梅花如西施般委落，玉胆冰姿的品格如伯夷般高洁。春色虽同，但清浊有异，梅花也有自己的安危。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句密集用典喻梅，后两句直白议论点题。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "西施、伯夷典故堆砌"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "以美人贤士喻梅花"
+                }
+            ]
+        },
+        "analysis": "此诗用典过密导致意象模糊，西施、伯夷的强行比附显得生硬。后两句议论直白，缺乏含蓄之美。虽试图托物言志，但典故堆砌反而削弱了梅花的本体特质，属于画虎不成之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "以典故装饰梅花",
+                "realm": "劣",
+                "reason": "典故堆砌导致意境破碎，未能实现典雅之境"
+            }
+        ],
+        "imagery": [
+            "苔",
+            "梅",
+            "春色"
+        ],
+        "allusions": [
+            {
+                "phrase": "西施",
+                "explanation": "代指美人，喻梅花之艳"
+            },
+            {
+                "phrase": "伯夷",
+                "explanation": "代指高洁之士，喻梅花品格"
+            }
+        ],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句点题相对直接，虽议论浅显"
+        }
+    },
+    {
+        "title": "中秋月",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "千崖爽氣已平分，萬里青天輾玉輪。",
+            "好向錢塘江上望，相逢都是廣寒人。"
+        ],
+        "paragraphs_simplified": [
+            "千崖爽气已平分，万里青天辗玉轮。",
+            "好向钱塘江上望，相逢都是广寒人。"
+        ],
+        "translation": "千崖的爽气已平分，万里青天辗过玉轮。最好向钱塘江上望去，相逢的都是广寒宫中人。",
+        "score": 4.2,
+        "subject": [
+            "节令诗"
+        ],
+        "emotion": [
+            "豁达",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句写月景气象，次句将人间望月与月宫幻境交融。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "万里青天展现空间辽阔"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "广寒人代指赏月者，勾连人月"
+                }
+            ]
+        },
+        "analysis": "此诗气象开阔，‘辗玉轮’以动词写月动态生动。后两句将钱塘江实景与广寒幻境结合，构思巧妙。虽‘广寒人’稍显直白，但整体虚实相生，情感豁达，属节令诗中佳作。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "以山崖青天构建宏大空间",
+                "realm": "妙",
+                "reason": "成功营造中秋月夜的壮阔意境"
+            }
+        ],
+        "imagery": [
+            "崖",
+            "气",
+            "天",
+            "月",
+            "江",
+            "人"
+        ],
+        "allusions": [
+            {
+                "phrase": "广寒",
+                "explanation": "月宫别称，代指仙境"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "意象壮阔，动态描写传神"
+        }
+    },
+    {
+        "title": "臥雲",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "滿室天香仙子家，一琴一劍一盃茶。",
+            "羽衣常带煙霞色，不惹人間桃李花。"
+        ],
+        "paragraphs_simplified": [
+            "满室天香仙子家，一琴一剑一杯茶。",
+            "羽衣常带烟霞色，不惹人间桃李花。"
+        ],
+        "translation": "满室天香的仙子家，有一琴、一剑、一杯茶。羽衣常带着烟霞的颜色，不沾惹人间的桃李花。",
+        "score": 4.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直陈仙家环境，次句以物象深化超脱意境。",
+            "evidence": [
+                {
+                    "tag": "托物言志",
+                    "explanation": "琴剑茶三物寄托超然物外的志向"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "羽衣带烟霞色比喻仙姿飘逸"
+                }
+            ]
+        },
+        "analysis": "此诗以天香、琴剑茶等意象构筑仙家清境，羽衣烟霞之色暗合道家超诣之趣。不惹桃李花一句，彰显对尘俗的疏离，情景契合度高。意境真切，语言凝练，有冲淡自然之味，整体呈现超脱而不隔的审美回甘。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以天香、琴剑茶等意象营造淡泊氛围，折射隐逸之志。",
+                "realm": "妙",
+                "reason": "意境超脱，语言精炼，暗合冲淡之旨。"
+            }
+        ],
+        "imagery": [
+            "天香",
+            "琴",
+            "剑",
+            "茶",
+            "羽衣",
+            "烟霞",
+            "桃李花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "开门见山，点出仙家环境，意象鲜明。"
+        }
+    },
+    {
+        "title": "題客省",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "煉就紅鉛不計斤，五湖四海十餘春。",
+            "今朝杖屨廬山下，雨笠烟簑一箇身。"
+        ],
+        "paragraphs_simplified": [
+            "炼就红铅不计斤，五湖四海十余春。",
+            "今朝杖屨庐山下，雨笠烟蓑一个身。"
+        ],
+        "translation": "炼就红铅（丹药）不计斤两，游历五湖四海十余年。今日拄着拐杖穿着鞋在庐山下，雨中戴笠披蓑，独自一人。",
+        "score": 3.8,
+        "subject": [
+            "游仙诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "孤独",
+            "羁旅"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句叙事炼丹游历之虚，后句转写庐山独行之实，形成虚实对照。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "红铅代指炼丹，隐晦表达修道经历"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "前句虚写炼丹岁月，后句实写雨笠烟蓑之身"
+                }
+            ]
+        },
+        "analysis": "此诗前句言炼丹之久与游历之广，后句以雨笠烟蓑之象勾勒当下孤独，构筑游仙与隐逸交织的意境。但红铅一词略显晦涩，影响通透感。整体情景契合一般，意境尚真切，技法成熟但意象未出新意。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "以杖屨、雨笠烟蓑等意象表现野逸之趣，折射疏放之志。",
+                "realm": "能",
+                "reason": "技法熟练，但意象陈旧，缺乏独特审美冲击。"
+            }
+        ],
+        "imagery": [
+            "红铅",
+            "五湖四海",
+            "杖屨",
+            "庐山",
+            "雨笠",
+            "烟蓑"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "雨笠烟蓑之象生动，勾勒孤独身影，具画面感。"
+        }
+    },
+    {
+        "title": "洞前亭",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "洞前春水漾桃溪，洞後數聲青鳥啼。",
+            "二十四巖風雨夜，神仙過此話刀圭。"
+        ],
+        "paragraphs_simplified": [
+            "洞前春水漾桃溪，洞后数声青鸟啼。",
+            "二十四岩风雨夜，神仙过此话刀圭。"
+        ],
+        "translation": "洞前春水荡漾在桃溪，洞后几声青鸟啼鸣。二十四岩风雨之夜，神仙经过这里谈论刀圭（丹药）。",
+        "score": 4.2,
+        "subject": [
+            "游仙诗"
+        ],
+        "emotion": [
+            "神秘",
+            "期待"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "用典"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句写洞前景色之实，后句转入神仙传说之虚，首尾以洞呼应，虚实相生。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "青鸟啼引用西王母信使典故，增添神秘色彩"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "春水桃溪实写，神仙话刀圭虚写，构筑仙境"
+                }
+            ]
+        },
+        "analysis": "此诗以春水青鸟起兴，转入风雨夜神仙谈丹之玄境，意象真切，情景交融。青鸟用典自然，拓宽意境。但刀圭一词稍显生僻，略有隔阂。整体超诣之趣浓郁，语言精炼，有回甘之美。",
+        "poetry_styles": [
+            {
+                "style": "超诣",
+                "imagery_analysis": "春水、桃溪、青鸟、神仙等意象构筑超凡境界，折射玄妙之思。",
+                "realm": "妙",
+                "reason": "意境高远，虚实结合得当，艺术水准高。"
+            }
+        ],
+        "imagery": [
+            "洞",
+            "春水",
+            "桃溪",
+            "青鸟",
+            "二十四岩",
+            "风雨",
+            "神仙",
+            "刀圭"
+        ],
+        "allusions": [
+            {
+                "phrase": "青鸟",
+                "explanation": "西王母信使，象征仙讯"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "洞前春水漾桃溪画面感强，点出仙境入口。"
+        }
+    },
+    {
+        "title": "送林古虛歸閩",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "名落江湖二十春，江湖那個是知音。",
+            "于今拄杖挑明月，雲滿千山何處尋。"
+        ],
+        "paragraphs_simplified": [
+            "名落江湖二十春，江湖那个是知音。",
+            "于今拄杖挑明月，云满千山何处寻。"
+        ],
+        "translation": "名声落在江湖二十年，江湖中谁是知音。今日拄杖挑着明月，云满千山何处可寻。",
+        "score": 4.3,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "孤独",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句以设问抒发知音难觅，后句以明月云山结情，显志于苍茫之境。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "江湖那个是知音以问句强化孤独"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "拄杖挑明月云满千山寄托迷茫与旷达"
+                }
+            ]
+        },
+        "analysis": "此诗前句直抒胸臆，后句以景结情，云满千山之象拓宽空间感，设问句增强情感张力。情景交融，意境苍茫，有悲慨之味。语言凝练，情感回甘悠长，整体艺术价值较高。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "江湖、明月、云山等意象烘托离愁与孤独，折射悲凉之慨。",
+                "realm": "妙",
+                "reason": "情感真挚，结构紧凑，卒章显志有力。"
+            }
+        ],
+        "imagery": [
+            "江湖",
+            "知音",
+            "拄杖",
+            "明月",
+            "云",
+            "千山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "云满千山何处寻以景结情，余味无穷，意境开阔。"
+        }
+    },
+    {
+        "title": "和劉司門韻題臨溪亭",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "臨水皤然兩鬢絲，山煙凝翠入鶉衣。",
+            "橫吹鐵笛且歸去，懶把漁竿立蘚磯。"
+        ],
+        "paragraphs_simplified": [
+            "临水皤然两鬓丝，山烟凝翠入鹑衣。",
+            "横吹铁笛且归去，懒把渔竿立藓矶。"
+        ],
+        "translation": "临水而见两鬓斑白，山烟凝翠色渗入鹑衣。横吹铁笛暂且归去，懒得拿起渔竿立在藓矶。",
+        "score": 3.7,
+        "subject": [
+            "题画诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句写临水老者形象，后句以铁笛渔竿动作表现归隐之志，直抒胸臆。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "鹑衣代指破旧衣服，暗示清贫隐逸"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "铁笛渔竿寄托疏野闲适之志"
+                }
+            ]
+        },
+        "analysis": "此诗以临水老者起笔，山烟鹑衣之象勾勒隐者形象，横吹铁笛懒渔竿彰显疏野之趣。但鹑衣一词略显晦涩，影响通透。整体情景契合，意境真切，技法熟练但意象未脱陈套。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "临水、山烟、铁笛、渔竿等意象表现野趣，折射隐逸之思。",
+                "realm": "能",
+                "reason": "技法成熟，但意象平庸，缺乏创新。"
+            }
+        ],
+        "imagery": [
+            "水",
+            "鬓丝",
+            "山烟",
+            "鹑衣",
+            "铁笛",
+            "渔竿",
+            "藓矶"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "横吹铁笛且归去动作描写生动，体现闲适疏野之态。"
+        }
+    },
+    {
+        "title": "黄仙菴字謎",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "青紅白黑欠中央，聞道西人已大方。",
+            "二十一人田下電，阿誰訪之詹仲皇。"
+        ],
+        "paragraphs_simplified": [
+            "青红白黑欠中央，闻道西人已大方。",
+            "二十一人田下电，阿谁访之詹仲皇。"
+        ],
+        "translation": "青红白黑缺少中央，听说西人已大方。二十一人田下电，谁人访问詹仲皇。此为字谜，暗指“黄仙庵”三字。",
+        "score": 2.0,
+        "subject": [
+            "杂诗",
+            "打油诗"
+        ],
+        "emotion": [],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "双关",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "通过颜色与数字拆解字形，直接呈现谜面。",
+            "evidence": [
+                {
+                    "tag": "双关",
+                    "explanation": "“青红白黑欠中央”双关“黄”字，以颜色缺中央暗指字形。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“二十一人田下电”比喻字形组合，如“辛”字拆解。"
+                }
+            ]
+        },
+        "analysis": "此诗作为字谜，全赖文字游戏构筑谜面，意象拼凑，缺乏意境深度。立意浅显，仅为娱乐，无审美回甘。语言直白，近乎口语，未见诗家锤炼之功。整体流于粗鄙，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "试图以简练字形勾勒谜底，但意象如“颜色”、“电”等散乱无章。",
+                "realm": "劣",
+                "reason": "模仿洗炼而失败，实为文字堆砌，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "颜色",
+            "电",
+            "田"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句较通顺，但整体仍属口水话。"
+        }
+    },
+    {
+        "title": "琴",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "夜靜無雲月似銀，清宵鶴唳一傷神。",
+            "子期玉骨寒於雪，世上知音能幾人。"
+        ],
+        "paragraphs_simplified": [
+            "夜静无云月似银，清宵鹤唳一伤神。",
+            "子期玉骨寒于雪，世上知音能几人。"
+        ],
+        "translation": "夜静无云月如银，清宵鹤鸣一伤神。子期玉骨寒于雪，世上知音能几人。",
+        "score": 4.0,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "孤独",
+            "悲伤"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前写月夜鹤唳之景，后用典设问，直指知音难觅之旨。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“子期玉骨”暗用伯牙子期典故，喻知音。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "“世上知音能几人”以问作结，强化孤寂。"
+                }
+            ]
+        },
+        "analysis": "此诗借琴音与月夜，用伯牙子期典故，构筑清冷意境。鹤唳与玉骨意象交织，渲染知音难觅之悲。语言凝练，情感深沉，但“玉骨寒于雪”稍显生硬，整体回甘尚可，未达妙品。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以“月”、“鹤”、“雪”烘托悲凉，典故运用贴切。",
+                "realm": "妙",
+                "reason": "情感真挚，意境真切，属佳作。"
+            }
+        ],
+        "imagery": [
+            "月",
+            "鹤",
+            "雪",
+            "知音"
+        ],
+        "allusions": [
+            {
+                "phrase": "子期",
+                "explanation": "伯牙子期典故，喻知音难遇。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“清宵鹤唳一伤神”意象生动，音律和谐。"
+        }
+    },
+    {
+        "title": "天窗",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "屋頭除却數條椽，政好臨風對月眠。",
+            "行客只從門外過，豈知屋裏有青天。"
+        ],
+        "paragraphs_simplified": [
+            "屋头除却数条椽，政好临风对月眠。",
+            "行客只从门外过，岂知屋里有青天。"
+        ],
+        "translation": "屋头除去数条椽，正好临风对月眠。行客只从门外过，岂知屋里有青天。",
+        "score": 4.2,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直述天窗功能，以内外对比凸显屋内青天之境。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "“行客只从门外过”与“岂知屋里有青天”形成内外对比。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“青天”比喻天窗所见之广阔。"
+                }
+            ]
+        },
+        "analysis": "此诗以天窗为题，构筑屋内青天的奇特意象，折射超脱世俗的视角。语言简洁，意境清奇，虚实结合巧妙。但“政好”稍显口语，整体瑕不掩瑜，属能品上乘。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以“椽”、“月”、“青天”勾勒独特空间感，立意新颖。",
+                "realm": "妙",
+                "reason": "意象真切，审美距离适中，回甘悠长。"
+            }
+        ],
+        "imagery": [
+            "屋椽",
+            "风",
+            "月",
+            "天窗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“岂知屋里有青天”点题精妙，哲理深邃。"
+        }
+    },
+    {
+        "title": "七臺山",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "六月泉聲带雨寒，斜陽染出淡紅山。",
+            "白雲無恙青楓老，不見龔劉振錫鐶。"
+        ],
+        "paragraphs_simplified": [
+            "六月泉声带雨寒，斜阳染出淡红山。",
+            "白云无恙青枫老，不见龚刘振锡环。"
+        ],
+        "translation": "六月泉声带雨寒，斜阳染出淡红山。白云无恙青枫老，不见龚刘振锡环。",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "怅惘"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "描写",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前写山水实景，后以典故转入怀古，抒发不见故人之憾。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“白云无恙”赋予云以人态。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“龚刘振锡环”暗指僧人或隐士，典故模糊。"
+                }
+            ]
+        },
+        "analysis": "此诗描绘七臺山夏景，泉声、斜阳意象生动，但“白云无恙”稍显突兀。结尾用典不明，典故与景物衔接生硬，整体意境未充分展开。技法尚可，然立意平庸，属能品中下。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "以“泉”、“雨”、“山”、“云”构筑散漫景致，但未凝练。",
+                "realm": "能",
+                "reason": "试图自然，然意象松散，典故模糊。"
+            }
+        ],
+        "imagery": [
+            "泉",
+            "雨",
+            "山",
+            "云",
+            "枫"
+        ],
+        "allusions": [
+            {
+                "phrase": "龚刘",
+                "explanation": "可能指龚自珍、刘禹锡等文人，但具体不明。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“六月泉声带雨寒”写景真切，音律流畅。"
+        }
+    },
+    {
+        "title": "春風  其一",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "一一鬚梢一霧珠，曉來雨意尚躊躇。",
+            "落花也避東風惡，水面相驅嚲向隅。"
+        ],
+        "paragraphs_simplified": [
+            "一一须梢一雾珠，晓来雨意尚踌躇。",
+            "落花也避东风恶，水面相驱亸向隅。"
+        ],
+        "translation": "每根须梢上都挂着一颗雾珠，清晨的雨意还在犹豫。落花也躲避东风的凶恶，水面相驱使它们飘向角落。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写春风中的细微景象，再写落花被风吹的动态，形成由静到动的转换。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "雨意踌躇、落花避风，赋予自然物以人的情态。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "雾珠比喻水滴，形象生动。"
+                }
+            ]
+        },
+        "analysis": "此诗以春风为题，通过须梢雾珠、落花飘零的意象，勾勒出春日雨后的凄清画面。意象选择虽细腻，但落花避风、水面驱花的描写流于常见，缺乏新意。情感寄托于景物，却未突破传统伤春范式，整体立意浅显，意境未能超脱。语言平实，无深湛之思，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "雾珠、落花等意象虽具象，但组合缺乏独特张力，未能构筑深远意境。",
+                "realm": "能",
+                "reason": "试图模仿自然风格，但意象堆砌，未能达到洗练之境。"
+            }
+        ],
+        "imagery": [
+            "雾珠",
+            "落花",
+            "东风",
+            "水面"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "落花也避东风恶一句动态感较强，意象相对生动。"
+        }
+    },
+    {
+        "title": "春風  其三",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "底事東風苦欲寒，不教詩客縱游觀。",
+            "無端虛把鞦韆送，落盡梨花似雪團。"
+        ],
+        "paragraphs_simplified": [
+            "底事东风苦欲寒，不教诗客纵游观。",
+            "无端虚把秋千送，落尽梨花似雪团。"
+        ],
+        "translation": "为何东风苦要带来寒意，不让诗客尽情游赏。无端地空送秋千，梨花落尽如雪团。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗",
+            "抒情诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以设问质问东风，后以梨花落尽的景象回应，形成因果逻辑。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "底事东风苦欲寒，直接引发思考。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "梨花似雪团，形象化落花之态。"
+                }
+            ]
+        },
+        "analysis": "此诗直斥东风带来寒意，破坏游兴，情感直露。梨花似雪的比喻虽常见，但与秋千意象结合，略显牵强。整体立意老套，未脱怨春窠臼，语言直白无回味，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "东风、梨花意象试图营造悲凉，但情感表达过于直白，缺乏含蓄之美。",
+                "realm": "劣",
+                "reason": "模仿悲慨而流于表面，未能深沉。"
+            }
+        ],
+        "imagery": [
+            "东风",
+            "诗客",
+            "秋千",
+            "梨花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "落尽梨花似雪团一句，比喻尚可，意象具体。"
+        }
+    },
+    {
+        "title": "觀物  其一",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "蜂占薔薇封食邑，蟻侵蜾蠃借軍須。",
+            "雨天風急鳩呼婦，水國煙寒鴈喚奴。"
+        ],
+        "paragraphs_simplified": [
+            "蜂占蔷薇封食邑，蚁侵蜾蠃借军须。",
+            "雨天风急鸠呼妇，水国烟寒雁唤奴。"
+        ],
+        "translation": "蜜蜂占据蔷薇封为食邑，蚂蚁侵入蜾蠃借军需。雨天风急鸠鸟呼唤配偶，水国烟寒大雁呼唤奴仆。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "对仗工整"
+            ],
+            "structural_logic": "两句对仗，前句写蜂蚁，后句写鸠雁，通过小动物行为折射生存状态。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "两句结构对称，音韵协调。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "封食邑、借军须、呼妇、唤奴，赋予昆虫鸟类以人类社会行为。"
+                }
+            ]
+        },
+        "analysis": "此诗以观物为题，通过蜂蚁鸠雁的拟人化描写，暗喻世态。意象奇特，如封食邑、借军须，颇具讽刺意味，但语言稍显晦涩。对仗工整，技法成熟，然情感内敛，未见强烈抒情，整体属能品。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "昆虫鸟类意象承载讽喻，试图沉潜深刻，但表达略滞涩。",
+                "realm": "能",
+                "reason": "模仿沉著，但意象处理不够自然。"
+            }
+        ],
+        "imagery": [
+            "蜂",
+            "蔷薇",
+            "蚁",
+            "蜾蠃",
+            "鸠",
+            "雁"
+        ],
+        "allusions": [
+            {
+                "phrase": "蜾蠃",
+                "解释": "一种寄生蜂，常用于比喻，此处借指微小生物。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "雨天风急鸠呼妇，水国烟寒雁唤奴一句，对仗工整，意象生动。"
+        }
+    },
+    {
+        "title": "觀物  其二",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "曉鷺守溪圖口腹，暮蛛借屋計家生。",
+            "不羈野馬空中騁，無喘蝸牛壁上耕。"
+        ],
+        "paragraphs_simplified": [
+            "晓鹭守溪图口腹，暮蛛借屋计家生。",
+            "不羁野马空中骋，无喘蜗牛壁上耕。"
+        ],
+        "translation": "晓鹭守在溪边谋取口腹之需，暮蛛借屋安家筹划生计。不羁的野马在空中驰骋，无喘的蜗牛在墙上耕作。",
+        "score": 2.6,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "对比"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "通过两组对仗工整的物象对比，直接呈现微观生物的生存状态，形成平行结构。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“守溪”“借屋”赋予鹭蛛人类行为，暗喻生存挣扎。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "“野马空中骋”与“蜗牛壁上耕”构成空间与速度的强烈反差。"
+                }
+            ]
+        },
+        "analysis": "此诗以工笔勾勒鹭蛛蜗马四种生物形态，构筑出微观世界的生存图景。意象选择虽具巧思，但“守溪图口腹”“借屋计家生”等句流于字面堆砌，缺乏深层意蕴的开拓。野马与蜗牛的对比仅停留在物理层面，未能折射出更具普遍性的哲理。整体呈现白描有余而神韵不足的特征，属于技法熟练但立意平庸的应酬式咏物。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以白描手法呈现自然物态，但因意象组合生硬，未能达到“俯拾即是，不取诸邻”的化境。",
+                "realm": "能品",
+                "reason": "物象铺陈工整，但缺乏“俱道适往”的天然机趣，流于形似。"
+            }
+        ],
+        "imagery": [
+            "鹭",
+            "蛛",
+            "马",
+            "蜗牛",
+            "溪",
+            "屋",
+            "壁"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句“曉鷺守溪圖口腹”以动宾结构精准捕捉生物本能，更具画面张力。"
+        }
+    },
+    {
+        "title": "荷池追凉",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "清曉無人知此凉，岸巾植杖立銀塘。",
+            "晴霞燒眼收將斂，荷葉生風綠水香。"
+        ],
+        "paragraphs_simplified": [
+            "清晓无人知此凉，岸巾植杖立银塘。",
+            "晴霞烧眼收将敛，荷叶生风绿水香。"
+        ],
+        "translation": "清晨无人知晓这份清凉，我束发戴巾拄杖立于银色池塘。刺眼的晴霞渐渐收敛，荷叶摇曳生风，绿水飘散清香。",
+        "score": 4.3,
+        "subject": [
+            "山水诗",
+            "闲适诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "通感",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首句点明独享清凉之境，后三句以视觉（晴霞）、触觉（生风）、嗅觉（水香）多感官递进渲染，形成沉浸式体验。",
+            "evidence": [
+                {
+                    "tag": "通感",
+                    "explanation": "“烧眼”将视觉灼热感转化为触觉，强化霞光强度。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "“立银塘”的静与“生风”的动形成空间张力。"
+                }
+            ]
+        },
+        "analysis": "此诗以“无人知此凉”起笔，瞬间构筑出遗世独立的清凉境界。晴霞从“烧眼”到“收敛”的动态描摹，与荷叶生风、绿水散香的嗅觉通感交织，形成多维度的感官画卷。植杖独立的诗人形象虽未直抒胸臆，却通过景物代谢暗含超然物外之趣。意象清新生动，音律流转，堪称能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以银塘、晴霞、荷叶等清冷意象群，渲染出疏淡空灵的意境，契合“遇之匪深，即之愈希”的冲淡特质。",
+                "realm": "妙品",
+                "reason": "物象洗练，情韵内敛，得冲淡之神髓。"
+            }
+        ],
+        "imagery": [
+            "晓",
+            "凉",
+            "岸巾",
+            "杖",
+            "塘",
+            "霞",
+            "荷叶",
+            "水"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“荷葉生風綠水香”以通感手法收束全篇，嗅觉与触觉交融，余韵悠长。"
+        }
+    },
+    {
+        "title": "舟程苦遲",
+        "author": "白玉蟾",
+        "paragraphs": [
+            "水馬輕便勝陸行，衝風遡水反多程。",
+            "溪流詰曲成千摺，雲色陰晴沒十成。"
+        ],
+        "paragraphs_simplified": [
+            "水马轻便胜陆行，冲风溯水反多程。",
+            "溪流诘曲成千折，云色阴晴没十成。"
+        ],
+        "translation": "水马轻便本应胜过陆行，逆风溯水反而路程更多。溪流曲折如千道折痕，云色阴晴变幻难测。",
+        "score": 2.9,
+        "subject": [
+            "羁旅诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "无奈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以水马与陆行对比点题，再以溪流、云色的具体困境深化“苦迟”主题，逻辑直白。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "“轻便胜陆行”与“反多程”构成预期与现实的落差。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“千折”极言溪流曲折，“没十成”强调云色无常。"
+                }
+            ]
+        },
+        "analysis": "此诗直陈舟行迟滞之苦，意象选取水马、溪流、云色等常规羁旅元素，但“诘曲成千折”“阴晴没十成”等句仅停留在现象罗列，缺乏情感深度的挖掘。对比手法的运用流于表面，未能通过物象反衬内心波澜。语言平实无奇，整体呈现流水账式的叙事，未能突破羁旅诗的陈套。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以“千折”“没十成”等语营造力度，但因意象单薄，反显空洞叫嚣。",
+                "realm": "凡品",
+                "reason": "欲作劲健之语而失之粗浅，未得刚健之力。"
+            }
+        ],
+        "imagery": [
+            "水马",
+            "陆",
+            "风",
+            "水",
+            "溪流",
+            "云"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句“水馬輕便勝陸行”直接点明矛盾，奠定全诗基调。"
+        }
+    }
+]

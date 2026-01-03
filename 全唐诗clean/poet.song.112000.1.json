@@ -1,0 +1,1794 @@
+[
+    {
+        "title": "平江守禱晴即應時近元夕矣寄呈五絕句  其一",
+        "author": "仲并",
+        "paragraphs": [
+            "丹邱雨裏看春回，密霧濃雲撥不開。",
+            "怪底寒窗烘曉日，朱轓親禱梵宮來。"
+        ],
+        "paragraphs_simplified": [
+            "丹邱雨里看春回，密雾浓云拨不开。",
+            "怪底寒窗烘晓日，朱轓亲祷梵宫来。"
+        ],
+        "translation": "在丹邱雨中看春天归来，密雾浓云拨不开。奇怪寒窗烘晓日，朱轓亲自到梵宫祈祷。",
+        "score": 2.5,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "期待",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句写雨景，次句写祈祷行为，直接点题。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过雨景描写烘托祈祷的迫切"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "密雾浓云拨不开比喻困境"
+                }
+            ]
+        },
+        "analysis": "此诗以雨景起笔，意象陈旧，密雾浓云之喻流于表面，未能构筑真切意境。祈祷行为直白，情感宣泄无回甘，情景契合度低。整体立意浅显，属平庸堆砌之作，缺乏审美深度。",
+        "poetry_styles": [
+            {
+                "style": "实境",
+                "imagery_analysis": "试图如实记录雨景与祈祷，但意象单薄，未能升华。",
+                "realm": "能",
+                "reason": "技法平实，无独特艺术价值。"
+            }
+        ],
+        "imagery": [
+            "雨",
+            "云",
+            "窗",
+            "日",
+            "庙宇"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点题，写景相对生动。"
+        }
+    },
+    {
+        "title": "平江守禱晴即應時近元夕矣寄呈五絕句  其二",
+        "author": "仲并",
+        "paragraphs": [
+            "投曉家家笑語聲，夜來風促雨如傾。",
+            "都緣默禱胸中久，一瓣香焚喚得晴。"
+        ],
+        "paragraphs_simplified": [
+            "投晓家家笑语声，夜来风促雨如倾。",
+            "都缘默祷胸中久，一瓣香焚唤得晴。"
+        ],
+        "translation": "拂晓时家家笑语声，夜来风急雨如倾。都因默祷胸中久，一瓣香焚唤得晴。",
+        "score": 2.8,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "叙事"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写雨势与笑语，后两句直述祈祷过程，末句点出结果。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "雨如倾形容雨势之大"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "末句点出祈祷唤晴的结果"
+                }
+            ]
+        },
+        "analysis": "此诗以笑语与雨势对比，试图渲染转晴之喜，但情感直露，缺乏含蓄。夸张手法流于俗套，叙事平铺无余韵。整体立意老套，属应酬类平庸之作，无回甘之妙。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图平实叙述，但语言寡淡，未达自然之境。",
+                "realm": "能",
+                "reason": "技法单调，情感宣泄过度。"
+            }
+        ],
+        "imagery": [
+            "笑语",
+            "风",
+            "雨",
+            "香"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句直接点题，逻辑清晰。"
+        }
+    },
+    {
+        "title": "平江守禱晴即應時近元夕矣寄呈五絕句  其三",
+        "author": "仲并",
+        "paragraphs": [
+            "梅經多雨玉飄零，就有殘枝困未醒。",
+            "安得吳儂不歌舞，滿畦扶起麥青青。"
+        ],
+        "paragraphs_simplified": [
+            "梅经多雨玉飘零，就有残枝困未醒。",
+            "安得吴侬不歌舞，满畦扶起麦青青。"
+        ],
+        "translation": "梅花经多雨飘零，残枝困顿未醒。怎得吴人不歌舞，满田扶起麦苗青青。",
+        "score": 3.5,
+        "subject": [
+            "农事诗"
+        ],
+        "emotion": [
+            "期待",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "首句写梅雨凋零，次句转农事期盼，物我关联自然。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "梅困未醒赋予梅人性"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借梅飘零言农事期待"
+                }
+            ]
+        },
+        "analysis": "此诗借梅雨凋零暗喻农事困顿，意象转换自然，情景契合度较高。拟人手法增添生动，情感含蓄有回甘。整体构筑真切，属能品佳作，虽立意未深，但技法成熟。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "以梅言农，意在言外，有余味。",
+                "realm": "能",
+                "reason": "意境真切，但深度有限。"
+            }
+        ],
+        "imagery": [
+            "梅",
+            "雨",
+            "树枝",
+            "麦"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句点出农事期盼，转折自然。"
+        }
+    },
+    {
+        "title": "平江守禱晴即應時近元夕矣寄呈五絕句  其四",
+        "author": "仲并",
+        "paragraphs": [
+            "東風吹斷雨如繩，一夜仍開曲沼冰。",
+            "便試元宵强半月，孰知天意欲催燈。"
+        ],
+        "paragraphs_simplified": [
+            "东风吹断雨如绳，一夜仍开曲沼冰。",
+            "便试元宵强半月，孰知天意欲催灯。"
+        ],
+        "translation": "东风吹断雨如绳，一夜仍开曲沼冰。便试元宵强半月，谁知天意欲催灯。",
+        "score": 3.2,
+        "subject": [
+            "节令诗"
+        ],
+        "emotion": [
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句写雨断冰开，次句转元宵天意，逻辑连贯。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "雨如绳形容雨线连绵"
+                },
+                {
+                    "tag": "借古讽今",
+                    "explanation": "天意欲催灯暗指元宵临近"
+                }
+            ]
+        },
+        "analysis": "此诗以东风断雨起笔，意象生动，但比喻陈旧。转句写元宵，情感直白，无深层意蕴。整体流畅却乏味，属凡品，有小趣而无大雅。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以力写景，但语言平实，未达劲健之境。",
+                "realm": "能",
+                "reason": "比喻虽巧，余韵不足。"
+            }
+        ],
+        "imagery": [
+            "风",
+            "雨",
+            "冰",
+            "灯"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句写景相对生动，捕捉天气变化。"
+        }
+    },
+    {
+        "title": "平江守禱晴即應時近元夕矣寄呈五絕句  其五",
+        "author": "仲并",
+        "paragraphs": [
+            "安排燈火作鰲頭，人樂公來再有秋。",
+            "轉雨作晴談笑事，他州誰得似吾州。"
+        ],
+        "paragraphs_simplified": [
+            "安排灯火作鳌头，人乐公来再有秋。",
+            "转雨作晴谈笑事，他州谁得似吾州。"
+        ],
+        "translation": "安排灯火作鳌头，人乐公来再有秋。转雨作晴谈笑事，他州谁得似吾州。",
+        "score": 2.0,
+        "subject": [
+            "酬唱诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写灯景与人乐，后两句自夸转晴，末句设问收尾。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "谁得似吾州反问强调"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "鳌头可能指元宵灯景典故"
+                }
+            ]
+        },
+        "analysis": "此诗以灯景与谈笑铺陈，情感自得，但立意浅显，有吹嘘之嫌。设问手法流于俗套，用典模糊。整体属劣作，辞藻堆砌，无审美价值。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "试图豪迈自夸，但语言粗鄙，反类打油。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，情感宣泄无度。"
+            }
+        ],
+        "imagery": [
+            "灯",
+            "秋",
+            "雨",
+            "晴"
+        ],
+        "allusions": [
+            {
+                "phrase": "鳌头",
+                "explanation": "可能指元宵灯景典故，但运用生硬"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句直接点出主题，虽平庸但通顺。"
+        }
+    },
+    {
+        "title": "夜抵德清縣偶題",
+        "author": "仲并",
+        "paragraphs": [
+            "溪山奪目壯哉縣，風露侵肌老矣身。",
+            "斷岸橫舟偏得月，小橋曳杖不逢人。"
+        ],
+        "paragraphs_simplified": [
+            "溪山夺目壮哉县，风露侵肌老矣身。",
+            "断岸横舟偏得月，小桥曳杖不逢人。"
+        ],
+        "translation": "溪山壮丽夺目，真是个好县；风露侵肌，我已老迈。断岸横舟，偏偏得月；小桥曳杖，不遇人。",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "羁旅诗"
+        ],
+        "emotion": [
+            "孤独",
+            "羁旅"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句以壮景衬老身，后两句以静景衬孤寂，形成情景对照。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "‘溪山夺目’对‘风露侵肌’，工整自然。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "‘横舟’与‘曳杖’动静相映。"
+                }
+            ]
+        },
+        "analysis": "此诗以溪山风露构筑羁旅之境，壮县与老身形成反差，断岸横舟得月之景勾勒出孤寂清冷。小桥曳杖不遇人，深化了独行无依的意蕴。整体情景契合，意境真切，情感含蓄而有回甘，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "溪山、风露等意象洗练，构筑出清奇之境。",
+                "realm": "能",
+                "reason": "技法纯熟，但立意未脱羁旅常调。"
+            }
+        ],
+        "imagery": [
+            "溪山",
+            "风露",
+            "断岸",
+            "横舟",
+            "小桥",
+            "杖"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘断岸横舟偏得月’以动衬静，意境深远。"
+        }
+    },
+    {
+        "title": "再過宜興舟中見芍藥數枝憶淮鄉此花之盛爲之悵然輒成三絕  其一",
+        "author": "仲并",
+        "paragraphs": [
+            "故眼相看未作疏，平生風味是吾廬。",
+            "娉娉裊裊誰家子，浪說傾城總不如。"
+        ],
+        "paragraphs_simplified": [
+            "故眼相看未作疏，平生风味是吾庐。",
+            "娉娉袅袅谁家子，浪说倾城总不如。"
+        ],
+        "translation": "旧眼相看未曾疏远，平生风味就在我家。娉婷袅袅是谁家女子，空说倾城也比不上。",
+        "score": 3.2,
+        "subject": [
+            "咏物诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "思乡",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句以故园之眼定调，后句以女子喻花，虚实相生。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘娉娉袅袅谁家子’以人喻花。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借芍药寄托乡愁。"
+                }
+            ]
+        },
+        "analysis": "此诗以芍药为媒介，故眼相看流露乡情，娉婷之喻虽巧但略显陈旧。平生风味与倾城之说对比，立意浅显，情感宣泄直白，缺乏审美距离。整体意象堆砌，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "试图以绮丽之语描摹，但意象浮泛。",
+                "realm": "凡",
+                "reason": "辞藻堆砌，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "芍药",
+            "吾庐",
+            "女子"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "‘故眼相看未作疏’稍显自然。"
+        }
+    },
+    {
+        "title": "再過宜興舟中見芍藥數枝憶淮鄉此花之盛爲之悵然輒成三絕  其二",
+        "author": "仲并",
+        "paragraphs": [
+            "少時暮暮復朝朝，一水相望恨未消。",
+            "岸曲橫舟試回首，隔簾斜立數妖嬈。"
+        ],
+        "paragraphs_simplified": [
+            "少时暮暮复朝朝，一水相望恨未消。",
+            "岸曲横舟试回首，隔帘斜立数妖娆。"
+        ],
+        "translation": "少年时朝朝暮暮，一水相望恨意难消。岸曲横舟试回首，隔帘斜立数点妖娆。",
+        "score": 3.5,
+        "subject": [
+            "思乡诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "思乡",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "伏笔铺垫"
+            ],
+            "structural_logic": "前句忆旧恨，后句以回首隔帘之景铺垫愁绪。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "‘少时暮暮复朝朝’对‘一水相望恨未消’。"
+                },
+                {
+                    "tag": "以乐衬哀",
+                    "explanation": "‘妖娆’之景反衬乡愁。"
+                }
+            ]
+        },
+        "analysis": "此诗以暮暮朝朝之忆起笔，恨未消直抒胸臆，岸曲横舟回首之景勾勒出隔帘数花的怅惘。情感虽真，但意象如‘妖娆’流于俗艳，整体意境未脱俗套，情景契合度一般。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以悲慨之情动人，但意象浅薄。",
+                "realm": "能",
+                "reason": "技法尚可，但立意平庸。"
+            }
+        ],
+        "imagery": [
+            "水",
+            "岸",
+            "舟",
+            "帘",
+            "花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘岸曲横舟试回首’动态感强。"
+        }
+    },
+    {
+        "title": "再過宜興舟中見芍藥數枝憶淮鄉此花之盛爲之悵然輒成三絕  其三",
+        "author": "仲并",
+        "paragraphs": [
+            "却是溪頭消息真，故園十載漫風塵。",
+            "如今不問黄樓子，淺白輕紅自可人。"
+        ],
+        "paragraphs_simplified": [
+            "却是溪头消息真，故园十载漫风尘。",
+            "如今不问黄楼子，浅白轻红自可人。"
+        ],
+        "translation": "却是溪头消息真切，故园十年漫卷风尘。如今不问黄楼子，浅白轻红自可人意。",
+        "score": 3.6,
+        "subject": [
+            "思乡诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "思乡",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句以溪头消息起兴，后句以浅白轻红显志，虚实相生。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "‘故园风尘’与‘浅白轻红’对比。"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "末句点出可人之意。"
+                }
+            ]
+        },
+        "analysis": "此诗以溪头消息真切入，故园风尘之叹与浅白轻红之赏形成张力，情感由忧转恬。意象洗练，情景交融，意境真切，情感有回甘，属能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "浅白轻红意象淡雅，构筑冲淡之境。",
+                "realm": "能",
+                "reason": "技法成熟，但未达妙境。"
+            }
+        ],
+        "imagery": [
+            "溪头",
+            "故园",
+            "风尘",
+            "黄楼子",
+            "花"
+        ],
+        "allusions": [
+            {
+                "phrase": "黄楼子",
+                "explanation": "可能指代某种楼阁或典故，此处泛指不问俗事。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘浅白轻红自可人’凝练传神。"
+        }
+    },
+    {
+        "title": "薄暮遊潘登仕園園有堂三間榜曰一枝蓋湖公樞密兩取莊周郄詵之語既以嘉潘亦以勉潘之二子因用其意各賦一絕  其一",
+        "author": "仲并",
+        "paragraphs": [
+            "斜窗短屋傍殘暉，宴坐蕭然老布衣。",
+            "枯淡生涯一枝足，世間驚鵲誤南飛。"
+        ],
+        "paragraphs_simplified": [
+            "斜窗短屋傍残晖，宴坐萧然老布衣。",
+            "枯淡生涯一枝足，世间惊鹊误南飞。"
+        ],
+        "translation": "斜窗短屋依傍残晖，宴坐萧然一老布衣。枯淡生涯一枝已足，世间惊鹊误了南飞。",
+        "score": 4.0,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句写景起兴，后句以一枝足显志，用典自然。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "‘一枝’暗合庄周郄诜之语。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "‘惊鹊误南飞’喻世事纷扰。"
+                }
+            ]
+        },
+        "analysis": "此诗以斜窗短屋残晖之景起笔，宴坐萧然老布衣勾勒出隐逸之态。一枝足之典与惊鹊之喻结合，托物言志，哲理深邃。意境清奇，情感超脱，情景交融，属妙品之作。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "枯淡一枝意象疏朗，构筑疏野之境。",
+                "realm": "妙",
+                "reason": "用典自然，意境高远。"
+            }
+        ],
+        "imagery": [
+            "斜窗",
+            "短屋",
+            "残晖",
+            "布衣",
+            "鹊"
+        ],
+        "allusions": [
+            {
+                "phrase": "一枝",
+                "explanation": "源自庄周‘鹪鹩巢于深林，不过一枝’及郄诜‘桂林一枝’，喻知足。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘枯淡生涯一枝足’哲理凝练。"
+        }
+    },
+    {
+        "title": "薄暮遊潘登仕園園有堂三間榜曰一枝蓋湖公樞密兩取莊周郄詵之語既以嘉潘亦以勉潘之二子因用其意各賦一絕  其二",
+        "author": "仲并",
+        "paragraphs": [
+            "玉樹郎君兩白眉，照人英爽自兒時。",
+            "乃翁可笑太多事，繞舍春風千萬枝。"
+        ],
+        "paragraphs_simplified": [
+            "玉树郎君两白眉，照人英爽自儿时。",
+            "乃翁可笑太多事，绕舍春风千万枝。"
+        ],
+        "translation": "玉树临风的郎君两道白眉，从小英气爽朗。父亲可笑太多事，绕着房舍有春风和千万枝条。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先描写郎君英气，再转到父亲多事与春风，形成对比以勉励。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'玉树郎君'喻青年才俊。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "用'千万枝'渲染春风之盛。"
+                }
+            ]
+        },
+        "analysis": "此诗通过玉树郎君与父亲的对比，构筑勉励之境。意象如'白眉'与'春风'陈旧，缺乏新意，情感流于表面，无深长回甘。整体立意浅显，辞藻堆砌，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以'玉树'、'春风'营造典雅，但意象陈腐，未能升华。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，辞藻堆砌而立意浅显，缺乏真趣。"
+            }
+        ],
+        "imagery": [
+            "郎君",
+            "白眉",
+            "春风",
+            "枝"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句描写相对生动。"
+        }
+    },
+    {
+        "title": "蕪城",
+        "author": "仲并",
+        "paragraphs": [
+            "鶑歌燕語戲晴暉，日暮行人緩緩歸。",
+            "十里蕪城春色晚，回頭往事已全非。"
+        ],
+        "paragraphs_simplified": [
+            "莺歌燕语戏晴晖，日暮行人缓缓归。",
+            "十里芜城春色晚，回头往事已全非。"
+        ],
+        "translation": "莺歌燕语在晴晖中嬉戏，日暮行人缓缓归家。十里芜城春色已晚，回头往事已全非。",
+        "score": 4.2,
+        "subject": [
+            "怀古诗",
+            "感伤诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "首尾呼应",
+                "卒章显志"
+            ],
+            "structural_logic": "先写莺燕欢景，再转芜城春色晚与往事全非，以乐景衬哀情。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "'戏晴晖'赋予莺燕人性。"
+                },
+                {
+                    "tag": "以乐衬哀",
+                    "explanation": "莺歌燕语反衬往事全非之悲。"
+                }
+            ]
+        },
+        "analysis": "此诗以芜城为题，通过莺歌燕语与往事全非的对比，构筑物是人非的意境。意象虽常见，但情感真挚，情景交融，有回甘之效。整体技法成熟，意境真切。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以春景之乐衬哀情，深得悲慨之旨，意境浑成。",
+                "realm": "妙",
+                "reason": "情景交融，情感深沉，审美距离适中。"
+            }
+        ],
+        "imagery": [
+            "莺",
+            "燕",
+            "晴晖",
+            "行人",
+            "芜城",
+            "春色",
+            "往事"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句点题，情感强烈，直指物是人非。"
+        }
+    },
+    {
+        "title": "有客來從陽羨聞元績離家已月餘由崑山過臨安桐廬計今合歸矣元績當不惜迂路一訪僕於苕霅間也戲爲一絕招之元績純孝人每在道念親殊切",
+        "author": "仲并",
+        "paragraphs": [
+            "風露侵人曷往哉，白雲飛處棹徘徊。",
+            "平時識面盡經過，莫爲茅簷偏不來。"
+        ],
+        "paragraphs_simplified": [
+            "风露侵人曷往哉，白云飞处棹徘徊。",
+            "平时识面尽经过，莫为茅檐偏不来。"
+        ],
+        "translation": "风露侵人，何往？白云飞处，船桨徘徊。平时识面的人都经过，不要因为茅檐偏不来。",
+        "score": 2.8,
+        "subject": [
+            "酬唱诗",
+            "招隐诗"
+        ],
+        "emotion": [
+            "期待",
+            "思乡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先写风露白云之景，再以设问劝友来访，末句直抒胸臆。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "'曷往哉'引发思考。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "'白云飞处'喻旅途。"
+                }
+            ]
+        },
+        "analysis": "此诗招友来访，通过风露、白云等意象勾勒旅途艰辛，情感真挚但语言直白，缺乏诗意深度。整体立意浅显，未能脱俗，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以风露白云营造自然之境，但语言直白，韵味不足。",
+                "realm": "劣",
+                "reason": "立意浅显，缺乏含蓄，流于口语。"
+            }
+        ],
+        "imagery": [
+            "风露",
+            "白云",
+            "棹",
+            "茅檐"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句设问有力，略显生动。"
+        }
+    },
+    {
+        "title": "感時  其一",
+        "author": "仲并",
+        "paragraphs": [
+            "傷春那得易爲情，世味年來一一更。",
+            "馳馬彎弓今日事，儒冠深覺誤平生。"
+        ],
+        "paragraphs_simplified": [
+            "伤春那得易为情，世味年来一一更。",
+            "驰马弯弓今日事，儒冠深觉误平生。"
+        ],
+        "translation": "伤春怎能轻易动情，世味年来一一更替。驰马弯弓是今日事，儒冠深觉误平生。",
+        "score": 4.0,
+        "subject": [
+            "感怀诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "设问"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "抑扬结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先以设问否定伤春，再写世味更替，最后对比武事与文事，点出儒冠误平生。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "'驰马弯弓'与'儒冠'形成反差。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "'那得易为情'强化情感。"
+                }
+            ]
+        },
+        "analysis": "此诗通过伤春与世味更替，表达对文人命运的愤懑。意象对比鲜明，语言凝练，批判性强，情感直指人心。整体技法成熟，有回甘之效。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以儒冠误平生为核心，抒发悲慨之情，力度充沛。",
+                "realm": "妙",
+                "reason": "情感强烈，对比有力，立意深刻。"
+            }
+        ],
+        "imagery": [
+            "春",
+            "世味",
+            "马",
+            "弓",
+            "儒冠"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句'儒冠深觉误平生'直抒胸臆，情感浓烈。"
+        }
+    },
+    {
+        "title": "感時  其二",
+        "author": "仲并",
+        "paragraphs": [
+            "忽傳羣盜下淮瀕，又逐黄州韓使君。",
+            "却望長安在天上，愁看天際有孤雲。"
+        ],
+        "paragraphs_simplified": [
+            "忽传群盗下淮濒，又逐黄州韩使君。",
+            "却望长安在天上，愁看天际有孤云。"
+        ],
+        "translation": "忽传群盗下淮濒，又逐黄州韩使君。却望长安在天上，愁看天际有孤云。",
+        "score": 4.1,
+        "subject": [
+            "感怀诗",
+            "边塞诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "思乡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先叙群盗与使君之事，再写望长安与愁看孤云，从现实到理想落差。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "'长安在天上'喻理想遥远。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "实写盗贼，虚写长安与孤云。"
+                }
+            ]
+        },
+        "analysis": "此诗通过群盗与使君的叙事，表达对时局的忧虑和对长安的向往。意象如'孤云'象征性强，情感深沉，意境深远。整体技法娴熟，有回甘。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以孤云喻愁绪，结合时事，构筑高古之境。",
+                "realm": "妙",
+                "reason": "意境深远，情感真挚，虚实相生。"
+            }
+        ],
+        "imagery": [
+            "群盗",
+            "淮濒",
+            "黄州",
+            "韩使君",
+            "长安",
+            "孤云"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句'愁看天际有孤云'意象深远，情感凝聚。"
+        }
+    },
+    {
+        "title": "晚坐和韵  其一",
+        "author": "仲并",
+        "paragraphs": [
+            "急雪逢春易作晴，窮閻猶復斷人行。",
+            "公家何在欲乘月，夜半扁舟不隔城。"
+        ],
+        "paragraphs_simplified": [
+            "急雪逢春易作晴，穷阎犹复断人行。",
+            "公家何在欲乘月，夜半扁舟不隔城。"
+        ],
+        "translation": "急雪遇到春天容易转晴，贫穷的街巷仍然断绝人行。公家在哪里？想乘着月色，夜半的扁舟不隔城。",
+        "score": 2.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "孤独"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写雪晴之景，后转月夜扁舟之思，通过景象转换铺垫情感。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "以雪晴与月夜景象寄托孤寂之情"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "实写雪晴，虚写扁舟不隔城"
+                }
+            ]
+        },
+        "analysis": "此诗以雪晴起兴，转写月夜扁舟，意象组合略显生硬。'穷阎断人行'折射社会关怀，但表达直白，缺乏深层意蕴。技法虽成熟，然意境平淡，未脱常套。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "雪、月、船等意象陈旧，缺乏独特视角",
+                "realm": "能品",
+                "reason": "试图营造自然之境，但意象拼凑，未能浑然一体"
+            }
+        ],
+        "imagery": [
+            "雪",
+            "月",
+            "船"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句'急雪逢春易作晴'动态感较强"
+        }
+    },
+    {
+        "title": "晚坐和韵  其二",
+        "author": "仲并",
+        "paragraphs": [
+            "好月侵階已十分，太清不受一塵昏。",
+            "今宵定自梅花發，踈影橫斜何處村。"
+        ],
+        "paragraphs_simplified": [
+            "好月侵阶已十分，太清不受一尘昏。",
+            "今宵定自梅花发，疏影横斜何处村。"
+        ],
+        "translation": "好月侵阶已经十分明亮，太清不受一丝尘昏。今宵定是梅花开放，疏影横斜在何处村庄。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先写月光清辉，后引梅花疏影，通过时空转换衔接。",
+            "evidence": [
+                {
+                    "tag": "托物言志",
+                    "explanation": "以梅花象征高洁，寄托淡泊情怀"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "太清喻指纯净天空"
+                }
+            ]
+        },
+        "analysis": "此诗以月和梅为意象，营造清幽之境。'疏影横斜'化用林逋名句，却未出新意。整体意境优美，但情感深度不足，流于表面描摹。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "月、梅、村组合清雅，但缺乏独创性",
+                "realm": "能品",
+                "reason": "试图追求清奇之境，然意象陈旧，未能超诣"
+            }
+        ],
+        "imagery": [
+            "月",
+            "梅花",
+            "村庄"
+        ],
+        "allusions": [
+            {
+                "phrase": "疏影横斜",
+                "explanation": "暗指林逋《山园小梅》名句"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句'今宵定自梅花发'点出核心意象"
+        }
+    },
+    {
+        "title": "晚坐和韵  其三",
+        "author": "仲并",
+        "paragraphs": [
+            "篇篇振玉妙玲瓏，字字春風和氣中。",
+            "安得居家無一事，搜吟日日與君同。"
+        ],
+        "paragraphs_simplified": [
+            "篇篇振玉妙玲珑，字字春风和气中。",
+            "安得居家无一事，搜吟日日与君同。"
+        ],
+        "translation": "篇篇如振玉般妙玲珑，字字在春风和气中。怎能居家无一事，搜吟日日与君同。",
+        "score": 2.0,
+        "subject": [
+            "酬唱诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "直抒胸臆"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先赞诗作精妙，后抒同吟之愿，直白铺陈。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以振玉、春风喻诗作之美"
+                },
+                {
+                    "tag": "直接抒情",
+                    "explanation": "直言与君同吟之愿"
+                }
+            ]
+        },
+        "analysis": "此诗直白赞美友人诗作，用'振玉''春风'等喻，却流于俗套。后两句表达闲居吟诗之愿，情感真挚但语言平庸，纯属应酬之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "玉、风等意象空洞，缺乏实质",
+                "realm": "劣品",
+                "reason": "试图模仿典雅，实则辞藻堆砌，情感浅显"
+            }
+        ],
+        "imagery": [
+            "玉",
+            "风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句比喻稍具形象"
+        }
+    },
+    {
+        "title": "晚坐和韵  其四",
+        "author": "仲并",
+        "paragraphs": [
+            "醉眼全醒病亦醒，虛齋危坐聽無聲。",
+            "錦囊欲報清新句，自笑常談只老生。"
+        ],
+        "paragraphs_simplified": [
+            "醉眼全醒病亦醒，虚斋危坐听无声。",
+            "锦囊欲报清新句，自笑常谈只老生。"
+        ],
+        "translation": "醉眼全醒病也醒，虚斋危坐听无声。锦囊欲报清新句，自笑常谈只老生。",
+        "score": 2.2,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "自嘲"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "实境"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先述醉醒后独坐状态，后转自嘲老生常谈，以情结篇。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "醉眼全醒与病亦醒形成对照"
+                },
+                {
+                    "tag": "直接抒情",
+                    "explanation": "自笑常谈只老生直露心迹"
+                }
+            ]
+        },
+        "analysis": "此诗写醉醒后虚斋独坐，欲报清新句却自嘲老生常谈。情感真实，但语言直白如口语，缺乏诗意提炼，整体平淡无奇。",
+        "poetry_styles": [
+            {
+                "style": "实境",
+                "imagery_analysis": "醉眼、虚斋等意象琐碎，未升华",
+                "realm": "劣品",
+                "reason": "试图捕捉实境，实则流于浅俗，缺乏审美距离"
+            }
+        ],
+        "imagery": [
+            "眼",
+            "斋",
+            "锦囊"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句'自笑常谈只老生'有自省之意"
+        }
+    },
+    {
+        "title": "晚坐和韵  其五",
+        "author": "仲并",
+        "paragraphs": [
+            "城東韓李城南趙，欲往從之道阻長。",
+            "與我詩盟煩借問，角弓永好願無忘。"
+        ],
+        "paragraphs_simplified": [
+            "城东韩李城南赵，欲往从之道阻长。",
+            "与我诗盟烦借问，角弓永好愿无忘。"
+        ],
+        "translation": "城东的韩李、城南的赵，欲往从之道阻长。与我诗盟烦借问，角弓永好愿无忘。",
+        "score": 2.5,
+        "subject": [
+            "酬唱诗",
+            "送别诗"
+        ],
+        "emotion": [
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先述友人方位与阻隔，后借典故祈愿诗盟永固。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "角弓暗用《诗经》典故喻兄弟相亲"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "以韩李、赵代指特定友人"
+                }
+            ]
+        },
+        "analysis": "此诗提及城东城南友人，道路阻长，借问诗盟，愿永好。情感诚挚，但'角弓'用典晦涩，解释不清。整体为酬唱诗，诗意薄弱。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "城、道、弓等意象生硬，典故运用不当",
+                "realm": "能品",
+                "reason": "试图追求典雅，但典故处理欠圆融，略显生涩"
+            }
+        ],
+        "imagery": [
+            "城",
+            "路",
+            "弓"
+        ],
+        "allusions": [
+            {
+                "phrase": "角弓",
+                "explanation": "出自《诗经·小雅·角弓》，喻兄弟相亲"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句'角弓永好愿无忘'用典点题"
+        }
+    },
+    {
+        "title": "次韵病起二首  其一",
+        "author": "仲并",
+        "paragraphs": [
+            "不妨佳句太頻頻，還得愁中眼漸明。",
+            "好是維摩病初醒，又將口業起紛爭。"
+        ],
+        "paragraphs_simplified": [
+            "不妨佳句太频频，还得愁中眼渐明。",
+            "好是维摩病初醒，又将口业起纷争。"
+        ],
+        "translation": "不妨佳句写得太频繁，还在愁苦中眼睛渐渐明亮。好像是维摩诘的病刚醒，又将口舌之争引起纷争。",
+        "score": 2.5,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句点题病起得句，次句用维摩典深化，表达病愈后仍陷口舌之争的矛盾。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "维摩病醒，指病愈后的精神状态。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "口业起纷争，喻言语争执如祸端。"
+                }
+            ]
+        },
+        "analysis": "此诗借维摩诘典故抒发病愈心境，意象陈旧，立意浅显。维摩典常见于禅诗，此处运用生硬，缺乏新意。语言平实，无甚佳处，情感流于表面，整体堆砌辞藻而无深意，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图以典故含蓄表达，但反显堆砌，未能达成深远意境。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，典故运用生硬，未能营造含蓄之美。"
+            }
+        ],
+        "imagery": [
+            "诗",
+            "愁",
+            "眼",
+            "病",
+            "言语"
+        ],
+        "allusions": [
+            {
+                "phrase": "维摩",
+                "explanation": "维摩诘，佛教居士，常喻病愈或悟道。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句相对通顺，点明主题。"
+        }
+    },
+    {
+        "title": "次韵病起二首  其二",
+        "author": "仲并",
+        "paragraphs": [
+            "聞道車書未一家，平時苦苦念京華。",
+            "新來忽得幽居味，竹屋茅簷政自嘉。"
+        ],
+        "paragraphs_simplified": [
+            "闻道车书未一家，平时苦苦念京华。",
+            "新来忽得幽居味，竹屋茅檐政自嘉。"
+        ],
+        "translation": "听说车书未统一，平时苦苦思念京城。新近忽然得到幽居的趣味，竹屋茅檐正自美好。",
+        "score": 2.8,
+        "subject": [
+            "思乡诗",
+            "隐逸诗"
+        ],
+        "emotion": [
+            "思乡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句写思乡之苦，次句转折得幽居之乐，形成对比。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "竹屋茅檐表现幽居之趣。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "念京华（虚）与幽居（实）对照。"
+                }
+            ]
+        },
+        "analysis": "此诗对比思乡与幽居，立意常见，语言平实。竹屋茅檐意象陈旧，情感转折生硬，缺乏细腻刻画。整体流于表面，未能深入挖掘隐逸之乐，属凡庸之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以幽居景物营造冲淡之境，但意象浅显，未能达致深远。",
+                "realm": "劣",
+                "reason": "模仿冲淡而失败，反显浅露，缺乏自然之味。"
+            }
+        ],
+        "imagery": [
+            "国家",
+            "京城",
+            "隐居",
+            "房屋"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句语言相对流畅，点明幽居。"
+        }
+    },
+    {
+        "title": "送閻少隠同其弟伯子宣子赴試淮南爲一月之別某以病起不及餞送爲三絕  其一",
+        "author": "仲并",
+        "paragraphs": [
+            "二難晚出材無敵，老將從來勇冠軍。",
+            "一月望公三捷至，秋風不惜暫離羣。"
+        ],
+        "paragraphs_simplified": [
+            "二难晚出材无敌，老将从来勇冠军。",
+            "一月望公三捷至，秋风不惜暂离群。"
+        ],
+        "translation": "二难晚出但材无敌，老将从来勇冠三军。一月希望公三捷归来，秋风不惜暂时离群。",
+        "score": 3.6,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "期待"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句用典赞兄弟才能，次句以秋风离群表达期望捷报。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "老将勇冠军，喻兄弟勇猛。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "二难，指兄弟俱佳。"
+                }
+            ]
+        },
+        "analysis": "此诗用典‘二难’与‘老将’，表达对兄弟的赞美与期望。语言有力，意象虽普通但结构紧凑。情感直白，略显粗豪，然技法成熟，整体尚可，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "以老将、秋风构筑劲健之境，但未达雄浑，略显浅直。",
+                "realm": "能",
+                "reason": "技法熟练，但意境未深，属能品。"
+            }
+        ],
+        "imagery": [
+            "兄弟",
+            "将领",
+            "秋风",
+            "群体"
+        ],
+        "allusions": [
+            {
+                "phrase": "二难",
+                "explanation": "出自《世说新语》，指兄弟贤能。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句用典有力，突出兄弟才能。"
+        }
+    }
+]

@@ -1,0 +1,819 @@
+[
+    {
+        "title": "梅初破蕊",
+        "author": "陳著",
+        "paragraphs": [
+            "朔風驚曉雪花乾，盡力尋梅不道寒。",
+            "萬事不如初見好，一枝全勝滿園看。"
+        ],
+        "paragraphs_simplified": [
+            "朔风惊晓雪花干，尽力寻梅不道寒。",
+            "万事不如初见好，一枝全胜满园看。"
+        ],
+        "translation": "北风惊醒了清晨，雪花已干，尽力寻找梅花，不觉得寒冷。万事不如初次相见好，一枝梅花胜过满园景色。",
+        "score": 3.8,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写寻梅场景，后转入哲理议论，由实入虚。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "后两句“万事不如初见好，一枝全胜满园看”形成工整对仗。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借梅花初绽寄托初见之美胜过繁盛之景的感悟。"
+                }
+            ]
+        },
+        "analysis": "此诗以朔风雪花的凛冽衬托寻梅之执着，意象简洁而场景真切。后两句由物及理，点出初见之美胜过满园繁盛，虽有哲思但立意略显常见，未能脱出咏物诗的常规框架。语言平实，缺乏更深层的意境开拓，整体呈现一种淡雅的闲适感，但艺术张力稍弱。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以风、雪、梅构筑清冷意境，突出初绽之梅的独特。",
+                "realm": "能品",
+                "reason": "技法成熟但意象陈旧，未能突破传统咏梅诗的范式。"
+            }
+        ],
+        "imagery": [
+            "风",
+            "雪",
+            "梅",
+            "园"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句以哲理收束，点明全诗主旨，最具代表性。"
+        }
+    },
+    {
+        "title": "次前韻二首  其一",
+        "author": "陳著",
+        "paragraphs": [
+            "玉奴留下唾花乾，夜逐嫦娥入廣寒。",
+            "不許世人輕著眼，漫教對此細評看。"
+        ],
+        "paragraphs_simplified": [
+            "玉奴留下唾花干，夜逐嫦娥入广寒。",
+            "不许世人轻著眼，漫教对此细评看。"
+        ],
+        "translation": "玉奴留下唾花干（暗指梅花），夜晚追逐嫦娥进入广寒宫。不许世人轻看，漫教对此细细评看。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "赞美",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "用典"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先以神话意象描绘梅花，后要求世人细评，由虚转实。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“嫦娥”“广寒”借用月宫神话，赋予梅花仙气。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“玉奴”比喻梅花，以人喻物。"
+                }
+            ]
+        },
+        "analysis": "此诗借嫦娥奔月的典故，将梅花拟作玉奴追逐仙踪，意象奇幻而富有浪漫色彩。但典故运用稍显堆砌，未能与咏梅主题深度融合，导致立意不够明晰。语言虽华丽，却缺乏内在的情感流动，整体呈现一种刻意求奇的倾向，艺术感染力有限。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "以玉奴、嫦娥、广寒宫构筑神话意境，追求辞藻华美。",
+                "realm": "能品",
+                "reason": "用典生硬，未能自然融入咏物主题，略显浮夸。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "月",
+            "宫"
+        ],
+        "allusions": [
+            {
+                "phrase": "嫦娥",
+                "explanation": "月宫仙子，象征高洁与遥远。"
+            },
+            {
+                "phrase": "广寒",
+                "explanation": "月宫别称，喻指清冷仙境。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句引入核心意象，奠定全诗神话基调。"
+        }
+    },
+    {
+        "title": "次前韻二首  其二",
+        "author": "陳著",
+        "paragraphs": [
+            "竹溪詩筆幾曾乾，遺我新詩照眼寒。",
+            "不用尋梅霜月底，祇將詩句作梅看。"
+        ],
+        "paragraphs_simplified": [
+            "竹溪诗笔几曾干，遗我新诗照眼寒。",
+            "不用寻梅霜月底，只将诗句作梅看。"
+        ],
+        "translation": "竹溪诗才几曾枯竭，遗我新诗照眼生寒。不用在霜月底下寻梅，只将诗句当作梅花看。",
+        "score": 4.2,
+        "subject": [
+            "酬唱诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先赞对方诗才，后提出诗可代梅的见解，逻辑连贯。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“将诗句作梅看”以诗比梅，突出艺术替代自然。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借梅与诗的等同，表达对诗艺的推崇。"
+                }
+            ]
+        },
+        "analysis": "此诗以竹溪诗笔起兴，转入诗可代梅的妙想，构思新颖而脱俗。语言凝练，意象转换自然，将诗与梅的审美价值等同，拓宽了咏物诗的意境边界。情感流露含蓄而豁达，无说教之弊，反见哲思之深，堪称酬唱诗中的佳作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以竹溪、诗笔、霜月构筑清雅意境，凸显诗艺之高。",
+                "realm": "妙品",
+                "reason": "立意新颖，语言精炼，情景契合度高。"
+            }
+        ],
+        "imagery": [
+            "溪",
+            "笔",
+            "梅",
+            "月"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句直指诗梅合一，是全诗思想的凝练表达。"
+        }
+    },
+    {
+        "title": "杜鵑二首  其一",
+        "author": "陳著",
+        "paragraphs": [
+            "催歸亦是大饒唇，自不能歸底勸人。",
+            "行止在人終莫勸，只應勸得合歸春。"
+        ],
+        "paragraphs_simplified": [
+            "催归亦是大饶唇，自不能归底劝人。",
+            "行止在人终莫劝，只应劝得合归春。"
+        ],
+        "translation": "催归（杜鹃）也是大饶舌，自己不能归却劝人。行止在人终莫劝，只应劝得合归春。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "无奈",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先描述杜鹃行为，后议论其矛盾，由表及里。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“催归”“劝人”赋予杜鹃人性化的饶舌与矛盾。"
+                }
+            ]
+        },
+        "analysis": "此诗借杜鹃啼归，讽刺自不能归却劝人者，立意虽存但表达直白。语言粗浅，如“大饶唇”近乎口语，缺乏诗家锤炼。意象单一，未能通过杜鹃的物性深化主题，整体流于表面说理，缺乏审美回甘。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以杜鹃啼归寄托无奈，但意象单薄。",
+                "realm": "凡品",
+                "reason": "语言直白，立意浅显，未能达到悲慨之境的深度。"
+            }
+        ],
+        "imagery": [
+            "鸟",
+            "春"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句点出劝归的矛盾，是全诗核心。"
+        }
+    },
+    {
+        "title": "杜鵑二首  其二",
+        "author": "陳著",
+        "paragraphs": [
+            "萬綠陰中拌死啼，如何日夜不能疲。",
+            "料應飽作秋冬夢，恰好如今是醒時。"
+        ],
+        "paragraphs_simplified": [
+            "万绿阴中拌死啼，如何日夜不能疲。",
+            "料应饱作秋冬梦，恰好如今是醒时。"
+        ],
+        "translation": "在万绿阴中拼命啼叫，如何日夜不能疲倦。料想饱作秋冬梦，恰好如今是醒时。",
+        "score": 2.2,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "无奈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写啼叫状态，后推测梦境与现实，逻辑跳跃。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“拌死啼”以极端言辞形容啼叫之勤。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“秋冬梦”比喻杜鹃的蛰伏期。"
+                }
+            ]
+        },
+        "analysis": "此诗描写杜鹃啼叫之勤，但用词粗俗，如“拌死啼”缺乏诗意提炼。立意牵强，将啼叫归因于秋冬梦醒，逻辑牵强，未能揭示物性本质。语言直白如口语，意象松散，整体缺乏艺术锤炼，近乎打油之作。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以夸张手法表现杜鹃的执着，但语言粗鄙。",
+                "realm": "凡品",
+                "reason": "用词直白，立意浅陋，未能达到劲健之境的力度。"
+            }
+        ],
+        "imagery": [
+            "树",
+            "鸟",
+            "梦"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句以夸张手法突出啼叫状态，最具冲击力。"
+        }
+    },
+    {
+        "title": "次韻袁司理送行三首  其一",
+        "author": "陳著",
+        "paragraphs": [
+            "別友相逢情最好，相逢還別若爲情。",
+            "看君騰踏飛黄去，記取清鐙影裏盟。"
+        ],
+        "paragraphs_simplified": [
+            "别友相逢情最好，相逢还别若为情。",
+            "看君腾踏飞黄去，记取清灯影里盟。"
+        ],
+        "translation": "与朋友分别时相逢情谊最深，相逢后又要离别仿佛是情意的安排。看你骑着骏马飞黄腾达而去，记得在清灯影下我们的盟约。",
+        "score": 3.2,
+        "subject": [
+            "送别诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "惜别",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先写相逢与离别的矛盾情感，再写对友人未来的期许与盟约回忆，形成情感递进。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前两句“别友相逢情最好，相逢还别若为情”在词性和意境上形成工整对仗。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“清灯影里盟”通过灯影意象寄托盟约之深。"
+                }
+            ]
+        },
+        "analysis": "此诗直陈离别之情，意象如“飞黄”“清灯”陈旧，缺乏新意。情感表达直白，意境浅显，属于应酬诗中的平庸之作。情景契合度一般，情感宣泄无回甘，整体定性为凡品。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图以灯影盟约营造余韵，但直露的抒情削弱了含蓄之美。",
+                "realm": "能品",
+                "reason": "技法成熟但意象陈旧，未能达到含蓄深远的境界。"
+            }
+        ],
+        "imagery": [
+            "友",
+            "马",
+            "灯",
+            "盟"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直接点题，概括相逢与离别的核心矛盾。"
+        }
+    },
+    {
+        "title": "次韻袁司理送行三首  其二",
+        "author": "陳著",
+        "paragraphs": [
+            "陰六陽三天者定，重逢樽酒定何時。",
+            "但須別後頻相問，來往翔鴻各寄詩。"
+        ],
+        "paragraphs_simplified": [
+            "阴六阳三天者定，重逢樽酒定何时。",
+            "但须别后频相问，来往翔鸿各寄诗。"
+        ],
+        "translation": "阴阳六天三日者定，重逢饮酒定在何时。但须别后频繁相问，来往飞翔的鸿雁各自寄诗。",
+        "score": 3.0,
+        "subject": [
+            "送别诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "期待",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先以历法起兴写时间之定，再问重逢之期，最后以鸿雁传书寄托别后联系。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“翔鸿”比喻书信往来，形象传达思念。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“阴六阳三”可能暗指历法典故，但生僻难解。"
+                }
+            ]
+        },
+        "analysis": "此诗以阴阳历法起兴，意象模糊，“阴六阳三”生涩，情感表达间接却缺乏真切感。鸿雁传书虽具诗意，但整体构思平淡，意境隔膜，属于应酬诗中的平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图以历法与鸿雁营造古意，但用语晦涩，反失自然。",
+                "realm": "凡品",
+                "reason": "模仿高古风格但流于晦涩，未能达成典雅之境。"
+            }
+        ],
+        "imagery": [
+            "酒",
+            "鸿雁",
+            "诗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以翔鸿寄诗收束，意象较生动，情感有所寄托。"
+        }
+    },
+    {
+        "title": "次韻袁司理送行三首  其三",
+        "author": "陳著",
+        "paragraphs": [
+            "瀟灑秋光山水窟，木犀香底細評詩。",
+            "今朝携手明朝別，此會一生能幾時。"
+        ],
+        "paragraphs_simplified": [
+            "潇洒秋光山水窟，木犀香底细评诗。",
+            "今朝携手明朝别，此会一生能几时。"
+        ],
+        "translation": "潇洒的秋光在山水窟中，木犀花香下细细评诗。今天携手明天分别，这样的聚会一生能有几次。",
+        "score": 3.5,
+        "subject": [
+            "送别诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "惜别"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以秋景山水铺陈闲适氛围，再转写携手离别之事，最后以感慨收束。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“潇洒秋光山水窟”以秋景烘托离别前的宁静。"
+                }
+            ]
+        },
+        "analysis": "此诗以秋光山水起兴，情景交融，“木犀香底”细腻，但情感表达直白，结尾“一生能几时”虽有感慨却流于俗套。意境真切，但审美距离较近，缺乏回甘，属于能品。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "秋光山水与评诗场景契合，但抒情过于直露，削弱了自然之趣。",
+                "realm": "能品",
+                "reason": "技法熟练，但未能完全达到自然流畅的境界。"
+            }
+        ],
+        "imagery": [
+            "秋光",
+            "山水",
+            "木犀",
+            "手",
+            "别"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以问句收束，强化了离别之叹，情感集中。"
+        }
+    },
+    {
+        "title": "次韻月窗兄惜別四首  其一",
+        "author": "陳著",
+        "paragraphs": [
+            "分付浮生一字休，欲休不得是離愁。",
+            "如今祇怕歸無準，心在丹山最上頭。"
+        ],
+        "paragraphs_simplified": [
+            "分付浮生一字休，欲休不得是离愁。",
+            "如今只怕归无准，心在丹山最上头。"
+        ],
+        "translation": "吩咐浮生一字休，欲休不得是离愁。如今只怕归无准，心在丹山最上头。",
+        "score": 3.3,
+        "subject": [
+            "惜别诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先写离愁难休，再写归心无准，最后以心在丹山明志。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“丹山”比喻理想归宿或高远志向。"
+                }
+            ]
+        },
+        "analysis": "此诗情感真挚，“离愁”直接，“丹山”意象有升华，但整体直白，缺乏深度。托物言志未充分展开，意境浅显，属于凡品。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以离愁与丹山营造悲壮，但用语平实，未达深沉。",
+                "realm": "凡品",
+                "reason": "模仿悲慨风格但情感流于表面，未能触动人心。"
+            }
+        ],
+        "imagery": [
+            "浮生",
+            "离愁",
+            "心",
+            "山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句“欲休不得是离愁”情感强烈，直指核心。"
+        }
+    },
+    {
+        "title": "次韻月窗兄惜別四首  其二",
+        "author": "陳著",
+        "paragraphs": [
+            "幾載詩盟兩見心，自從別後可曾尋。",
+            "夜來夢見怱怱散，杜宇西窗月未沈。"
+        ],
+        "paragraphs_simplified": [
+            "几载诗盟两见心，自从别后可曾寻。",
+            "夜来梦见匆匆散，杜宇西窗月未沉。"
+        ],
+        "translation": "几年诗盟两见心，自从别后可曾寻。夜来梦见匆匆散，杜宇西窗月未沉。",
+        "score": 3.6,
+        "subject": [
+            "惜别诗",
+            "相思诗"
+        ],
+        "emotion": [
+            "孤独",
+            "悲伤"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先写旧盟与别后寻觅，再以梦境破碎和杜宇啼鸣结情，情景交融。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“杜宇”啼鸣拟人化，渲染哀愁氛围。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“月未沉”以夜景烘托梦境余韵。"
+                }
+            ]
+        },
+        "analysis": "此诗以梦境与杜宇啼鸣渲染离愁，意境凄美，“匆匆散”口语化但整体情感细腻。借景抒情真切，审美距离适中，有回甘，属于能品。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "杜宇西窗月夜场景，成功营造悲凉意境，但用语偶有直白。",
+                "realm": "能品",
+                "reason": "情感真挚，但未达悲慨的极致深沉。"
+            }
+        ],
+        "imagery": [
+            "诗盟",
+            "梦",
+            "杜宇",
+            "月"
+        ],
+        "allusions": [
+            {
+                "phrase": "杜宇",
+                "explanation": "古蜀帝杜宇化为杜鹃，象征哀愁与离别。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以景结情，月未沉与杜宇啼鸣交织，余韵悠长。"
+        }
+    },
+    {
+        "title": "次韻月窗兄惜別四首  其三",
+        "author": "陳著",
+        "paragraphs": [
+            "記得溪山兩袂分，一溪流水落花春。",
+            "青驄馬上休回首，只見雲山不見人。"
+        ],
+        "paragraphs_simplified": [
+            "记得溪山两袂分，一溪流水落花春。",
+            "青骢马上休回首，只见云山不见人。"
+        ],
+        "translation": "记得在溪山分别时，两袖分拂，一溪流水落花春色。骑着青骢马不要回头，只看见云山看不见人。",
+        "score": 3.0,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "惜别",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句以溪山流水落花勾勒离别场景，后两句通过马首不回、只见云山的动作强化孤寂感。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“只見雲山不見人”以云山遮蔽人影的景象，寄托离别后的空茫之情。"
+                }
+            ]
+        },
+        "analysis": "此诗以溪山、流水、落花等意象构筑离别情境，画面感尚可，但意象组合流于常见，缺乏新意。情感表达含蓄，却因“青驄馬上休回首”的直白指令而失之浅露。整体意境未能突破传统送别诗的窠臼，属于技法平熟但立意陈旧之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以溪山流水营造淡远之境，但“休回首”的刻意感破坏了自然韵味。",
+                "realm": "能",
+                "reason": "意象选择平淡，结构工整但缺乏深层意蕴，属能品中平庸之作。"
+            }
+        ],
+        "imagery": [
+            "溪山",
+            "流水",
+            "落花",
+            "云山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“一溪流水落花春”意象组合较为流畅，画面感稍强。"
+        }
+    }
+]

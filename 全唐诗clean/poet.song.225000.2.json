@@ -1,0 +1,378 @@
+[
+    {
+        "title": "文王",
+        "author": "林同",
+        "paragraphs": [
+            "問安寢門外，旦旦俟雞鳴。",
+            "以至日中昃，居常盡此誠。"
+        ],
+        "paragraphs_simplified": [
+            "问安寝门外，旦旦俟鸡鸣。",
+            "以至日中昃，居常尽此诚。"
+        ],
+        "translation": "在寝门外问安，每天等到鸡鸣。直到日中西斜，日常都尽此诚心。",
+        "score": 2.5,
+        "subject": [
+            "怀古诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先描述问安行为，然后强调日常诚意。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "两句结构对称，'問安寢門外'与'以至日中昃'对应，'旦旦俟雞鳴'与'居常盡此誠'对应。"
+                }
+            ]
+        },
+        "analysis": "诗句以白描手法勾勒文王问安之日常，从鸡鸣至日中，诚心贯注。然意象陈旧，立意浅显，仅止于叙事层面，缺乏情感深度与艺术升华。语言质朴无华，对仗工整却流于形式，未能通过细节传递更深层的孝道意涵。作为咏史之作，仅停留在表面记述，未见借古讽今或深刻反思，故艺术价值有限。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图通过问安、鸡鸣等意象构筑典雅氛围，但意象组合简单，缺乏层次感。",
+                "realm": "能",
+                "reason": "技法成熟但立意平庸，未能达到典雅之高境。"
+            }
+        ],
+        "imagery": [
+            "门",
+            "鸡",
+            "日",
+            "诚"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句直接描述行为，较为通顺。"
+        }
+    },
+    {
+        "title": "武王",
+        "author": "林同",
+        "paragraphs": [
+            "經言事父孝，所以事天明。",
+            "疾間加再飯，夢中與九齡。"
+        ],
+        "paragraphs_simplified": [
+            "经言事父孝，所以事天明。",
+            "疾间加再饭，梦中与九龄。"
+        ],
+        "translation": "经书说侍奉父亲孝顺，所以侍奉天明。疾病间增加再饭，梦中与九龄。",
+        "score": 3.0,
+        "subject": [
+            "怀古诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先引用经典讲孝道原理，然后举例武王行为。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "'九龄'指武王梦龄的典故，出自《礼记》，表示长寿。"
+                }
+            ]
+        },
+        "analysis": "诗句引用经典与典故，试图说明武王的孝道与天命。但语言生硬，'疾間加再飯'等句意象模糊，缺乏流畅性。整体结构松散，典故运用未能自然融入，艺术感染力不足。立意虽正，但表达笨拙，未能通过意象组合传递深层意涵，流于表面说教。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "借用经典意象，但组合生硬，未能营造高古意境。",
+                "realm": "能",
+                "reason": "有高古之志，但表达笨拙，未能达到自然之境。"
+            }
+        ],
+        "imagery": [
+            "父",
+            "天",
+            "病",
+            "食",
+            "梦",
+            "龄"
+        ],
+        "allusions": [
+            {
+                "phrase": "九龄",
+                "explanation": "指周武王梦得长寿九龄的典故，出自《礼记·文王世子》。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句引用经典，较为清晰。"
+        }
+    },
+    {
+        "title": "周公",
+        "author": "林同",
+        "paragraphs": [
+            "我避故云辟，東行是謂征。",
+            "先王猶可告，豈爲伐而刑。"
+        ],
+        "paragraphs_simplified": [
+            "我避故云辟，东行是谓征。",
+            "先王犹可告，岂为伐而刑。"
+        ],
+        "translation": "我避所以云辟，东行是谓征。先王犹可告，岂为伐而刑。",
+        "score": 2.8,
+        "subject": [
+            "怀古诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先描述周公行为，然后解释动机。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "两句结构对称，'我避故云辟'与'先王犹可告'对应。"
+                }
+            ]
+        },
+        "analysis": "诗句抽象地描述周公避嫌与东征，语言晦涩，意象如'辟'、'征'、'刑'等缺乏具体描绘，导致理解困难。整体立意不明，未能清晰传达历史事件的深层含义，艺术表现薄弱。试图借古讽今，但表达隐晦，反而失去讽喻的力度，沦为平铺直叙。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图通过隐晦语言表达深意，但过于晦涩，失去含蓄之美。",
+                "realm": "逸",
+                "reason": "含蓄风格失败，变为晦涩难懂。"
+            }
+        ],
+        "imagery": [
+            "避",
+            "东",
+            "行",
+            "先王",
+            "伐",
+            "刑"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句相对通顺。"
+        }
+    },
+    {
+        "title": "孔子",
+        "author": "林同",
+        "paragraphs": [
+            "事親良不易，戰戰復兢兢。",
+            "學得如夫子，猶言丘未能。"
+        ],
+        "paragraphs_simplified": [
+            "事亲良不易，战战复兢兢。",
+            "学得如夫子，犹言丘未能。"
+        ],
+        "translation": "侍奉父母确实不易，战战兢兢。学得像夫子，还说丘未能。",
+        "score": 3.2,
+        "subject": [
+            "怀古诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "谦逊"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先讲事亲不易，然后引用孔子的话。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "'丘未能'出自《论语》，表示孔子谦逊。"
+                }
+            ]
+        },
+        "analysis": "诗句直接引用孔子话语，强调孝道与谦逊。但语言平淡，缺乏新意，仅重复经典而未加发挥。意象如'战战兢兢'陈旧，整体流于说教，艺术感染力不足。作为哲理诗，未能通过意象深化主题，仅停留在表面陈述，未能构筑审美空间。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "借用孔子典故，但表达直白，未能构筑典雅意境。",
+                "realm": "能",
+                "reason": "有典雅之形，但无典雅之神。"
+            }
+        ],
+        "imagery": [
+            "父母",
+            "孔子",
+            "言"
+        ],
+        "allusions": [
+            {
+                "phrase": "丘未能",
+                "explanation": "出自《论语·颜渊》，孔子自谦未能做到孝道。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句直接点题，较为清晰。"
+        }
+    },
+    {
+        "title": "顔子",
+        "author": "林同",
+        "paragraphs": [
+            "返必展墓入，去當哭墓行。",
+            "誰知顔氏子，事死乃如生。"
+        ],
+        "paragraphs_simplified": [
+            "返必展墓入，去当哭墓行。",
+            "谁知颜氏子，事死乃如生。"
+        ],
+        "translation": "返回必展墓入，去当哭墓行。谁知颜氏子，事死乃如生。",
+        "score": 2.6,
+        "subject": [
+            "悼亡诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "悼亡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先描述行为，然后点明主题。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "两句结构对称，'返必展墓入'与'去當哭墓行'对应。"
+                }
+            ]
+        },
+        "analysis": "诗句描述颜回事死如生的行为，语言质朴，但意象如'墓'、'哭'等直接而缺乏修饰。整体情感单一，未能通过细节传递深层的哀思，艺术表现平庸。试图营造悲慨氛围，但意象组合简单，流于表面叙述，未能达到情感共鸣。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图通过墓、哭等意象营造悲慨氛围，但意象简单，情感直露。",
+                "realm": "逸",
+                "reason": "悲慨风格流于表面，未能达到深沉之境。"
+            }
+        ],
+        "imagery": [
+            "墓",
+            "哭",
+            "颜回",
+            "生"
+        ],
+        "allusions": [
+            {
+                "phrase": "颜氏子",
+                "explanation": "指颜回，孔子弟子，以德行著称。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句描述行为，较为具体。"
+        }
+    }
+]

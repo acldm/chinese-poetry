@@ -1,0 +1,1775 @@
+[
+    {
+        "title": "宿山中十首  其三",
+        "author": "劉克莊",
+        "paragraphs": [
+            "就泉爲碓屋，纍石作書龕。",
+            "有意耕汾曲，無心起水南。"
+        ],
+        "paragraphs_simplified": [
+            "就泉为碓屋，累石作书龛。",
+            "有意耕汾曲，无心起水南。"
+        ],
+        "translation": "就着泉水建造碓屋，堆叠石头做成书龛。有意在汾曲耕种，无心去水南。",
+        "score": 2.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句写居所构造，后句写耕种意愿，直述山中生活状态。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "就泉为碓屋具体描绘生活设施"
+                },
+                {
+                    "tag": "白描",
+                    "explanation": "累石作书龛平实记录石室建造"
+                }
+            ]
+        },
+        "analysis": "此诗以白描手法勾勒山居日常，意象陈旧，立意浅显。就泉、累石等语汇缺乏新意，汾曲与水南的对照流于表面，未能构筑深层意境。整体平铺直叙，情感渗透薄弱，仅止于生活场景的机械记录，缺乏审美回甘。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以简淡笔触表现隐逸，但意象单薄，未达冲和之境。",
+                "realm": "劣",
+                "reason": "模仿冲淡而流于枯槁，缺乏味外之旨。"
+            }
+        ],
+        "imagery": [
+            "泉",
+            "石",
+            "书",
+            "田地"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句具象性稍强。"
+        }
+    },
+    {
+        "title": "宿山中十首  其四",
+        "author": "劉克莊",
+        "paragraphs": [
+            "市脯店猶遠，刈芻人未歸。",
+            "夜深語童子，且掩半邊扉。"
+        ],
+        "paragraphs_simplified": [
+            "市脯店犹远，刈刍人未归。",
+            "夜深语童子，且掩半边扉。"
+        ],
+        "translation": "市脯店还远，割草人未归。夜深告诉童子，暂且掩上半边门。",
+        "score": 2.8,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先述外部环境，后写室内动作，以时间推移串联场景。",
+            "evidence": [
+                {
+                    "tag": "叙事",
+                    "explanation": "夜深语童子记录对话事件"
+                }
+            ]
+        },
+        "analysis": "全诗平铺直叙，意象琐碎。市脯店、刈刍人等物象缺乏提炼，夜深掩扉的细节未升华出情感张力。语言直白如口语，意境扁平，未能以有限笔墨勾勒出山夜孤寂的深层氛围，属应酬式记录。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "追求平实，但失之粗陋，未得自然之真趣。",
+                "realm": "劣",
+                "reason": "貌似自然，实则缺乏艺术锤炼。"
+            }
+        ],
+        "imagery": [
+            "店",
+            "人",
+            "童子",
+            "门"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句动作稍具画面感。"
+        }
+    },
+    {
+        "title": "宿山中十首  其五",
+        "author": "劉克莊",
+        "paragraphs": [
+            "路危防陟遠，溪黑阻窮深。",
+            "涼月如高士，頻招未出林。"
+        ],
+        "paragraphs_simplified": [
+            "路危防陟远，溪黑阻穷深。",
+            "凉月如高士，频招未出林。"
+        ],
+        "translation": "路险防止爬远，溪黑阻隔深穷。凉月如高士，频频招唤不出林。",
+        "score": 3.2,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句写险阻环境，后句以月喻人，情景交融。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "凉月如高士拟人化月色"
+                }
+            ]
+        },
+        "analysis": "凉月如高士之喻稍显巧思，但前句路险溪黑的铺陈过于直露，未能形成意境张力。比喻虽新，却未深入开掘，流于表面。整体情感淡薄，缺乏回甘，未能以景语传递深层心绪。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "试图以月喻营造清幽，但意象衔接生硬。",
+                "realm": "劣",
+                "reason": "立意求奇而根基不稳，反显造作。"
+            }
+        ],
+        "imagery": [
+            "路",
+            "溪",
+            "月",
+            "人",
+            "林"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "比喻句具独创性。"
+        }
+    },
+    {
+        "title": "宿山中十首  其六",
+        "author": "劉克莊",
+        "paragraphs": [
+            "巖僧殊好事，絕頂廟龍君。",
+            "勿笑一泓水，能生六合雲。"
+        ],
+        "paragraphs_simplified": [
+            "岩僧殊好事，绝顶庙龙君。",
+            "勿笑一泓水，能生六合云。"
+        ],
+        "translation": "岩僧特别好事，在绝顶庙祭龙君。不要笑一泓水，能生六合云。",
+        "score": 3.5,
+        "subject": [
+            "山水诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句叙事，后句说理，以小见大。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "能生六合云极言水势之大"
+                }
+            ]
+        },
+        "analysis": "后两句以夸张手法点染哲理，揭示微物可生大用，颇具深意。但前句巖僧庙龙君的铺垫略显俚俗，削弱了整体格调。瑕不掩瑜，理趣虽直白，却能拓宽读者对自然力的想象。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "试图以宏阔意象显气魄，但前半局促。",
+                "realm": "能",
+                "reason": "后句有豪放之质，然整体未臻浑成。"
+            }
+        ],
+        "imagery": [
+            "僧",
+            "山",
+            "神",
+            "水",
+            "云"
+        ],
+        "allusions": [
+            {
+                "phrase": "龙君",
+                "explanation": "神话中的龙神"
+            }
+        ],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "理句具警策性。"
+        }
+    },
+    {
+        "title": "宿山中十首  其七",
+        "author": "劉克莊",
+        "paragraphs": [
+            "崖居供給少，不用犬防籬。",
+            "只恐偷兒黠，來窺壁上詩。"
+        ],
+        "paragraphs_simplified": [
+            "崖居供给少，不用犬防篱。",
+            "只恐偷儿黠，来窥壁上诗。"
+        ],
+        "translation": "崖居供给少，不用狗防篱。只恐偷儿狡猾，来窥壁上诗。",
+        "score": 2.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句写环境简陋，后句写防盗担忧，直述无曲。",
+            "evidence": [
+                {
+                    "tag": "叙事",
+                    "explanation": "只恐偷儿黠直陈忧虑"
+                }
+            ]
+        },
+        "analysis": "立意浅显，以偷儿窥诗为虑，虽带幽默却流于俗趣。意象如崖、篱、壁等陈旧无奇，语言直白如白话，未提炼出山居的孤寂或超然。全诗缺乏艺术升华，纯为记事。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "试图表现山野本色，但失之粗鄙。",
+                "realm": "劣",
+                "reason": "模仿疏野而落入俚俗。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "篱",
+            "人",
+            "墙",
+            "书"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句稍显生动。"
+        }
+    },
+    {
+        "title": "宿山中十首  其八",
+        "author": "劉克莊",
+        "paragraphs": [
+            "山中無價寶，月色與泉聲。",
+            "莫向貴人說，將爲有力爭。"
+        ],
+        "paragraphs_simplified": [
+            "山中无价宝，月色与泉声。",
+            "莫向贵人说，将为有力争。"
+        ],
+        "translation": "山中的无价之宝是月色和泉声。不要向权贵提及，以免被强权争夺。",
+        "score": 2.5,
+        "subject": [
+            "山水诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句写景，后两句议论，结构直白。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "月色与泉声对仗工整。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "以自然景物暗喻世俗纷扰。"
+                }
+            ]
+        },
+        "analysis": "意象陈旧，立意浅显。月色泉声作为山中至宝的设定流于俗套，后两句直白说教，缺乏审美距离。整体构思平庸，未能通过景物传递深层情感，属于典型的应酬式写作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图模仿自然风格，但语言直白无余味。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，徒有自然之形而无其神。"
+            }
+        ],
+        "imagery": [
+            "月",
+            "泉",
+            "山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "前句画面感稍强，整体平庸。"
+        }
+    },
+    {
+        "title": "宿山中十首  其九",
+        "author": "劉克莊",
+        "paragraphs": [
+            "玉筯篆文古，銀鈎楷法精。",
+            "得知千載下，時有打碑聲。"
+        ],
+        "paragraphs_simplified": [
+            "玉箸篆文古，银钩楷法精。",
+            "得知千载下，时有打碑声。"
+        ],
+        "translation": "玉箸篆文古朴，银钩楷法精妙。千年后仍能听到拓碑声。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句描摹书法精妙，后句以声音收束，暗示历史传承。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "玉箸、银钩喻书法笔触。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过碑刻寄寓文化传承之思。"
+                }
+            ]
+        },
+        "analysis": "用典生硬，意象堆砌。篆文、楷法等术语堆叠，缺乏情感渗透。后句打碑声虽具时空感，但整体立意拘泥于物象本身，未能升华至历史沧桑，流于表面描摹。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图追求典雅，但词藻堆砌而意境空洞。",
+                "realm": "劣",
+                "reason": "重形式而轻内核，沦为文字游戏。"
+            }
+        ],
+        "imagery": [
+            "篆文",
+            "楷法",
+            "碑"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "对仗工整，但缺乏情感张力。"
+        }
+    },
+    {
+        "title": "宿山中十首  其一○",
+        "author": "劉克莊",
+        "paragraphs": [
+            "淒風轉林杪，露坐感衣單。",
+            "不道山中冷，翻憂世上寒。"
+        ],
+        "paragraphs_simplified": [
+            "凄风转林杪，露坐感衣单。",
+            "不道山中冷，翻忧世上寒。"
+        ],
+        "translation": "凄风吹动树梢，露中独坐感衣单。不说山中寒冷，反忧世间寒凉。",
+        "score": 3.0,
+        "subject": [
+            "山水诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句写实景，后句转折抒情，由己及人。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "山中冷与世上寒的对照。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "以凄风露坐引发世情之忧。"
+                }
+            ]
+        },
+        "analysis": "情感转折生硬，说教意味浓。前句衣单之感尚真切，后句突然跳脱至世间寒，缺乏自然过渡。意境不隔，但审美距离过近，流于直露宣泄，未能形成回甘。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图营造悲慨之情，但情感逻辑断裂。",
+                "realm": "劣",
+                "reason": "强作愁语，反失真挚。"
+            }
+        ],
+        "imagery": [
+            "风",
+            "露",
+            "衣"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句点题，但表达直白。"
+        }
+    },
+    {
+        "title": "七月二十日自瀑上先歸方寺丞遣詩夸雷雨之壯次韻一首",
+        "author": "劉克莊",
+        "paragraphs": [
+            "城裏遥看雨出時，想公筆墨發雄奇。",
+            "山深龍虎飛騰變，海運鯤鵬瞬息移。",
+            "凜凜前鋒如赴敵，堂堂迴勢似歸師。",
+            "驅還始悟山靈意，怕向蒼崖寫惡詩。"
+        ],
+        "paragraphs_simplified": [
+            "城里遥看雨出时，想公笔墨发雄奇。",
+            "山深龙虎飞腾变，海运鲲鹏瞬息移。",
+            "凛凛前锋如赴敌，堂堂回势似归师。",
+            "驱还始悟山灵意，怕向苍崖写恶诗。"
+        ],
+        "translation": "在城里遥看雨起，想你笔墨生雄奇。山深龙虎飞腾变，海运鲲鹏瞬息移。前锋凛凛如赴敌，回师堂堂似归师。驱驰方悟山灵意，怕向苍崖写恶诗。",
+        "score": 3.2,
+        "subject": [
+            "酬唱诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首联点题，中两联铺陈雷雨之势，尾联自嘲收束。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "龙虎、鲲鹏喻雷雨变幻。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "鲲鹏典出《庄子》，增强气势。"
+                }
+            ]
+        },
+        "analysis": "意象宏大但堆砌过度，龙虎鲲鹏等典故密集却缺乏内在韵律。中二联对仗工整但气势雷同，尾句自嘲突兀，破坏整体雄浑感。技法成熟但情感浮于表面，未能深掘山灵之意。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "试图追求雄浑，但辞藻繁复反损气韵。",
+                "realm": "能",
+                "reason": "有形无神，未能达到浑然一体。"
+            }
+        ],
+        "imagery": [
+            "雨",
+            "龙虎",
+            "鲲鹏",
+            "山"
+        ],
+        "allusions": [
+            {
+                "phrase": "鲲鹏",
+                "explanation": "典出《庄子·逍遥游》，喻巨大变化。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "意象最生动，但仍有堆砌之嫌。"
+        }
+    },
+    {
+        "title": "秋望二首  其一",
+        "author": "劉克莊",
+        "paragraphs": [
+            "暮色蒼然上野臺，廢塘尚有數荷開。",
+            "望中愛殺城南柳，只怕霜風一夜來。"
+        ],
+        "paragraphs_simplified": [
+            "暮色苍然上野台，废塘尚有数荷开。",
+            "望中爱杀城南柳，只怕霜风一夜来。"
+        ],
+        "translation": "暮色苍茫上野台，废塘仍有几荷开。最爱城南柳，只怕霜风一夜来。",
+        "score": 4.0,
+        "subject": [
+            "山水诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句写景，后句抒情，以霜风之忧呼应暮色之景。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "爱杀城南柳，赋予情感。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过残荷、霜风传递惜时之思。"
+                }
+            ]
+        },
+        "analysis": "情景契合度高，暮色废塘与城南柳构成秋日画卷。拟人手法自然，霜风之忧含蓄深沉，情感回甘悠长。意象组合精炼，于萧瑟中见生机，整体意境真切，属能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以寻常秋景构筑清奇意境，疏朗有致。",
+                "realm": "能",
+                "reason": "情景交融，得清奇之骨。"
+            }
+        ],
+        "imagery": [
+            "暮色",
+            "荷",
+            "柳",
+            "霜风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "转折巧妙，情感真挚。"
+        }
+    },
+    {
+        "title": "秋望二首  其二",
+        "author": "劉克莊",
+        "paragraphs": [
+            "舍南舍北種芙蓉，及到秋來次第紅。",
+            "自是詩人才思窘，清風明月有何窮。"
+        ],
+        "paragraphs_simplified": [
+            "舍南舍北种芙蓉，及到秋来次第红。",
+            "自是诗人才思窘，清风明月有何穷。"
+        ],
+        "translation": "房舍南北种满了芙蓉，到了秋天依次变红。自然是诗人才思枯竭，清风明月有什么穷尽呢？",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先写秋日芙蓉盛开之景，后以设问转折，抒发才思窘迫之感。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "末句“清风明月有何穷”以问句反衬才思有限"
+                }
+            ]
+        },
+        "analysis": "此诗前两句以白描勾勒秋日芙蓉次第红之景，后两句陡转，借清风明月之无穷反衬才思窘迫。情景衔接生硬，芙蓉红艳本为乐景，却强引愁思，立意浅显。意象陈旧，清风明月流于俗套，缺乏真切感。整体构思平庸，属应酬之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以自然景物触发哲理，但因情景脱节，未能达到“俯拾即是”的化境",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，强行说理而意境破碎"
+            }
+        ],
+        "imagery": [
+            "芙蓉",
+            "秋",
+            "清风",
+            "明月"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句写景具体，为全诗唯一可取之处"
+        }
+    },
+    {
+        "title": "村校書",
+        "author": "劉克莊",
+        "paragraphs": [
+            "短衣穿結半瓢空，所住茅簷僅蔽風。",
+            "久誦經書皆默記，試挑史傳亦旁通。",
+            "青燈窗下研孤學，白首山中聚小童。",
+            "却羨安昌師弟子，只談論語至三公。"
+        ],
+        "paragraphs_simplified": [
+            "短衣穿结半瓢空，所住茅檐仅蔽风。",
+            "久诵经书皆默记，试挑史传亦旁通。",
+            "青灯窗下研孤学，白首山中聚小童。",
+            "却羡安昌师弟子，只谈论语至三公。"
+        ],
+        "translation": "短衣破烂，半瓢水空，住的茅屋仅能遮风。长久诵读经书都默记，试着挑出史传也旁通。青灯下研读孤学，白首在山中聚集小童。却羡慕安昌师的弟子，只谈论语就至三公。",
+        "score": 3.8,
+        "subject": [
+            "叙事诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "白描",
+                "用典"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "从贫困生活切入，转入学识与教学描写，末句用典表达对功名的羡慕，形成对比。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "颈联“青灯窗下研孤学，白首山中聚小童”工整对仗"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "尾句“安昌师弟子”指汉代张禹弟子至高官"
+                }
+            ]
+        },
+        "analysis": "此诗以白描手法刻画村校书清贫而执着的形象，细节如“短衣穿结”、“青灯窗下”生动具体。颈联对仗工稳，画面感强。但尾联用典流于功利，羡慕“只谈语至三公”，削弱了隐士风骨，情感深度受限。技法成熟而立意未超脱，属能品。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "语言简洁，但因用典稍显堆砌，未能达到“如矿出金”的纯净",
+                "realm": "能",
+                "reason": "技法工整而情感表达略显直白"
+            }
+        ],
+        "imagery": [
+            "短衣",
+            "茅檐",
+            "青灯",
+            "白首",
+            "小童",
+            "论语"
+        ],
+        "allusions": [
+            {
+                "phrase": "安昌师",
+                "explanation": "指汉代张禹，其弟子多至高官"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "“青灯窗下研孤学，白首山中聚小童”对仗工整，画面感强"
+        }
+    },
+    {
+        "title": "聖賢",
+        "author": "劉克莊",
+        "paragraphs": [
+            "聖賢自牧極卑謙，後學才高膽力兼。",
+            "悔賦不妨排賈誼，謗詩遂至劾陶潜。",
+            "取人最忌規模狹，絕物常因議論嚴。",
+            "君看國風三百首，小夫賤隸採何嫌。"
+        ],
+        "paragraphs_simplified": [
+            "圣贤自牧极卑谦，后学才高胆力兼。",
+            "悔赋不妨排贾谊，谤诗遂至劾陶潜。",
+            "取人最忌规模狭，绝物常因议论严。",
+            "君看国风三百首，小夫贱隶采何嫌。"
+        ],
+        "translation": "圣贤自我修养极其谦卑，后辈学者才高胆大兼备。悔写赋不妨排挤贾谊，诽谤诗导致弹劾陶潜。取人最忌讳格局狭小，绝物常因议论严厉。你看《国风》三百首，平民百姓采集有何嫌。",
+        "score": 2.5,
+        "subject": [
+            "哲理诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先陈述圣贤与后学的特质，再以贾谊、陶潜为例揭示文人相轻之弊，最后引用《国风》强调包容，逻辑层层递进。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "颔联与颈联工整对仗，如‘悔赋不妨排贾谊，谤诗遂至劾陶潜’。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "借贾谊遭排挤、陶潜被弹劾的典故，暗讽时弊。"
+                }
+            ]
+        },
+        "analysis": "此诗以议论为骨，典故堆砌却缺乏意象的鲜活感。贾谊与陶潜的引用流于表面，未能构筑深层的历史共鸣。情感宣泄直白，审美距离过近，流于说教。整体立意陈旧，辞藻浮于形式，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以典故营造高古氛围，但意象组合生硬，未达浑然之境。",
+                "realm": "能品",
+                "reason": "技法成熟但缺乏新意，典故运用未能超越常规，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "圣贤",
+            "后学",
+            "贾谊",
+            "陶潜",
+            "国风",
+            "小夫贱隶"
+        ],
+        "allusions": [
+            {
+                "phrase": "贾谊",
+                "explanation": "西汉文学家，喻指遭排挤的才士。"
+            },
+            {
+                "phrase": "陶潜",
+                "explanation": "东晋诗人，喻指因言获罪的文人。"
+            },
+            {
+                "phrase": "国风",
+                "explanation": "《诗经》组成部分，象征民间采集的包容性。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句以《国风》为例，相对通顺且点明主旨。"
+        }
+    },
+    {
+        "title": "懷李敬子",
+        "author": "劉克莊",
+        "paragraphs": [
+            "此士今徐孺，柴扉肯妄開。",
+            "空聞羔鴈去，不見鳳麟來。",
+            "廬阜尋僧出，東湖赴講迴。",
+            "何由操杖屨，林下再相陪。"
+        ],
+        "paragraphs_simplified": [
+            "此士今徐孺，柴扉肯妄开。",
+            "空闻羔雁去，不见凤麟来。",
+            "庐阜寻僧出，东湖赴讲回。",
+            "何由操杖屦，林下再相陪。"
+        ],
+        "translation": "这位士人如今像徐孺子一样高洁，柴门岂肯轻易打开。空听说贤才离去，不见杰出人才到来。在庐山寻访僧人外出，去东湖听讲后返回。何时能手持杖屦，在林下再次相伴。",
+        "score": 4.0,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "孤独",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首联以徐孺喻李敬子，点出其高洁；颔联写人才流失，反衬李的难得；颈联叙述自己寻访不遇；尾联表达期盼重逢。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "颔联‘空聞羔鴈去，不見鳳麟來’对仗工整。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "徐孺、羔雁、凤麟均为典故。"
+                }
+            ]
+        },
+        "analysis": "此诗以典故构筑怀人之境，徐孺、羔雁等意象寄寓高洁与失落。结构上首尾呼应，尾联‘林下再相陪’直指归隐之愿。情感含蓄，通过叙事渲染不遇之憾。整体属能品，意境真切，但用典稍密，略显隔阂。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "通过徐孺、凤麟等典故意象，构筑高古意境。",
+                "realm": "妙品",
+                "reason": "用典恰当，情感真挚，结构严谨。"
+            }
+        ],
+        "imagery": [
+            "门",
+            "雁",
+            "麒麟",
+            "山",
+            "湖",
+            "杖",
+            "林"
+        ],
+        "allusions": [
+            {
+                "phrase": "徐孺",
+                "explanation": "指徐孺子，东汉高士，喻指李敬子高洁。"
+            },
+            {
+                "phrase": "羔雁",
+                "explanation": "古代聘礼，喻指贤才。"
+            },
+            {
+                "phrase": "凤麟",
+                "explanation": "凤凰和麒麟，喻指杰出人才。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "直抒胸臆，表达期盼重逢之情。"
+        }
+    },
+    {
+        "title": "華嚴知客寮",
+        "author": "劉克莊",
+        "paragraphs": [
+            "簷外蒼榕六月秋，小年來此愛深幽。",
+            "壞牆螢出如漁火，古壁蜂穿似射侯。",
+            "涉世昏昏忘舊話，入山歷歷記前遊。",
+            "故人埋玉僧歸塔，獨聽疎鐘起暮愁。"
+        ],
+        "paragraphs_simplified": [
+            "檐外苍榕六月秋，小年来此爱深幽。",
+            "坏墙萤出如渔火，古壁蜂穿似射侯。",
+            "涉世昏昏忘旧话，入山历历记前游。",
+            "故人埋玉僧归塔，独听疏钟起暮愁。"
+        ],
+        "translation": "檐外苍榕六月秋，小年来此爱深幽。坏墙萤出如渔火，古壁蜂穿似射侯。涉世昏昏忘旧话，入山历历记前游。故人埋玉僧归塔，独听疏钟起暮愁。",
+        "score": 4.5,
+        "subject": [
+            "山水诗",
+            "怀人诗"
+        ],
+        "emotion": [
+            "孤独",
+            "悲伤"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首联写景定调，颔联以奇喻写幽微之景，颈联对比涉世与入山，尾联由故人埋玉引出暮愁，情景交融。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“萤出如渔火”“蜂穿似射侯”化静为动，比喻新奇"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "颈联“涉世昏昏忘旧话，入山历历记前游”工整对比"
+                }
+            ]
+        },
+        "analysis": "此诗意境深幽，颔联以“渔火”比萤、“射侯”比蜂穿，意象奇崛而真切，将荒寺幽景写得生机盎然。颈联虚实相生，涉世之昏与入山之历对比强烈。尾联“埋玉”“疏钟”将故人之思与暮色愁绪交融，情景契合无间。整体技法圆熟，属妙品。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "以苍榕、坏墙、疏钟等意象构筑深沉境界，情感渗透于景物",
+                "realm": "妙",
+                "reason": "情景交融，意象真切，得沉著之髓"
+            }
+        ],
+        "imagery": [
+            "苍榕",
+            "秋",
+            "萤",
+            "渔火",
+            "古壁",
+            "蜂",
+            "射侯",
+            "疏钟",
+            "暮愁"
+        ],
+        "allusions": [
+            {
+                "phrase": "埋玉",
+                "explanation": "指埋葬贤才，典出《左传》"
+            },
+            {
+                "phrase": "射侯",
+                "explanation": "箭靶，喻蜂窝之孔"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“坏墙萤出如渔火，古壁蜂穿似射侯”比喻精妙，化腐朽为神奇"
+        }
+    },
+    {
+        "title": "聞黄德常除德安倅",
+        "author": "劉克莊",
+        "paragraphs": [
+            "幕下相從若弟兄，當年曾悔誤談兵。",
+            "足行江北生重趼，髮爲山東白幾莖。",
+            "病擁琴書專一壑，老携檄筆赴孤城。",
+            "暮雲不見關山路，空有天涯故舊情。"
+        ],
+        "paragraphs_simplified": [
+            "幕下相从若弟兄，当年曾悔误谈兵。",
+            "足行江北生重趼，发为山东白几茎。",
+            "病拥琴书专一壑，老携檄笔赴孤城。",
+            "暮云不见关山路，空有天涯故旧情。"
+        ],
+        "translation": "在幕府中相随如兄弟，当年曾后悔误谈兵事。脚走江北生重趼，头发因山东事白了几根。病中拥琴书专于一壑，老来携檄文笔赴孤城。暮云不见关山路，空有天涯故旧情。",
+        "score": 4.2,
+        "subject": [
+            "送别诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首联回忆往事，颔联以足行、发白刻画艰辛，颈联写老病赴任，尾联以暮云关山结情，呼应首联的故旧之思。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "足行江北生重趼，髮爲山東白幾莖 对仗工整，强化艰辛意象"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "误谈兵暗用兵家典故，增添历史厚重感"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "暮雲不見關山路 以苍茫景致烘托天涯故情"
+                }
+            ]
+        },
+        "analysis": "此诗以幕府相从起笔，直指当年谈兵之悔，转而以足行江北、发白山东的细节，勾勒宦游的沉痛代价。颈联病拥琴书、老携檄笔，构筑老病与公务的尖锐对立，尾联暮云关山，空有故情，以景结情，余韵苍凉。全诗结构缜密，情感沉郁顿挫，用典自然，不落俗套，彰显刘克庄后期诗风的凝练与深邃。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "通过足行、发白、病拥、老携等意象，构筑沉郁顿挫的意境，折射宦海浮沉的沧桑。",
+                "realm": "妙",
+                "reason": "情感深沉，技法娴熟，符合沉著风格的内敛与力度。"
+            }
+        ],
+        "imagery": [
+            "幕府",
+            "江北",
+            "山东",
+            "琴书",
+            "檄笔",
+            "孤城",
+            "暮云",
+            "关山"
+        ],
+        "allusions": [
+            {
+                "phrase": "谈兵",
+                "explanation": "暗用兵法典故，指涉军事谋略的往事"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "暮雲不見關山路，空有天涯故舊情 以景结情，意境深远，浓缩全诗情感"
+        }
+    },
+    {
+        "title": "閑居即事",
+        "author": "劉克莊",
+        "paragraphs": [
+            "性偶安林藪，元非慕獨清。",
+            "米從仁祖乞，粟是伯夷耕。",
+            "廢井通鄰汲，深牆隔市聲。",
+            "却因虛澹極，亦自覺身輕。"
+        ],
+        "paragraphs_simplified": [
+            "性偶安林薮，元非慕独清。",
+            "米从仁祖乞，粟是伯夷耕。",
+            "废井通邻汲，深墙隔市声。",
+            "却因虚澹极，亦自觉身轻。"
+        ],
+        "translation": "性情偶然安于林野，本非羡慕独清。米从仁祖乞，粟是伯夷耕。废井通邻汲，深墙隔市声。却因虚澹极，亦自觉身轻。",
+        "score": 4.5,
+        "subject": [
+            "闲适诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首联点明闲居本性，颔联以乞米、耕粟的典故写清贫生活，颈联以废井、深墙描摹幽居环境，尾联直指虚澹带来的身心轻安。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "仁祖、伯夷典故，借古喻今，彰显清贫自守之志"
+                },
+                {
+                    "tag": "白描",
+                    "explanation": "廢井通鄰汲，深牆隔市聲 以简练笔触勾勒幽居实景"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过米粟、井墙等物象，寄托淡泊名利的心志"
+                }
+            ]
+        },
+        "analysis": "此诗开门见山，直陈闲居本非慕清，转而以仁祖乞米、伯夷耕粟的典故，铺陈清贫自守的生存状态。颈联废井深墙，隔绝市声，白描手法绘出幽居之景，尾联虚澹极而身轻，点明主旨。全诗语言洗练，意象清奇，典故运用自然，构筑出超然物外的淡泊境界，情景契合度极高，无一丝矫饰。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "林薮、废井、深墙等意象，营造出疏离尘嚣的静谧氛围，契合冲淡的自然之趣。",
+                "realm": "妙",
+                "reason": "意境真切，情感内敛，深得冲淡之神韵。"
+            }
+        ],
+        "imagery": [
+            "林薮",
+            "米",
+            "粟",
+            "废井",
+            "深墙",
+            "市声"
+        ],
+        "allusions": [
+            {
+                "phrase": "仁祖",
+                "explanation": "指谢仁祖，喻清贫乞食"
+            },
+            {
+                "phrase": "伯夷",
+                "explanation": "指伯夷叔齐，喻不食周粟的清高"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "却因虛澹極，亦自覺身輕 直指虚澹之效，简洁有力，升华全诗"
+        }
+    },
+    {
+        "title": "自勉",
+        "author": "劉克莊",
+        "paragraphs": [
+            "海濱荒淺幼無師，前哲藩籬尚未窺。",
+            "玄詠易流西晉學，苦吟不脫晚唐詩。",
+            "遠僧庵就勤求記，亡友墳成纍索碑。",
+            "天若假余金石壽，所爲詎肯止於斯。"
+        ],
+        "paragraphs_simplified": [
+            "海滨荒浅幼无师，前哲藩篱尚未窥。",
+            "玄咏易流西晋学，苦吟不脱晚唐诗。",
+            "远僧庵就勤求记，亡友坟成累索碑。",
+            "天若假余金石寿，所为岂肯止于斯。"
+        ],
+        "translation": "海滨荒浅幼无师，前哲藩篱尚未窥。玄咏易流西晋学，苦吟不脱晚唐诗。远僧庵就勤求记，亡友坟成累索碑。天若假余金石寿，所为岂肯止于斯。",
+        "score": 3.8,
+        "subject": [
+            "励志诗",
+            "自勉诗"
+        ],
+        "emotion": [
+            "期待",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "用典",
+                "直抒胸臆"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首联自谦学浅，颔联批判流弊，颈联叙事求记索碑，尾联以天假金石寿显志，表达不满足于现状的进取心。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "玄咏易流西晉學，苦吟不脫晚唐詩 对比古今学风"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "西晋学、晚唐诗暗指文学流派，增强批判性"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "尾联直陈天若假寿，所为不止，点明自勉主题"
+                }
+            ]
+        },
+        "analysis": "此诗以海滨荒浅自谦起笔，颔联批判玄咏苦吟的流弊，用典精准，直指时弊。颈联叙事求记索碑，略显琐碎，尾联天假金石寿，卒章显志，表达进取之志。全诗议论为主，情感直露，结构清晰但意象稍弱，技法成熟但新意不足，属于能品之作。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery分析": "通过前哲藩篱、金石寿等意象，试图构筑刚健有力的风格，但略显直白。",
+                "realm": "能",
+                "reason": "技法熟练，但情感表达稍欠含蓄，未能完全达到劲健的深沉力度。"
+            }
+        ],
+        "imagery": [
+            "海滨",
+            "前哲",
+            "西晋",
+            "晚唐",
+            "僧庵",
+            "亡友",
+            "金石"
+        ],
+        "allusions": [
+            {
+                "phrase": "西晋学",
+                "explanation": "指魏晋玄学清谈之风"
+            },
+            {
+                "phrase": "晚唐诗",
+                "explanation": "指晚唐苦吟诗派"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "天若假余金石壽，所爲詎肯止於斯 直抒进取之心，有力收束全诗"
+        }
+    },
+    {
+        "title": "少日",
+        "author": "劉克莊",
+        "paragraphs": [
+            "少日關河要指呼，晚歸田里似囚拘。",
+            "氣衰不敢高聲語，腕弱纔能小楷書。",
+            "座有老兵持共飲，路逢醉尉避前驅。",
+            "子元兄弟何爲者，自是嵇康處世疎。"
+        ],
+        "paragraphs_simplified": [
+            "少日关河要指呼，晚归田里似囚拘。",
+            "气衰不敢高声语，腕弱才能小楷书。",
+            "座有老兵持共饮，路逢醉尉避前驱。",
+            "子元兄弟何为者，自是嵇康处世疏。"
+        ],
+        "translation": "少年时关河要指呼，晚归田里似囚拘。气衰不敢高声语，腕弱才能小楷书。座有老兵持共饮，路逢醉尉避前驱。子元兄弟何为者，自是嵇康处世疏。",
+        "score": 4.0,
+        "subject": [
+            "咏怀诗",
+            "自述诗"
+        ],
+        "emotion": [
+            "感慨",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "对比",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "反问"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首联以少日与晚归对比，颔联以气衰腕弱细节写衰老，颈联以老兵醉尉叙事，尾联用嵇康典故反问，呼应首联的今昔之感。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "少日關河要指呼，晚歸田里似囚拘 强烈对比少年豪迈与晚年拘束"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "嵇康处世疏暗用嵇康傲世典故，自嘲疏狂"
+                },
+                {
+                    "tag": "反问",
+                    "explanation": "子元兄弟何爲者 质问兄弟行径，强化孤独感"
+                }
+            ]
+        },
+        "analysis": "此诗以少日关河指呼与晚归囚拘对比，开篇即奠定今昔之慨。颔联气衰腕弱，细节生动，颈联老兵醉尉，叙事中见世态。尾联嵇康典故，反问收束，深化疏狂自嘲。全诗虚实结合，用典贴切，情感沉郁而不失力度，结构严谨，堪称能品。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery分析": "关河、囚拘、气衰、醉尉等意象，交织出英雄迟暮的悲凉氛围。",
+                "realm": "能",
+                "reason": "情感真挚，技法娴熟，符合悲慨的苍劲风格。"
+            }
+        ],
+        "imagery": [
+            "关河",
+            "田里",
+            "老兵",
+            "醉尉",
+            "嵇康"
+        ],
+        "allusions": [
+            {
+                "phrase": "嵇康",
+                "explanation": "指嵇康处世疏狂，喻自身不合时宜"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "少日關河要指呼，晚歸田里似囚拘 开篇对比强烈，奠定全诗基调"
+        }
+    },
+    {
+        "title": "貧病",
+        "author": "劉克莊",
+        "paragraphs": [
+            "默默守柴荆，人間事頗更。",
+            "病方知養性，貧始欲謀生。",
+            "尚有狂奴態，元無老婢聲。",
+            "邇來塵慮盡，勿怪小詩清。"
+        ],
+        "paragraphs_simplified": [
+            "默默守柴荆，人间事颇更。",
+            "病方知养性，贫始欲谋生。",
+            "尚有狂奴态，元无老婢声。",
+            "迩来尘虑尽，勿怪小诗清。"
+        ],
+        "translation": "默默守柴荆，人间事颇更。病方知养性，贫始欲谋生。尚有狂奴态，元无老婢声。迩来尘虑尽，勿怪小诗清。",
+        "score": 3.5,
+        "subject": [
+            "闲适诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "白描",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首联默默守柴荆，开门见山写贫病状态，颔联病知养性、贫欲谋生，颈联狂奴态与老婢声对比，尾联尘虑尽而诗清，点明心境转变。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "尚有狂奴態，元無老婢聲 对比自身狂态与世俗规训"
+                },
+                {
+                    "tag": "白描",
+                    "explanation": "默默守柴荆 简练勾勒贫居场景"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过贫病、狂奴等意象，寄托超脱尘虑的心志"
+                }
+            ]
+        },
+        "analysis": "此诗以默默守柴荆起笔，白描手法绘出贫病交加的生存状态。颔联病知养性、贫欲谋生，略显说教，颈联狂奴态与老婢声对比，稍显生硬。尾联尘虑尽而诗清，试图升华，但整体意象陈旧，立意浅显，缺乏新意，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery分析": "柴荆、尘虑等意象试图营造淡泊意境，但表达直白，缺乏冲淡的含蓄韵味。",
+                "realm": "劣",
+                "reason": "意象堆砌，情感流于表面，未能真正体现冲淡之趣。"
+            }
+        ],
+        "imagery": [
+            "柴荆",
+            "病",
+            "贫",
+            "狂奴",
+            "老婢",
+            "尘虑"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "邇來塵慮盡，勿怪小詩清 尝试点明主题，但语言平淡"
+        }
+    },
+    {
+        "title": "示同志一首",
+        "author": "劉克莊",
+        "paragraphs": [
+            "滿身秋月滿襟風，敢歎栖遲一壑中。",
+            "除目解令丹竈壞，詔書能使草堂空。",
+            "豈無高士招難出，曾有先賢隠不終。",
+            "說與同袍二三子，下山未可太匆匆。"
+        ],
+        "paragraphs_simplified": [
+            "满身秋月满襟风，敢叹栖迟一壑中。",
+            "除目解令丹灶坏，诏书能使草堂空。",
+            "岂无高士招难出，曾有先贤隐不终。",
+            "说与同袍二三子，下山未可太匆匆。"
+        ],
+        "translation": "满身沐浴秋月和清风，敢叹隐居在深壑之中。任命书让丹灶损坏，诏书能使草堂空寂。难道没有高士招之不出？曾有先贤隐居不终。告诉同袍二三子，下山不可太匆忙。",
+        "score": 4.0,
+        "subject": [
+            "怀古诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以秋月清风起兴，抒写隐居之叹；第三句用典故深化历史苍凉感；末句直指劝诫之意，卒章显志。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "首联‘满身秋月满襟风’对仗工整，音律和谐"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "‘高士’‘先贤’借指历史隐士，暗合仕隐矛盾"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "末句‘下山未可太匆匆’点明主旨，收束全诗"
+                }
+            ]
+        },
+        "analysis": "此诗以秋月清风勾勒隐者形象，彰显栖迟深壑的孤寂感。丹灶坏、草堂空，折射出仕隐抉择的尖锐冲突，典故运用不落俗套。高士难招、先贤不终，构筑出历史纵深与个人命运的叠合，情感在审美距离中沉淀为沉郁的回甘。末句告诫同袍，流露对匆忙入世之忧，整体意境真切，技法缜密，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "秋月、风、丹灶等意象交织，渲染出悲凉慨叹的基调",
+                "realm": "能品",
+                "reason": "情感深沉，典故运用得当，但意象略显陈旧，未达妙品之境"
+            }
+        ],
+        "imagery": [
+            "月",
+            "风",
+            "灶",
+            "屋",
+            "人"
+        ],
+        "allusions": [
+            {
+                "phrase": "高士",
+                "explanation": "泛指隐逸之士，非特指某人"
+            },
+            {
+                "phrase": "先贤",
+                "explanation": "指古代贤人，强调隐居传统"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句以劝诫收束，直指全诗主旨，含蓄有力"
+        }
+    }
+]

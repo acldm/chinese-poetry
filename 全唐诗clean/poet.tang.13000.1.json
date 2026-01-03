@@ -1,0 +1,271 @@
+[
+    {
+        "title": "送魏中丞還河北",
+        "author": "皇甫冉",
+        "paragraphs": [
+            "寧知貴公子，本是魯諸生。",
+            "上國風塵舊，中司印綬榮。",
+            "辛勤戎旅事，雪下護羗營。"
+        ],
+        "paragraphs_simplified": [
+            "宁知贵公子，本是鲁诸生。",
+            "上国风尘旧，中司印绶荣。",
+            "辛勤戎旅事，雪下护羌营。"
+        ],
+        "translation": "谁知贵公子，本是鲁地儒生。上国风尘旧事，中司印绶荣耀。辛勤于军旅之事，雪下守护羌营。",
+        "score": 2.8,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首句点身份，次句写官职，末句写功绩。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "印綬 借代官职。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "魯諸生 暗指儒生出身。"
+                }
+            ]
+        },
+        "analysis": "此诗赞颂魏中丞，从儒生到官员的转变。首句对比，次句写荣耀，末句写辛劳。语言简练，但内容较空洞，缺乏情感深度。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "以印绶、戎旅等意象试图营造典雅氛围。",
+                "realm": "能",
+                "reason": "用典略显生硬，未能完全达到典雅之境。"
+            },
+            {
+                "style": "劲健",
+                "imagery_analysis": "写军旅之事，有劲健之意。",
+                "realm": "能",
+                "reason": "语言简练，但情感不足。"
+            }
+        ],
+        "imagery": [
+            "公子",
+            "儒生",
+            "风尘",
+            "印绶",
+            "戎旅",
+            "雪",
+            "羌营"
+        ],
+        "allusions": [
+            {
+                "phrase": "鲁诸生",
+                "explanation": "指鲁地儒生，典故出自汉代。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "写出辛劳，较为具体。"
+        }
+    },
+    {
+        "title": "送李使君赴邵州",
+        "author": "皇甫冉",
+        "paragraphs": [
+            "出送東方騎，行安南楚人。",
+            "城池春足雨，風俗夜迎神。",
+            "郢路逢歸客，湘川問去津。",
+            "爭看使君度，皂蓋雪中新。"
+        ],
+        "paragraphs_simplified": [
+            "出送东方骑，行安南楚人。",
+            "城池春足雨，风俗夜迎神。",
+            "郢路逢归客，湘川问去津。",
+            "争看使君度，皂盖雪中新。"
+        ],
+        "translation": "出送东方骑士，行安抚南楚人。城池春雨充足，风俗夜晚迎神。郢路遇到归客，湘川问渡口。争看使君风度，皂盖在雪中新。",
+        "score": 3.2,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "赞美",
+            "期待"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首联送别，颔联写景，颈联叙事，尾联写众人观望。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "城池春足雨，风俗夜迎神 对仗。"
+                },
+                {
+                    "tag": "侧面烘托",
+                    "explanation": "爭看使君度 以众人视角烘托。"
+                }
+            ]
+        },
+        "analysis": "此诗送别使君，描绘沿途风物。首联点题，颔联写城池风俗，颈联写路遇，尾联以雪中皂盖收束，画面生动。但意象稍显杂乱，情感平淡。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以城池、雨、风俗等意象描绘地方风物。",
+                "realm": "能",
+                "reason": "语言自然，但缺乏深度。"
+            },
+            {
+                "style": "清奇",
+                "imagery_analysis": "雪中皂盖，画面清新。",
+                "realm": "能",
+                "reason": "有清奇之句，但整体一般。"
+            }
+        ],
+        "imagery": [
+            "骑",
+            "人",
+            "城池",
+            "雨",
+            "风俗",
+            "神",
+            "路",
+            "客",
+            "川",
+            "津",
+            "使君",
+            "盖",
+            "雪"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "形象生动，画面感强。"
+        }
+    },
+    {
+        "title": "寄振上人無碍寺所居",
+        "author": "皇甫冉",
+        "paragraphs": [
+            "戀親時見在人羣，多在東山就白雲。",
+            "獨坐焚香誦經處，深山古寺雪紛紛。"
+        ],
+        "paragraphs_simplified": [
+            "恋亲时见在人群，多在东山就白云。",
+            "独坐焚香诵经处，深山古寺雪纷纷。"
+        ],
+        "translation": "思念亲人时常常在人群中相见，但更多时候是在东山靠近白云的地方隐居。独自坐着焚香诵经的地方，深山古寺中雪花纷纷飘落。",
+        "score": 4.0,
+        "subject": [
+            "山水诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "孤独",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句以人群与白云对比，暗示隐居之意；次句以独坐诵经和雪景渲染孤寂氛围，情景交融。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“多在東山就白雲”以白云比喻隐居生活，含蓄表达超脱尘世之志。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“深山古寺雪紛紛”通过雪景烘托出诵经时的清幽与孤独。"
+                }
+            ]
+        },
+        "analysis": "此诗以简淡笔墨勾勒出隐逸生活的双重图景：人群与白云的对比，折射出对尘世的疏离与对自然的寄寓。深山古寺的雪景，渲染出空灵静谧的意境，情景契合度高，不隔而真切。情感流露含蓄，有余韵回甘，整体构筑出清奇淡远的审美空间，堪称能品。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "白云、深山、古寺、雪等意象归一化后，营造出疏淡空寂的隐逸境界。",
+                "realm": "妙",
+                "reason": "以雪景结情，意境深远，暗合冲淡之“遇之匪深，即之愈希”。"
+            }
+        ],
+        "imagery": [
+            "人",
+            "云",
+            "山",
+            "寺",
+            "雪"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“獨坐焚香誦經處，深山古寺雪紛紛”以景结情，画面感强，余韵悠长。"
+        }
+    }
+]

@@ -1,0 +1,564 @@
+[
+    {
+        "title": "乙巳邵武建寧夜坐書呈諸公  其一四",
+        "author": "陳普",
+        "paragraphs": [
+            "氣雲汗雨揉黄埃，不是天驅地使來。",
+            "莫恃慈親無殺子，害仁已甚必爲災。"
+        ],
+        "paragraphs_simplified": [
+            "气云汗雨揉黄埃，不是天驱地使来。",
+            "莫恃慈亲无杀子，害仁已甚必为灾。"
+        ],
+        "translation": "气云汗雨揉动黄尘，并非天地驱使而来。莫要依恃慈亲不杀子，害仁过度必招灾祸。",
+        "score": 2.5,
+        "subject": [
+            "哲理诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "前句以自然乱象喻人事混乱，后句直指伦理后果，形成因果警示。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“气云汗雨”喻指社会动荡，非自然天象。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“害仁已甚”极言道德败坏之严重性。"
+                }
+            ]
+        },
+        "analysis": "此诗以自然意象切入，构筑社会乱象的隐喻，但意象陈旧（汗雨、黄埃），缺乏新意。说理直白，情感流于表面，审美距离过近，无回甘余地。整体立意浅显，堆砌辞藻而未达深意，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以悲凉意象引发慨叹，但因说教过重，反显直露。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，意在悲慨却流于直白训诫。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "雨",
+            "土",
+            "亲"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "直接点明害仁之灾，相对直指主题。"
+        }
+    },
+    {
+        "title": "乙巳邵武建寧夜坐書呈諸公  其一五",
+        "author": "陳普",
+        "paragraphs": [
+            "盱豫悔成緣悔遲，往蹇來反又何疑。",
+            "雞鳴一念清如水，正是籧篨可俯時。"
+        ],
+        "paragraphs_simplified": [
+            "盱豫悔成缘悔迟，往蹇来反又何疑。",
+            "鸡鸣一念清如水，正是籧篨可俯时。"
+        ],
+        "translation": "犹豫不决导致悔恨来得迟，前行艰难后退反叛有何可疑。鸡鸣时一念清澈如水，正是俯身于粗席安贫之时。",
+        "score": 3.0,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句述悔恨与疑虑，后句以鸡鸣顿悟示清心寡欲，转折自然。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“盱豫”“往蹇”出自《易经》，喻示人生困境。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“清如水”形容一念之纯。"
+                }
+            ]
+        },
+        "analysis": "用典生硬，意象跳跃（从悔恨到鸡鸣），情感表达模糊。籧篨可俯虽暗含安贫之意，但整体意境不真切，有隔膜感。技法虽熟，但立意平庸，缺乏流畅与深度。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图以典故含蓄说理，但因表达晦涩，反显堆砌。",
+                "realm": "劣",
+                "reason": "欲求含蓄却流于晦涩，意象断裂。"
+            }
+        ],
+        "imagery": [
+            "鸡",
+            "水",
+            "席"
+        ],
+        "allusions": [
+            {
+                "phrase": "盱豫",
+                "explanation": "出自《易经·豫卦》，喻犹豫不决。"
+            },
+            {
+                "phrase": "往蹇",
+                "explanation": "出自《易经·蹇卦》，喻前行艰难。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“鸡鸣一念清如水”比喻生动，相对清新。"
+        }
+    },
+    {
+        "title": "乙巳邵武建寧夜坐書呈諸公  其一六",
+        "author": "陳普",
+        "paragraphs": [
+            "山龍火藻舜所置，六合可無綱與維。",
+            "有室有家萬心願，聖門大禁在鑽窺。"
+        ],
+        "paragraphs_simplified": [
+            "山龙火藻舜所置，六合可无纲与维。",
+            "有室有家万心愿，圣门大禁在钻窥。"
+        ],
+        "translation": "山龙火藻纹饰为舜帝所设，天地四方岂能无纲纪维系。有室有家是万民心愿，圣门大忌在于钻营窥伺。",
+        "score": 2.8,
+        "subject": [
+            "哲理诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "反问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "前句以典制强调纲纪，后句转民心与圣道，逻辑连贯。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "“山龙火藻”代指帝王礼制。"
+                },
+                {
+                    "tag": "反问",
+                    "explanation": "“可无纲与维”强化纲纪必要性。"
+                }
+            ]
+        },
+        "analysis": "意象陈旧（山龙火藻），说教味浓。情感平淡，缺乏感染力。虽用典故，但平铺直叙，无新意可陈，整体流于空洞。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以典制显典雅，但因无新意，反显陈腐。",
+                "realm": "劣",
+                "reason": "欲求典雅却流于陈腐，堆砌典故。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "龙",
+            "火",
+            "藻",
+            "房",
+            "家"
+        ],
+        "allusions": [
+            {
+                "phrase": "舜",
+                "explanation": "传说中的帝王，代表理想化统治。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“有室有家万心愿”直接表达民愿，相对朴实。"
+        }
+    },
+    {
+        "title": "乙巳邵武建寧夜坐書呈諸公  其一七",
+        "author": "陳普",
+        "paragraphs": [
+            "金明池上綠衣兒，燮理陰陽焉用之。",
+            "建國立家真可怪，不栽梓漆與桐椅。"
+        ],
+        "paragraphs_simplified": [
+            "金明池上绿衣儿，燮理阴阳焉用之。",
+            "建国立家真可怪，不栽梓漆与桐椅。"
+        ],
+        "translation": "金明池上的绿衣官员，燮理阴阳有何用处。建国立家真可怪，不栽梓树、漆树与桐椅。",
+        "score": 3.2,
+        "subject": [
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "讽刺",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "反问",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "细节描写"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "前句质疑官员能力，后句以具体行为讽刺其不务正业。",
+            "evidence": [
+                {
+                    "tag": "反问",
+                    "explanation": "“焉用之”加强讽刺效果。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "“绿衣儿”代指无能官员。"
+                }
+            ]
+        },
+        "analysis": "讽刺尖锐，但意象简单（绿衣儿、梓漆），语言直白。情感愤懑流于表面，缺乏深度与含蓄，整体艺术性不足。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "试图以直露讽刺显豪放，但因无节制，反显粗鄙。",
+                "realm": "劣",
+                "reason": "欲求豪放却流于粗鄙，讽刺过露。"
+            }
+        ],
+        "imagery": [
+            "池",
+            "衣",
+            "人",
+            "树",
+            "椅"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“金明池上绿衣儿”形象生动，点明对象。"
+        }
+    },
+    {
+        "title": "乙巳邵武建寧夜坐書呈諸公  其一八",
+        "author": "陳普",
+        "paragraphs": [
+            "棘圍木柵試文章，先把公卿作寇攘。",
+            "往事如斯能不咎，未容盡付與斜陽。"
+        ],
+        "paragraphs_simplified": [
+            "棘围木栅试文章，先把公卿作寇攘。",
+            "往事如斯能不咎，未容尽付与斜阳。"
+        ],
+        "translation": "棘围木栅中考试文章，先将公卿当作强盗。往事如此能不咎，未容尽付与斜阳。",
+        "score": 3.5,
+        "subject": [
+            "讽喻诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句描述科举乱象，后句反思历史，劝人勿全归咎过去。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“作寇攘”喻指公卿如强盗。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "“斜阳”代指时光流逝。"
+                }
+            ]
+        },
+        "analysis": "意象较新（棘围木栅），情感复杂，从愤懑转向豁达。语言稍生硬，但反思深刻，技法成熟，有一定审美价值。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以科举乱象引发悲慨，后句转向豁达，情感有层次。",
+                "realm": "能",
+                "reason": "技法熟练，情感转折自然，但未达妙品。"
+            }
+        ],
+        "imagery": [
+            "棘",
+            "围",
+            "栅",
+            "文",
+            "人",
+            "日"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“往事如斯能不咎”反思深刻，相对含蓄。"
+        }
+    },
+    {
+        "title": "乙巳邵武建寧夜坐書呈諸公  其一九",
+        "author": "陳普",
+        "paragraphs": [
+            "深山夭矯老風霜，自是光明好棟梁。",
+            "不待萬牛拖挽去，不如僵柳與枯楊。"
+        ],
+        "paragraphs_simplified": [
+            "深山夭矫老风霜，自是光明好栋梁。",
+            "不待万牛拖挽去，不如僵柳与枯杨。"
+        ],
+        "translation": "深山中弯曲苍老的风霜，自然是光明的好栋梁。不等万牛拖挽去，不如僵死的柳树与枯杨。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对比"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先以比喻描绘树的品质，再通过对比突显不被使用的悲哀。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'光明好栋梁'喻指有才能之人"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "栋梁与僵柳枯杨的强烈反差"
+                }
+            ]
+        },
+        "analysis": "此诗借深山老树喻指怀才不遇之士。首句以'夭矫风霜'勾勒树之苍劲，暗喻人才历经磨难；次句'光明栋梁'直指其价值。然转句'不待万牛拖挽'陡转，终以'僵柳枯杨'作结，形成强烈反差。意象虽传统，但对比手法强化了批判力度。整体立意浅显，语言直白，缺乏新意，情景契合度一般，情感宣泄直露，属凡品之作。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以刚健意象表现风骨，但比喻陈旧，缺乏深层意蕴",
+                "realm": "能品",
+                "reason": "技法成熟但立意老套，未能突破传统咏物诗的框架"
+            }
+        ],
+        "imagery": [
+            "山",
+            "风霜",
+            "树",
+            "柳树",
+            "杨树"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以树喻人，奠定全诗基调"
+        }
+    },
+    {
+        "title": "乙巳邵武建寧夜坐書呈諸公  其二○",
+        "author": "陳普",
+        "paragraphs": [
+            "如山似岳起烟雲，爭柰根資故未純。",
+            "整頓乾坤成萬類，要還林下洗心人。"
+        ],
+        "paragraphs_simplified": [
+            "如山似岳起烟云，争奈根资故未纯。",
+            "整顿乾坤成万类，要还林下洗心人。"
+        ],
+        "translation": "像山岳一样升起烟云，但根基不纯。整顿乾坤成万物，要还给林下洗心人。",
+        "score": 3.1,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "起句以山岳比喻宏大气象，转句直指根基问题，结句提出理想归宿。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'山似岳'喻指宏伟抱负"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "'整顿乾坤'极言改造世界之志"
+                }
+            ]
+        },
+        "analysis": "此诗以山岳烟云起兴，直指根基未纯之弊，终以整顿乾坤、归隐林下作结。意象宏大但略显空泛，'根资未纯'点出关键矛盾，然'洗心人'之归宿稍显突兀。整体结构紧凑，情感由激昂转淡泊，审美距离适中。然比喻稍欠新意，立意未脱传统士人进退之思，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "试图构筑宏大境界，但根基意象薄弱，未能充分展开",
+                "realm": "能品",
+                "reason": "气势初具而内蕴不足，未能达到浑然一体之境"
+            }
+        ],
+        "imagery": [
+            "山",
+            "岳",
+            "烟云",
+            "乾坤",
+            "林"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "结句'整顿乾坤'与'林下洗心'形成张力，点明主旨"
+        }
+    }
+]

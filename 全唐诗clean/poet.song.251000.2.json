@@ -1,0 +1,404 @@
+[
+    {
+        "title": "題驛壁",
+        "author": "無名氏",
+        "paragraphs": [
+            "記得離家日，尊親囑咐言。",
+            "逢橋須下馬，過渡莫爭船。",
+            "雨宿宜防夜，鷄鳴更相天。",
+            "若能依此語，行路免迍邅。"
+        ],
+        "paragraphs_simplified": [
+            "记得离家日，尊亲嘱咐言。",
+            "逢桥须下马，过渡莫争船。",
+            "雨宿宜防夜，鸡鸣更相天。",
+            "若能依此语，行路免迍邅。"
+        ],
+        "translation": "记得离家时，父母叮嘱的话。过桥要下马，过渡别争船。雨夜宜防备，鸡鸣更看天。如果能依此，行路免艰难。",
+        "score": 2.0,
+        "subject": [
+            "家训诗"
+        ],
+        "emotion": [
+            "期待",
+            "谨慎"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "全诗以叙事方式列举旅途注意事项，最后两句点明主旨，结构实用。",
+            "evidence": [
+                {
+                    "tag": "白描",
+                    "explanation": "直接叙述“逢橋須下馬，過渡莫爭船”等日常行为。"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "末句“若能依此語，行路免迍邅”总结全诗目的。"
+                }
+            ]
+        },
+        "analysis": "此诗如实用指南，语言质朴却缺乏诗意，意象普通（桥、马、船、雨、鸡鸣），无艺术升华。情感仅为劝诫，审美距离近，无回甘。整体为平庸之作，格律工整但味同嚼蜡。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以自然语言描述旅途，但过于直白，失去诗意韵味。",
+                "realm": "劣",
+                "reason": "质朴有余而自然不足，流于说教。"
+            }
+        ],
+        "imagery": [
+            "桥",
+            "马",
+            "船",
+            "雨",
+            "鸡鸣"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句引出主题，相对通顺。"
+        }
+    },
+    {
+        "title": "歸寂頌",
+        "author": "釋從朗",
+        "paragraphs": [
+            "三十年來住木陳，時中無一假功成。",
+            "有人問我西來意，展似眉毛作麽生。"
+        ],
+        "paragraphs_simplified": [
+            "三十年来住木陈，时中无一假功成。",
+            "有人问我西来意，展似眉毛作麽生。"
+        ],
+        "translation": "三十年来住在木陈，期间没有一点虚假功夫。有人问我西来意，展开眉毛怎么生。",
+        "score": 3.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句陈述修行经历，后两句以设问和典故探讨禅意，结构紧凑。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "“有人問我西來意”引发思考。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“西來意”指菩提达摩西来传法的禅宗公案。"
+                }
+            ]
+        },
+        "analysis": "此诗禅意深奥，但“展似眉毛作麽生”过于晦涩，意象抽象（木陈、眉毛），缺乏具体画面。情感内敛，却难引发共鸣。技法成熟，然表达不亲切，整体为能品，但受众有限。",
+        "poetry_styles": [
+            {
+                "style": "超诣",
+                "imagery_analysis": "试图以禅语达到超脱境界，但语言晦涩，反失自然。",
+                "realm": "能",
+                "reason": "技法高妙但脱离常情，不易理解。"
+            }
+        ],
+        "imagery": [
+            "木",
+            "眉"
+        ],
+        "allusions": [
+            {
+                "phrase": "西來意",
+                "explanation": "源自禅宗公案，指达摩西来传法的旨意。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句陈述经历，较为清晰。"
+        }
+    },
+    {
+        "title": "法意句格送求僧行者",
+        "author": "釋普聞",
+        "paragraphs": [
+            "山林夜雨厭孤寂，春風幾番沙草碧。",
+            "衣盂無計若爲傳，負舂空墜腰間石。"
+        ],
+        "paragraphs_simplified": [
+            "山林夜雨厌孤寂，春风几番沙草碧。",
+            "衣盂无计若为传，负舂空坠腰间石。"
+        ],
+        "translation": "山林夜雨厌倦孤寂，春风几次吹绿沙草。衣钵无法传承，负舂空坠腰间石。",
+        "score": 2.8,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "孤独",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句借景抒情，后两句叙事比喻，结构过渡生硬。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“負舂空墜腰間石”可能比喻修行徒劳。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“山林夜雨”与“春風沙草”寄托孤寂。"
+                }
+            ]
+        },
+        "analysis": "此诗意象拼凑（山林、夜雨、春风、沙草、石），组合生硬。“负舂空坠腰间石”费解，立意不明。情感虽存，但表达不真切，缺乏审美距离。整体为凡品，辞藻堆砌而逻辑混乱。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "试图以山林景物营造清奇境界，但意象杂乱，反显生硬。",
+                "realm": "劣",
+                "reason": "画虎不成，意境破碎。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "雨",
+            "风",
+            "草",
+            "石"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句写景相对流畅。"
+        }
+    },
+    {
+        "title": "效意境格二首  其一",
+        "author": "釋普聞",
+        "paragraphs": [
+            "水闊天長雁影孤，眠沙鷗鷺倚黄蘆。",
+            "半收小雨西風冷，藜杖相將入畫圖。"
+        ],
+        "paragraphs_simplified": [
+            "水阔天长雁影孤，眠沙鸥鹭倚黄芦。",
+            "半收小雨西风冷，藜杖相将入画图。"
+        ],
+        "translation": "水天辽阔，雁影孤单，沙鸥和白鹭倚靠在黄芦中。小雨半收，西风寒冷，拄着藜杖的人相伴进入画图。",
+        "score": 4.0,
+        "subject": [
+            "山水诗",
+            "题画诗"
+        ],
+        "emotion": [
+            "孤独",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写自然景色，后写人入画，由景及人，虚实相生。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过‘雁影孤’寄托孤独之情"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "‘雁影孤’为动，‘眠沙鷗鷺’为静"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "实景与‘入画图’的虚境结合"
+                }
+            ]
+        },
+        "analysis": "这首诗构筑了一幅淡远的山水画境。水天辽阔与孤雁形成空间上的张力，渲染出寂寥氛围；眠沙鸥鹭倚芦的细节则勾勒出静谧的生态。后句以小雨收歇、西风转冷为转折，引入‘入画图’的虚笔，将实景升华为艺术观照，虚实相生。整体意境真切，情感含蓄，有回甘之美。但‘西风冷’稍显直白，略损冲淡之韵。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以水天、雁影、鸥鹭等意象构筑淡泊之境",
+                "realm": "妙品",
+                "reason": "意境淡远，技法纯熟，但用词偶有直露"
+            }
+        ],
+        "imagery": [
+            "水",
+            "天",
+            "雁",
+            "鸟",
+            "芦苇",
+            "雨",
+            "风",
+            "杖",
+            "画"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以寥廓水天与孤雁对照，画面感强，奠定全诗基调"
+        }
+    },
+    {
+        "title": "效意境格二首  其二",
+        "author": "釋普聞",
+        "paragraphs": [
+            "十里沙堤水滿湖，著霜蘆冷未全枯。",
+            "曉來細雨藏鷗鷺，何處人間有畫圖。"
+        ],
+        "paragraphs_simplified": [
+            "十里沙堤水满湖，着霜芦冷未全枯。",
+            "晓来细雨藏鸥鹭，何处人间有画图。"
+        ],
+        "translation": "十里沙堤湖水满溢，霜打芦苇寒冷未枯。清晨细雨隐藏鸥鹭，何处人间有此画图？",
+        "score": 4.2,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先写湖堤芦苇之实景，再绘细雨鸥鹭之虚景，末句以画图之叹收束，由实入虚，升华意境。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过十里沙堤、霜芦、细雨等意象，寄托对自然之美的静观与赞叹。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "“藏鸥鹭”赋予细雨以人的动作，增强画面生动性。"
+                }
+            ]
+        },
+        "analysis": "此诗构筑秋晨湖景，意象清冷而鲜活。沙堤、霜芦、细雨、鸥鹭层层渲染，情景交融，不隔而真切。末句“何处人间有画图”以虚笔点染，将实景升华为艺术境界，情感含蓄，余韵悠长。整体格调高古，技法纯熟，堪称能品。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以冷色调意象（霜芦、细雨）勾勒出清幽奇峭的意境，末句的画图联想更添超逸之趣。",
+                "realm": "能",
+                "reason": "意境清幽，语言洗炼，符合清奇品评中“如玉之出烟，如兰之幽芳”的特质。"
+            }
+        ],
+        "imagery": [
+            "沙堤",
+            "湖",
+            "芦",
+            "雨",
+            "鸥鹭",
+            "画"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“晓来细雨藏鸥鹭，何处人间有画图”以虚实相生之法，将眼前景致提升至艺术哲思层面，点明主旨。"
+        }
+    }
+]

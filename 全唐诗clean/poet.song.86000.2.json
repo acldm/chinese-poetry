@@ -1,0 +1,1334 @@
+[
+    {
+        "title": "宮詞  其一四",
+        "author": "宋徽宗",
+        "paragraphs": [
+            "拂隄絲柳弄春柔，盈沼沉波瑩鴨頭。",
+            "錦繡成叢飛畫檝，輕舠兩兩翼龍舟。"
+        ],
+        "paragraphs_simplified": [
+            "拂堤丝柳弄春柔，盈沼沉波莹鸭头。",
+            "锦绣成丛飞画楫，轻舠两两翼龙舟。"
+        ],
+        "translation": "拂堤的丝柳玩弄着春日的柔情，满池的沉波使鸭头草晶莹。锦绣般的繁花成丛，画楫飞驰；轻舟两两，像翅膀一样在龙舟两侧。",
+        "score": 2.5,
+        "subject": [
+            "山水诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "闲适",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写堤上柳与池中水，再写舟船活动，层次分明但流于表面。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "丝柳弄春柔，赋予柳树人的动作，增强生动感"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "锦绣成丛比喻繁花似锦，色彩鲜明"
+                }
+            ]
+        },
+        "analysis": "此诗描绘宫廷春景，意象柔美，丝柳弄春柔生动勾勒春日情态，但整体立意浅显，缺乏新意。辞藻如锦绣、轻舠堆砌，情景契合度一般，意境不隔却情感流于表面。属于平庸之作，无深层回甘。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "意象如丝柳、沉波、锦绣、轻舠，色彩鲜明但陈旧，缺乏提炼。",
+                "realm": "能品",
+                "reason": "试图模仿纤秾之华丽，但实则堆砌辞藻，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "柳",
+            "水",
+            "草",
+            "花",
+            "船"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句拟人手法生动，更具代表性。"
+        }
+    },
+    {
+        "title": "宮詞  其一五",
+        "author": "宋徽宗",
+        "paragraphs": [
+            "雲巖小石碧嶙峋，瑩徹仍移玉座親。",
+            "千仞喬崧雖突秀，未如纖巧具天真。"
+        ],
+        "paragraphs_simplified": [
+            "云岩小石碧嶙峋，莹彻仍移玉座亲。",
+            "千仞乔崧虽突秀，未如纤巧具天真。"
+        ],
+        "translation": "云岩中的小石头碧绿嶙峋，晶莹剔透，移近玉座亲自赏玩。千仞高的乔崧虽然突兀秀美，但不如纤巧之物具有自然天真之趣。",
+        "score": 2.8,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先写小石之美，再通过对比点明纤巧天真的主旨，结构清晰但说教直白。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "乔崧突秀与纤巧天真对比，突出小物之趣"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "两句结构对称，增强节奏感"
+                }
+            ]
+        },
+        "analysis": "此诗通过对比大与小，表达对纤巧天真的偏好，意象如云岩小石、乔崧，但议论直白，缺乏含蓄。情感流于说教，审美距离近，无回甘。立意浅显，辞藻平淡，属于凡品。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "意象如小石、乔崧，但对比生硬，缺乏清奇之境。",
+                "realm": "凡品",
+                "reason": "试图模仿清奇，但实则议论枯燥，未能营造独特意境。"
+            }
+        ],
+        "imagery": [
+            "石",
+            "山",
+            "松",
+            "物"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句点明主旨，更具哲理性。"
+        }
+    },
+    {
+        "title": "宮詞  其一六",
+        "author": "宋徽宗",
+        "paragraphs": [
+            "梨花如雪照庭隅，魄月淪精上海初。",
+            "禁鼓方傳宮漏閉，嬪嬙相拉夜看書。"
+        ],
+        "paragraphs_simplified": [
+            "梨花如雪照庭隅，魄月沦精上海初。",
+            "禁鼓方传宫漏闭，嫔嫱相拉夜看书。"
+        ],
+        "translation": "梨花像雪一样照亮庭院角落，月亮的精魄沦落，海上升起初月。禁鼓刚刚传来，宫漏已闭，嫔妃们互相拉着手夜间看书。",
+        "score": 3.0,
+        "subject": [
+            "宫词",
+            "节令诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写夜景，再写宫中事件，叙事流畅但缺乏深度。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "梨花如雪，形象描绘花色洁白"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "梨花照庭之静与拉手看书之动结合"
+                }
+            ]
+        },
+        "analysis": "此诗描绘宫廷夜景，梨花如雪意象优美，但魄月沦精晦涩难懂。叙事部分平淡，嫔妃夜看书缺乏情感深度。整体意境一般，情景契合度尚可，但情感浅薄，属于凡品。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "意象如梨花、月、鼓、漏、书，但组合松散，未达典雅之境。",
+                "realm": "凡品",
+                "reason": "试图模仿典雅，但叙事直白，缺乏提炼与含蓄。"
+            }
+        ],
+        "imagery": [
+            "梨花",
+            "月",
+            "庭",
+            "鼓",
+            "漏",
+            "书"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "梨花如雪句意象生动，更具画面感。"
+        }
+    },
+    {
+        "title": "宮詞  其一七",
+        "author": "宋徽宗",
+        "paragraphs": [
+            "翠芳庭宇疊山圍，路轉龍盤燦陸離。",
+            "響石因風飄冷韻，小碑刊勒祖宗詩。"
+        ],
+        "paragraphs_simplified": [
+            "翠芳庭宇叠山围，路转龙盘灿陆离。",
+            "响石因风飘冷韵，小碑刊勒祖宗诗。"
+        ],
+        "translation": "翠绿芬芳的庭宇被叠山环绕，道路转折，龙盘绕，光彩灿烂。响石因风飘出清冷的韵律，小碑上刊刻着祖宗的诗。",
+        "score": 2.7,
+        "subject": [
+            "山水诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "闲适",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先写庭宇与路，再写石与碑，由景及古，但衔接生硬。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "龙盘比喻道路曲折，增强形象感"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "祖宗诗可能指祖先诗作，暗含怀古之意"
+                }
+            ]
+        },
+        "analysis": "此诗描写宫廷园林，意象如翠芳庭宇、响石、小碑，但龙盘灿陆离辞藻堆砌。祖宗诗点明怀古，但缺乏深度挖掘。情景契合度一般，意境不隔，情感平淡，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "意象如庭宇、山、路、石、碑，但组合生硬，未达高古之境。",
+                "realm": "凡品",
+                "reason": "试图模仿高古，但实则辞藻华丽，立意浅显。"
+            }
+        ],
+        "imagery": [
+            "庭",
+            "山",
+            "路",
+            "石",
+            "碑",
+            "诗"
+        ],
+        "allusions": [
+            {
+                "phrase": "祖宗诗",
+                "explanation": "可能指祖先诗作，暗含对先人的追忆"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "响石因风飘冷韵句更具动态与音韵美。"
+        }
+    },
+    {
+        "title": "宮詞  其一八",
+        "author": "宋徽宗",
+        "paragraphs": [
+            "承平皇族益繁昌，雁序天倫令德彰。",
+            "此意綿長敦友愛，時時别殿宴親王。"
+        ],
+        "paragraphs_simplified": [
+            "承平皇族益繁昌，雁序天伦令德彰。",
+            "此意绵长敦友爱，时时别殿宴亲王。"
+        ],
+        "translation": "太平时期皇族更加繁荣昌盛，雁序比喻天伦，美德彰显。此意绵长，敦促友爱，时时在别殿宴请亲王。",
+        "score": 2.5,
+        "subject": [
+            "宫词",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "直抒胸臆"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先写皇族繁荣，再写友爱宴请，结构简单但说教味浓。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "雁序比喻兄弟有序，形象化伦常"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "天伦代指家族伦常，抽象概念具体化"
+                }
+            ]
+        },
+        "analysis": "此诗歌颂皇族友爱，意象如雁序，但说教味浓，情感空洞。辞藻如承平、繁昌陈词滥调，缺乏真情实感。审美距离近，无回甘，属于平庸应酬诗。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "意象如雁序、殿、宴，但抽象空洞，未达典雅之质。",
+                "realm": "凡品",
+                "reason": "试图模仿典雅，但实则说理直白，缺乏诗意与含蓄。"
+            }
+        ],
+        "imagery": [
+            "雁",
+            "殿",
+            "宴",
+            "王"
+        ],
+        "allusions": [
+            {
+                "phrase": "雁序",
+                "explanation": "典出兄弟有序，比喻家族伦常"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点明主题，更具概括性。"
+        }
+    },
+    {
+        "title": "宮詞  其一九",
+        "author": "宋徽宗",
+        "paragraphs": [
+            "銷金花朵遍輕羅，剪作春衣錫賜多。",
+            "鬬薄只貪腰細柳，夜闌無奈峭寒何。"
+        ],
+        "paragraphs_simplified": [
+            "销金花朵遍轻罗，剪作春衣锡赐多。",
+            "鬬薄只贪腰细柳，夜阑无奈峭寒何。"
+        ],
+        "translation": "金线绣成的花朵遍布轻软的罗衣，裁剪成春衣赏赐众多。争妍斗艳只贪图腰肢如细柳般纤细，夜深了无奈春寒峭厉如何抵挡。",
+        "score": 2.8,
+        "subject": [
+            "宫词",
+            "闺怨诗"
+        ],
+        "emotion": [
+            "闲适",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先铺陈宫廷服饰之奢华，再转折至夜间孤寂与寒冷，形成物质丰裕与情感空虚的对比。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以“腰细柳”喻女子腰肢纤细，强化形象生动性。"
+                }
+            ]
+        },
+        "analysis": "此诗以“金花朵”、“轻罗”等意象勾勒宫廷赏赐之盛，辞藻华美却流于表面。后句“夜阑峭寒”转折生硬，情感未能深入，仅止于对寒冷的无奈，缺乏内在张力。整体立意浅显，堆砌物象而无深层意蕴，属于典型的应制诗平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "意象密集于服饰与夜寒，试图营造富丽与孤寂的冲突，但融合生硬。",
+                "realm": "能品",
+                "reason": "技法熟练但情感空洞，画虎不成反类犬，未能达到含蓄深远之境。"
+            }
+        ],
+        "imagery": [
+            "花朵",
+            "罗衣",
+            "春衣",
+            "细柳",
+            "夜",
+            "峭寒"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句意象铺陈更具画面感，后句情感转折略显突兀。"
+        }
+    },
+    {
+        "title": "宮詞  其二○",
+        "author": "宋徽宗",
+        "paragraphs": [
+            "求賢取士屬煕辰，朝野喧傳詔墨新。",
+            "省試更增人百數，大庭將見出平津。"
+        ],
+        "paragraphs_simplified": [
+            "求贤取士属煕辰，朝野喧传诏墨新。",
+            "省试更增人百数，大庭将见出平津。"
+        ],
+        "translation": "求贤取士属于熙盛时代，朝野喧传诏书墨迹崭新。省试更增加人数百名，大庭广众将见才俊如汉代平津侯般涌现。",
+        "score": 1.5,
+        "subject": [
+            "干谒诗",
+            "政治诗"
+        ],
+        "emotion": [
+            "赞美",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直陈科举盛事，无起承转合，纯为政治宣传。",
+            "evidence": [
+                {
+                    "tag": "叙事",
+                    "explanation": "平铺直叙诏书更新与考试扩容，缺乏形象化表达。"
+                }
+            ]
+        },
+        "analysis": "此诗内容干瘪，如公文告示，毫无诗意可言。意象仅限于“诏墨”、“省试”等抽象概念，情感空洞，纯属歌功颂德之作。语言直白无文采，艺术价值极低，近乎打油诗。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以“煕辰”、“平津”等典故装点门面，但运用生硬。",
+                "realm": "劣品",
+                "reason": "议论直露，无形象依托，沦为枯燥说教。"
+            }
+        ],
+        "imagery": [
+            "贤士",
+            "诏墨",
+            "省试",
+            "大庭"
+        ],
+        "allusions": [
+            {
+                "phrase": "平津",
+                "explanation": "指汉代公孙弘封平津侯，喻科举得才。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句尚存时代背景，后句更显冗赘。"
+        }
+    },
+    {
+        "title": "宮詞  其二一",
+        "author": "宋徽宗",
+        "paragraphs": [
+            "祐神珍觀五雲開，高倚層霄疊玉臺。",
+            "笑語半空知遠近，縱觀飛騎拂塵來。"
+        ],
+        "paragraphs_simplified": [
+            "祐神珍观五云开，高倚层霄叠玉台。",
+            "笑语半空知远近，纵观飞骑拂尘来。"
+        ],
+        "translation": "祐神珍观五色云开，高耸倚靠层霄叠玉台。笑语声从半空知远近，纵目观看飞骑拂尘而来。",
+        "score": 2.5,
+        "subject": [
+            "宫词",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "动静结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先写宫观高耸入云，后写空中笑语与飞骑动态，由静转动。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以“五云”、“玉台”喻仙境，强化宏伟意象。"
+                }
+            ]
+        },
+        "analysis": "此诗意象宏大，“层霄”、“玉台”构筑缥缈之境，但“笑语”、“飞骑”堆砌热闹场景，缺乏情感内核。辞藻浮华而内涵空洞，仅为场面铺陈，未能触及深层意境，流于表面渲染。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "试图以高远意象营造雄伟气魄，但细节琐碎，破坏整体感。",
+                "realm": "能品",
+                "reason": "意象陈旧，动静结合生硬，未达浑然一体。"
+            }
+        ],
+        "imagery": [
+            "五云",
+            "玉台",
+            "笑语",
+            "飞骑"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句动态描写更具生动性，前句静态铺垫略显呆板。"
+        }
+    },
+    {
+        "title": "宮詞  其二二",
+        "author": "宋徽宗",
+        "paragraphs": [
+            "碧紗窗薄晃朝曦，睡起心情不自持。",
+            "糚飾尚慵臨曲檻，却敎鸚鵡念新詩。"
+        ],
+        "paragraphs_simplified": [
+            "碧纱窗薄晃朝曦，睡起心情不自持。",
+            "妆饰尚慵临曲槛，却教鹦鹉念新诗。"
+        ],
+        "translation": "碧纱窗薄透进晨光晃动，睡起后心情难以自持。妆饰尚慵懒未临曲槛，却教鹦鹉诵念新诗。",
+        "score": 4.2,
+        "subject": [
+            "宫词",
+            "闺怨诗"
+        ],
+        "emotion": [
+            "慵懒",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "由晨光写起，渐次转入慵懒心情与鹦鹉念诗之举，情景交融。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“鹦鹉念新诗”赋予禽鸟人性，暗喻孤寂无人共语。"
+                }
+            ]
+        },
+        "analysis": "此诗以“碧纱窗”、“朝曦”勾勒清晨静谧氛围，情感通过“慵临曲槛”与“鹦鹉念诗”间接流露，含蓄深沉。意象细腻而不堆砌，情感回甘悠长，展现宫中女子的孤寂与才情，艺术水准高超。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "晨光与鹦鹉构成清冷画面，情感隐于动作之后，余韵绵长。",
+                "realm": "妙品",
+                "reason": "情景契合度高，意境真切，情感审美距离恰到好处。"
+            }
+        ],
+        "imagery": [
+            "碧纱窗",
+            "朝曦",
+            "鹦鹉",
+            "新诗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“却教鹦鹉念新诗”以动作写孤寂，意在言外，最为精妙。"
+        }
+    },
+    {
+        "title": "宮詞  其二三",
+        "author": "宋徽宗",
+        "paragraphs": [
+            "綠攪蘭芽繞徑隅，日融花氣暖縈紆。",
+            "鞦韆伴侶時相約，畫板繒繩翠袖扶。"
+        ],
+        "paragraphs_simplified": [
+            "绿搅兰芽绕径隅，日融花气暖萦纡。",
+            "鞦韆伴侣时相约，画板缯绳翠袖扶。"
+        ],
+        "translation": "绿意搅动兰芽环绕小径角落，日光融化花气温暖萦绕。鞦韆伴侣时常相约，画板缯绳由翠袖搀扶。",
+        "score": 2.8,
+        "subject": [
+            "宫词",
+            "节令诗"
+        ],
+        "emotion": [
+            "闲适",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先写春日园景，后写游乐活动，由景及人。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "“绿搅兰芽”、“翠袖扶”具体描绘春日嬉戏场景。"
+                }
+            ]
+        },
+        "analysis": "此诗“绿搅兰芽”、“日融花气”描绘春景清新，但“鞦韆”句流于俗套，缺乏新意。整体情感浅显，仅为场面记录，未升华至艺术高度，属于平庸的应景之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以兰芽、花气展现自然生机，但后句人工痕迹过重。",
+                "realm": "能品",
+                "reason": "意象组合松散，未能构筑统一意境。"
+            }
+        ],
+        "imagery": [
+            "绿",
+            "兰芽",
+            "花气",
+            "鞦韆",
+            "翠袖"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句春景描写意象鲜活，后句游乐叙述较为平淡。"
+        }
+    },
+    {
+        "title": "宮詞  其二四",
+        "author": "宋徽宗",
+        "paragraphs": [
+            "雅頌形容各訓箋，后妃基化國風先。",
+            "卷分二十求深旨，親著全經正論篇。"
+        ],
+        "paragraphs_simplified": [
+            "雅颂形容各训笺，后妃基化国风先。",
+            "卷分二十求深旨，亲著全经正论篇。"
+        ],
+        "translation": "雅和颂是《诗经》的部分，形容各种训诂笺注；后妃是教化的基础，国风是先代的风俗。卷分为二十卷，寻求深意；亲自撰写全经的正论篇。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直接陈述《诗经》的教化功能，结构平直。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用“雅颂”、“国风”等《诗经》元素，增强文本的典重感。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "前后句在句式上对称，如“雅颂形容”对“卷分二十”。"
+                }
+            ]
+        },
+        "analysis": "此诗以《诗经》教化为主题，语言抽象，意象陈旧，缺乏生动性。立意浅显，流于说教，属于典型的应制诗，无个人情感渗透。词藻堆砌但无新意，整体平庸，未能构筑独特意境。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图通过经典引用营造庄重感，但意象空洞，未能达到典雅之境。",
+                "realm": "劣作",
+                "reason": "模仿典雅风格失败，沦为枯燥的训诂陈述，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "诗经",
+            "教化",
+            "书籍"
+        ],
+        "allusions": [
+            {
+                "phrase": "雅颂",
+                "explanation": "指《诗经》中的雅和颂部分，象征正统教化。"
+            },
+            {
+                "phrase": "国风",
+                "explanation": "《诗经》中的民歌部分，代表风俗教化。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句更直接点明主题，虽平庸但结构完整。"
+        }
+    },
+    {
+        "title": "宮詞  其二五",
+        "author": "宋徽宗",
+        "paragraphs": [
+            "深庭窗月透輕紗，仙侣勤工組繡華。",
+            "笑語竟將心事卜，只知相顧看燈花。"
+        ],
+        "paragraphs_simplified": [
+            "深庭窗月透轻纱，仙侣勤工织绣华。",
+            "笑语竟将心事卜，只知相顾看灯花。"
+        ],
+        "translation": "深庭中，月光透过轻纱；仙侣（宫女）勤劳地织绣华美。笑语中竟将心事占卜，只知道互相看着灯花（灯花预示喜事）。",
+        "score": 4.0,
+        "subject": [
+            "闺怨诗",
+            "宫词"
+        ],
+        "emotion": [
+            "闺怨",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "从环境描写过渡到人物活动，以灯花收束，暗示情感。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "刻画月光、轻纱、织绣、灯花等细节，营造具体场景。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过月景和灯花折射宫女的闲愁与期待。"
+                }
+            ]
+        },
+        "analysis": "此诗以宫女夜织为题材，意象生动，如“窗月透轻纱”和“看灯花”，构筑出静谧而略带忧愁的氛围。情感含蓄，通过动作与占卜细节流露闺怨，有回甘之美。语言精致，情景契合度高，意境真切，属技法成熟之作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "情感不直露，借景物与动作暗示心事，符合含蓄之境。",
+                "realm": "能品",
+                "reason": "技法娴熟，意境营造成功，但题材常见，未达妙品。"
+            }
+        ],
+        "imagery": [
+            "庭院",
+            "月亮",
+            "纱",
+            "宫女",
+            "刺绣",
+            "灯"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“只知相顾看灯花”更含蓄有味，点出情感核心。"
+        }
+    },
+    {
+        "title": "宮詞  其二六",
+        "author": "宋徽宗",
+        "paragraphs": [
+            "崇政西清闢講筵，簪裾雜遝盡英賢。",
+            "守成當謹持盈戒，紬繹鳧鷖大雅篇。"
+        ],
+        "paragraphs_simplified": [
+            "崇政西清辟讲筵，簪裾杂遝尽英贤。",
+            "守成当谨持盈戒，紬绎凫鹥大雅篇。"
+        ],
+        "translation": "在崇政殿西清开辟讲筵，簪裾（官员服饰）杂遝，尽是英贤。守成应当谨慎持盈戒（保持盈满的戒惧），紬绎《凫鹥》大雅篇（《诗经》篇名）。",
+        "score": 2.0,
+        "subject": [
+            "应制诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "用典"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直接陈述讲学与守成之道，结构单调。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用“凫鹥”《诗经》篇名，增加典故元素。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "句式对称，如“崇政西清”对“守成当谨”。"
+                }
+            ]
+        },
+        "analysis": "此诗聚焦朝廷讲学，语言枯燥，意象抽象如“持盈戒”，说教味浓。缺乏诗意与情感波动，纯属应制功能，无艺术感染力。词藻堆砌但立意浅显，整体平庸，未能展现文学价值。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图通过经典引用营造庄重，但意象空洞，流于形式。",
+                "realm": "劣作",
+                "reason": "模仿典雅失败，沦为说教，缺乏韵味。"
+            }
+        ],
+        "imagery": [
+            "讲筵",
+            "官员",
+            "书籍",
+            "戒律"
+        ],
+        "allusions": [
+            {
+                "phrase": "凫鹥",
+                "explanation": "《诗经·大雅》篇名，象征治国之道。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句更具体描述场景，虽平庸但信息明确。"
+        }
+    },
+    {
+        "title": "宮詞  其二七",
+        "author": "宋徽宗",
+        "paragraphs": [
+            "沉水薫濃瑞靄飛，相兼花氣馥庭墀。",
+            "皇家休問多嘉景，絳闕清都只此知。"
+        ],
+        "paragraphs_simplified": [
+            "沉水薰浓瑞霭飞，相兼花气馥庭墀。",
+            "皇家休问多嘉景，绛阙清都只此知。"
+        ],
+        "translation": "沉水香薰得浓，瑞霭飞腾；兼有花香馥郁庭院台阶。皇家不必问有多少嘉景，绛阙清都（仙境）只此可知。",
+        "score": 3.5,
+        "subject": [
+            "应制诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "从香气描写过渡到点明皇家如仙境，最后显志。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“绛阙清都”比喻皇家为仙境，提升意境。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过“沉水”、“花气”等景物折射对皇家的赞美。"
+                }
+            ]
+        },
+        "analysis": "此诗以皇家景色为题材，意象富丽，如“沉水”、“瑞霭”、“花气”，构筑出华美氛围。情感含蓄，通过虚实结合的手法，将实景升华为仙境。语言典雅，但立意仍属应制，缺乏深层情感，整体技法成熟但未达妙境。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "辞藻华美，意象繁复，符合绮丽风格之形。",
+                "realm": "能品",
+                "reason": "技法娴熟，但情感深度不足，未达神品。"
+            }
+        ],
+        "imagery": [
+            "香",
+            "烟雾",
+            "花",
+            "庭院",
+            "宫殿"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“沉水薰浓瑞霭飞”意象生动，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "宮詞  其二八",
+        "author": "宋徽宗",
+        "paragraphs": [
+            "玉容初起殢春慵，鬢軃秋蟬不解攏。",
+            "十二寶闌閑倚處，花間應避落殘紅。"
+        ],
+        "paragraphs_simplified": [
+            "玉容初起殢春慵，鬓軃秋蝉不解拢。",
+            "十二宝阑闲倚处，花间应避落残红。"
+        ],
+        "translation": "玉容（美人）初起，带着春慵；鬓发如秋蝉垂下，不解拢起。在十二宝阑闲倚处，在花间应避免落残红（避免看到落花）。",
+        "score": 4.0,
+        "subject": [
+            "闺怨诗",
+            "宫词"
+        ],
+        "emotion": [
+            "闺怨",
+            "忧愁",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "从美人慵懒状态到环境互动，以避花收束，暗示伤春。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“鬓軃秋蝉”比喻鬓发下垂，形象生动。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "“花间应避”赋予花意识，增强情感投射。"
+                }
+            ]
+        },
+        "analysis": "此诗描绘美人春慵，意象优美，如“玉容”、“春慵”、“落残红”，构筑出细腻的闺怨画面。情感通过动作细节间接流露，有回甘之美。语言精致，情景契合，意境真切，属宫词中佳作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "情感隐于景物与动作，不直露，符合含蓄之境。",
+                "realm": "能品",
+                "reason": "技法成熟，意境营造成功，但题材传统，未达妙品。"
+            }
+        ],
+        "imagery": [
+            "美人",
+            "春天",
+            "头发",
+            "栏杆",
+            "花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“玉容初起殢春慵”生动传神，点出全诗神韵。"
+        }
+    },
+    {
+        "title": "宮詞  其二九",
+        "author": "宋徽宗",
+        "paragraphs": [
+            "嬌雲溶漾作春晴，繡轂清風出鳳城。",
+            "簾底紅粧方笑語，通衢争聽賣花聲。"
+        ],
+        "paragraphs_simplified": [
+            "娇云溶漾作春晴，绣毂清风出凤城。",
+            "帘底红妆方笑语，通衢争听卖花声。"
+        ],
+        "translation": "柔软的云朵溶化荡漾，形成晴朗的春日天气。装饰华丽的车毂带着清风驶出京城。帘子后面，盛装的女子正在说笑。在大街上，人们争相听卖花的声音。全诗通过云、车、人、声等元素，勾勒出春日宫苑的繁华与愉悦。",
+        "score": 3.8,
+        "subject": [
+            "宫词",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "闲适",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写云气与车驾出城，再转帘内笑语与街市卖花声，层层铺展春日宫中的欢乐场景。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前两句与后两句结构对称，如'娇云溶漾'对'绣毂清风'，'帘底红妆'对'通衢争听'，形成工整对应。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "以'娇云溶漾'比喻云朵的柔美动态，增强画面感。"
+                }
+            ]
+        },
+        "analysis": "此诗构筑春日宫苑的生动图景，娇云、绣毂、红妆、卖花声等意象交织，渲染出繁华愉悦的氛围。情景交融，意境真切，通过细节描写流露出闲适之情。技法上以对偶和动静结合见长，但立意浅显，缺乏深层意蕴，整体为能品，技法娴熟却无惊人之笔。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "意象华美，如娇云、绣毂，体现宫廷的富丽装饰。",
+                "realm": "能品",
+                "reason": "试图绮丽但自然流露，无深刻意境，画虎不成反类犬。"
+            },
+            {
+                "style": "自然",
+                "imagery_analysis": "描写流畅，如卖花声的听觉细节，自然而不造作。",
+                "realm": "能品",
+                "reason": "技法自然但缺乏升华，流于表面。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "车",
+            "城",
+            "帘",
+            "花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句'娇云溶漾作春晴'以云气动态开篇，意象生动，奠定全诗春日基调。"
+        }
+    },
+    {
+        "title": "宮詞  其三○",
+        "author": "宋徽宗",
+        "paragraphs": [
+            "紅旗連屬曉熒煌，萬馬嘶風去路長。",
+            "知是黠羌來款塞，親臨丹闕納降王。"
+        ],
+        "paragraphs_simplified": [
+            "红旗连属晓荧煌，万马嘶风去路长。",
+            "知是黠羌来款塞，亲临丹阙纳降王。"
+        ],
+        "translation": "红旗连绵，晨光中闪烁辉煌，万马迎风嘶鸣，前路漫长。知道是狡猾的羌人来边塞求和，亲自到宫阙接纳降王。全诗叙述边塞纳降事件，展现宏大场面。",
+        "score": 4.0,
+        "subject": [
+            "边塞诗",
+            "宫词"
+        ],
+        "emotion": [
+            "豪迈",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "动静结合",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写红旗万马的出征景象，再点明羌人来降的事件，直叙其事。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前两句'红旗连属'对'万马嘶风'，工整对仗，增强气势。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "以'万马嘶风'夸大军队规模，渲染豪迈氛围。"
+                }
+            ]
+        },
+        "analysis": "此诗描绘边塞纳降的宏大场面，红旗、万马、丹阙等意象构筑壮阔图景。叙事清晰，情感直接，通过动静结合凸显事件的庄严。但语言直白，缺乏含蓄之美，整体为能品，技法成熟却少余韵。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "意象如红旗万马，体现边塞的壮阔与军队的威势。",
+                "realm": "能品",
+                "reason": "有雄浑之气但失之直露，未能深沉。"
+            },
+            {
+                "style": "劲健",
+                "imagery_analysis": "语言刚健，如'嘶风去路长'，展现力量感。",
+                "realm": "能品",
+                "reason": "劲健有力但缺乏细腻，流于表面。"
+            }
+        ],
+        "imagery": [
+            "红旗",
+            "马",
+            "边塞",
+            "宫殿",
+            "王"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句'红旗连属晓荧煌'以晨光中的红旗开篇，画面辉煌，极具视觉冲击力。"
+        }
+    }
+]

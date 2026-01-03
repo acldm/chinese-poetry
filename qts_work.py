@@ -9,26 +9,32 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import List, Dict
 
 # 配置
-API_URL = "https://ai.juguang.chat/v1/chat/completions"
+API_URL = "https://api.xiaomimimo.com/v1/chat/completions"
 # API_URL = "https://api.vectorengine.ai/v1/chat/completions"
 # 请在此处填写您的 token，或者从环境变量中读取
-TOKEN = "sk-kgmWnVVjFT9ecA27fmyzfpAR4zKcRpCWqV5X6wZiN2YZeA83" 
+TOKEN = "sk-ck5t8uacuegk8iu97db8nr4tqgr0tsnnvq3lwvnte4d3nojc" 
 SOURCE_DIR = "全唐诗"
 TARGET_DIR = "全唐诗clean"
 BATCH_SIZE = 5
 MAX_RETRIES = 3
-MAX_WORKERS = 20  # 并发处理的文件数量
+MAX_WORKERS = 40  # 并发处理的文件数量
 CHUNK_SIZE = 200  # 每个分片文件保存的诗词数量
 PROGRESS_FILE = os.path.join(TARGET_DIR, "progress.json")  # 进度状态文件
+WAITLIST_FILE = os.path.join(TARGET_DIR, "waitlist.json")  # 未完成诗词待处理列表
 
 # 全局变量：用于优雅退出
 shutdown_event = threading.Event()
 progress_lock = threading.Lock()  # 进度文件的线程锁
+waitlist_lock = threading.Lock()  # waitlist 文件的线程锁
 file_locks = {}  # 每个文件的独立锁
 
 def signal_handler(signum, frame):
     """处理 Ctrl+C 信号，设置停止标志"""
-    print("\n\n⚠️  收到中断信号，正在优雅地停止所有任务...")
+    if shutdown_event.is_set():
+        # 第二次 Ctrl+C，强制退出
+        print("\n\n❌ 强制退出！")
+        os._exit(1)
+    print("\n\n⚠️  收到中断信号，正在优雅地停止所有任务...（再按一次 Ctrl+C 强制退出）")
     shutdown_event.set()
 
 def load_progress() -> Dict:
@@ -91,9 +97,12 @@ def process_poems_batch(poems_batch: List[Dict]):
                 "content": json.dumps(poems_batch, ensure_ascii=False)
             }
         ],
-        "model": "gemini-3-flash-preview-thinking-minimal",
+        "model": "mimo-v2-flash",
         "temperature": 0.3,
-        "top_p": 1,
+        "top_p": 0.95,
+        "thinking": {
+            "type": "enabled"
+        },
         "stream": False
     }
     
@@ -112,9 +121,40 @@ def process_poems_batch(poems_batch: List[Dict]):
         
     return json.loads(content)
 
+def load_waitlist() -> List[Dict]:
+    """加载 waitlist 文件"""
+    if os.path.exists(WAITLIST_FILE):
+        try:
+            with open(WAITLIST_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"⚠️  读取 waitlist 文件失败: {e}，将创建新文件。")
+    return []
+
+def save_to_waitlist(poems: List[Dict], source_file: str):
+    """将未完成的诗词保存到 waitlist（线程安全）"""
+    if not poems:
+        return
+    with waitlist_lock:
+        waitlist = load_waitlist()
+        for poem in poems:
+            # 添加来源文件信息便于追踪
+            poem_entry = {
+                "source_file": source_file,
+                "title": poem.get("title", ""),
+                "author": poem.get("author", ""),
+                "paragraphs": poem.get("paragraphs", []),
+                "added_time": time.strftime("%Y-%m-%d %H:%M:%S")
+            }
+            waitlist.append(poem_entry)
+        with open(WAITLIST_FILE, "w", encoding="utf-8") as f:
+            json.dump(waitlist, f, ensure_ascii=False, indent=2)
+        print(f"    📋 已将 {len(poems)} 首未完成诗词添加到 waitlist.json")
+
 def process_batch_with_completion(batch_to_send: List[Dict], max_retries=MAX_RETRIES):
     """
     增量补全模式：针对缺失的诗词进行重叠请求，直到补齐 100%。
+    返回：(成功结果列表, 未完成诗词列表)
     """
     all_results_dict = {} # key: paragraphs_str, value: result_obj
     
@@ -163,17 +203,19 @@ def process_batch_with_completion(batch_to_send: List[Dict], max_retries=MAX_RET
             if attempt <= max_retries:
                 time.sleep(5)
 
-    # 返回按照原始顺序排列的结果
+    # 返回按照原始顺序排列的结果，以及未完成的诗词
     final_ordered_list = []
+    failed_poems = []
     for original in batch_to_send:
         oid = get_id(original)
         if oid in all_results_dict:
             final_ordered_list.append(all_results_dict[oid])
         else:
-            # 如果重试多次还是缺，为了不让程序崩溃，先跳过这首或记录错误
-            print(f"    Warning: 经过多次重试仍无法获取诗词: {original.get('title')[:10]}")
+            # 如果重试多次还是缺，记录到未完成列表
+            print(f"    ⚠️ 经过 {max_retries} 次重试仍无法获取诗词: {original.get('title', '未知')[:20]}")
+            failed_poems.append(original)
             
-    return final_ordered_list
+    return final_ordered_list, failed_poems
 
 def get_chunk_file_path(base_path: str, chunk_index: int) -> str:
     """
@@ -278,12 +320,17 @@ def process_single_file(file_path: str) -> bool:
                     "paragraphs": p.get("paragraphs", [])
                 })
             
-            results = process_batch_with_completion(batch_to_send)
+            results, failed_poems = process_batch_with_completion(batch_to_send)
             
+            # 若有未完成的诗词，保存到 waitlist
+            if failed_poems:
+                save_to_waitlist(failed_poems, file_name)
+            
+            # 即使有部分失败，也要继续处理成功的部分
             if results:
                 # 添加结果到当前分片
                 current_chunk_data.extend(results)
-                processed_count += len(results)
+                processed_count += len(results) + len(failed_poems)  # 失败的也计入已处理，因为已存入 waitlist
                 
                 # 检查是否需要切换到下一个分片
                 new_chunk_index = (processed_count - 1) // CHUNK_SIZE if processed_count > 0 else 0
@@ -312,10 +359,11 @@ def process_single_file(file_path: str) -> bool:
                 update_file_progress(file_name, processed_count, num_poems, "processing")
                 
                 print(f"    ✓ [{file_name}] Batch {current_batch_num} 已保存到 {os.path.basename(current_chunk_path)}。当前进度: {processed_count}/{num_poems}")
-            else:
-                print(f"    ❌ [{file_name}] Batch {current_batch_num} 最终处理失败，停止处理该文件以防数据错位。")
-                update_file_progress(file_name, processed_count, num_poems, "error")
-                return False
+            elif failed_poems:
+                # 全部失败但已存入 waitlist，继续处理下一个 batch
+                processed_count += len(failed_poems)
+                update_file_progress(file_name, processed_count, num_poems, "processing")
+                print(f"    ⚠️ [{file_name}] Batch {current_batch_num} 全部失败已存入 waitlist，继续处理下一批...")
             
             # 适当延时
             time.sleep(1)

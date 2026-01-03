@@ -1,0 +1,601 @@
+[
+    {
+        "title": "句  其一○",
+        "author": "吳璋",
+        "paragraphs": [
+            "衣無錦繡勞心織，味乏膏粱困舌耕。"
+        ],
+        "paragraphs_simplified": [
+            "衣无锦绣劳心织，味乏膏粱困舌耕。"
+        ],
+        "translation": "衣服没有锦绣，却要劳心织造；味道缺乏膏粱，却困于舌耕（指教书谋生）。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "两句并列，直接呈现清贫生活的双重困境。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "衣无锦绣对味乏膏粱，劳心织对困舌耕，工整对仗。"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "以织衣、舌耕具体生活细节刻画文人窘境。"
+                }
+            ]
+        },
+        "analysis": "此联以工整对仗勾勒清贫文人生活，意象陈旧但技法纯熟。'劳心织'与'困舌耕'形成双关，暗含精神与物质的双重困顿。语言凝练，却缺乏意境开拓，流于表面陈述，未能升华至审美层面。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "语言精简，对仗工整，但意象缺乏新意。",
+                "realm": "能品",
+                "reason": "技法成熟，但立意浅显，未能超越凡俗。"
+            }
+        ],
+        "imagery": [
+            "锦绣",
+            "膏粱",
+            "舌耕"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句更凝练，直接点题。"
+        }
+    },
+    {
+        "title": "句  其一一",
+        "author": "吳璋",
+        "paragraphs": [
+            "閒中坐作蜘蛛隠，夢裏逃成燕雀禪。"
+        ],
+        "paragraphs_simplified": [
+            "闲中坐作蜘蛛隐，梦里逃成燕雀禅。"
+        ],
+        "translation": "闲暇时坐着像蜘蛛一样隐藏，梦中逃禅如燕雀般自在。",
+        "score": 3.2,
+        "subject": [
+            "杂诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句写实，后句写虚，通过梦境与现实的对比表达避世心态。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "以蜘蛛隐喻避世行为。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "燕雀禅比喻小乘境界，暗指逃禅之趣。"
+                }
+            ]
+        },
+        "analysis": "意象奇特，以蜘蛛隐喻避世，燕雀禅暗指小乘境界，但'逃成'略显生硬，整体意境超脱却流于表面。虚实结合试图营造超然氛围，然修辞堆砌，缺乏情感深度，未能真正触动人心。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "追求闲适疏放，但意象组合略显牵强。",
+                "realm": "凡品",
+                "reason": "试图模仿飘逸，实则意境松散，画虎不成。"
+            }
+        ],
+        "imagery": [
+            "蜘蛛",
+            "燕雀",
+            "梦"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句意象更鲜明，直接点出隐逸之态。"
+        }
+    },
+    {
+        "title": "句  其一二",
+        "author": "吳璋",
+        "paragraphs": [
+            "弈棋但以忘憂耳，縱酒無如作病何。"
+        ],
+        "paragraphs_simplified": [
+            "弈棋但以忘忧耳，纵酒无如作病何。"
+        ],
+        "translation": "下棋只为忘忧，纵酒却如生病般无奈。",
+        "score": 2.8,
+        "subject": [
+            "杂诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "无奈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "抑扬结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "两句直述行为与后果，形成因果对照。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "弈棋对纵酒，忘忧对作病，结构工整。"
+                },
+                {
+                    "tag": "抑扬结合",
+                    "explanation": "前句积极（忘忧），后句消极（作病），形成情感起伏。"
+                }
+            ]
+        },
+        "analysis": "语言直白，情感真挚，但'作病何'表达累赘，缺乏诗意提炼。对仗虽工，却似口语对答，立意浅显，未能超越日常抱怨的层次，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图表达悲愁，但用语直白，缺乏含蓄之美。",
+                "realm": "凡品",
+                "reason": "情感宣泄过度，流于打油诗格调。"
+            }
+        ],
+        "imagery": [
+            "弈棋",
+            "纵酒"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句相对通顺，逻辑清晰。"
+        }
+    },
+    {
+        "title": "句  其一三",
+        "author": "吳璋",
+        "paragraphs": [
+            "龍肝雉尾瓜蓴好，玉核金槌棗柰香。",
+            "只有牛心猶未割，願如逸少得先嘗。"
+        ],
+        "paragraphs_simplified": [
+            "龙肝雉尾瓜蓴好，玉核金槌枣柰香。",
+            "只有牛心犹未割，愿如逸少得先尝。"
+        ],
+        "translation": "龙肝雉尾、瓜蓴美味，玉核金槌、枣柰飘香；只有牛心尚未割取，愿如王羲之能先品尝。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句罗列珍馐，后句用典点题，由实入虚。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "逸少指王羲之，借其先尝牛心的典故。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "以龙肝雉尾比喻珍贵食物。"
+                }
+            ]
+        },
+        "analysis": "辞藻华丽，堆砌珍馐名目，但意象繁复而缺乏核心。用典'逸少'稍显突兀，与前文衔接生硬。整体如菜单罗列，虽工巧却少诗意，未能托物言志。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "追求辞藻华美，但流于表面铺陈。",
+                "realm": "凡品",
+                "reason": "技法熟练，但意境空洞，堆砌痕迹重。"
+            }
+        ],
+        "imagery": [
+            "龙肝",
+            "雉尾",
+            "瓜蓴",
+            "玉核",
+            "金槌",
+            "枣柰",
+            "牛心"
+        ],
+        "allusions": [
+            {
+                "phrase": "逸少",
+                "explanation": "指王羲之，典出《晋书》，喻先得美味。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句用典稍添意趣，但整体仍显平庸。"
+        }
+    },
+    {
+        "title": "春日焦山觀瘞鶴銘",
+        "author": "吳琚",
+        "paragraphs": [
+            "昔愛山樵書，今踏山樵路。",
+            "江邊春事動，梅柳皆可賦。",
+            "犖确石徑微，白浪灑衣履。",
+            "臨淵魚龍驚，捫崖猿鳥懼。",
+            "古刻難細讀，斷缺蒼蘚護。",
+            "歲月豈易考，書法但增慕。",
+            "摩挲復三歎，欲去還小住。",
+            "習氣未掃除，齒髮恨遲暮。",
+            "華亭鶴自歸，長江只東注。",
+            "寂寥千古意，落日起煙霧。"
+        ],
+        "paragraphs_simplified": [
+            "昔爱山樵书，今踏山樵路。",
+            "江边春事动，梅柳皆可赋。",
+            "荦确石径微，白浪洒衣履。",
+            "临渊鱼龙惊，扪崖猿鸟惧。",
+            "古刻难细读，断缺苍藓护。",
+            "岁月岂易考，书法但增慕。",
+            "摩挲复三叹，欲去还小住。",
+            "习气未扫除，齿髮恨迟暮。",
+            "华亭鹤自归，长江只东注。",
+            "寂寥千古意，落日起烟雾。"
+        ],
+        "translation": "昔日喜爱山樵书法，今日踏上山樵小路；江边春色萌动，梅柳皆可赋诗；石径崎岖，白浪溅衣履；临渊惊鱼龙，扪崖惧猿鸟；古刻难细读，断缺由苍藓保护；岁月岂易考，书法徒增慕；摩挲三叹，欲去还留；习气未除，齿发恨迟暮；华亭鹤自归，长江只东注；寂寥千古意，落日起烟雾。",
+        "score": 4.6,
+        "subject": [
+            "山水诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "孤独",
+            "遗憾",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合",
+                "用典"
+            ],
+            "structure_tags": [
+                "首尾呼应",
+                "卒章显志"
+            ],
+            "structural_logic": "以观碑为线索，由景入情，由实入虚，最终以典结志。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "华亭鹤指陆机典故，深化寂寥感。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过石径、白浪等景物渲染孤寂心境。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "古刻实写，鹤归虚写，拓展时空维度。"
+                }
+            ]
+        },
+        "analysis": "此诗以观碑为线索，构筑时空交错之境。'白浪洒衣履'等细节真切，'华亭鹤'典故深化寂寥感，技法缜密而意境苍茫。首尾以'昔爱'与'落日'呼应，卒章显志，流露出对岁月流逝的深沉感慨。语言凝练，情景交融，堪称妙品。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "意象深沉，情感内敛，通过实景寄托千古寂寥。",
+                "realm": "妙品",
+                "reason": "技法纯熟，意境深远，情感回甘。"
+            },
+            {
+                "style": "悲慨",
+                "imagery_analysis": "由齿发恨迟暮、华亭鹤等意象，透出人生易老的悲慨。",
+                "realm": "妙品",
+                "reason": "悲而不伤，慨而有节，合于悲慨之品。"
+            }
+        ],
+        "imagery": [
+            "山樵",
+            "梅柳",
+            "石径",
+            "白浪",
+            "鱼龙",
+            "猿鸟",
+            "古刻",
+            "苍藓",
+            "华亭鹤",
+            "长江",
+            "烟雾"
+        ],
+        "allusions": [
+            {
+                "phrase": "华亭鹤",
+                "explanation": "典出《晋书·陆机传》，陆机临刑叹'欲闻华亭鹤唳，不可复得'，喻怀旧与逝去之悲。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 8,
+            "reason": "华亭鹤自归，长江只东注。用典精妙，意境深远，将个人感慨融入永恒自然。"
+        }
+    },
+    {
+        "title": "牡丹",
+        "author": "吳琚",
+        "paragraphs": [
+            "牡丹乘春芳，風雨苦相妬。",
+            "朝來小庭中，零落已無數。",
+            "魂銷梓澤國，腸斷馬嵬路。",
+            "盡日向欄干，踟躕不能去。"
+        ],
+        "paragraphs_simplified": [
+            "牡丹乘春芳，风雨苦相妒。",
+            "朝来小庭中，零落已无数。",
+            "魂销梓泽国，肠断马嵬路。",
+            "尽日向栏干，踟蹰不能去。"
+        ],
+        "translation": "牡丹在春日绽放芳华，风雨却恶意嫉妒。清晨小庭中，花瓣凋零无数。魂销于梓泽国般的繁华地，肠断在马嵬坡的悲剧路。整日倚靠栏杆，徘徊不忍离去。",
+        "score": 3.8,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以风雨妬花勾勒摧残之景，中间借梓泽、马嵬二典深化悲剧意蕴，末句直抒徘徊不去之情。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "梓泽国代指繁华旧地，马嵬路暗喻红颜殒命，以典故浓缩历史沧桑。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "风雨相妬拟人化，投射世态炎凉。"
+                }
+            ]
+        },
+        "analysis": "此诗以牡丹凋零为枢机，构筑春景与风雨的冲突，借典渲染人生无常之悲。意象虽陈旧，但梓泽与马嵬的并置，拓宽了时空纵深，使物咏不滞于形而直指兴衰之理。情感回甘有余，然立意未脱俗套，情景交融处稍显刻意，属能品中稳健之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "风雨妬花、魂销肠断，意象群指向盛衰无常，契合悲慨之壮士拂剑、浩然弥哀。",
+                "realm": "能品",
+                "reason": "典故运用得当，但情感表达略显直露，未臻含蓄之境。"
+            }
+        ],
+        "imagery": [
+            "牡丹",
+            "风雨",
+            "小庭",
+            "栏杆"
+        ],
+        "allusions": [
+            {
+                "phrase": "梓澤國",
+                "explanation": "指西晋石崇的金谷园，代指繁华旧地。"
+            },
+            {
+                "phrase": "馬嵬路",
+                "explanation": "指杨贵妃缢死处，喻指悲剧结局。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "魂销梓泽国，肠断马嵬路：典故叠加，时空交错，凝练历史悲情。"
+        }
+    },
+    {
+        "title": "句  其一",
+        "author": "吳琚",
+        "paragraphs": [
+            "細看爽氣無朝暮，浪說元規塵污人。"
+        ],
+        "paragraphs_simplified": [
+            "细看爽气无朝暮，浪说元规尘污人。"
+        ],
+        "translation": "细察爽朗之气不分朝暮，妄言元规之尘玷污人。",
+        "score": 3.2,
+        "subject": [
+            "哲理诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "用典"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句写自然之气永恒，次句以典斥人事纷扰，形成清浊对比。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "尘污人喻俗世玷污。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "元规尘暗指庾亮权势之尘。"
+                }
+            ]
+        },
+        "analysis": "此联以爽气与尘污对举，构筑清浊二元之境。元规典故的嵌入，使议论不流于空泛，然意象单薄，缺乏景物的烘托，近乎口号式表达。情感直露，审美距离近而回甘不足，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "爽气无朝暮试图营造超脱之境，但尘污之喻过于直白，反失高古之雅正。",
+                "realm": "凡品",
+                "reason": "典故虽存，但表达浅显，未能化典入景。"
+            }
+        ],
+        "imagery": [
+            "爽气",
+            "尘"
+        ],
+        "allusions": [
+            {
+                "phrase": "元規",
+                "explanation": "指东晋庾亮，字元规，喻指权势。"
+            }
+        ],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "细看爽气无朝暮：以时间之恒反衬人事之暂，稍具哲思。"
+        }
+    }
+]

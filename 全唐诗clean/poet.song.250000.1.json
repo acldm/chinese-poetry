@@ -1,0 +1,4880 @@
+[
+    {
+        "title": "紹興祀皇地祇十五首 亞、終獻用《文安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "禮有祈報，國惟典常。",
+            "籩豆豐潔，降升齊莊。",
+            "備物致志，式薦累觴。",
+            "昭格來享，自天降康。"
+        ],
+        "paragraphs_simplified": [
+            "礼有祈报，国惟典常。",
+            "笾豆丰洁，降升齐庄。",
+            "备物致志，式荐累觞。",
+            "昭格来享，自天降康。"
+        ],
+        "translation": "礼仪有祈有报，国家遵循典章。祭器丰盛洁净，升降庄重整齐。备齐物品表达心志，多次献酒敬神。神明光临享用，从天降下安康。",
+        "score": 2.5,
+        "subject": [
+            "应制诗",
+            "祭祀诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "从礼仪常典切入，描写祭品与仪态，再述献祭过程，终以神享降康作结，逻辑连贯。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "首联'礼有祈报，国惟典常'形成对仗，奠定庄重基调。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "笾豆借代祭器，凸显礼仪之丰洁。"
+                }
+            ]
+        },
+        "analysis": "此诗延续祭祀主题，语言规范但缺乏灵动。意象如笾豆、累觞皆属陈套，未能赋予新意。结构虽完整，情感表达拘泥于仪轨，流于表面。整体为平庸应制之作，艺术感染力薄弱。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以规范辞藻体现典雅，但意象组合呆板，缺乏生气。",
+                "realm": "能",
+                "reason": "追求典雅而失之刻板，未能达到自然流畅之境。"
+            }
+        ],
+        "imagery": [
+            "礼",
+            "祭器",
+            "神",
+            "安康"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句'昭格来享，自天降康'祈愿明确，语言简练。"
+        }
+    },
+    {
+        "title": "紹興祀皇地祇十五首 徹豆用《娛安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "承天效法，其道貴誠。",
+            "牲羞黄犢，薦德之馨。",
+            "芳俎告畢，禮備樂盈。",
+            "既靜既安，庶物霑生。"
+        ],
+        "paragraphs_simplified": [
+            "承天效法，其道贵诚。",
+            "牲羞黄犊，荐德之馨。",
+            "芳俎告毕，礼备乐盈。",
+            "既静既安，庶物沾生。"
+        ],
+        "translation": "承奉天意效法自然，其道以诚为贵。牺牲用黄色小牛，献上美德之馨香。芬芳祭器宣告完毕，礼仪完备乐声充盈。既宁静又安和，万物沾润生机。",
+        "score": 2.7,
+        "subject": [
+            "应制诗",
+            "祭祀诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "肃穆"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "以天道诚理起笔，继而写祭品与礼仪，终以静安生万物收束，首尾暗合。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "末句'既静既安，庶物沾生'形成对仗，强化和谐意境。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "'荐德之馨'以馨香喻美德，抽象概念具象化。"
+                }
+            ]
+        },
+        "analysis": "此诗语言平实，意象如黄犊、芳俎皆常规祭祀词汇，缺乏独特视角。结构工整但情感内敛，未能超越礼仪框架。整体为平庸之作，虽无大谬，亦无亮点。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以静安之语营造淡泊，但意象单薄，未能达到深远境界。",
+                "realm": "能",
+                "reason": "模仿冲淡而失之浅显，缺乏余味。"
+            }
+        ],
+        "imagery": [
+            "天",
+            "诚",
+            "祭品",
+            "乐",
+            "万物"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句'既静既安，庶物沾生'意境和谐，语言平稳。"
+        }
+    },
+    {
+        "title": "紹興祀皇地祇十五首 送神用《寧安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "至厚至深，其動也剛。",
+            "精誠默通，或出其藏。",
+            "神之言歸，化斯有光。",
+            "相我炎圖，萬世無疆。"
+        ],
+        "paragraphs_simplified": [
+            "至厚至深，其动也刚。",
+            "精诚默通，或出其藏。",
+            "神之言归，化斯有光。",
+            "相我炎图，万世无疆。"
+        ],
+        "translation": "至厚至深，其动刚健。精诚默默相通，或出于神之宝藏。神明言归，化育有光。辅佐我炎宋基业，万世无疆。",
+        "score": 2.9,
+        "subject": [
+            "应制诗",
+            "祭祀诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先赞神德之厚深，再写精诚相通，继而神归化光，终以祝福国家收尾，层层递进。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "'万世无疆'夸大祝福，体现祈愿之强烈。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "首句'至厚至深，其动也刚'形成对仗，增强力度。"
+                }
+            ]
+        },
+        "analysis": "此诗语言刚健，意象如炎图、无疆带有时代烙印。结构清晰，但情感表达较为直白，缺乏含蓄之美。整体仍属平庸应制诗，艺术深度不足。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以刚健语汇展现力度，但意象组合缺乏新意，流于表面。",
+                "realm": "能",
+                "reason": "追求劲健而失之粗犷，未能达到雄浑境界。"
+            }
+        ],
+        "imagery": [
+            "神",
+            "精诚",
+            "光",
+            "国家"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句'相我炎图，万世无疆'情感豪迈，指向明确。"
+        }
+    },
+    {
+        "title": "宋初祀神州地祇三首 降神用《靜安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "膴膴郊原，茫茫宇縣。",
+            "畫野分疆，禹功疏奠。",
+            "靈祇是臻，豆籩祗薦。",
+            "幽贊皇圖，視之不見。"
+        ],
+        "paragraphs_simplified": [
+            "膴膴郊原，茫茫宇县。",
+            "画野分疆，禹功疏奠。",
+            "灵祇是臻，豆籩祗荐。",
+            "幽赞皇图，视之不见。"
+        ],
+        "translation": "广阔的郊原，茫茫的宇宙。划分疆野，大禹治水功绩。神灵降临，祭器敬献。幽暗中赞助皇图，视之不见其形。",
+        "score": 3.1,
+        "subject": [
+            "应制诗",
+            "祭祀诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "用典"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "从地理宏阔起笔，引入历史功绩，再写神灵祭祀，终以幽赞皇图收束，虚实相生。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "'禹功疏奠'引用大禹治水典故，增添历史厚重感。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "首句'膴膴郊原，茫茫宇县'对仗工整，渲染空间感。"
+                }
+            ]
+        },
+        "analysis": "此诗融合地理与历史，意象如郊原、禹功较有广度。语言庄重，但情感表达仍拘泥祭祀框架。结构紧凑，然创新不足。整体略优于前作，但仍属平庸范畴。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图以历史意象营造高古气象，但未能深入，流于表面。",
+                "realm": "能",
+                "reason": "模仿高古而失之空泛，缺乏真切感。"
+            }
+        ],
+        "imagery": [
+            "郊原",
+            "宇县",
+            "神",
+            "祭器",
+            "皇图"
+        ],
+        "allusions": [
+            {
+                "phrase": "禹功疏奠",
+                "explanation": "指大禹治水划分九州之功绩。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句'画野分疆，禹功疏奠'用典贴切，意象开阔。"
+        }
+    },
+    {
+        "title": "宋初祀神州地祇三首 奠玉幣、酌獻用《嘉安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "肸蠁儲靈，肅恭用幣。",
+            "鏘洋導和，洪休允契。",
+            "嘉氣雲蒸，浹于華裔。",
+            "式薦坤珍，聿符明世。"
+        ],
+        "paragraphs_simplified": [
+            "肸蠁储灵，肃恭用币。",
+            "锵洋导和，洪休允契。",
+            "嘉气云蒸，浃于华裔。",
+            "式荐坤珍，聿符明世。"
+        ],
+        "translation": "神灵的气息蕴藏，庄重地使用玉帛。和谐的乐声引导，伟大的福祉确实契合。祥瑞之气如云蒸腾，遍及华夏后裔。献上大地珍宝，正应此清明时代。",
+        "score": 3.8,
+        "subject": [
+            "祭祀诗",
+            "应制诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "庄重"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙述"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "渲染"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "全诗以祭祀流程为序，从储灵、用币到奏乐、献珍，层层递进，结构工整。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "如'肸蠁儲靈，肅恭用幣'与'鏘洋導和，洪休允契'在句式上形成对仗。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "'嘉氣雲蒸'以云蒸比喻祥瑞之气的升腾。"
+                }
+            ]
+        },
+        "analysis": "此诗为宋代祭祀乐章，语言庄重典雅，通过'肸蠁儲靈'等古奥词汇构筑神圣氛围。意象如'雲蒸'、'華裔'渲染出宏大的空间感，但情感表达程式化，缺乏个体生命体验的渗透，属于典型的庙堂文学，工整有余而灵动不足。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "以'靈'、'氣'、'雲'等意象营造肃穆的祭祀场景，符合庙堂文学的庄重感。",
+                "realm": "能品",
+                "reason": "技法纯熟，但内容拘泥于礼制，未能超越形式达到更高艺术境界。"
+            }
+        ],
+        "imagery": [
+            "灵",
+            "币",
+            "和",
+            "气",
+            "云",
+            "珍宝"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "'嘉氣雲蒸，浹于華裔'一句意象生动，以自然现象喻指恩泽广布。"
+        }
+    },
+    {
+        "title": "宋初祀神州地祇三首 送神用《靜安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "獻奠云畢，純嘏祁祁。",
+            "威靈藏用，邈矣何之。"
+        ],
+        "paragraphs_simplified": [
+            "献奠云毕，纯嘏祁祁。",
+            "威灵藏用，邈矣何之。"
+        ],
+        "translation": "献祭完毕，大福纷纷降临。威严的神灵隐退，深远而不知去向。",
+        "score": 3.5,
+        "subject": [
+            "祭祀诗",
+            "送别诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "敬畏"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句陈述祭礼完成，后句以问句形式烘托神灵离去的神秘感。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "'邈矣何之'以疑问句式强调神灵的不可捉摸。"
+                },
+                {
+                    "tag": "侧面烘托",
+                    "explanation": "通过'威靈藏用'间接表现神灵的威严。"
+                }
+            ]
+        },
+        "analysis": "此诗短小精悍，以'獻奠云畢'直陈事毕，继而用'邈矣何之'的设问营造神灵远去的空灵意境。语言凝练，但意象较为单一，缺乏深层的情感回旋，整体趋于平实。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "以'威靈'、'邈矣'等词暗示神灵的隐退，留有余味。",
+                "realm": "能品",
+                "reason": "手法简洁，但篇幅过短，未能充分展开意境。"
+            }
+        ],
+        "imagery": [
+            "神灵",
+            "福",
+            "威严"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "'威靈藏用，邈矣何之'以疑问收尾，增强神秘感。"
+        }
+    },
+    {
+        "title": "景祐孟冬祭神州地祇二首 太宗位奠幣用《化安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "削平僞邦，嗣興鴻業。",
+            "禮樂交修，仁德該洽。",
+            "柔祇薦享，量幣攸攝。",
+            "侑坐延靈，神休允答。"
+        ],
+        "paragraphs_simplified": [
+            "削平伪邦，嗣兴鸿业。",
+            "礼乐交修，仁德该洽。",
+            "柔祇荐享，量币攸摄。",
+            "侑坐延灵，神休允答。"
+        ],
+        "translation": "平定伪政权，继承伟大的基业。礼乐并修，仁德广布。献祭地神，玉帛适度。陪坐延请神灵，神灵的福祉确实回应。",
+        "score": 4.0,
+        "subject": [
+            "祭祀诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "庄重",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙述",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "从历史功绩写到礼乐仁德，再至祭祀细节，最后以神灵回应作结，逻辑清晰。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "首联'削平僞邦，嗣興鴻業'与'禮樂交修，仁德該洽'形成工整对仗。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "提及'太宗位'，暗指宋太宗功业。"
+                }
+            ]
+        },
+        "analysis": "此诗结合历史叙事与祭祀场景，通过'削平僞邦'等句彰显太宗功绩，语言庄重而富有力度。意象如'柔祇'、'神休'将政治与宗教交融，但部分表述略显直白，缺乏更深层的意象挖掘。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "以'削平'、'鴻業'等词构筑宏大的历史感，符合雄浑风格。",
+                "realm": "妙品",
+                "reason": "成功融合历史与祭祀，气势恢宏。"
+            }
+        ],
+        "imagery": [
+            "基业",
+            "礼乐",
+            "仁德",
+            "地神",
+            "玉帛",
+            "神灵"
+        ],
+        "allusions": [
+            {
+                "phrase": "太宗位",
+                "explanation": "指宋太宗赵光义，象征皇权正统。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "'削平僞邦，嗣興鴻業'开篇有力，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "景祐孟冬祭神州地祇二首 酌獻用《韶安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "有煒彌文，克隆宏構。",
+            "貽此燕謀，具膺多祐。",
+            "嶰律吹莩，彝尊奠酒。",
+            "佐乃沈潜，永祈豐楙。"
+        ],
+        "paragraphs_simplified": [
+            "有炜弥文，克隆宏构。",
+            "贻此燕谋，具膺多祐。",
+            "嶰律吹莩，彝尊奠酒。",
+            "佐乃沉潜，永祈丰茂。"
+        ],
+        "translation": "光明灿烂的文采，能够继承宏大的结构。遗留此燕翼的谋略，具备承受多种福祐。嶰谷的律管吹动莩灰，彝尊中奠酒。辅助你沉潜，永远祈求丰收茂盛。",
+        "score": 2.5,
+        "subject": [
+            "节令诗",
+            "应制诗"
+        ],
+        "emotion": [
+            "期待",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句描述文采和结构，次句遗留谋略和福祐，第三句描述祭祀仪式，末句祈求丰收，逻辑从文采到谋略到仪式再到祈福。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "‘嶰律’指伶伦制律典故，‘彝尊’指古代酒器。"
+                },
+                {
+                    "tag": "间接抒情",
+                    "explanation": "通过祭祀场景间接表达对丰收的祈愿。"
+                }
+            ]
+        },
+        "analysis": "此诗作为祭祀歌辞，彰显庙堂文学的典重风格，寄寓对丰收的祈愿。意象陈旧，多用传统祭祀器物如律管、彝尊，立意浅显，缺乏个人情感渗透。结构工整，但流于公式化，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "使用文、律管、酒器等意象，构筑祭祀场景。",
+                "realm": "凡品",
+                "reason": "试图模仿典雅风格，但意象堆砌，缺乏真情实感，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "文",
+            "律管",
+            "酒器",
+            "丰收"
+        ],
+        "allusions": [
+            {
+                "phrase": "嶰律",
+                "explanation": "指黄帝时伶伦取竹制律管的典故"
+            },
+            {
+                "phrase": "彝尊",
+                "explanation": "古代祭祀用的酒器"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "卒章显志，直接表达祈愿。"
+        }
+    },
+    {
+        "title": "元符祭神州地祇二首 迎神用《寧安》。八變。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "膴膴浚邦，皇天是宅。",
+            "必有幽贊，聰明正直。",
+            "布列籩豆，考擊金石。",
+            "中外謐寧，繄神之力。"
+        ],
+        "paragraphs_simplified": [
+            "膴膴浚邦，皇天是宅。",
+            "必有幽赞，聪明正直。",
+            "布列笾豆，考击金石。",
+            "中外谧宁，繄神之力。"
+        ],
+        "translation": "肥沃的深浚之邦，是皇天的居所。必有幽暗的赞助，神灵聪明正直。摆列笾豆祭器，敲击金石乐器。中外安宁，皆是神灵之力。",
+        "score": 3.9,
+        "subject": [
+            "祭祀诗",
+            "迎神诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "敬畏"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙述",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "设问"
+            ],
+            "presentation_tags": [
+                "侧面烘托",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写神灵居所，再述神灵属性，接着描写祭祀准备，最后归功神力，层次分明。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "首句'膴膴浚邦，皇天是宅'与次句在结构上呼应。"
+                },
+                {
+                    "tag": "侧面烘托",
+                    "explanation": "通过'中外謐寧'间接表现神灵的威能。"
+                }
+            ]
+        },
+        "analysis": "此诗以'膴膴浚邦'起兴，描绘神灵居所与正直属性，语言简练而有力。'布列籩豆'等句具体化祭祀场景，结尾强调神力致宁，整体气韵沉稳，但意象稍显抽象，未能充分唤起视觉联想。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "以'皇天'、'正直'、'金石'等意象展现刚健的祭祀精神。",
+                "realm": "妙品",
+                "reason": "语言有力，结构清晰，成功传达祭祀的庄重感。"
+            }
+        ],
+        "imagery": [
+            "邦",
+            "天",
+            "神灵",
+            "祭器",
+            "乐器",
+            "安宁"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "'中外謐寧，繄神之力'一句点明主旨，收束有力。"
+        }
+    },
+    {
+        "title": "元符祭神州地祇二首 送神用《寧安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "都邑浩穰，民物富盛。",
+            "主以靈祇，昭乃丕應。",
+            "玉帛牲牷，鼓鍾筦磬。",
+            "祗薦攸歆，歸于至靜。"
+        ],
+        "paragraphs_simplified": [
+            "都邑浩穰，民物富盛。",
+            "主以灵祇，昭乃丕应。",
+            "玉帛牲牷，鼓钟管磬。",
+            "祇荐攸歆，归于至静。"
+        ],
+        "translation": "都城浩大繁荣，人民物产富足。主祭以神灵，昭示其盛大响应。玉帛牺牲，鼓钟管磬。恭敬进献，享受祭祀，归于至静。",
+        "score": 2.5,
+        "subject": [
+            "应制诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典",
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先描述都城繁荣与神灵响应，再列举祭祀用品，最终归于宁静，形成从外到内的祭祀流程。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "首联“都邑浩穰，民物富盛”对仗工整，铺陈盛世景象。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“玉帛牲牷”化用祭祀典制，指代传统礼仪。"
+                }
+            ]
+        },
+        "analysis": "此诗作为祭祀送神之用，语言庄重但意象陈旧，缺乏情感深度。都邑、玉帛等物象堆砌，仅停留于仪式表象，未构筑真切意境。情感表达程式化，审美距离疏远，无回甘余韵。整体属平庸之作，辞藻虽合庙堂规范，却流于空洞铺排，未见独特艺术价值。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以都邑、玉帛等物象营造庄严氛围，但意象组合缺乏新意，未能升华至高古境界。",
+                "realm": "能品",
+                "reason": "技法合度但立意浅显，堆砌辞藻而未得神髓，属应制诗常规操作。"
+            }
+        ],
+        "imagery": [
+            "都邑",
+            "民物",
+            "玉帛",
+            "牲牷",
+            "鼓钟",
+            "宁静"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句“归于至静”点明祭祀终的，较具概括性。"
+        }
+    },
+    {
+        "title": "紹興祀神州地祇十六首 迎神用《寧安》。 其一",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "〔函鍾爲宮〕芒芒下土，恢恢方儀。",
+            "富媼統攝，潜運八維。",
+            "爰稱元祀，告備吉時。",
+            "揭茲虔恭，僾其格思。"
+        ],
+        "paragraphs_simplified": [
+            "〔函鍾爲宮〕茫茫下土，恢恢方仪。",
+            "富媪统摄，潜运八维。",
+            "爰称元祀，告备吉时。",
+            "揭兹虔恭，僾其格思。"
+        ],
+        "translation": "茫茫大地，恢宏宇宙。富媪统摄，潜运八方。于是称元祀，告备吉时。揭此虔恭，神灵降临思慕。",
+        "score": 2.5,
+        "subject": [
+            "应制诗"
+        ],
+        "emotion": [
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "从天地宏观起笔，转入神灵统摄，再点明祭祀时机，以虔恭收束，逻辑层层推进。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“富媪”喻地神，以拟人化手法赋予自然神格。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“恢恢方仪”夸大宇宙形态，强化神圣感。"
+                }
+            ]
+        },
+        "analysis": "此诗以古奥词汇构筑祭祀场景，意象抽象如“下土”“八维”，脱离具体感知。虽用比喻渲染神灵威仪，但语言晦涩，情感表达隔膜。结构虽完整，却未突破应制诗窠臼。整体意境模糊，缺乏鲜活细节，仅以程式化语言完成仪式叙述，艺术感染力薄弱。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "追求上古祭祀的苍茫感，但用词生僻，意象空泛，未能达成真正的高古境界。",
+                "realm": "凡品",
+                "reason": "模仿高古而流于艰涩，意象脱离生活实感，反显空洞。"
+            }
+        ],
+        "imagery": [
+            "下土",
+            "方仪",
+            "富媪",
+            "八维",
+            "元祀",
+            "吉时"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句“茫茫下土，恢恢方仪”奠定空间格局，气象较宏。"
+        }
+    },
+    {
+        "title": "紹興祀神州地祇十六首 迎神用《寧安》。 其二",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "〔太簇爲角〕洪惟坤元，道著品物。",
+            "上配紫旻，厚載其德。",
+            "良月肇蕆，祭器布列。",
+            "必先皇祇，以迓景福。"
+        ],
+        "paragraphs_simplified": [
+            "〔太簇爲角〕洪惟坤元，道著品物。",
+            "上配紫旻，厚载其德。",
+            "良月肇蕆，祭器布列。",
+            "必先皇祇，以迓景福。"
+        ],
+        "translation": "洪大的坤元，道显于万物。上配紫天，厚载其德。良月开始，祭器布列。必先皇祇，以迎景福。",
+        "score": 2.5,
+        "subject": [
+            "应制诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先论坤元之道，再述天德配位，转至祭器陈列，终以迎福作结，由理及事，过渡自然。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“上配紫旻，厚载其德”工整对仗，强调天地对应关系。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“坤元”“皇祇”皆出自《周易》《礼记》祭祀传统。"
+                }
+            ]
+        },
+        "analysis": "此诗语言庄重但立意浅显，仅重复“坤元”“紫旻”等传统概念，未注入个体情感。意象如“祭器布列”过于具象却缺乏诗意转化，流于事务性描述。情感表达模式化，无深层共鸣。整体属典型庙堂文学，技法合规但无创新，审美价值有限。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "依托经典意象构筑仪式感，但组合呆板，未能激活意象的内在张力。",
+                "realm": "凡品",
+                "reason": "辞藻典雅却内容空泛，堆砌典故而未得精魂。"
+            }
+        ],
+        "imagery": [
+            "坤元",
+            "品物",
+            "紫旻",
+            "祭器",
+            "皇祇",
+            "景福"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“洪惟坤元，道著品物”概括地德，较有统摄力。"
+        }
+    },
+    {
+        "title": "紹興祀神州地祇十六首 迎神用《寧安》。 其三",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "〔姑洗爲徵〕坱圠無垠，磅礴罔測。",
+            "山盈川沖，自生自殖。",
+            "其報惟何，率禮靡忒。",
+            "億萬斯年，功被無極。"
+        ],
+        "paragraphs_simplified": [
+            "〔姑洗爲徵〕坱圠無垠，磅礴罔测。",
+            "山盈川冲，自生自殖。",
+            "其报惟何，率礼靡忒。",
+            "億萬斯年，功被无极。"
+        ],
+        "translation": "广阔无垠，磅礴难测。山满川冲，自生自长。其报为何，率礼不变。亿万斯年，功被无极。",
+        "score": 2.5,
+        "subject": [
+            "应制诗"
+        ],
+        "emotion": [
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句虚写天地形态，后两句实写祭祀回报，末句以夸张收束，强调功德永恒。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“億萬斯年，功被無極”极言祭祀功效，超越时空限制。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "“山盈川冲”为实景，“功被無極”为虚意，形成张力。"
+                }
+            ]
+        },
+        "analysis": "此诗试图以宏大意象表现祭祀功德，但“坱圠”“磅礴”等词抽象空洞，未与具体情感挂钩。语言虽壮阔，却缺乏细腻支撑，沦为口号式表达。结构上由虚入实，但转折生硬。整体意境虚浮，未能在虚实间建立有机联系，艺术效果薄弱。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "追求雄健力度，但意象缺乏根基，夸张失度，反显空泛。",
+                "realm": "凡品",
+                "reason": "模仿劲健而失之粗疏，语言浮夸而内涵不足。"
+            }
+        ],
+        "imagery": [
+            "坱圠",
+            "磅礴",
+            "山",
+            "川",
+            "礼",
+            "功"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句“億萬斯年，功被無極”收束有力，概括祭祀终极意义。"
+        }
+    },
+    {
+        "title": "紹興祀神州地祇十六首 迎神用《寧安》。 其四",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "〔南呂爲羽〕翕闢以時，協氣陶蒸。",
+            "播之金石，鏘厥和聲。",
+            "冥冥眑眑，孔享純誠。",
+            "是聽是娭，邦基永寧。"
+        ],
+        "paragraphs_simplified": [
+            "〔南吕为羽〕翕辟以时，协气陶蒸。",
+            "播之金石，锵厥和声。",
+            "冥冥眑眑，孔享纯诚。",
+            "是听是娭，邦基永宁。"
+        ],
+        "translation": "翕辟以时，协气陶蒸。播于金石，锵其和声。冥冥眑眑，孔享纯诚。是听是娭，邦基永宁。",
+        "score": 2.5,
+        "subject": [
+            "应制诗"
+        ],
+        "emotion": [
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "通感",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "从时序协和起笔，转入音乐渲染，再写神灵感应，终以邦宁作结，环环相扣。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“是听是娭”赋予神灵听觉与娱乐行为，增强互动感。"
+                },
+                {
+                    "tag": "通感",
+                    "explanation": "“协气陶蒸”将气息与温度感交融，渲染祭祀氛围。"
+                }
+            ]
+        },
+        "analysis": "此诗以音乐与气息意象构建祭祀场景，语言较前几首稍具动态感。但“冥冥眑眑”等词晦涩，情感表达仍受制于程式。虽尝试以听觉（金石）与视觉（协气）通感，但意象组合仍显生硬。整体未脱应制诗窠臼，艺术突破有限。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以时序、音乐等自然元素营造和谐，但用词造作，反失自然本色。",
+                "realm": "凡品",
+                "reason": "追求自然而陷于雕琢，意象未能浑然天成。"
+            }
+        ],
+        "imagery": [
+            "翕辟",
+            "协气",
+            "金石",
+            "和声",
+            "纯诚",
+            "邦基"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“播之金石，锵厥和声”具象描绘音乐，较有画面感。"
+        }
+    },
+    {
+        "title": "紹興祀神州地祇十六首 盥洗用《正安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "晨煬致煙，浡然四施。",
+            "飄飄風馬，彷彿來斯。",
+            "祀事維清，沃之盥之。",
+            "載涓載肅，罔有愧辭。"
+        ],
+        "paragraphs_simplified": [
+            "晨炀致烟，浡然四施。",
+            "飘飘风马，仿佛来斯。",
+            "祀事维清，沃之盥之。",
+            "载涓载肃，罔有愧辞。"
+        ],
+        "translation": "Morning burning produces smoke, abundantly spreading in all directions. Floating wind horses, as if arriving here. The sacrificial affairs are pure, wash and rinse them. With care and solemnity, without any shameful words.",
+        "score": 2.5,
+        "subject": [
+            "祭祀诗"
+        ],
+        "emotion": [
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "描述祭祀开始的准备工作，强调纯净和庄严。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "風馬比喻神灵或祭祀中的风马云车。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用古代祭祀礼仪中的意象。"
+                }
+            ]
+        },
+        "analysis": "此诗为祭祀盥洗仪式所作，语言规范但缺乏生气。意象如烟、风马等陈旧，情感表达流于形式，仅满足仪式需求，无艺术创新。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "使用传统祭祀意象，但缺乏新意。",
+                "realm": "能品",
+                "reason": "语言规范但缺乏诗意深度。"
+            }
+        ],
+        "imagery": [
+            "烟",
+            "风",
+            "水"
+        ],
+        "allusions": [
+            {
+                "phrase": "風馬",
+                "explanation": "指祭祀中神灵所乘的风马云车。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "开篇描绘祭祀场景，形象生动。"
+        }
+    },
+    {
+        "title": "紹興祀神州地祇十六首 升殿用《正安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "崇崇其壇，屹矣層級。",
+            "佩約步趨，降登中節。",
+            "左瞻右睨，祥風藹集。",
+            "斿旆羽紛，昭鑒翊翊。"
+        ],
+        "paragraphs_simplified": [
+            "崇崇其坛，屹矣层级。",
+            "佩约步趋，降登中节。",
+            "左瞻右睨，祥风蔼集。",
+            "斿旆羽纷，昭鉴翊翊。"
+        ],
+        "translation": "The altar is lofty, with steep levels. With pendants, they walk step by step, descending and ascending with proper rhythm. Looking left and right, auspicious winds gather densely. Banners and feathers are numerous, shining brightly and assisting.",
+        "score": 2.5,
+        "subject": [
+            "祭祀诗"
+        ],
+        "emotion": [
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "描述升殿仪式的过程，通过动作和环境烘托庄严气氛。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "左瞻右睨形成对偶，增强节奏感。"
+                },
+                {
+                    "tag": "侧面烘托",
+                    "explanation": "通过祥风和旗帜烘托神灵降临的氛围。"
+                }
+            ]
+        },
+        "analysis": "此诗描写升殿仪式，语言庄重但略显呆板。对偶工整，但意象如祥风、旗帜缺乏新意，整体流于形式，未能超越仪式诗的常规框架。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "使用仪式场景意象，但缺乏生动性。",
+                "realm": "能品",
+                "reason": "结构工整但情感平淡。"
+            }
+        ],
+        "imagery": [
+            "坛",
+            "风",
+            "旗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "开篇点明地点，奠定庄严基调。"
+        }
+    },
+    {
+        "title": "紹興祀神州地祇十六首 神州地祇位奠玉幣用《嘉安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "璇璣諧序，籍斂薦嘉。",
+            "昭答柔祇，迭奏雅歌。",
+            "幣琮以侑，儀腆氣和。",
+            "靈其溥臨，容與燕嘉。"
+        ],
+        "paragraphs_simplified": [
+            "璇玑谐序，籍敛荐嘉。",
+            "昭答柔祇，迭奏雅歌。",
+            "币琮以侑，仪腆气和。",
+            "灵其溥临，容与燕嘉。"
+        ],
+        "translation": "The jade mechanism harmonizes the sequence, collecting and offering the best. Responding to the soft earth, repeatedly playing elegant songs. With jade coins to accompany, the ceremony is full and the energy harmonious. May the spirits broadly arrive, with ease and enjoyment.",
+        "score": 2.8,
+        "subject": [
+            "祭祀诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "描述奠玉币的过程，强调和谐与神灵的回应。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "璇璣比喻天象或神器。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "可能引用古代玉币祭祀的典故。"
+                }
+            ]
+        },
+        "analysis": "此诗为奠玉币仪式所作，语言典雅，意象如璇玑、玉币较为精致。情感表达较为内敛，通过仪式细节传达敬意，但整体仍受限于程式化表达，缺乏个人情感的渗透。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "使用玉器和音乐意象，较为精致。",
+                "realm": "能品",
+                "reason": "语言规范，但创新不足。"
+            }
+        ],
+        "imagery": [
+            "玉",
+            "歌",
+            "气"
+        ],
+        "allusions": [
+            {
+                "phrase": "璇璣",
+                "explanation": "指古代天文仪器或玉器，象征天地秩序。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "璇璣諧序一句，意象独特，富有文化内涵。"
+        }
+    },
+    {
+        "title": "紹興祀神州地祇十六首 太宗位奠幣用《嘉安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "穆穆令聞，溥博有容。",
+            "澤被萬宇，靡不率從。",
+            "恭陳量幣，明薦其衷。",
+            "禮亦宜之，享德攸同。"
+        ],
+        "paragraphs_simplified": [
+            "穆穆令闻，溥博有容。",
+            "泽被万宇，靡不率从。",
+            "恭陈量币，明荐其衷。",
+            "礼亦宜之，享德攸同。"
+        ],
+        "translation": "Elegant and renowned, vast and tolerant. His grace covers the world, none do not follow. Reverently presenting the coins, clearly offering his sincerity. The ritual is appropriate, enjoying the virtue together.",
+        "score": 2.5,
+        "subject": [
+            "祭祀诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "赞颂太宗的德行，通过奠币仪式表达敬意。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前两句形成对偶，强调德行的广大。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过奠币表达对太宗美德的推崇。"
+                }
+            ]
+        },
+        "analysis": "此诗为太宗位奠币所作，语言庄重但缺乏情感深度。对偶工整，但内容多为颂扬之词，意象陈旧，未能突破仪式诗的局限。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "使用德行和礼仪意象，但流于表面。",
+                "realm": "能品",
+                "reason": "结构规范但缺乏诗意。"
+            }
+        ],
+        "imagery": [
+            "德",
+            "币",
+            "礼"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "穆穆令聞一句，概括了太宗的声誉。"
+        }
+    },
+    {
+        "title": "紹興祀神州地祇十六首 奉俎用《豐安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "肅肅嘉承，唯德其物。",
+            "工祝以告，繄民之力。",
+            "神哉廣生，孔蕃且碩。",
+            "奠于嘉壇，吐之則弗。"
+        ],
+        "paragraphs_simplified": [
+            "肃肃嘉承，唯德其物。",
+            "工祝以告，繄民之力。",
+            "神哉广生，孔蕃且硕。",
+            "奠于嘉坛，吐之则弗。"
+        ],
+        "translation": "Solemnly receiving, only virtue is the substance. The officiant announces, it is the people's strength. How divine is the broad life, abundant and great. Placed on the good altar, offering it but not consuming.",
+        "score": 2.5,
+        "subject": [
+            "祭祀诗"
+        ],
+        "emotion": [
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "描述奉俎仪式，强调神灵的广大和人民的贡献。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "神哉廣生夸大神灵的创造力。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过奠坛表达对神灵的崇敬。"
+                }
+            ]
+        },
+        "analysis": "此诗为奉俎仪式所作，语言古朴但略显晦涩。意象如广生、嘉坛较为宏大，但情感表达较为抽象，整体符合仪式要求，但诗意不足。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "使用神灵和祭坛意象，但缺乏具体性。",
+                "realm": "能品",
+                "reason": "语言规范但不够生动。"
+            }
+        ],
+        "imagery": [
+            "德",
+            "民",
+            "神",
+            "坛"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "神哉廣生一句，气势恢宏。"
+        }
+    },
+    {
+        "title": "紹興祀神州地祇十六首 神州地祇位酌獻用《嘉安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "恭承明祀，嘉薦令芳。",
+            "亦有桂酒，誠慤是將。",
+            "瑟瓚以酌，效懽厥觴。",
+            "庶乎燕享，永懷不忘。"
+        ],
+        "paragraphs_simplified": [
+            "恭承明祀，嘉荐令芳。",
+            "亦有桂酒，诚悫是将。",
+            "瑟瓒以酌，效欢厥觞。",
+            "庶乎燕享，永怀不忘。"
+        ],
+        "translation": "恭敬地承接明祀，美好的祭品芬芳。也有桂酒，诚心诚意地奉献。用瑟瓒斟酒，效仿欢乐的觞饮。希望宴享，永远不忘。",
+        "score": 2.5,
+        "subject": [
+            "应制诗",
+            "祭祀诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "从承接祭祀开始，描述祭品与饮酒仪式，以永志不忘收尾，结构线性。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "如'恭承明祀'与'嘉荐令芳'形成工整对仗，增强仪式感。"
+                }
+            ]
+        },
+        "analysis": "此诗为庙堂祭祀乐歌，语言庄重规范，通过'桂酒'、'瑟瓒'等器物细节勾勒仪式场景，意象陈旧，缺乏情感张力。整体立意浅显，仅为礼仪流程的机械复述，无深层审美价值。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "意象多取祭祀器物，营造肃穆氛围，但流于表面。",
+                "realm": "能",
+                "reason": "技法合乎规范，但缺乏创新，属能品。"
+            }
+        ],
+        "imagery": [
+            "明祀",
+            "桂酒",
+            "瑟瓒",
+            "燕享"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直指祭祀主题，最为凝练。"
+        }
+    },
+    {
+        "title": "紹興祀神州地祇十六首 太宗位酌獻用《化安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "宗德含洪，方祇可儗。",
+            "闢土開疆，八埏同軌。",
+            "是用作配，有永無紀。",
+            "祼獻以享，茂格蕃祉。"
+        ],
+        "paragraphs_simplified": [
+            "宗德含洪，方祇可拟。",
+            "辟土开疆，八埏同轨。",
+            "是用作配，有永无纪。",
+            "祼献以享，茂格蕃祉。"
+        ],
+        "translation": "宗德深厚，可与地祇相比。开辟疆土，八方统一。以此配享，永无纪极。祼献祭祀，茂盛福祉。",
+        "score": 2.8,
+        "subject": [
+            "应制诗",
+            "颂诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先颂宗德，再述武功，结尾以祭祀显志，结构紧凑。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "如'八埏同轨'夸大疆域统一，强化威仪。"
+                }
+            ]
+        },
+        "analysis": "诗歌颂太宗功德，语言宏大但空洞，'辟土开疆'等句堆砌辞藻，缺乏具体意象支撑。情感流于表面，仅为应制套话，无真挚感发。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "试图以'辟土开疆'构筑雄浑气象，但意象模糊。",
+                "realm": "逸",
+                "reason": "模仿雄浑而失之空泛，属逸品。"
+            }
+        ],
+        "imagery": [
+            "宗德",
+            "方祇",
+            "八埏",
+            "祼献"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句直接陈述武功，最为有力。"
+        }
+    },
+    {
+        "title": "紹興祀神州地祇十六首 文舞退、武舞進用《文安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "奕奕綴兆，咸池孔彰。",
+            "丕闡文德，靡忘發揚。",
+            "進退有節，乃容之常。",
+            "樂備爾奏，燁燁榮光。"
+        ],
+        "paragraphs_simplified": [
+            "奕奕缀兆，咸池孔彰。",
+            "丕阐文德，靡忘发扬。",
+            "进退有节，乃容之常。",
+            "乐备尔奏，烨烨荣光。"
+        ],
+        "translation": "舞姿奕奕，咸池乐舞显明。大阐文德，不忘发扬。进退有节，是容仪之常。乐舞完备，奏出烨烨荣光。",
+        "score": 3.0,
+        "subject": [
+            "应制诗",
+            "乐舞诗"
+        ],
+        "emotion": [
+            "赞美",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "以舞姿开篇，中述文德，结尾赞乐光，动静相生。",
+            "evidence": [
+                {
+                    "tag": "动静结合",
+                    "explanation": "如'奕奕缀兆'写动态舞姿，与'进退有节'的静态仪态结合。"
+                }
+            ]
+        },
+        "analysis": "此诗描绘文武舞进退，意象如'咸池'、'荣光'具仪式感，但语言平实，缺乏生动性。情感表达程式化，仅为乐舞流程的记录，无艺术感染力。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以'进退有节'展现劲健节奏，但意象单薄。",
+                "realm": "能",
+                "reason": "技法稳健，但未达高境，属能品。"
+            }
+        ],
+        "imagery": [
+            "缀兆",
+            "咸池",
+            "文德",
+            "荣光"
+        ],
+        "allusions": [
+            {
+                "phrase": "咸池",
+                "explanation": "古乐名，象征雅乐。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以舞姿开篇，意象生动。"
+        }
+    },
+    {
+        "title": "紹興祀神州地祇十六首 亞、終獻用《文安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "縮酌以祼，既旨且多。",
+            "三獻有序，情文愈加。",
+            "黄祇臨享，錫以休嘉。",
+            "廣茲靈祲，覃及邇遐。"
+        ],
+        "paragraphs_simplified": [
+            "缩酌以祼，既旨且多。",
+            "三献有序，情文愈加。",
+            "黄祇临享，锡以休嘉。",
+            "广兹灵祲，覃及迩遐。"
+        ],
+        "translation": "缩酒祼祭，既美且多。三献有序，情文递增。黄祇临享，赐以美好。广此灵氛，延及远近。",
+        "score": 2.6,
+        "subject": [
+            "应制诗",
+            "祭祀诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "从缩酒祼祭开始，中述三献过程，结尾祈灵氛扩散，逻辑连贯。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "如'既旨且多'与'情文愈加'形成对仗，增强节奏。"
+                }
+            ]
+        },
+        "analysis": "诗歌聚焦亚终献仪式，语言规范但呆板，'缩酌'、'黄祇'等词堆砌，无鲜活意象。情感流于形式，仅为祭祀程序的复述，缺乏内在张力。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "意象多涉祭仪，但未构筑深层意境。",
+                "realm": "能",
+                "reason": "合乎典雅规范，但无新意，属能品。"
+            }
+        ],
+        "imagery": [
+            "缩酌",
+            "祼",
+            "黄祇",
+            "灵祲"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句点出三献有序，结构清晰。"
+        }
+    },
+    {
+        "title": "紹興祀神州地祇十六首 徹豆用《成安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "展牲告全，迺登于俎。",
+            "竣事而徹，侑以樂語。",
+            "奉釐宣室，祚我神主。",
+            "斂敷庶民，並受其祜。"
+        ],
+        "paragraphs_simplified": [
+            "展牲告全，乃登于俎。",
+            "竣事而彻，侑以乐语。",
+            "奉釐宣室，祚我神主。",
+            "敛敷庶民，并受其祜。"
+        ],
+        "translation": "展示牺牲宣告完备，于是登于俎豆。事毕撤除，以乐语劝侑。奉福于宣室，佑我神主。收敛施予庶民，共同受福。",
+        "score": 2.7,
+        "subject": [
+            "应制诗",
+            "祭祀诗"
+        ],
+        "emotion": [
+            "赞美",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "从展牲开始，叙述撤除仪式，结尾祈福，直叙其事。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "如'展牲告全'与'竣事而彻'形成对仗，描述流程。"
+                }
+            ]
+        },
+        "analysis": "此诗记录彻豆仪式，语言平直，意象如'俎'、'乐语'具祭祀特征，但缺乏诗意升华。情感表达公式化，仅为礼仪尾声的陈述，无余味。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以叙事达自然，但意象生硬。",
+                "realm": "逸",
+                "reason": "模仿自然而失之平淡，属逸品。"
+            }
+        ],
+        "imagery": [
+            "牲",
+            "俎",
+            "宣室",
+            "庶民"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直接描述仪式开端，最为具体。"
+        }
+    },
+    {
+        "title": "紹興祀神州地祇十六首 送神用《寧安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "雲馭洋洋，既歆既顧。",
+            "悠然聿歸，曷求厥路。",
+            "欽想頌堂，跛立以慕。",
+            "賚我肸蠁，莫不懌豫。"
+        ],
+        "paragraphs_simplified": [
+            "云驭洋洋，既歆既顾。",
+            "悠然聿归，曷求厥路。",
+            "钦想颂堂，跛立以慕。",
+            "赉我肸蚃，莫不怿豫。"
+        ],
+        "translation": "神灵驾云洋洋而去，既享受祭祀又回顾。悠然归去，何求其路。敬想颂堂，跛立以慕。赐予我们肸蚃，无不喜悦。",
+        "score": 2.5,
+        "subject": [
+            "祭祀诗",
+            "送别诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先描述神灵离去的动态，再转向祭祀者的敬慕与喜悦，形成由外至内的情感递进。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "首联‘雲馭洋洋，既歆既顧’与‘悠然聿歸，曷求厥路’形成工整对仗，强化仪式节奏感。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "‘云驭’暗含神灵驾云的神话典故，烘托神圣氛围。"
+                }
+            ]
+        },
+        "analysis": "此祭祀歌辞以凝练的笔触勾勒神灵离去的场景，意象如‘云驭’‘颂堂’构筑出庄重的仪式空间。语言工整，但情感表达流于程式化，缺乏个体生命的真切渗透。作为功能性的庙堂文本，其价值在于礼制规范，而非艺术独创，整体呈现平庸的仪式性铺陈。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图通过‘云驭’‘颂堂’等意象营造典雅氛围，但意象组合缺乏新意，流于表面。",
+                "realm": "凡品",
+                "reason": "模仿典雅风格却未能突破形式束缚，情感空洞，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "神",
+            "堂"
+        ],
+        "allusions": [
+            {
+                "phrase": "云驭",
+                "explanation": "指神灵驾云而行，源自神话传说。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句‘云驭洋洋’以动态意象开篇，最具画面感。"
+        }
+    },
+    {
+        "title": "紹興祀神州地祇十六首 望瘞用《正安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "神罔怨恫，燕其有喜。",
+            "蕆事告成，爰修瘞禮。",
+            "樂闋儀備，休氣四起。",
+            "尚謹不愆，念終如始。"
+        ],
+        "paragraphs_simplified": [
+            "神罔怨恫，燕其有喜。",
+            "蒇事告成，爰修瘗礼。",
+            "乐阕仪备，休气四起。",
+            "尚谨不愆，念终如始。"
+        ],
+        "translation": "神灵无怨无忧，宴饮有喜。事务完成，于是举行瘗埋之礼。乐止仪备，祥和之气四起。谨慎无过，始终如一。",
+        "score": 2.3,
+        "subject": [
+            "祭祀诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "点染结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "以神灵状态起笔，继而叙述瘗礼完成，最后强调谨慎始终，逻辑连贯。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "‘神罔怨恫，燕其有喜’与‘蒇事告成，爰修瘗礼’形成对仗，增强仪式感。"
+                },
+                {
+                    "tag": "点染结合",
+                    "explanation": "‘休气四起’点染祥和氛围，烘托祭祀成功。"
+                }
+            ]
+        },
+        "analysis": "此诗以平实的语言记录瘗礼过程，意象如‘休气’‘瘞礼’凸显仪式完成后的安宁。结构上承启自然，但情感表达缺乏深度，流于事务性叙述。作为庙堂歌辞，其艺术性薄弱，仅满足基本功能，未见审美升华。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以‘休气’‘始’等意象营造自然流畅感，但意象陈旧，缺乏灵动。",
+                "realm": "凡品",
+                "reason": "追求自然风格却陷入平铺直叙，未能达到真挚自然的境界。"
+            }
+        ],
+        "imagery": [
+            "神",
+            "礼",
+            "气"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "‘乐阕仪备，休气四起’一句节奏明快，较好地传达了仪式结束的氛围。"
+        }
+    },
+    {
+        "title": "景德朝日三首 降神用《高安》。六變。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "陽德之母，羲御寅賓。",
+            "得天久照，首茲三辰。",
+            "正辭備物，肅肅振振。",
+            "淪精降監，克享明禋。"
+        ],
+        "paragraphs_simplified": [
+            "阳德之母，羲御寅宾。",
+            "得天久照，首兹三辰。",
+            "正辞备物，肃肃振振。",
+            "沦精降监，克享明禋。"
+        ],
+        "translation": "阳德之母，羲和驾日车。得天长久照耀，首为三辰。言辞端正，祭品完备，严肃恭敬。精气降临，能享明祭。",
+        "score": 2.8,
+        "subject": [
+            "祭祀诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "开篇直指太阳神，继而描述其德行与祭祀，最后以神灵降临收尾，结构紧凑。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "‘羲御’引用羲和驾日车的神话，增强神圣性。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "‘陽德之母，羲御寅賓’与‘得天久照，首茲三辰’形成对仗，强化韵律。"
+                }
+            ]
+        },
+        "analysis": "此诗以典故‘羲御’为核心，构筑太阳祭祀的庄严场景。语言古奥，意象如‘阳德’‘三辰’凸显日神的崇高。但情感表达过于隐晦，缺乏生动细节，整体呈现公式化的颂扬，艺术感染力有限。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "通过‘羲御’‘阳德’等意象追求高古风格，但意象晦涩，未能自然融入。",
+                "realm": "凡品",
+                "reason": "模仿高古却流于艰深，缺乏通透的意境营造。"
+            }
+        ],
+        "imagery": [
+            "日",
+            "神",
+            "辰"
+        ],
+        "allusions": [
+            {
+                "phrase": "羲御",
+                "explanation": "指羲和驾驭日车，源自《楚辞》神话。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句‘阳德之母，羲御寅宾’以典故开篇，最具代表性。"
+        }
+    },
+    {
+        "title": "景德朝日三首 奠玉幣、酌獻用《嘉安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "醴齊良潔，有牲斯純。",
+            "大采玄冕，乃昭其文。",
+            "王宮定位，粢盛苾芬。",
+            "民事以敘，盛德升聞。"
+        ],
+        "paragraphs_simplified": [
+            "醴齐良洁，有牲斯纯。",
+            "大采玄冕，乃昭其文。",
+            "王宫定位，粢盛苾芬。",
+            "民事以叙，盛德升闻。"
+        ],
+        "translation": "醴酒洁净，牲畜纯正。大采玄冕，彰显文采。王宫定位，祭品芬芳。民事有序，盛德上闻。",
+        "score": 2.4,
+        "subject": [
+            "祭祀诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "赞美",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "借代"
+            ],
+            "presentation_tags": [
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "从祭品洁净写到礼仪彰显，再至民事与盛德，首尾呼应祭祀的圆满。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "‘醴齐良洁，有牲斯纯’与‘大采玄冕，乃昭其文’形成对仗，突出祭品与礼仪。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "‘玄冕’借代祭祀服饰，象征庄重。"
+                }
+            ]
+        },
+        "analysis": "此诗以细节描写祭品与礼仪，意象如‘醴齐’‘玄冕’构筑祭祀的物质基础。语言工整，但情感表达局限于程式，缺乏深层意蕴。作为应制诗，其价值在于记录礼制，艺术上未见突破。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图通过‘玄冕’‘粢盛’等意象营造典雅，但意象堆砌，缺乏灵动。",
+                "realm": "凡品",
+                "reason": "追求典雅却陷入辞藻堆砌，未能达到含蓄深远。"
+            }
+        ],
+        "imagery": [
+            "酒",
+            "牲",
+            "冕"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘大采玄冕，乃昭其文’一句意象具体，较好地体现了祭祀的庄重。"
+        }
+    },
+    {
+        "title": "景德朝日三首 送神用《高安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "縣象著明，照臨下土。",
+            "降福穰穰，德施周普。"
+        ],
+        "paragraphs_simplified": [
+            "县象著明，照临下土。",
+            "降福穰穰，德施周普。"
+        ],
+        "translation": "天象显著，照耀下土。降福众多，德行普及。",
+        "score": 2.0,
+        "subject": [
+            "祭祀诗",
+            "送别诗"
+        ],
+        "emotion": [
+            "赞美",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "开篇直述神灵照耀，继而祈求降福，结构简单直接。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "‘降福穰穰’以夸张手法强调神灵恩泽。"
+                }
+            ]
+        },
+        "analysis": "此诗仅两句，语言极简，意象如‘县象’‘降福’直指神灵功能。缺乏细节与情感层次，作为送神歌辞，其表达过于直白，艺术性薄弱，近乎口号式颂扬。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以‘照临’‘降福’展现劲健风格，但意象单薄，缺乏力度。",
+                "realm": "劣作",
+                "reason": "模仿劲健却流于空洞，未能达到雄浑有力的境界。"
+            }
+        ],
+        "imagery": [
+            "天象",
+            "福"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句‘县象著明’以天象起笔，相对通顺。"
+        }
+    },
+    {
+        "title": "夕月三首 降神用《高安》。六變。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "凝陰稟粹，照臨八埏。",
+            "麗天垂象，繼日代明。",
+            "一氣資始，四時運行。",
+            "靈祇昭格，備物薦誠。"
+        ],
+        "paragraphs_simplified": [
+            "凝阴禀粹，照临八埏。",
+            "丽天垂象，继日代明。",
+            "一气资始，四时运行。",
+            "灵祇昭格，备物荐诚。"
+        ],
+        "translation": "凝聚阴气，禀受精华，照耀大地。丽天垂象，继日代明。一气资始，四时运行。神灵降临，备物荐诚。",
+        "score": 2.8,
+        "subject": [
+            "祭祀诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "庄重"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先描述神灵降临与自然运行，最后以祭祀诚意收束，形成仪式性结构。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“凝阴禀粹”与“照临八埏”形成工整对偶，强化节奏感。"
+                }
+            ]
+        },
+        "analysis": "此诗作为郊庙祭祀歌辞，语言庄重典雅，但意象陈旧，缺乏独特艺术感染力。通过自然运行的描述，寄寓对神灵的敬仰，但整体流于形式，未能突破仪式诗的常规框架。辞藻虽工整，却少有回甘，属于平庸之作。情景契合度一般，意境真切感不足，情感的审美距离较远，整体定性为平庸。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图通过自然意象构筑庄严氛围，但意象组合缺乏新意，未能达到高古境界。",
+                "realm": "凡品",
+                "reason": "模仿典雅风格，但实际堆砌辞藻，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "月",
+            "天",
+            "地",
+            "神"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句“灵祇昭格，备物荐诚”直接点明祭祀诚意，最为贴切。"
+        }
+    },
+    {
+        "title": "夕月三首 奠玉幣、酌獻用《嘉安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "夕耀乘秋，功存宇縣。",
+            "金奏在縣，以時致薦。",
+            "祀事孔寅，明靈降眷。",
+            "潔粢豐盛，倉箱流衍。"
+        ],
+        "paragraphs_simplified": [
+            "夕耀乘秋，功存宇县。",
+            "金奏在县，以时致荐。",
+            "祀事孔寅，明灵降眷。",
+            "洁粢丰盛，仓箱流衍。"
+        ],
+        "translation": "夕辉乘秋，功存宇宙。金奏悬挂，按时献祭。祭祀恭敬，神灵降临。祭品丰盛，粮仓充盈。",
+        "score": 2.5,
+        "subject": [
+            "祭祀诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "庄重",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以秋夕祭祀为起点，叙述祭品丰盛与神灵眷顾，结构紧凑。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“夕耀乘秋”与“功存宇县”形成对偶，增强仪式感。"
+                }
+            ]
+        },
+        "analysis": "此诗延续祭祀主题，意象陈旧，如“夕耀”“仓箱”缺乏新意。通过秋夕场景渲染祭祀氛围，但情感表达直白，缺乏审美深度。辞藻堆砌明显，立意浅显，未能超越凡俗。情景契合度一般，意境真切感不足，整体定性为平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以秋夕意象构筑庄严感，但组合生硬，未能达到自然境界。",
+                "realm": "凡品",
+                "reason": "模仿典雅风格，但实际流于表面，缺乏内在精神。"
+            }
+        ],
+        "imagery": [
+            "夕",
+            "秋",
+            "祭品",
+            "仓"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句“夕耀乘秋，功存宇县”点明时间与主题，最为通顺。"
+        }
+    },
+    {
+        "title": "夕月三首 送神用《高安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "夙陳籩豆，潔誠致祈。",
+            "垂休保佑，景祚巍巍。"
+        ],
+        "paragraphs_simplified": [
+            "夙陈笾豆，洁诚致祈。",
+            "垂休保佑，景祚巍巍。"
+        ],
+        "translation": "早陈祭器，洁诚祈祷。垂福保佑，国运巍巍。",
+        "score": 3.0,
+        "subject": [
+            "祭祀诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先述祭祀准备，后以祈愿收尾，结构简洁。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“景祚巍巍”以山岳比喻国运，增强庄严感。"
+                }
+            ]
+        },
+        "analysis": "此诗短小精悍，直接表达送神祈愿。意象虽简，但“景祚巍巍”一词赋予一定气势。作为仪式诗，它符合规范，但缺乏艺术创新。情景契合度尚可，意境真切感一般，情感的审美距离较近，整体定性为能品。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "试图以巍峨意象构筑雄浑气势，但规模有限，未能达到真正雄浑境界。",
+                "realm": "能品",
+                "reason": "模仿雄浑风格，但实际仅具雏形，未能充分展开。"
+            }
+        ],
+        "imagery": [
+            "祭器",
+            "祈",
+            "福",
+            "祚"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句“垂休保佑，景祚巍巍”直接表达祈愿，最具代表性。"
+        }
+    },
+    {
+        "title": "大觀秋分夕月四首 降神用《高安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "至陰之精，虧而復盈。",
+            "輪高僊桂，階應祥蓂。",
+            "玉兔影孤，金莖露溢。",
+            "其駕星車，顧于茲夕。"
+        ],
+        "paragraphs_simplified": [
+            "至阴之精，亏而复盈。",
+            "轮高仙桂，阶应祥蓂。",
+            "玉兔影孤，金茎露溢。",
+            "其驾星车，顾于兹夕。"
+        ],
+        "translation": "月亮精华，亏而复盈。轮高仙桂，阶应祥蓂。玉兔影孤，金茎露溢。驾星车，顾此夕。",
+        "score": 3.2,
+        "subject": [
+            "祭祀诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美",
+            "期待"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "以月亮盈亏为线索，引入神话意象，最后以星车顾夕收束，形成循环结构。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“玉兔”比喻月亮，借用神话增强诗意。"
+                }
+            ]
+        },
+        "analysis": "此诗融入玉兔、仙桂等神话元素，意象较为丰富，但辞藻堆砌痕迹明显。通过秋夕月亮描绘，寄寓祭祀虔诚，但情感表达较为表面，缺乏深层回甘。情景契合度较高，意境真切感一般，整体定性为能品。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "试图以神话意象构筑绮丽氛围，但组合略显生硬，未能达到纤秾境界。",
+                "realm": "能品",
+                "reason": "模仿绮丽风格，但实际意象繁复，缺乏洗炼。"
+            }
+        ],
+        "imagery": [
+            "月",
+            "桂",
+            "玉兔",
+            "星车"
+        ],
+        "allusions": [
+            {
+                "phrase": "玉兔",
+                "explanation": "指月宫传说中的玉兔，象征月亮。"
+            },
+            {
+                "phrase": "仙桂",
+                "explanation": "指月宫仙桂，源自神话传说。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句“至阴之精，亏而复盈”点明月亮本质，最为精炼。"
+        }
+    },
+    {
+        "title": "大觀秋分夕月四首 奠玉幣。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "玉鈎初彎，冰盤乍圓。",
+            "扇掩秋後，烏飛枝邊。",
+            "精凝蟾蜍，輝光嬋娟。",
+            "歆于明祀，弭芳節焉。"
+        ],
+        "paragraphs_simplified": [
+            "玉钩初弯，冰盘乍圆。",
+            "扇掩秋后，乌飞枝边。",
+            "精凝蟾蜍，辉光婵娟。",
+            "歆于明祀，弭芳节焉。"
+        ],
+        "translation": "玉钩初弯，冰盘乍圆。扇掩秋后，乌飞枝边。精凝蟾蜍，辉光婵娟。歆于明祀，弭芳节。",
+        "score": 3.5,
+        "subject": [
+            "祭祀诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以月亮形状变化起笔，引入秋景与神话，最后回归祭祀，结构流畅。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“玉钩”“冰盘”比喻新月与满月，形象生动。"
+                }
+            ]
+        },
+        "analysis": "此诗意象优美，如“玉钩初弯”“冰盘乍圆”勾勒月亮形态，辞藻典雅。通过秋夜场景与蟾蜍神话，渲染祭祀氛围，但情感表达含蓄，缺乏强烈感染力。情景契合度较高，意境真切感尚可，整体定性为能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以月亮与秋景意象构筑清奇境界，但规模有限，未能达到超诣。",
+                "realm": "能品",
+                "reason": "模仿清奇风格，但实际意象虽美，却少有突破。"
+            }
+        ],
+        "imagery": [
+            "月",
+            "扇",
+            "乌",
+            "蟾蜍",
+            "辉光"
+        ],
+        "allusions": [
+            {
+                "phrase": "蟾蜍",
+                "explanation": "指月宫蟾蜍，象征月亮。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句“玉钩初弯，冰盘乍圆”以比喻描绘月亮，最为生动。"
+        }
+    },
+    {
+        "title": "大觀秋分夕月四首 酌獻。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "名稽漢儀，歌參唐宗。",
+            "往于卿少，乘秋氣中。",
+            "周天而行，如姊之崇。",
+            "可飛霞佩，下瑠璃宮。"
+        ],
+        "paragraphs_simplified": [
+            "名稽汉仪，歌参唐宗。",
+            "往于卿少，乘秋气中。",
+            "周天而行，如姊之崇。",
+            "可飞霞佩，下琉璃宫。"
+        ],
+        "translation": "查考汉代的礼仪，参考唐代的宗庙乐章。前往卿少，乘着秋气中天。周天而行，如同姐姐的崇高。可以飞霞佩，下琉璃宫。",
+        "score": 2.8,
+        "subject": [
+            "节令诗",
+            "应制诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句点明典章来源，后续描述祭祀行程与神灵降临，脉络直白。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“如姊之崇”以姊妹关系喻神灵崇高。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“汉仪”“唐宗”指代历代祭祀传统。"
+                }
+            ]
+        },
+        "analysis": "此诗作为郊庙祭祀歌辞，意象陈旧，堆砌“汉仪”“唐宗”等典故，缺乏新意。立意浅显，仅程式化地描述祭祀流程，未能构筑独特意境。语言刻板，情感流于表面，属于典型的应制堆砌之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图通过典故营造庄重感，但意象组合生硬。",
+                "realm": "能品",
+                "reason": "技法成熟但缺乏灵动，流于形式模仿。"
+            }
+        ],
+        "imagery": [
+            "秋",
+            "天",
+            "宫"
+        ],
+        "allusions": [
+            {
+                "phrase": "汉仪",
+                "explanation": "指汉代祭祀礼仪。"
+            },
+            {
+                "phrase": "唐宗",
+                "explanation": "指唐代宗庙乐章。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直接点题，结构清晰。"
+        }
+    },
+    {
+        "title": "大觀秋分夕月四首 送神。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "四扉大開，五雲車立。",
+            "霓裾娣從，風翿童執。",
+            "摇曳胥來，鏘洋爰集。",
+            "歆我嚴禋，西面以揖。"
+        ],
+        "paragraphs_simplified": [
+            "四扉大开，五云车立。",
+            "霓裾娣从，风翿童执。",
+            "摇曳胥来，锵洋爰集。",
+            "歆我严禋，西面以揖。"
+        ],
+        "translation": "四扇大门敞开，五色云车伫立。霓裳侍女随从，风旗童子执掌。摇曳而来，铿锵聚集。歆享我庄严祭祀，向西拱手作揖。",
+        "score": 2.5,
+        "subject": [
+            "节令诗",
+            "应制诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "庄重"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "借代"
+            ],
+            "presentation_tags": [
+                "侧面烘托",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写送神场景，后两句写祭祀结束，结尾点明敬神主旨。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“四扉大开”与“五云车立”形成工整对仗。"
+                },
+                {
+                    "tag": "侧面烘托",
+                    "explanation": "通过“霓裾”“风翿”等细节渲染神灵离去氛围。"
+                }
+            ]
+        },
+        "analysis": "此诗堆砌“五云”“霓裾”等华丽辞藻，意象浮夸却空洞。情感表达刻板，缺乏真切感。作为送神歌辞，仅程式化描述场景，未能通过意象传递神韵，整体流于形式。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "追求辞藻华丽，但意象组合缺乏内在逻辑。",
+                "realm": "凡品",
+                "reason": "辞藻堆砌，未能达到真正的绮丽境界。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "车",
+            "风",
+            "旗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句直接点明祭祀礼仪，结构完整。"
+        }
+    },
+    {
+        "title": "紹興朝日十首 降神用《高安》。 其一",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "〔圜鍾爲宮〕玄鳥既至，序屬春分。",
+            "朝于太陽，厥典備存。",
+            "載嚴大采，示民有尊。",
+            "揚光下燭，煜爚東門。"
+        ],
+        "paragraphs_simplified": [
+            "〔圜钟为宫〕玄鸟既至，序属春分。",
+            "朝于太阳，厥典备存。",
+            "载严大采，示民有尊。",
+            "扬光下烛，煜爚东门。"
+        ],
+        "translation": "〔圜钟为宫调〕玄鸟已至，时序属春分。朝拜太阳，其典章完备。载行大礼，示民有尊。扬光下照，明亮东门。",
+        "score": 3.0,
+        "subject": [
+            "节令诗",
+            "应制诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句点明春分时节，后续叙述祭祀太阳的典礼，结尾以光喻神威。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“玄鸟”指代春分物候，源自《礼记》。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "“扬光下烛”借日光抒写神圣感。"
+                }
+            ]
+        },
+        "analysis": "此诗以春分祭祀为题，意象较为集中，但语言平直，缺乏诗意升华。“玄鸟”“太阳”等典故使用刻板，未能构筑独特意境。情感表达程式化，属于合格但平庸的应制之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以自然物象入诗，但处理过于直白。",
+                "realm": "能品",
+                "reason": "技法平稳，但缺乏自然之趣。"
+            }
+        ],
+        "imagery": [
+            "鸟",
+            "日",
+            "光",
+            "门"
+        ],
+        "allusions": [
+            {
+                "phrase": "玄鸟",
+                "explanation": "指燕子，春分物候象征。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句以光喻神，意象较为生动。"
+        }
+    },
+    {
+        "title": "紹興朝日十首 降神用《高安》。 其二",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "〔黄鍾爲角〕升暉麗天，陽德之母。",
+            "率無頗偏，兼燭下土。",
+            "恭事崇壇，禮樂具舉。",
+            "頓御六龍，裴回容與。"
+        ],
+        "paragraphs_simplified": [
+            "〔黄钟为角〕升晖丽天，阳德之母。",
+            "率无颇偏，兼烛下土。",
+            "恭事崇坛，礼乐具举。",
+            "顿御六龙，裴回容与。"
+        ],
+        "translation": "〔黄钟为角调〕升辉丽天，阳德之母。率无偏颇，兼照下土。恭事崇坛，礼乐俱举。顿御六龙，徘徊从容。",
+        "score": 2.7,
+        "subject": [
+            "节令诗",
+            "应制诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "庄重"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句写太阳光辉，后两句写祭祀礼仪，结尾以六龙喻神驾。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“阳德之母”喻太阳为万物之源。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“六龙”指代神话中太阳神车。"
+                }
+            ]
+        },
+        "analysis": "此诗辞藻华丽但意象空洞，如“阳德之母”“六龙”等语堆砌典故，缺乏情感内核。结构虽完整，但语言刻板，未能突破应制诗的程式化局限。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图模仿高古语汇，但意象组合生硬。",
+                "realm": "凡品",
+                "reason": "徒具形式，未得高古神韵。"
+            }
+        ],
+        "imagery": [
+            "天",
+            "日",
+            "土",
+            "坛"
+        ],
+        "allusions": [
+            {
+                "phrase": "六龙",
+                "explanation": "神话中太阳神车的象征。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "“恭事崇坛”句直接点明祭祀行为。"
+        }
+    },
+    {
+        "title": "紹興朝日十首 降神用《高安》。 其三",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "〔太簇爲徵〕周祀及闇，漢制中營。",
+            "肸蠁是屆，禮神以兄。",
+            "我潔斯璧，我肥斯牲。",
+            "神兮燕享，鑒觀孔明。"
+        ],
+        "paragraphs_simplified": [
+            "〔太簇为徵〕周祀及闇，汉制中营。",
+            "肸蠁是届，礼神以兄。",
+            "我洁斯璧，我肥斯牲。",
+            "神兮燕享，鉴观孔明。"
+        ],
+        "translation": "〔太簇为徵调〕周代祭祀及暗室，汉代制度在中营。肸蚃而至，以兄礼敬神。我洁此璧，我肥此牲。神啊宴享，明鉴昭昭。",
+        "score": 2.9,
+        "subject": [
+            "节令诗",
+            "应制诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "呼告"
+            ],
+            "presentation_tags": [
+                "用典",
+                "抑扬结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句追溯历史，后两句写祭品与神享，结尾呼告神明。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“周祀”“汉制”指历代祭祀传统。"
+                },
+                {
+                    "tag": "呼告",
+                    "explanation": "“神兮燕享”直接呼唤神灵。"
+                }
+            ]
+        },
+        "analysis": "此诗以历史典故开篇，但意象陈旧，如“璧”“牲”等祭品描写缺乏新意。情感表达直白却空洞，未能通过细节传递祭祀的庄严感，整体流于表面。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "试图以厚重意象体现沉著，但处理过于直露。",
+                "realm": "凡品",
+                "reason": "意象堆砌，未达沉著境界。"
+            }
+        ],
+        "imagery": [
+            "璧",
+            "牲",
+            "神"
+        ],
+        "allusions": [
+            {
+                "phrase": "周祀",
+                "explanation": "指周代祭祀制度。"
+            },
+            {
+                "phrase": "汉制",
+                "explanation": "指汉代祭祀规范。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句呼告神明，情感直接。"
+        }
+    },
+    {
+        "title": "紹興朝日十首 降神用《高安》。 其四",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "〔姑洗爲羽〕屹爾王宮，泛臨翊翊。",
+            "惠此萬方，豈惟五色。",
+            "以修陽政，以習地德。",
+            "雲景杳冥，施祥無極。"
+        ],
+        "paragraphs_simplified": [
+            "〔姑洗为羽〕屹尔王宫，泛临翊翊。",
+            "惠此万方，岂惟五色。",
+            "以修阳政，以习地德。",
+            "云景杳冥，施祥无极。"
+        ],
+        "translation": "神灵屹立于王宫，广泛降临庇佑。恩惠遍及万方，岂止五色祥瑞。修明阳政，习行地德。云景深远，降福无极。",
+        "score": 2.8,
+        "subject": [
+            "节令诗",
+            "应制诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先述神灵降临，再陈恩惠广布，继言修德，终以祥瑞收束，层次分明。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“以修陽政，以習地德”对仗工整，强调阴阳平衡的祭祀理念。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“五色”喻指祥瑞，以色彩象征神灵恩泽。"
+                }
+            ]
+        },
+        "analysis": "此诗作为祭祀乐章，意象陈旧，局限于“王宫”“万方”等宏大词汇，缺乏真切的情感渗透。结构虽清晰，但立意浅显，仅为仪式性铺陈，未构筑独特意境。词藻典雅却流于堆砌，整体呈现刻板的程式化特征，缺乏审美回甘。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图通过庄重词汇营造肃穆氛围，但意象组合缺乏新意，未能达到高古境界。",
+                "realm": "能",
+                "reason": "技法规范但缺乏灵动，属于平庸的应制之作。"
+            }
+        ],
+        "imagery": [
+            "王宫",
+            "万方",
+            "云景",
+            "祥瑞"
+        ],
+        "allusions": [
+            {
+                "phrase": "姑洗",
+                "explanation": "古代十二律之一，用于祭祀音乐。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句开门见山，直接点明神灵降临的主题。"
+        }
+    },
+    {
+        "title": "紹興朝日十首 初獻升殿用《正安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "天宇四霽，嘉壇聿崇。",
+            "肅祗嚴祀，登降有容。",
+            "仰瞻曜靈，位居其中。",
+            "既安既妥，沛哉豐融。"
+        ],
+        "paragraphs_simplified": [
+            "天宇四霁，嘉坛聿崇。",
+            "肃祗严祀，登降有容。",
+            "仰瞻曜灵，位居其中。",
+            "既安既妥，沛哉丰融。"
+        ],
+        "translation": "天空晴朗，祭坛高耸。恭敬庄严的祭祀，登降有节。仰望日光，神位居中。既安且妥，盛大丰融。",
+        "score": 2.5,
+        "subject": [
+            "节令诗",
+            "应制诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "从环境描写切入，继而叙述祭祀动作，再转向神灵位置，最后以状态收尾，流程完整。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“天宇四霽，嘉壇聿崇”对仗工整，渲染祭祀环境的庄严。"
+                }
+            ]
+        },
+        "analysis": "此诗仪式性强，意象如“天宇”“祭坛”等缺乏新意，情感表达克制而流于表面。结构虽连贯，但语言平直，未见深意。词藻虽雅，却无生动细节，整体为典型的程式化颂诗，缺乏艺术感染力。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图以简练语言营造古朴氛围，但意象空泛，未能达到高古之真谛。",
+                "realm": "能",
+                "reason": "技法平稳但缺乏个性，属于凡品应制诗。"
+            }
+        ],
+        "imagery": [
+            "天宇",
+            "祭坛",
+            "日光",
+            "神位"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以景起兴，奠定祭祀的时空背景。"
+        }
+    },
+    {
+        "title": "紹興朝日十首 奠玉幣用《嘉安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "物之備矣，以交於神。",
+            "時惟炎精，不忘顧歆。",
+            "經緯之文，璆琳之質。",
+            "燦然相輝，其儀秩秩。"
+        ],
+        "paragraphs_simplified": [
+            "物之备矣，以交于神。",
+            "时惟炎精，不忘顾歆。",
+            "经纬之文，璆琳之质。",
+            "灿然相辉，其仪秩秩。"
+        ],
+        "translation": "祭物齐备，以交神灵。时值炎精，不忘眷顾。经纬纹饰，美玉之质。光辉相映，礼仪有序。",
+        "score": 2.6,
+        "subject": [
+            "节令诗",
+            "应制诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "肃穆"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先言祭物，再述时节，继而描写祭品质地，终以礼仪收束，层次清晰。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“经纬之文，璆琳之质”对仗工整，强调祭品的精美。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "“炎精”借代太阳，以物指代神灵。"
+                }
+            ]
+        },
+        "analysis": "此诗聚焦祭品描写，意象如“璆琳”“经纬”虽典雅但生僻，缺乏通俗感染力。情感表达隐晦，仅为仪式服务。结构规范，但语言凝滞，未见灵动之气，整体为平庸的礼仪诗，无甚审美价值。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以精致词汇展现礼仪之盛，但意象堆砌，未能构筑生动意境。",
+                "realm": "能",
+                "reason": "技法纯熟但缺乏灵魂，属于凡品。"
+            }
+        ],
+        "imagery": [
+            "祭物",
+            "太阳",
+            "玉",
+            "纹饰"
+        ],
+        "allusions": [
+            {
+                "phrase": "炎精",
+                "explanation": "指太阳，古代祭祀常用语。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句“灿然相辉”以视觉描写增强仪式感。"
+        }
+    },
+    {
+        "title": "紹興朝日十首 奉俎用《豐安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "扶桑朝暾，和氣肸飭。",
+            "奉此牲牢，爲俎孔碩。",
+            "芬馨進聞，介我黍稷。",
+            "所將以誠，茲用享德。"
+        ],
+        "paragraphs_simplified": [
+            "扶桑朝暾，和气肸饬。",
+            "奉此牲牢，为俎孔硕。",
+            "芬馨进闻，介我黍稷。",
+            "所将以诚，兹用享德。"
+        ],
+        "translation": "扶桑朝阳，和气勃发。奉上牲牢，祭器硕大。芬芳飘闻，助我黍稷。以诚奉献，用享德行。",
+        "score": 2.7,
+        "subject": [
+            "节令诗",
+            "应制诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "从日出景象起笔，转入祭品奉献，再写香气，终以诚德收尾，流程自然。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“芬馨進聞，介我黍稷”对仗工整，强化感官描写。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "“和气肸饬”赋予自然以人的情态。"
+                }
+            ]
+        },
+        "analysis": "此诗以日出引入祭祀，意象如“扶桑朝暾”虽有古意，但缺乏新意。情感表达克制，语言平实，未见深意。结构连贯，但词藻陈旧，整体为程式化作品，艺术价值有限。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以自然景象衬托仪式，但意象组合生硬，未能达到自然之境。",
+                "realm": "能",
+                "reason": "技法规范但缺乏灵动，属于平庸之作。"
+            }
+        ],
+        "imagery": [
+            "朝阳",
+            "和气",
+            "牲牢",
+            "祭器"
+        ],
+        "allusions": [
+            {
+                "phrase": "扶桑",
+                "explanation": "神话中日出之处，象征开始。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以日出起兴，奠定祭祀的时空背景。"
+        }
+    },
+    {
+        "title": "紹興朝日十首 酌獻用《嘉安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "匏爵斯陳，百味旨酒。",
+            "勺以獻之，再拜稽首。",
+            "鍾鼓在列，靈方安留。",
+            "眷然加薦，惟時之休。"
+        ],
+        "paragraphs_simplified": [
+            "匏爵斯陈，百味旨酒。",
+            "勺以献之，再拜稽首。",
+            "钟鼓在列，灵方安留。",
+            "眷然加荐，惟时之休。"
+        ],
+        "translation": "酒器陈列，百味美酒。勺酒献上，再拜叩首。钟鼓在列，神灵安留。眷顾进献，以时之福。",
+        "score": 2.5,
+        "subject": [
+            "节令诗",
+            "应制诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "肃穆"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写酒器，再述献酒动作，继而钟鼓伴奏，终以神灵安留收尾，仪式流程完整。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“勺以獻之，再拜稽首”对仗工整，刻画祭祀动作。"
+                }
+            ]
+        },
+        "analysis": "此诗描述酌献仪式，意象如“匏爵”“钟鼓”陈旧，缺乏生动细节。情感表达机械，语言直白，未见艺术升华。结构虽完整，但整体平庸，仅为仪式记录，无审美价值。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以传统词汇维持庄重，但意象空洞，未能达到典雅之境。",
+                "realm": "能",
+                "reason": "技法平稳但缺乏个性，属于凡品。"
+            }
+        ],
+        "imagery": [
+            "酒器",
+            "美酒",
+            "钟鼓",
+            "神灵"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“勺以獻之，再拜稽首”具体描绘祭祀动作，具象化仪式。"
+        }
+    },
+    {
+        "title": "紹興朝日十首 亞、終獻用《文安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "禮罄沃盥，誠意肅將。",
+            "包茅是縮，冀畢重觴。",
+            "煥矣情文，既具醉止。",
+            "熙事備成，靈其有喜。"
+        ],
+        "paragraphs_simplified": [
+            "礼罄沃盥，诚意肃将。",
+            "包茅是缩，冀毕重觞。",
+            "焕矣情文，既具醉止。",
+            "熙事备成，灵其有喜。"
+        ],
+        "translation": "礼器已洗净，诚意恭敬献上。包茅滤酒完毕，希望完成再次献酒。礼仪文采焕然，已醉饱而止。祭祀之事完成，神灵有喜。",
+        "score": 3.2,
+        "subject": [
+            "应制诗",
+            "祭祀诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "虔诚"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "按祭祀流程展开：准备祭品、献酒、完成仪式、神灵喜悦。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "如'礼罄沃盥，诚意肃将'，前后句结构对称，节奏庄重。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "'包茅'指滤酒的茅草，源自《左传》祭祀传统。"
+                }
+            ]
+        },
+        "analysis": "此诗为庙堂乐章，语言庄重典雅，紧扣祭祀主题。意象如'礼罄'、'包茅'直接关联礼仪，情景契合度高，但意境刻板，情感审美距离远，缺乏回甘。整体定性为功能性强而艺术性平庸的应制之作，辞藻堆砌而立意浅显。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "核心意象为礼器、祭品、神灵，但缺乏生动性，流于形式化。",
+                "realm": "能品",
+                "reason": "试图模仿典雅风格，但作为祭祀乐歌，仅满足规范而无诗意升华，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "礼器",
+            "酒",
+            "神灵"
+        ],
+        "allusions": [
+            {
+                "phrase": "包茅",
+                "explanation": "古代祭祀用茅草滤酒。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点明祭祀准备，简洁庄重，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "紹興朝日十首 送神用《禮安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "羲和駕兮，其容杲杲。",
+            "將安之兮，言歸黄道。",
+            "光赫萬物，無古無今。",
+            "人君之表，咸仰照臨。"
+        ],
+        "paragraphs_simplified": [
+            "羲和驾兮，其容杲杲。",
+            "将安之兮，言归黄道。",
+            "光赫万物，无古无今。",
+            "人君之表，咸仰照临。"
+        ],
+        "translation": "羲和驾车，容貌明亮。将去何处？回归黄道。光芒照耀万物，不分古今。人君的表率，都仰望其照耀。",
+        "score": 3.0,
+        "subject": [
+            "应制诗",
+            "祭祀诗"
+        ],
+        "emotion": [
+            "敬畏",
+            "肃穆"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "从神灵离去到光芒永恒，末句归结到人君仰望，形成递进。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "'羲和驾兮'赋予太阳神人格化行为，增强仪式感。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "'羲和'为神话日御，'黄道'指太阳轨迹，源自天文典籍。"
+                }
+            ]
+        },
+        "analysis": "此诗为送神乐章，意象宏大抽象，如'羲和'、'黄道'，但缺乏具体情感支撑。意境高远却不真切，情感审美距离过大，流于空泛。整体定性为仪式性文本，辞藻华丽而立意平庸，缺乏感染力。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "太阳、光芒、黄道等意象试图营造高古气象，但缺乏细节填充。",
+                "realm": "凡品",
+                "reason": "模仿高古风格失败，语言空洞，未能触及深层意境。"
+            }
+        ],
+        "imagery": [
+            "太阳",
+            "光芒",
+            "黄道"
+        ],
+        "allusions": [
+            {
+                "phrase": "羲和",
+                "explanation": "神话中的太阳神。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句点明主题，简洁有力，收束全诗。"
+        }
+    },
+    {
+        "title": "夕月十首 降神用《高安》。 其一",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "〔圜鍾爲宮〕金行告遒，玉律分秋。",
+            "禮蕆西郊，毖祀聿修。",
+            "精意潜達，永孚于休。",
+            "神之聽之，爰格飈斿。"
+        ],
+        "paragraphs_simplified": [
+            "〔圜钟为宫〕金行告遒，玉律分秋。",
+            "礼蒇西郊，毖祀聿修。",
+            "精意潜达，永孚于休。",
+            "神之听之，爰格飙斿。"
+        ],
+        "translation": "（圜钟为宫调）金行告终，玉律分秋。礼在西郊完成，谨慎祭祀。精诚之意潜达，永远美好。神灵听之，降临风游。",
+        "score": 2.8,
+        "subject": [
+            "祭祀诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "虔诚"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句点明秋令，继而叙述祭祀过程，末句祈求神灵降临。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "如'金行告遒，玉律分秋'，对仗工整，音律协调。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "'金行'指五行之金，代指秋季，源自阴阳五行学说。"
+                }
+            ]
+        },
+        "analysis": "此诗为夕月祭祀乐歌，意象抽象如'金行'、'玉律'，情景契合度中等，意境古雅但不真切。情感极度克制，整体定性为礼仪文本，辞藻堆砌而缺乏诗意，立意浅显。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "秋、礼、神等意象规范但呆板，缺乏灵动。",
+                "realm": "凡品",
+                "reason": "试图追求典雅，但语言晦涩，未能传达深层情感。"
+            }
+        ],
+        "imagery": [
+            "秋",
+            "礼",
+            "神"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点明时令与音律，简洁直接。"
+        }
+    },
+    {
+        "title": "夕月十首 降神用《高安》。 其二",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "〔黄鍾爲角〕時維秋仲，夜寂天清。",
+            "實嚴姊事，用答陰靈。",
+            "壇壝斯設，黍稷惟馨。",
+            "雲車來下，庶歆厥誠。"
+        ],
+        "paragraphs_simplified": [
+            "〔黄钟为角〕时维秋仲，夜寂天清。",
+            "实严姊事，用答阴灵。",
+            "坛壝斯设，黍稷惟馨。",
+            "云车来下，庶歆厥诚。"
+        ],
+        "translation": "（黄钟为角调）时值仲秋，夜静天清。严肃祭祀姐姐（月神），以答阴灵。坛场设好，黍稷芬芳。云车降临，希望歆享诚意。",
+        "score": 3.5,
+        "subject": [
+            "祭祀诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "虔诚"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "从时间场景到祭祀准备，再到神灵降临，逻辑连贯。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "'云车'比喻神灵车驾，形象化神灵降临。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "'姊事'可能指祭祀月神，源自神话传说。"
+                }
+            ]
+        },
+        "analysis": "此诗情景契合度较高，意象如'夜寂天清'、'黍稷惟馨'具体可感，意境真切感中等。情感虽克制但通过细节流露，整体定性为合格的祭祀文本，语言流畅但缺乏深度创新。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "秋夜、祭品、云车等意象组合自然，但未达冲淡之境。",
+                "realm": "能品",
+                "reason": "试图模仿自然风格，但作为乐歌，仍受形式约束，流于平淡。"
+            }
+        ],
+        "imagery": [
+            "秋夜",
+            "祭品",
+            "云车"
+        ],
+        "allusions": [
+            {
+                "phrase": "姊事",
+                "explanation": "可能指祭祀月神，源自日月神话。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句描绘秋夜，意境清幽，奠定全诗氛围。"
+        }
+    },
+    {
+        "title": "夕月十首 降神用《高安》。 其三",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "〔太簇爲徵〕遡日著明，麗天作配。",
+            "潔誠以祠，禮行肅拜。",
+            "光凝冕服，氣肅環珮。",
+            "庶幾昭格，祗而不懈。"
+        ],
+        "paragraphs_simplified": [
+            "〔太簇为徵〕遡日著明，丽天作配。",
+            "洁诚以祠，礼行肃拜。",
+            "光凝冕服，气肃环佩。",
+            "庶几昭格，祗而不懈。"
+        ],
+        "translation": "（太簇为徵调）追溯日月明亮，丽天相配。洁诚祭祀，行礼肃拜。光芒凝聚冕服，气氛肃穆环佩。希望昭显，恭敬不懈。",
+        "score": 3.4,
+        "subject": [
+            "祭祀诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "虔诚"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "从日月相配到祭祀细节，末句表达祈求，层层推进。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "如'光凝冕服，气肃环佩'，对仗工整，渲染肃穆气氛。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "'遡日'可能源自日月崇拜传统，强调配祭。"
+                }
+            ]
+        },
+        "analysis": "此诗意象具体，如'冕服'、'环佩'，情景契合度高，但情感审美距离远，意境真切感中等。整体定性为技法成熟的礼仪诗，结构严谨而诗意不足，缺乏艺术感染力。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "日月、冕服、环佩等意象规范，但组合呆板。",
+                "realm": "能品",
+                "reason": "符合典雅风格规范，但未能突破形式，流于平庸。"
+            }
+        ],
+        "imagery": [
+            "日月",
+            "冕服",
+            "环佩"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "第三句描绘细节，生动具体，增强仪式感。"
+        }
+    },
+    {
+        "title": "夕月十首 降神用《高安》。 其四",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "〔姑洗爲羽〕穆穆流輝，太陰之精。",
+            "盈虧靡忒，寒暑以均。",
+            "克禋克祀，揆日涓辰。",
+            "牲碩酒旨，來燕來寧。"
+        ],
+        "paragraphs_simplified": [
+            "〔姑洗为羽〕穆穆流辉，太阴之精。",
+            "盈亏靡忒，寒暑以均。",
+            "克禋克祀，揆日涓辰。",
+            "牲硕酒旨，来燕来宁。"
+        ],
+        "translation": "庄严的光辉流动，是太阴之精（月亮）。盈亏没有差错，寒暑均匀。能够祭祀，在吉日良辰。牲畜肥大酒味美，来宴享安宁。",
+        "score": 2.5,
+        "subject": [
+            "祭祀诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先描述月亮光辉与自然规律，再点明祭祀准备，最后以宴享安宁作结。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "如“盈亏靡忒，寒暑以均”形成工整对仗。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“太阴之精”以精魄喻月，赋予其神性。"
+                }
+            ]
+        },
+        "analysis": "此诗为祭祀乐歌，语言庄重但意象陈旧，立意浅显，仅描述仪式过程。技法上运用对偶与比喻，但整体平庸，缺乏情感深度与艺术创新。作为郊庙歌辞，它符合规范却无审美回甘，属于平庸堆砌之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "意象如“太阴之精”、“牲硕酒旨”均取自祭祀语境，但缺乏提炼，流于表面。",
+                "realm": "凡",
+                "reason": "试图模仿典雅风格，但因公式化表达而显得呆板，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "月",
+            "精",
+            "寒暑",
+            "牲",
+            "酒"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句“穆穆流輝，太陰之精”直接点题，庄重而具代表性。"
+        }
+    },
+    {
+        "title": "夕月十首 升殿用《正安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "猗歟崇基，右平左墄。",
+            "祗率典常，屆茲秋夕。",
+            "陟降惟寅，威儀抑抑。",
+            "神其鑒觀，穰簡是集。"
+        ],
+        "paragraphs_simplified": [
+            "猗欤崇基，右平左墄。",
+            "祗率典常，届兹秋夕。",
+            "陟降惟寅，威仪抑抑。",
+            "神其鉴观，穰简是集。"
+        ],
+        "translation": "啊，崇高的基业，右边平左边台阶。恭敬遵循常典，来到这秋夕。升降恭敬，威仪庄重。神明鉴观，福禄聚集。",
+        "score": 2.5,
+        "subject": [
+            "祭祀诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "期待"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先描绘殿堂形制，再点明秋夕时节，继而描述仪式威仪，最后以神明赐福收束。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“右平左墄”形成空间对仗。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "“猗歟”以感叹语气引发敬意。"
+                }
+            ]
+        },
+        "analysis": "此诗描述升殿仪式，语言古雅但空洞。意象如“崇基”、“秋夕”陈旧，情感流于表面，缺乏真切感。技法虽用对偶与设问，但整体平庸，仅为仪式服务，无艺术深度，属于凡品。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "意象集中于建筑与时节，但缺乏生动性，显得生硬。",
+                "realm": "凡",
+                "reason": "试图追求典雅，却因刻板表达而失却灵动，流于形式。"
+            }
+        ],
+        "imagery": [
+            "基",
+            "台阶",
+            "秋夕",
+            "威仪",
+            "神明"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“祗率典常，屆茲秋夕”点明时节与仪式，较为关键。"
+        }
+    },
+    {
+        "title": "夕月十首 奠玉幣用《嘉安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "少采陳儀，實曰坎祭。",
+            "禮備樂舉，嚴恭將事。",
+            "于以奠之，嘉玉量幣。",
+            "神兮昭受，陰騭萬彙。"
+        ],
+        "paragraphs_simplified": [
+            "少采陈仪，实曰坎祭。",
+            "礼备乐举，严恭将事。",
+            "于以奠之，嘉玉量币。",
+            "神兮昭受，阴骘万汇。"
+        ],
+        "translation": "微采陈列礼仪，实际是坎祭。礼仪完备音乐起，庄严恭敬行事。以此奠献，美玉和货币。神明啊昭然接受，阴德安定万众。",
+        "score": 2.5,
+        "subject": [
+            "祭祀诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先点明坎祭之名，再述礼仪完备，继而奠献玉币，最后以神明接受作结。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“神兮昭受”赋予神明人格化反应。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“坎祭”为特定祭祀名，增添仪式感。"
+                }
+            ]
+        },
+        "analysis": "奠玉币之诗，语言庄重但缺乏生气。意象如“嘉玉”、“量币”陈旧，情感公式化，无新意。技法上运用拟人，但整体平庸，仅为仪式服务，无艺术感染力，属凡品。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "意象多取自祭器与神明，但缺乏提炼，显得堆砌。",
+                "realm": "凡",
+                "reason": "试图模仿典雅，却因表达呆板而显拙劣。"
+            }
+        ],
+        "imagery": [
+            "仪",
+            "祭",
+            "玉",
+            "币",
+            "神"
+        ],
+        "allusions": [
+            {
+                "phrase": "坎祭",
+                "explanation": "指特定祭祀仪式，源自古代礼制。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "“于以奠之，嘉玉量币”具体描述奠献动作，较为生动。"
+        }
+    },
+    {
+        "title": "夕月十首 奉俎用《豐安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "穀旦其差，有牲在滌。",
+            "工祝致告，爲俎孔碩。",
+            "肸蠁是期，祚我明德。",
+            "備茲孝欽，式和民則。"
+        ],
+        "paragraphs_simplified": [
+            "谷旦其差，有牲在涤。",
+            "工祝致告，为俎孔硕。",
+            "肸蠁是期，祚我明德。",
+            "备兹孝钦，式和民则。"
+        ],
+        "translation": "吉日选择，有牲畜在洗涤。工祝宣告，祭肉非常肥大。肸蚃期待，赐福我明德。准备此孝敬，以此和民则。",
+        "score": 2.5,
+        "subject": [
+            "祭祀诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先述吉日与牲畜准备，再讲工祝宣告，继而期望赐福，最后以孝敬和民则收束。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“谷旦其差，有牲在涤”形成时间与空间对仗。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“肸蠁”以香气喻神明降临之期。"
+                }
+            ]
+        },
+        "analysis": "奉俎之诗，语言古奥但晦涩。意象如“牲在涤”、“俎孔硕”具体却无诗意，情感缺乏感染力。技法虽用比喻，但整体枯燥，仅为仪式记录，艺术价值低，属凡品。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "意象侧重祭品与道德，但缺乏力度，显得生硬。",
+                "realm": "凡",
+                "reason": "试图追求劲健，却因表达直白而失却韵味，画虎类犬。"
+            }
+        ],
+        "imagery": [
+            "日",
+            "牲",
+            "俎",
+            "德",
+            "民"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“工祝致告，为俎孔硕”描述仪式细节，较为具体。"
+        }
+    },
+    {
+        "title": "夕月十首 酌獻用《嘉安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "白藏在序，享惟其時。",
+            "躬即明壇，禮惟載祗。",
+            "斟以瑶爵，神靈燕娭。",
+            "歆馨顧德，錫我蕃釐。"
+        ],
+        "paragraphs_simplified": [
+            "白藏在序，享惟其时。",
+            "躬即明坛，礼惟载祗。",
+            "斟以瑶爵，神灵燕娭。",
+            "歆馨顾德，锡我蕃釐。"
+        ],
+        "translation": "白藏（秋天）在序，享受正当其时。亲自到明坛，礼仪恭敬。斟以瑶爵，神灵宴乐。歆享馨香顾德，赐我福禄。",
+        "score": 2.5,
+        "subject": [
+            "祭祀诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先点秋令时节，再述亲临祭坛，继而献酒宴神，最后以神明赐福作结。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“神灵燕娭”赋予神明宴乐之态。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“白藏”为秋天别称，源自时令典故。"
+                }
+            ]
+        },
+        "analysis": "酌献之诗，语言典雅但陈腐。意象如“白藏”、“瑶爵”虽美却无新意，情感公式化。整体平庸，仅为仪式服务，缺乏艺术感染力，属凡品。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "意象如“瑶爵”、“神灵”追求华美，但缺乏深度，流于表面。",
+                "realm": "凡",
+                "reason": "试图模仿绮丽，却因堆砌辞藻而显俗套，未能升华。"
+            }
+        ],
+        "imagery": [
+            "秋",
+            "坛",
+            "爵",
+            "神",
+            "德"
+        ],
+        "allusions": [
+            {
+                "phrase": "白藏",
+                "explanation": "秋天别称，源自《礼记》等典籍。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "“斟以瑶爵，神灵燕娭”描绘献酒场景，较为生动。"
+        }
+    },
+    {
+        "title": "夕月十首 亞、終獻用《文安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "肅雍嚴祀，聖治昭彰。",
+            "清酒既載，或肆或將。",
+            "禮匝三獻，終然允臧。",
+            "神具醉止，其樂且康。"
+        ],
+        "paragraphs_simplified": [
+            "肃雍严祀，圣治昭彰。",
+            "清酒既载，或肆或将。",
+            "礼匝三献，终然允臧。",
+            "神具醉止，其乐且康。"
+        ],
+        "translation": "庄严和谐的祭祀，圣明的治道显扬。清酒已经备好，或陈列或奉上。三献之礼周全，最终美好无伤。神灵已然醉止，其乐融融安康。",
+        "score": 2.5,
+        "subject": [
+            "节令诗",
+            "祭祀诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "庄重"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句点明祭祀场景，次句写酒食准备，三句述礼仪过程，末句以神灵愉悦收尾，形成完整的仪式流程叙述。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“肅雍嚴祀，聖治昭彰”与“清酒既載，或肆或將”形成工整对仗。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“三獻”指古代祭祀中献酒三次的礼仪。"
+                }
+            ]
+        },
+        "analysis": "此诗作为祭祀终献环节的歌辞，语言庄重但意象陈旧，缺乏艺术独创性。四字句式工整却流于刻板，内容局限于仪式程序的平铺直叙，未能通过意象组合营造出超越仪式的审美空间。情感表达完全依附于礼制规范，缺乏个体生命体验的渗透，整体呈现为功能性的仪式文本而非独立的文学创作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图通过“肃雍”“清酒”等意象构筑庄重氛围，但意象选择缺乏新意，流于程式化。",
+                "realm": "能品",
+                "reason": "技法规范但缺乏灵动，属于合格的庙堂应制之作，未达高妙境界。"
+            }
+        ],
+        "imagery": [
+            "祭祀",
+            "酒",
+            "神灵"
+        ],
+        "allusions": [
+            {
+                "phrase": "三獻",
+                "explanation": "古代祭祀中分三次献酒的礼仪。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直接点题，奠定全诗庄重基调。"
+        }
+    },
+    {
+        "title": "夕月十首 送神用《理安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "歌奏云闋，式禮莫愆。",
+            "以我齊明，罄其吉蠲。",
+            "神保聿歸，降康自天。",
+            "蘿圖永固，億萬斯年。"
+        ],
+        "paragraphs_simplified": [
+            "歌奏云阕，式礼莫愆。",
+            "以我齐明，罄其吉蠲。",
+            "神保聿归，降康自天。",
+            "萝图永固，亿万斯年。"
+        ],
+        "translation": "歌声响彻云霄，礼仪毫无差错。祭品洁净完备，竭尽吉祥美好。神灵即将归去，安康自天而降。版图永远稳固，传承亿万年长。",
+        "score": 2.5,
+        "subject": [
+            "祭祀诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "祈愿"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "象征",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写送神时的礼仪状态，后两句转写神灵归去与祝福，末句以国运永恒作结，体现祭祀的终极目的。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“歌奏云闋，式禮莫愆”与“以我齊明，罄其吉蠲”形成对仗。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“億萬斯年”极言国祚长久。"
+                }
+            ]
+        },
+        "analysis": "作为送神环节的歌辞，此诗在结构上遵循祭祀流程，但语言高度程式化。意象如“云阕”“神保”陈旧缺乏新意，情感表达完全服务于仪式需求，未能通过文字传递出超越礼仪的审美体验。末句的宏大祝愿与前文的仪式描写衔接生硬，整体呈现为功能性强而文学性弱的庙堂文本。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图通过“云阕”“神保”等意象营造神圣氛围，但意象组合缺乏创新，流于表面。",
+                "realm": "能品",
+                "reason": "符合祭祀歌辞的基本规范，但未展现独特的艺术创造力。"
+            }
+        ],
+        "imagery": [
+            "歌声",
+            "神灵",
+            "国家"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句直接表达对国运长久的祝愿，点明祭祀的终极意义。"
+        }
+    },
+    {
+        "title": "熙寧以後祀高禖六首 降神用《高安》。六變。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "容臺講禮，禖宮立祠。",
+            "司分屆後，带韣陳儀。",
+            "嘉祥萃止，靈馭來思。",
+            "皇支蕃衍，永固邦基。"
+        ],
+        "paragraphs_simplified": [
+            "容台讲礼，禖宫立祠。",
+            "司分届后，带韣陈仪。",
+            "嘉祥萃止，灵驭来思。",
+            "皇支蕃衍，永固邦基。"
+        ],
+        "translation": "容台宣讲礼仪，禖宫建立祠堂。时节到来之后，带弓陈设仪式。嘉祥聚集于此，神灵车驾降临。皇族繁衍兴旺，邦基永远稳固。",
+        "score": 2.5,
+        "subject": [
+            "祭祀诗",
+            "祈福诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典",
+                "象征"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句写地点与礼仪，次句写时节与仪式准备，三句写神灵降临，末句写祝福，层层递进。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“容臺講禮，禖宮立祠”与“司分屆後，带韣陳儀”形成对仗。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“高禖”指古代祈子之神。"
+                }
+            ]
+        },
+        "analysis": "此诗为高禖祭祀降神环节，内容涉及生育祈福。语言古雅但晦涩，意象如“禖宫”“带韣”专业性强却缺乏普遍审美共鸣。情感表达完全依附于仪式功能，未能通过意象组合营造出独立的艺术境界。整体结构工整但呆板，属于典型的庙堂应制文本。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图通过“容台”“禖宫”等意象构筑古雅氛围，但意象过于专业化，难以引发广泛审美体验。",
+                "realm": "能品",
+                "reason": "符合祭祀诗的规范，但缺乏灵动与创新。"
+            }
+        ],
+        "imagery": [
+            "祭祀",
+            "神灵",
+            "皇族"
+        ],
+        "allusions": [
+            {
+                "phrase": "高禖",
+                "explanation": "古代掌管婚姻和生育的神祇。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句直接点明祭祀的终极目的，即皇族繁衍与邦基稳固。"
+        }
+    },
+    {
+        "title": "熙寧以後祀高禖六首 升降用《正安》。",
+        "author": "郊廟朝會歌辭",
+        "paragraphs": [
+            "郊禖之應，肇自生商。",
+            "誕膺寶命，濬發其祥。",
+            "天材蕃衍，德稱君王。",
+            "本支萬世，與天無疆。"
+        ],
+        "paragraphs_simplified": [
+            "郊禖之应，肇自生商。",
+            "诞膺宝命，浚发其祥。",
+            "天材蕃衍，德称君王。",
+            "本支万世，与天无疆。"
+        ],
+        "translation": "郊禖的感应，始于生商之时。承受天命，发掘其吉祥。天赋繁衍茂盛，德行配称君王。本支传承万世，与天一样无疆。",
+        "score": 2.5,
+        "subject": [
+            "祭祀诗",
+            "颂德诗"
+        ],
+        "emotion": [
+            "肃穆",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "用典",
+                "象征"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首句追溯历史起源，次句写天命所归，三句写德行与繁衍，末句以永恒祝福作结，形成完整的颂扬结构。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“郊禖之應，肇自生商”与“誕膺寶命，濬發其祥”形成对仗。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“與天無疆”极言国祚长久。"
+                }
+            ]
+        },
+        "analysis": "此诗继续高禖祭祀主题，语言古奥难懂，意象如“生商”“天材”局限于历史典故，缺乏现代审美价值。情感表达空洞，仅为歌颂统治合法性服务。末句的宏大祝愿与前文缺乏有机联系，整体呈现为堆砌典故的应制文本，艺术感染力薄弱。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图通过“生商”“天材”等典故构筑历史厚重感，但典故堆砌导致文意晦涩。",
+                "realm": "能品",
+                "reason": "技法规范但缺乏审美亲和力。"
+            }
+        ],
+        "imagery": [
+            "起源",
+            "天命",
+            "繁衍"
+        ],
+        "allusions": [
+            {
+                "phrase": "生商",
+                "explanation": "指商朝始祖契的诞生传说。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句以宏大祝愿收尾，直接体现祭祀的终极目的。"
+        }
+    }
+]

@@ -1,0 +1,1229 @@
+[
+    {
+        "title": "杏花",
+        "author": "厲文翁",
+        "paragraphs": [
+            "杏花菖葉漸爛斑，率屬劭農入祖關。",
+            "昔日郎君方彩袖，今朝太守已蒼顔。"
+        ],
+        "paragraphs_simplified": [
+            "杏花菖叶渐烂斑，率属劭农入祖关。",
+            "昔日郎君方彩袖，今朝太守已苍颜。"
+        ],
+        "translation": "杏花和菖蒲叶渐渐烂漫斑驳，率领下属勉励农事进入祖关。昔日郎君还穿着彩袖，今朝太守已面容苍老。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "感怀诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "感慨"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "对比"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "以春景起兴，转以人物对比，勾勒时光流逝之迹。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "昔日郎君方彩袖，今朝太守已苍颜，形成时空与身份的对仗。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "彩袖与苍颜的对照，凸显岁月变迁之无情。"
+                }
+            ]
+        },
+        "analysis": "此诗借杏花菖叶之烂漫春景，铺陈自然生机，旋即转入郎君彩袖与太守苍颜之对照，构筑时光流逝的意象。对偶工整，然意象陈旧，立意浅显，缺乏新意。情感直露，无深沉回甘，属技法成熟但意境平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以春景反衬人生迟暮，但意象组合生硬，未达浑成之境。",
+                "realm": "能",
+                "reason": "技法尚熟，但情感直露，意境不隔。"
+            }
+        ],
+        "imagery": [
+            "杏花",
+            "菖叶",
+            "太守"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "今朝太守已苍颜，对比鲜明，点明主题。"
+        }
+    },
+    {
+        "title": "庭竹",
+        "author": "厲文翁",
+        "paragraphs": [
+            "渭川未暇栽千畝，庭檻聊須種數根。",
+            "敢愛深秋群木脫，獨欺風雨戰黄昏。"
+        ],
+        "paragraphs_simplified": [
+            "渭川未暇栽千亩，庭槛聊须种数根。",
+            "敢爱深秋群木脱，独欺风雨战黄昏。"
+        ],
+        "translation": "渭川没空栽种千亩，庭院栏杆暂且种几根。敢爱深秋群木凋落，独欺风雨在黄昏中战斗。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "孤傲",
+            "坚毅"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "托物言志"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "以竹喻己，通过风雨黄昏之景，凸显孤傲品格。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "独欺风雨，赋予竹子以人的战斗姿态。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "深秋群木脱为静，风雨战黄昏为动，形成对比。"
+                }
+            ]
+        },
+        "analysis": "此诗以渭川与庭槛之空间对比，引出竹子在深秋风雨中的孤傲形象。拟人手法生动，但敢爱独欺之语略显生硬，意象组合尚可，情感有距离感。整体构筑出竹之坚韧，然语言稍欠洗炼，属能品。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "以风雨黄昏衬竹之独立，试图营造劲健之风，但用语稍露，未臻自然。",
+                "realm": "能",
+                "reason": "技法稳健，但意象不够凝练。"
+            }
+        ],
+        "imagery": [
+            "渭川",
+            "庭槛",
+            "竹",
+            "深秋",
+            "风雨"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "独欺风雨战黄昏，拟人生动，点出竹之精神。"
+        }
+    },
+    {
+        "title": "茶",
+        "author": "厲文翁",
+        "paragraphs": [
+            "海濱魚鹽勝耕稼，嘗呼父老采丁寧。",
+            "江鄉魚茗尤逐末，爲分利害別重輕。",
+            "拔茶種桑何苦口，崇陽因得良吏名。"
+        ],
+        "paragraphs_simplified": [
+            "海滨鱼盐胜耕稼，尝呼父老采丁宁。",
+            "江乡鱼茗尤逐末，为分利害别重轻。",
+            "拔茶种桑何苦口，崇阳因得良吏名。"
+        ],
+        "translation": "海滨鱼盐胜过耕种，曾呼父老采茶叮咛。江乡鱼茶尤其追逐末利，为分利害区别轻重。拔茶种桑何苦口，崇阳因此得良吏名。",
+        "score": 2.0,
+        "subject": [
+            "农事诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "理性",
+            "务实"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借古讽今",
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直述茶农利害，引用崇阳典故，以议为主。",
+            "evidence": [
+                {
+                    "tag": "借古讽今",
+                    "explanation": "以崇阳良吏故事，暗喻当世农政。"
+                },
+                {
+                    "tag": "点染结合",
+                    "explanation": "点出鱼盐与茶茗之别，染以利害分析。"
+                }
+            ]
+        },
+        "analysis": "此诗以直白语言论述茶农与盐商的利害关系，引用崇阳典故以证农政之要。然全诗议论为主，意象散乱，缺乏诗意美感，情感平淡如公文。虽有讽喻之意，但辞藻枯涩，立意浅显，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以典故增添雅致，但议论过多，破坏诗境，画虎不成反类犬。",
+                "realm": "劣",
+                "reason": "语言直白，缺乏诗味，意象堆砌。"
+            }
+        ],
+        "imagery": [
+            "鱼盐",
+            "茶",
+            "桑",
+            "崇阳"
+        ],
+        "allusions": [
+            {
+                "phrase": "崇阳",
+                "explanation": "指宋代赵抃在崇阳劝农拔茶种桑的典故。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "拔茶种桑何苦口，崇阳因得良吏名，点明典故，逻辑清晰。"
+        }
+    },
+    {
+        "title": "無題",
+        "author": "厲文翁",
+        "paragraphs": [
+            "灧澦拓瞿唐，二孤障瀾蠡。",
+            "大哉神禹功，天地相終始。"
+        ],
+        "paragraphs_simplified": [
+            "滟滪拓瞿唐，二孤障澜蠡。",
+            "大哉神禹功，天地相终始。"
+        ],
+        "translation": "滟滪堆开拓瞿唐峡，二孤山屏障澜蠡湖。大哉神禹功绩，天地相始终。",
+        "score": 3.5,
+        "subject": [
+            "怀古诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "以山水奇景起，直颂大禹神功，气势宏大。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "神禹指大禹治水，借古颂今。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "大哉神禹功，天地相终始，极言功绩之伟。"
+                }
+            ]
+        },
+        "analysis": "此诗以滟滪、二孤等山水意象起笔，构筑雄浑气象，旋即转入对大禹神功的歌颂。用典自然，气势充沛，然两句过于简略，意象宏大却缺乏细节铺陈，情感直抒而少含蓄。技法成熟，但未臻精妙，属能品上流。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "以山水之险衬神功之伟，试图营造雄浑之境，但篇幅短小，意象不够丰满。",
+                "realm": "能",
+                "reason": "气势足，但细节不足，意境稍隔。"
+            }
+        ],
+        "imagery": [
+            "滟滪",
+            "瞿唐",
+            "二孤",
+            "澜蠡",
+            "神禹"
+        ],
+        "allusions": [
+            {
+                "phrase": "神禹",
+                "explanation": "指大禹，上古治水圣王。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "大哉神禹功，天地相终始，直抒胸臆，气势恢宏。"
+        }
+    },
+    {
+        "title": "句  其一",
+        "author": "厲文翁",
+        "paragraphs": [
+            "暮雲春雪江南北，回首人生嘆路歧。"
+        ],
+        "paragraphs_simplified": [
+            "暮云春雪江南北，回首人生叹路歧。"
+        ],
+        "translation": "暮云春雪覆盖江南江北，回首人生感叹道路分歧。",
+        "score": 2.5,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "感慨"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以春雪暮云之景，引发人生路歧之叹，直截了当。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "暮云春雪烘托迷茫氛围，引出下句感慨。"
+                }
+            ]
+        },
+        "analysis": "此单句诗以暮云春雪之景起，直接转入人生路歧之叹。意象简单，情感直白，缺乏层次与深度。虽有时令指代，但整体如格言警句，非诗之正体，意境浅显，无回甘余味。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以景抒情，但用语平淡，未达含蓄之境，流于直白。",
+                "realm": "劣",
+                "reason": "单句成诗，意象单薄，缺乏诗味。"
+            }
+        ],
+        "imagery": [
+            "暮云",
+            "春雪",
+            "江南北",
+            "人生"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句唯一，暮云春雪江南北，情景交融。"
+        }
+    },
+    {
+        "title": "句  其二",
+        "author": "厲文翁",
+        "paragraphs": [
+            "翠草庭前生意足，甘棠堤上去思多。"
+        ],
+        "paragraphs_simplified": [
+            "翠草庭前生意足，甘棠堤上去思多。"
+        ],
+        "translation": "庭前的翠草生机旺盛，甘棠堤上离去的人思绪繁多。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适",
+            "思乡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写庭前草的生机，再写堤上离思，由景及情。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "翠草庭前与甘棠堤上、生意足与去思多形成工整对仗。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过翠草和甘棠堤的景色，间接抒发生机与离别的感受。"
+                }
+            ]
+        },
+        "analysis": "此联以翠草生意与甘棠去思对举，构筑了一种由盛转衰的微妙张力。翠草庭前生意盎然，暗喻生命的蓬勃；甘棠堤上离思萦绕，则折射出人事的变迁。意象陈旧，缺乏新意，属于典型的应景之作。整体上，情景契合度低，情感流于表面，定性为平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以草、堤等自然意象营造闲适之境，但意象组合缺乏新意。",
+                "realm": "逸",
+                "reason": "模仿自然风格，但意象陈旧，未能达到真挚之境，流于形式。"
+            }
+        ],
+        "imagery": [
+            "草",
+            "堤"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以翠草生意起兴，相对通顺。"
+        }
+    },
+    {
+        "title": "句  其三",
+        "author": "厲文翁",
+        "paragraphs": [
+            "蒼蕪萬頃渺無邊，鞭石飛梁接市廛。"
+        ],
+        "paragraphs_simplified": [
+            "苍芜万顷渺无边，鞭石飞梁接市廛。"
+        ],
+        "translation": "苍茫的芜原广阔无边，鞭石飞梁连接市井。",
+        "score": 2.8,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "描写"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写原野的广阔，再写桥梁连接市井，形成空间对比。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "万顷渺无边夸大原野的辽阔。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "鞭石飞梁比喻桥梁如神工鬼斧。"
+                }
+            ]
+        },
+        "analysis": "此联以苍茫芜原与鞭石飞梁对举，构筑荒凉与人工的对比。意象宏大，但鞭石用典模糊，缺乏上下文支撑。辞藻堆砌，立意浅显，整体情景生硬拼凑，缺乏真切感，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "试图以万顷芜原和飞梁展现雄浑气象，但意象拼凑，缺乏内在张力。",
+                "realm": "劣",
+                "reason": "模仿雄浑风格，但实际粗鄙，未能达到恢弘之境。"
+            }
+        ],
+        "imagery": [
+            "原野",
+            "桥",
+            "城市"
+        ],
+        "allusions": [
+            {
+                "phrase": "鞭石",
+                "explanation": "传说秦始皇时神人鞭石成桥。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句写原野广阔，相对通顺。"
+        }
+    },
+    {
+        "title": "句  其四",
+        "author": "厲文翁",
+        "paragraphs": [
+            "且喜卧龍常自在，新詩特地報平安。"
+        ],
+        "paragraphs_simplified": [
+            "且喜卧龙常自在，新诗特地报平安。"
+        ],
+        "translation": "且喜卧龙常自在，新诗特意报平安。",
+        "score": 3.0,
+        "subject": [
+            "酬唱诗"
+        ],
+        "emotion": [
+            "闲适",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "双关"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以卧龙典故起兴，再以新诗报平安收束，由典及情。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "卧龙指诸葛亮，寄寓自在之志。"
+                },
+                {
+                    "tag": "双关",
+                    "explanation": "报平安既指诗的内容，也暗含安全之意。"
+                }
+            ]
+        },
+        "analysis": "此联以卧龙典故起兴，寄寓对自在生活的向往，后句以新诗报平安收束，流露文人雅趣。但卧龙用典突兀，与报平安缺乏逻辑关联，整体显得生硬。意象陈旧，缺乏深层意蕴，属于应酬之作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图以卧龙典故营造高古之境，但用典生硬，未能自然融合。",
+                "realm": "逸",
+                "reason": "模仿高古风格，但实际平庸，缺乏古朴真趣。"
+            }
+        ],
+        "imagery": [
+            "龙",
+            "诗"
+        ],
+        "allusions": [
+            {
+                "phrase": "卧龙",
+                "explanation": "指三国时期诸葛亮。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句用典相对突出。"
+        }
+    },
+    {
+        "title": "句  其五",
+        "author": "厲文翁",
+        "paragraphs": [
+            "若見集英門外柳，爲言曾惹御爐香。"
+        ],
+        "paragraphs_simplified": [
+            "若见集英门外柳，为言曾惹御炉香。"
+        ],
+        "translation": "如果看见集英门外的柳树，替我说曾沾染御炉的香气。",
+        "score": 2.5,
+        "subject": [
+            "宫词"
+        ],
+        "emotion": [
+            "思乡",
+            "相思"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "设问"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以假设句式起笔，通过柳树意象寄托情感。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "御炉香代指宫廷生活。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过集英门外柳的景色，间接表达对宫廷的怀念。"
+                }
+            ]
+        },
+        "analysis": "此联以集英门柳为媒介，借御炉香之典，抒发对往昔宫廷生活的眷恋。意象小巧，但惹御炉香略显轻浮，整体立意浅显，情景契合度低，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图以柳和御炉香营造含蓄之境，但意象直白，缺乏余味。",
+                "realm": "劣",
+                "reason": "模仿含蓄风格，但实际浅显，未能达到言外之意。"
+            }
+        ],
+        "imagery": [
+            "柳树",
+            "香炉"
+        ],
+        "allusions": [
+            {
+                "phrase": "集英门",
+                "explanation": "宋代宫廷门名，代指宫廷。"
+            }
+        ],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全诗仅一句，相对通顺。"
+        }
+    },
+    {
+        "title": "遊金石臺",
+        "author": "家坤翁",
+        "paragraphs": [
+            "廬陵遊樂夕陽山，太守何人若是班。",
+            "三島幻成一丘小，五峯對峙兩溪環。",
+            "竹間庭院鄰翁卜，木杪樓臺仙者寰。",
+            "紫笑扶疎枝幹老，春來得興頗開顔。"
+        ],
+        "paragraphs_simplified": [
+            "庐陵游乐夕阳山，太守何人若是班。",
+            "三岛幻成一丘小，五峰对峙两溪环。",
+            "竹间庭院邻翁卜，木杪楼台仙者寰。",
+            "紫笑扶疏枝干老，春来得兴颇开颜。"
+        ],
+        "translation": "庐陵游乐在夕阳山，太守何人如此班次。三岛幻化成一丘小，五峰对峙两溪环绕。竹间庭院邻翁占卜，木末楼台仙者居住。紫笑扶疏枝干老，春来得兴颇开颜。",
+        "score": 3.5,
+        "subject": [
+            "山水诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "闲适",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下",
+                "首尾呼应"
+            ],
+            "structural_logic": "首联点题，颔联写景，颈联写庭院楼台，尾联以花和心情收束，层层递进。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "三岛幻成一丘小与五峰对峙两溪环形成工整对仗。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过金石台的景色，抒发游乐之兴。"
+                }
+            ]
+        },
+        "analysis": "此诗以庐陵游乐起笔，勾勒金石台之胜景。三岛幻成一丘，五峰对峙两溪，意象奇崛，但幻成略显牵强。竹间庭院，木杪楼台，营造出仙家意境。尾联以紫笑花老枝干，春来开颜收束，情景交融。整体技法娴熟，但意象堆砌，缺乏深层意蕴，属于能品之作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以三岛、五峰、楼台等意象构筑清奇之境，但部分意象拼凑。",
+                "realm": "能",
+                "reason": "试图清奇，但意象堆砌，未能达到空灵之境。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "岛",
+            "峰",
+            "溪",
+            "竹",
+            "庭院",
+            "楼台",
+            "花",
+            "树枝"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "颈联写庭院楼台，意象较为生动。"
+        }
+    },
+    {
+        "title": "次曾南豐韻",
+        "author": "家坤翁",
+        "paragraphs": [
+            "憶昔詩豪爲寫真，至今光景尚如新。",
+            "亭中客鬢幾人老，山下靈根千歲春。",
+            "倏歘相逢皆召杜，舂容莫逆少雷陳。",
+            "我來隨分重知見，似與夫君夙有因。"
+        ],
+        "paragraphs_simplified": [
+            "忆昔诗豪为写真，至今光景尚如新。",
+            "亭中客鬓几人老，山下灵根千岁春。",
+            "倏欻相逢皆召杜，舂容莫逆少雷陈。",
+            "我来随分重知见，似与夫君夙有因。"
+        ],
+        "translation": "回忆往昔诗豪为此写真，至今景色依然如新。亭中游客鬓发几人已老，山下灵根千岁逢春。忽然相逢皆是召公杜预般的贤臣，从容莫逆少有雷义陈重般的挚友。我来随分重见知音，似与夫君早有因缘。",
+        "score": 3.5,
+        "subject": [
+            "酬唱诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "闲适",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "用典"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "以忆昔起笔，通过亭客山灵的时空对照，引入召杜雷陈的典故，最终归结于夙因，形成回环。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "召杜指召公、杜预，雷陈指雷义、陈重，借古贤喻今人。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "亭中客鬓几人老，山下灵根千岁春，工整对比。"
+                }
+            ]
+        },
+        "analysis": "此诗以典故堆砌为能事，召杜雷陈之用虽显博学，却流于表面，未能深掘情感内核。意象如亭客山灵，本可构筑时空苍茫之感，然对仗工整而意境板滞，缺乏灵动之气。整体立意依附于前人，未见新意，似为应酬而作，辞藻繁复却掩不住内里空洞，读之味同嚼蜡。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以亭台山灵营造高古氛围，但典故堆砌反显刻意。",
+                "realm": "能",
+                "reason": "技法成熟但缺乏独创，模仿典雅而失自然。"
+            }
+        ],
+        "imagery": [
+            "诗豪",
+            "亭",
+            "山",
+            "灵根",
+            "召杜",
+            "雷陈"
+        ],
+        "allusions": [
+            {
+                "phrase": "召杜",
+                "explanation": "指召公和杜预，喻贤臣。"
+            },
+            {
+                "phrase": "雷陈",
+                "explanation": "指雷义和陈重，喻挚友。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "亭中客鬓几人老，山下灵根千岁春，以物候对照人生，稍具苍凉感。"
+        }
+    },
+    {
+        "title": "創建魁星閣",
+        "author": "何萬選",
+        "paragraphs": [
+            "天開奎壁作靈神，傑構凌霄景運新。",
+            "乍向魚洲排雁塔，更看虎阜躍龍津。",
+            "山林風俗如鄒魯，翰苑文章邁漢秦。",
+            "此後鰲頭誇遂水，應知魁閣瑞光頻。"
+        ],
+        "paragraphs_simplified": [
+            "天开奎壁作灵神，杰构凌霄景运新。",
+            "乍向鱼洲排雁塔，更看虎阜跃龙津。",
+            "山林风俗如邹鲁，翰苑文章迈汉秦。",
+            "此后鳌头夸遂水，应知魁阁瑞光频。"
+        ],
+        "translation": "天开奎壁星作灵神，杰构凌霄景运新。乍向鱼洲排雁塔，更看虎阜跃龙津。山林风俗如邹鲁，翰苑文章迈汉秦。此后鳌头夸遂水，应知魁阁瑞光频。",
+        "score": 2.2,
+        "subject": [
+            "干谒诗",
+            "题画诗"
+        ],
+        "emotion": [
+            "赞美",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "点染结合",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首联点题，中二联铺陈地理人文，尾联以瑞光收束，直白颂扬。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "文章迈汉秦，过度拔高。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "邹鲁指儒家圣地，汉秦指文章盛世。"
+                }
+            ]
+        },
+        "analysis": "全诗充斥空洞颂词，奎壁雁塔等意象堆砌，缺乏真情实感。邹鲁汉秦之典，本为厚重文化符号，此处却沦为虚浮标签，未见深层关联。结构平铺直叙，辞藻华丽而内核贫瘠，纯属应景之作，毫无审美价值。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以雄浑意象构筑气势，但夸张过度反显粗鄙。",
+                "realm": "劣",
+                "reason": "模仿劲健而失之空洞，沦为口号式堆砌。"
+            }
+        ],
+        "imagery": [
+            "奎壁",
+            "雁塔",
+            "虎阜",
+            "龙津",
+            "邹鲁",
+            "汉秦",
+            "鳌头",
+            "魁阁"
+        ],
+        "allusions": [
+            {
+                "phrase": "邹鲁",
+                "explanation": "指邹国和鲁国，喻文化昌盛之地。"
+            },
+            {
+                "phrase": "汉秦",
+                "explanation": "指汉代和秦代，喻文章盛世。"
+            },
+            {
+                "phrase": "鳌头",
+                "explanation": "指科举状元。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "天开奎壁作灵神，开篇点题，虽直白但尚通顺。"
+        }
+    },
+    {
+        "title": "宿淮陰縣作",
+        "author": "陳羽",
+        "paragraphs": [
+            "秋燈點點淮陰市，楚客連檣宿淮水。",
+            "夜深風起魚鼈腥，韓信祠堂月明裏。"
+        ],
+        "paragraphs_simplified": [
+            "秋灯点点淮阴市，楚客连樯宿淮水。",
+            "夜深风起鱼鳖腥，韩信祠堂月明里。"
+        ],
+        "translation": "秋灯点点淮阴市，楚客连樯宿淮水。夜深风起鱼鳖腥，韩信祠堂月明里。",
+        "score": 4.2,
+        "subject": [
+            "羁旅诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句实写秋夜羁旅之景，后两句以风起腥味与月明祠堂虚实相生，突显怀古幽情。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过秋灯、鱼腥、月明等景物烘托愁绪。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "韩信祠堂为实景，月明里寄寓历史沧桑。"
+                }
+            ]
+        },
+        "analysis": "此诗以极简笔墨勾勒淮阴夜泊图景，秋灯点点与楚客连樯形成空间张力，夜深风起则暗转心境。末句韩信祠堂月明里，将眼前实景与历史虚境熔铸一体，不着痕迹地渗透怀古之思。意象精炼，情景交融，于羁旅愁绪中拓宽了时空维度，堪称能品。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "秋灯鱼腥与祠堂月色，构筑出清冷奇崛的意境。",
+                "realm": "妙",
+                "reason": "以小景见大情，虚实相生，深得清奇之旨。"
+            }
+        ],
+        "imagery": [
+            "秋灯",
+            "淮水",
+            "鱼鳖",
+            "韩信祠堂",
+            "月"
+        ],
+        "allusions": [
+            {
+                "phrase": "韩信",
+                "explanation": "指汉代名将韩信，喻历史兴衰。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "夜深风起鱼鳖腥，韩信祠堂月明里，以嗅觉视觉通感，收束全诗意境。"
+        }
+    },
+    {
+        "title": "城下聞夷歌",
+        "author": "陳羽",
+        "paragraphs": [
+            "犍爲城下䍧牱路，空冢灘西賈客舟。",
+            "此夜可憐江上月，夷歌銅鼓不勝愁。"
+        ],
+        "paragraphs_simplified": [
+            "犍为城下牂牁路，空冢滩西贾客舟。",
+            "此夜可怜江上月，夷歌铜鼓不胜愁。"
+        ],
+        "translation": "犍为城下牂牁路，空冢滩西贾客舟。此夜可怜江上月，夷歌铜鼓不胜愁。",
+        "score": 3.8,
+        "subject": [
+            "羁旅诗",
+            "边塞诗"
+        ],
+        "emotion": [
+            "思乡",
+            "悲伤"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "以乐衬哀",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句铺陈边城荒凉之景，后两句以江月之怜与夷歌之愁形成情感转折。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "江上月色之美与夷歌铜鼓之愁反衬。"
+                },
+                {
+                    "tag": "侧面烘托",
+                    "explanation": "通过贾客舟与夷歌暗示羁旅漂泊。"
+                }
+            ]
+        },
+        "analysis": "此诗捕捉边地特有意象，牂牁路、空冢滩已显荒僻，夷歌铜鼓更添异域愁绪。江月本无情，却着一怜字，将客观景物主观化，深化了客愁。虽意象组合略显直白，但情感真挚，于简短中见波澜。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以边城月夜为背景，夷歌铜鼓与江月形成悲凉对照。",
+                "realm": "能",
+                "reason": "情感直露但切中羁旅之悲，稍欠含蓄。"
+            }
+        ],
+        "imagery": [
+            "犍为城",
+            "牂牁路",
+            "空冢滩",
+            "贾客舟",
+            "江月",
+            "夷歌",
+            "铜鼓"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "此夜可怜江上月，夷歌铜鼓不胜愁，以月色怜人收束，情感凝聚。"
+        }
+    },
+    {
+        "title": "梓州與溫商夜別",
+        "author": "陳羽",
+        "paragraphs": [
+            "鳳凰城裏花時別，玄武江邊月下逢。",
+            "客舍莫辭先買酒，相門曾忝共登龍。",
+            "近風騷屑千家竹，隔水悠揚五夜鐘。",
+            "明日又行西蜀路，不堪天際遠山重。"
+        ],
+        "paragraphs_simplified": [
+            "凤凰城里花时别，玄武江边月下逢。",
+            "客舍莫辞先买酒，相门曾忝共登龙。",
+            "近风骚屑千家竹，隔水悠扬五夜钟。",
+            "明日又行西蜀路，不堪天际远山重。"
+        ],
+        "translation": "凤凰城里花时别，玄武江边月下逢。客舍莫辞先买酒，相门曾忝共登龙。近风骚屑千家竹，隔水悠扬五夜钟。明日又行西蜀路，不堪天际远山重。",
+        "score": 4.0,
+        "subject": [
+            "送别诗",
+            "羁旅诗"
+        ],
+        "emotion": [
+            "惜别",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "借代"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "以景结情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首联点明别时景致，颔联叙事抒情，颈联以竹声钟声烘托氛围，尾联以远山重叠虚写前路艰辛。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "凤凰城里花时别，玄武江边月下逢，工整对仗。"
+                },
+                {
+                    "tag": "以景结情",
+                    "explanation": "不堪天际远山重，以景物收束离愁。"
+                }
+            ]
+        },
+        "analysis": "此诗结构工整，由别时实景转入客舍虚写，千家竹与五夜钟以声景拓展空间层次。尾联天际远山，将离愁具象化为视觉重压，情感沉淀而不泛滥。虽用登龙门典故稍显应酬，但整体情景契合，于送别诗中属稳健之作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "以竹声钟声远山间接传达离愁，避免直白宣泄。",
+                "realm": "妙",
+                "reason": "情感表达有节制，意境悠远。"
+            }
+        ],
+        "imagery": [
+            "凤凰城",
+            "玄武江",
+            "客舍",
+            "酒",
+            "竹",
+            "钟",
+            "西蜀路",
+            "远山"
+        ],
+        "allusions": [
+            {
+                "phrase": "登龙",
+                "explanation": "指登龙门，喻科举及第或受人提携。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "明日又行西蜀路，不堪天际远山重，以景结情，余味深长。"
+        }
+    }
+]

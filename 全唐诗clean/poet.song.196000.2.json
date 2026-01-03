@@ -1,0 +1,437 @@
+[
+    {
+        "title": "偈頌十三首  其八",
+        "author": "釋智愚",
+        "paragraphs": [
+            "葱嶺不見宋雲，全身豈在熊耳。",
+            "石火電光殊莫擬，雙檮堂上再相逢。",
+            "究竟何曾缺兩齒，雪際傳心，篩灰厭鬼，後代兒孫誰來。",
+            "你粗羹淡飯當殷勤，四海香風從此起。"
+        ],
+        "paragraphs_simplified": [
+            "葱岭不见宋云，全身岂在熊耳。",
+            "石火电光殊莫拟，双梼堂上再相逢。",
+            "究竟何曾缺两齿，雪际传心，筛灰厌鬼，后代儿孙谁来。",
+            "你粗羹淡饭当殷勤，四海香风从此起。"
+        ],
+        "translation": "葱岭未见宋云，全身岂在熊耳。石火电光难以比拟，双梼堂上再次相逢。究竟何曾缺两齿，雪地传心，筛灰厌鬼，后代儿孙谁来。你粗羹淡饭当殷勤，四海香风从此起。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "从禅宗公案引入，描述禅事，最后呼吁传播佛法。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用宋云遇达摩公案和熊耳山达摩葬地"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "石火电光比喻短暂"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "后代儿孙谁来"
+                }
+            ]
+        },
+        "analysis": "此偈颂以葱岭、熊耳等意象构筑禅境，引用宋云公案直指禅宗传承。语言直白，禅语堆砌，缺乏诗意美感。立意浅显，未能营造深远意境，整体流于平庸。意象如石火、双梼、雪灰等，虽具禅趣，但组合生硬，缺乏审美回甘。",
+        "poetry_styles": [
+            {
+                "style": "实境",
+                "imagery_analysis": "试图以实境手法描绘禅事，但意象抽象，未能达到真切感。",
+                "realm": "劣作",
+                "reason": "禅语堆砌，缺乏意境，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "火",
+            "堂",
+            "雪",
+            "灰",
+            "饭",
+            "风"
+        ],
+        "allusions": [
+            {
+                "phrase": "宋云",
+                "explanation": "禅宗公案，指宋云在葱岭遇达摩"
+            },
+            {
+                "phrase": "熊耳",
+                "explanation": "达摩葬地"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "引用典故，点出禅宗公案"
+        }
+    },
+    {
+        "title": "偈頌十三首  其九",
+        "author": "釋智愚",
+        "paragraphs": [
+            "溈山若無後語，儘自包裹得去。",
+            "其奈用處太過，以致栓索俱露。"
+        ],
+        "paragraphs_simplified": [
+            "沩山若无后语，尽自包裹得去。",
+            "其奈用处太过，以致栓索俱露。"
+        ],
+        "translation": "沩山如果没有后语，尽可包裹得去。无奈用处太过，以致栓索俱露。",
+        "score": 2.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "对比"
+            ],
+            "structural_logic": "通过对比无后语与用处太过，表达禅法泄露之意。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "包裹比喻禅法隐藏"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "无后语 vs 用处太过"
+                }
+            ]
+        },
+        "analysis": "此诗语言简练，但意象抽象，如包裹、栓索等，缺乏具体美感。立意不明，禅机晦涩，更像口语议论。整体缺乏诗意，流于直白，未能构筑审美距离。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图含蓄表达禅理，但抽象难懂，意境缺失。",
+                "realm": "劣作",
+                "reason": "意象空洞，缺乏诗意。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "包",
+            "索"
+        ],
+        "allusions": [
+            {
+                "phrase": "溈山",
+                "explanation": "禅师沩山"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "点出主题，语言简练"
+        }
+    },
+    {
+        "title": "偈頌十三首  其一○",
+        "author": "釋智愚",
+        "paragraphs": [
+            "我本無心有所希求，今此寶藏自然而至。",
+            "二林小衆，枯枯燥燥，鶴望多時。",
+            "珊瑚枕，明月珠，從便採取，只是不得觸諱。"
+        ],
+        "paragraphs_simplified": [
+            "我本无心有所希求，今此宝藏自然而至。",
+            "二林小众，枯枯燥燥，鹤望多时。",
+            "珊瑚枕，明月珠，从便采取，只是不得触讳。"
+        ],
+        "translation": "我本无心希求，今此宝藏自然来。二林小众，枯枯燥燥，鹤望多时。珊瑚枕、明月珠，随意采取，只是不得触讳。",
+        "score": 2.2,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直接陈述无心得宝，后以宝物比喻佛法。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "宝藏比喻佛法"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过宝物表达禅理"
+                }
+            ]
+        },
+        "analysis": "此诗意象如宝藏、珊瑚枕等，堆砌明显，缺乏深度。语言直白，立意浅显，未能通过物象寄托深远禅意。整体平庸，辞藻浮于表面，无审美回甘。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "试图以绮丽意象装饰，但堆砌生硬，未能融合。",
+                "realm": "劣作",
+                "reason": "辞藻堆砌，无实质意境。"
+            }
+        ],
+        "imagery": [
+            "宝",
+            "林",
+            "鹤",
+            "珠"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "点出无心得宝，主题明确"
+        }
+    },
+    {
+        "title": "偈頌十三首  其一一",
+        "author": "釋智愚",
+        "paragraphs": [
+            "遠之莫及故曰短，蹤之不即故曰蓬。",
+            "波波浪浪，西西東東。",
+            "直鈎已掛雙峨碧，一橈香散蘆花風。"
+        ],
+        "paragraphs_simplified": [
+            "远之莫及故曰短，踪之不即故曰蓬。",
+            "波波浪浪，西西东东。",
+            "直钩已挂双峨碧，一桡香散芦花风。"
+        ],
+        "translation": "远之莫及所以叫短，踪之不即所以叫蓬。波波浪浪，西西东东。直钩已挂双峨碧，一桡香散芦花风。",
+        "score": 3.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "叠词"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "从定义概念到描绘场景，虚实结合，过渡自然。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "远之莫及故曰短，踪之不即故曰蓬"
+                },
+                {
+                    "tag": "叠词",
+                    "explanation": "波波浪浪，西西东东"
+                }
+            ]
+        },
+        "analysis": "此诗语言有节奏感，意象如波浪、直钩、芦花风，构筑禅境。对偶工整，叠词增强韵律，但部分句子抽象，意境不甚真切。整体有巧思，但未达高境，审美距离适中。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图自然描绘，但略显生硬，未能完全融合。",
+                "realm": "能品",
+                "reason": "有禅意，但表达不够精炼。"
+            }
+        ],
+        "imagery": [
+            "水",
+            "钩",
+            "山",
+            "花",
+            "风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "直钩已挂双峨碧，一桡香散芦花风，画面感强"
+        }
+    },
+    {
+        "title": "偈頌十三首  其一二",
+        "author": "釋智愚",
+        "paragraphs": [
+            "十萬里水雲蹤跡，七百年西竺陳人。",
+            "眼睛烏律卒，面子黑鱗皴。",
+            "傳衣付法，惹起埃塵。",
+            "如今紅紫亂朱紛然而出，豈止乎少林五葉一花之春。",
+            "斯臨遠諱，薦此溪蘋，萬古千秋累子孫。"
+        ],
+        "paragraphs_simplified": [
+            "十万里水云踪迹，七百年西竺陈人。",
+            "眼睛乌律卒，面子黑鳞皴。",
+            "传衣付法，惹起埃尘。",
+            "如今红紫乱朱纷然而出，岂止乎少林五叶一花之春。",
+            "斯临远讳，荐此溪蘋，万古千秋累子孙。"
+        ],
+        "translation": "十万里水云踪迹，七百年西竺陈人。眼睛乌律卒，面子黑鳞皴。传衣付法，惹起埃尘。如今红紫乱朱纷然而出，岂止乎少林五叶一花之春。斯临远讳，荐此溪蘋，万古千秋累子孙。",
+        "score": 3.8,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "从禅宗传承历史入手，描述乱象，最后点出传承责任。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "少林五叶一花指禅宗五叶传承"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "红紫乱朱比喻乱象"
+                }
+            ]
+        },
+        "analysis": "此诗意象古奥，如水云、西竺、少林等，有历史纵深感。用典精准，借古讽今，卒章显志点出传承。但句子冗长，部分晦涩，表达稍欠流畅。整体立意深远，有审美价值。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图高古风格，但略显艰涩，未能完全自然。",
+                "realm": "能品",
+                "reason": "典故丰富，但表达不够流畅。"
+            }
+        ],
+        "imagery": [
+            "水",
+            "云",
+            "人",
+            "眼",
+            "脸",
+            "衣",
+            "法",
+            "尘",
+            "花",
+            "林",
+            "草"
+        ],
+        "allusions": [
+            {
+                "phrase": "西竺",
+                "explanation": "指印度，佛教起源地"
+            },
+            {
+                "phrase": "少林五叶一花",
+                "explanation": "禅宗传承典故"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "如今红紫乱朱纷然而出，岂止乎少林五叶一花之春，点出传承乱象"
+        }
+    }
+]

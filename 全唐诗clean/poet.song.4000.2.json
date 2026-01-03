@@ -1,0 +1,1266 @@
+[
+    {
+        "title": "詩三首  其一",
+        "author": "孫何",
+        "paragraphs": [
+            "貝闕琳宮紫霧深，鳳凰仙樂尚愔愔。",
+            "鼎湖往事三千載，石筍青春一萬尋。",
+            "挺立不教凡草長，削成應免俗塵侵。",
+            "霓旌絳節知何處，空有蓮花送好音。"
+        ],
+        "paragraphs_simplified": [
+            "贝阙琳宫紫雾深，凤凰仙乐尚愔愔。",
+            "鼎湖往事三千载，石笋青春一万寻。",
+            "挺立不教凡草长，削成应免俗尘侵。",
+            "霓旌绛节知何处，空有莲花送好音。"
+        ],
+        "translation": "贝阙和琳宫笼罩在深深的紫雾中，凤凰的仙乐依然隐隐传来。鼎湖的往事已过三千载，石笋青春高达一万寻。挺立不让凡草生长，削成应避免俗尘侵袭。霓旌绛节不知在何处，空有莲花送来好音。诗中“贝阙琳宫”指仙人居所，“鼎湖”典出黄帝升天传说，“石笋”形容高耸如笋的山石，“霓旌绛节”为神仙仪仗，“莲花”象征清净佛音。",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "孤",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先以仙境意象开篇，引入鼎湖典故深化历史感，尾联以空寂之景收束，形成虚实相生的脉络。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“鼎湖”暗引黄帝升天事，增添沧桑感。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "“挺立不教凡草长”赋予山石以傲岸人格。"
+                }
+            ]
+        },
+        "analysis": "此诗构筑紫雾仙乐的缥缈之境，鼎湖石笋的意象组合将历史纵深与自然奇观熔铸一体。拟人笔法使山石具抗俗之姿，尾联‘空有莲花送好音’以虚写收实，流露求仙不得的寂寥。然意象堆砌稍显繁复，情感回甘不足，终陷于绮丽之表。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "以鼎湖、石笋等典故意象托举超逸之境，然紫雾霓旌的修饰过重，反损冲淡之趣。",
+                "realm": "能",
+                "reason": "技法纯熟但未脱形似，未能臻至神品之空灵。"
+            }
+        ],
+        "imagery": [
+            "宫殿",
+            "雾",
+            "鸟",
+            "音乐",
+            "湖",
+            "石",
+            "花"
+        ],
+        "allusions": [
+            {
+                "phrase": "鼎湖",
+                "explanation": "黄帝升天处，喻指仙踪渺茫。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“鼎湖往事三千载，石笋青春一万寻”以时空对举，凝练历史苍茫感。"
+        }
+    },
+    {
+        "title": "詩三首  其二",
+        "author": "孫何",
+        "paragraphs": [
+            "薜荔無因掛一毫，化工鎸削亦應勞。",
+            "圭形直指明河落，桂影遥分漲海濤。",
+            "發地五千何足貴，去天三百未足高。",
+            "軒轅轍跡今猶在，斗上丹枕著羽袍。"
+        ],
+        "paragraphs_simplified": [
+            "薜荔无因挂一毫，化工镌削亦应劳。",
+            "圭形直指明河落，桂影遥分涨海涛。",
+            "发地五千何足贵，去天三百未足高。",
+            "轩辕辙迹今犹在，斗上丹枕著羽袍。"
+        ],
+        "translation": "薜荔无缘挂一丝，化工镌削也应劳苦。圭形直指明河落下，桂影遥分涨海涛。发地五千何足贵，去天三百未足高。轩辕辙迹今犹在，斗上丹枕穿羽袍。“薜荔”指藤蔓植物，“化工”喻自然造化，“圭形”似玉圭的山形，“轩辕”即黄帝，“斗”指北斗星。",
+        "score": 2.5,
+        "subject": [
+            "山水诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "起句写自然雕琢之功，中二联以夸张笔法极言高远，尾联用黄帝典故收束，议论直露。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“发地五千何足贵”以数字强化山势崔嵬。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“轩辕辙迹”借黄帝遗迹喻仙踪。"
+                }
+            ]
+        },
+        "analysis": "此诗以议论开篇，薜荔圭形的意象生僻，发地五千的夸张虽具气势，但缺乏情感浸润。轩辕典故与北斗羽袍的拼接流于表面，整体立意浅显，辞藻堆砌而无深意，属平庸应酬之作。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "试图以数字夸张与仙踪典故营造雄阔气象，然意象杂乱，反显粗疏。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，议论直白无含蓄，流于粗鄙。"
+            }
+        ],
+        "imagery": [
+            "植物",
+            "工具",
+            "星河",
+            "树影",
+            "海",
+            "痕迹",
+            "枕头",
+            "衣服"
+        ],
+        "allusions": [
+            {
+                "phrase": "轩辕",
+                "explanation": "黄帝，喻指上古仙迹。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "“发地五千何足贵，去天三百未足高”以对仗强化夸张，然仅得气势之形。"
+        }
+    },
+    {
+        "title": "詩三首  其三",
+        "author": "孫何",
+        "paragraphs": [
+            "黄帝昇天去不還，空留片石在人間。",
+            "千尋杳杳撐紅日，倚雲喬木羽林閒。",
+            "時人不信飛昇路，轍跡龍髯竟可攀。"
+        ],
+        "paragraphs_simplified": [
+            "黄帝升天去不还，空留片石在人间。",
+            "千寻杳杳撑红日，倚云乔木羽林闲。",
+            "时人不信飞升路，辙迹龙髯竟可攀。"
+        ],
+        "translation": "黄帝升天去不回，空留片石在人间。千寻高耸撑红日，倚云乔木羽林闲。时人不信飞升路，辙迹龙髯竟可攀。“片石”指残留的仙迹，“千寻”形容极高，“羽林”喻仙宫侍卫，“龙髯”典出黄帝乘龙升天事。",
+        "score": 2.8,
+        "subject": [
+            "怀古诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先叙黄帝升天之事，再以片石红日烘托永恒，尾联直指飞升之路可攀，议论收束。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“黄帝升天”与“龙髯”双重典故强化仙踪主题。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“千寻杳杳撑红日”以空间夸张显山石雄伟。"
+                }
+            ]
+        },
+        "analysis": "此诗以黄帝升天典故为核，片石与乔木意象构筑时空永恒感。然‘千寻撑红日’的夸张仅得形似，尾联‘辙迹龙髯竟可攀’议论直露，缺乏审美距离，意境浅近，未能引发深思。",
+        "poetry_styles": [
+            {
+                "style": "实境",
+                "imagery_analysis": "依托历史传说写实景，但情感渗透不足，流于表面叙述。",
+                "realm": "劣",
+                "reason": "试图以典故托高，然议论直白，反失含蓄之趣。"
+            }
+        ],
+        "imagery": [
+            "人物",
+            "石头",
+            "太阳",
+            "树",
+            "羽毛",
+            "龙"
+        ],
+        "allusions": [
+            {
+                "phrase": "黄帝升天",
+                "explanation": "喻指仙踪难觅。"
+            },
+            {
+                "phrase": "龙髯",
+                "explanation": "黄帝乘龙升天事，指代飞升之迹。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“千寻杳杳撑红日”以夸张笔法勾勒山势，然未脱俗套。"
+        }
+    },
+    {
+        "title": "句  其一",
+        "author": "孫何",
+        "paragraphs": [
+            "誰如張璪工松石，擬裂鮫綃畫作圖。"
+        ],
+        "paragraphs_simplified": [
+            "谁如张璪工松石，拟裂鲛绡画作图。"
+        ],
+        "translation": "谁像张璪那样擅长画松石，打算撕裂鲛绡来作画。“张璪”为唐代画家，以画松石闻名，“鲛绡”传说中鲛人所织的薄纱，喻指珍贵画布。",
+        "score": 1.5,
+        "subject": [
+            "题画诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直接引用画家典故，以比喻赞美画技，结构单一。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“张璪”点出画史名家，增强专业性。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“拟裂鲛绡”喻指作画之精心。"
+                }
+            ]
+        },
+        "analysis": "此句仅以张璪典故与鲛绡比喻构成，缺乏意象展开与情感层次。作为单句诗，无上下文支撑，立意浅显，纯属应酬之作，艺术价值极低。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "试图以画史典故显清雅，然单薄无韵，反显平淡。",
+                "realm": "劣",
+                "reason": "仅具题咏之形，无诗境可言。"
+            }
+        ],
+        "imagery": [
+            "人物",
+            "植物",
+            "布料"
+        ],
+        "allusions": [
+            {
+                "phrase": "张璪",
+                "explanation": "唐代画家，擅画松石。"
+            }
+        ],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "整句为唯一内容，但无艺术深度。"
+        }
+    },
+    {
+        "title": "句  其二",
+        "author": "孫何",
+        "paragraphs": [
+            "早晚無塵事。"
+        ],
+        "paragraphs_simplified": [
+            "早晚无尘事。"
+        ],
+        "translation": "早晚没有尘世琐事。“尘事”指世俗杂务。",
+        "score": 1.0,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "三字直述心境，无结构可言。",
+            "evidence": []
+        },
+        "analysis": "仅三字短语，白描闲适之情，无意象、无韵律、无技法，纯属口语记录，毫无诗艺可言。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "无具体意象，仅概念陈述，未能构筑淡远之境。",
+                "realm": "劣",
+                "reason": "以口号充诗，粗鄙至极。"
+            }
+        ],
+        "imagery": [
+            "琐事"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "整句为唯一内容，但无诗味。"
+        }
+    },
+    {
+        "title": "句  其三",
+        "author": "孫何",
+        "paragraphs": [
+            "美人與月正同色，客子折梅空斷腸。"
+        ],
+        "paragraphs_simplified": [
+            "美人与月正同色，客子折梅空断肠。"
+        ],
+        "translation": "美人与月亮正有着相同的颜色，客居他乡的游子折取梅花，却徒然伤心断肠。此句通过美人与月的同色营造清冷氛围，折梅动作强化了游子的孤独与哀愁。",
+        "score": 2.5,
+        "subject": [
+            "思乡诗",
+            "闺怨诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句以美人与月同色起兴，后句直抒客子折梅断肠之情，结构简单直接。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "将美人与月色相比，突出视觉上的清冷感。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "‘断肠’赋予情感以形体，强化哀伤程度。"
+                }
+            ]
+        },
+        "analysis": "此诗以美人与月同色构筑清寂意象，客子折梅的动作直指游子之悲。意象组合陈旧，缺乏新意，情感表达流于表面，未能深入挖掘孤独的审美距离。整体立意浅显，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图通过月色与梅花渲染悲凉，但意象堆砌，未能达到悲慨的深沉境界。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，情感宣泄直白，缺乏回甘。"
+            }
+        ],
+        "imagery": [
+            "美人",
+            "月",
+            "梅"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句起兴，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "句  其四",
+        "author": "孫何",
+        "paragraphs": [
+            "飛泉落翠巘，爽籟生寒空。"
+        ],
+        "paragraphs_simplified": [
+            "飞泉落翠巘，爽籁生寒空。"
+        ],
+        "translation": "飞泉从翠绿的山峰上落下，清爽的声响从寒冷的天空中产生。此句描绘山水景色，飞泉与爽籁动静结合，营造出清寒空灵的意境。",
+        "score": 3.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "两句对仗工整，直接呈现山水动态与静态的交融，无多余铺垫。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "‘飞泉’对‘爽籁’，‘落翠巘’对‘生寒空’，音律和谐。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "飞泉之动与寒空之静相互映衬。"
+                }
+            ]
+        },
+        "analysis": "此诗以对偶句式勾勒山水，飞泉落翠巘的动感与爽籁生寒空的静谧相得益彰。意象清奇，但局限于常规山水描写，缺乏情感渗透与意境深度，技法成熟而无突破。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图呈现自然之趣，但意象组合较为常见，未达浑然天成之境。",
+                "realm": "能",
+                "reason": "技法工整，但意境流于表面。"
+            }
+        ],
+        "imagery": [
+            "泉",
+            "山",
+            "籁",
+            "空"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句集中体现山水动态之美。"
+        }
+    },
+    {
+        "title": "句  其五",
+        "author": "孫何",
+        "paragraphs": [
+            "欲謁元戎無介紹，薛能詩版在鵰堂。"
+        ],
+        "paragraphs_simplified": [
+            "欲谒元戎无介绍，薛能诗版在雕堂。"
+        ],
+        "translation": "想要拜见元帅却没有介绍人，薛能的诗版还挂在雕堂上。此句叙述干谒无门的困境，借薛能诗版暗示文人怀才不遇的普遍命运。",
+        "score": 2.0,
+        "subject": [
+            "干谒诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "无奈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直述干谒困境，次句引入薛能典故，结构简单，逻辑直白。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "薛能为唐代诗人，其诗版挂于雕堂，暗喻文人虽有名声却难遇知音。"
+                }
+            ]
+        },
+        "analysis": "此诗借用薛能典故表达干谒无门的无奈，但典故运用生硬，未能深化主题。情感表达浅显，缺乏审美距离，整体立意老套，属平庸应酬之作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图通过典故含蓄表达，但意象单薄，未能营造深远意境。",
+                "realm": "劣",
+                "reason": "典故堆砌，未达含蓄之妙。"
+            }
+        ],
+        "imagery": [
+            "元戎",
+            "诗版",
+            "雕堂"
+        ],
+        "allusions": [
+            {
+                "phrase": "薛能",
+                "explanation": "唐代诗人，此处借指文人虽有才名却难遇机遇。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直接点明核心困境。"
+        }
+    },
+    {
+        "title": "贈英公大師",
+        "author": "王承衎",
+        "paragraphs": [
+            "文章篆籀久傳芳，灰志禪門道愈光。",
+            "豐鎬有心營寶剎，瀟湘無意卧雲房。",
+            "陶情早著詩千首，混俗何妨酒百觴。",
+            "若許宗雷重結社，願持香火學空王。"
+        ],
+        "paragraphs_simplified": [
+            "文章篆籀久传芳，灰志禅门道愈光。",
+            "丰镐有心营宝刹，潇湘无意卧云房。",
+            "陶情早著诗千首，混俗何妨酒百觞。",
+            "若许宗雷重结社，愿持香火学空王。"
+        ],
+        "translation": "文章和篆籀长久流传芬芳，心灰意冷于禅门，道却更加光明。丰镐有心经营宝刹，潇湘无意卧于云房。陶冶情操早已写下诗千首，混迹世俗何妨饮酒百杯。如果允许宗雷重结社，愿意持香火学习空王。此诗从文才、禅修、志向、生活多角度赞美英公大师，尾联表达皈依佛门之愿。",
+        "score": 4.0,
+        "subject": [
+            "赠别诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首联赞文才与禅道，颔联以对偶写经营与隐逸，颈联写诗酒生活，尾联呼应结社学佛，结构完整。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "‘丰镐有心营宝刹，潇湘无意卧云房’工整对比，突出志向与淡泊。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "‘道愈光’以光喻禅道精进。"
+                }
+            ]
+        },
+        "analysis": "此诗结构工整，对仗精妙，通过文才、禅修、诗酒等多维度赞美英公大师。意象丰富，情感真挚，但部分用词如‘酒百觞’稍显堆砌，未能完全脱俗。整体技法成熟，属能品佳作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以篆籀、禅门等意象构筑典雅风格，但偶有直白之句，未达浑融。",
+                "realm": "能",
+                "reason": "技法娴熟，但情感表达偶有流露，缺乏含蓄。"
+            }
+        ],
+        "imagery": [
+            "文章",
+            "篆籀",
+            "禅门",
+            "宝刹",
+            "云房",
+            "诗",
+            "酒",
+            "香火",
+            "空王"
+        ],
+        "allusions": [
+            {
+                "phrase": "宗雷",
+                "explanation": "指宗炳和雷次宗，南朝高僧，借指佛门结社。"
+            },
+            {
+                "phrase": "空王",
+                "explanation": "佛的尊称，指佛法。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句奠定全诗赞美基调，涵盖文才与禅道。"
+        }
+    },
+    {
+        "title": "句  其一",
+        "author": "劉師道",
+        "paragraphs": [
+            "南浦未傷春草碧，北山仍媿曉猿驚。"
+        ],
+        "paragraphs_simplified": [
+            "南浦未伤春草碧，北山仍愧晓猿惊。"
+        ],
+        "translation": "南浦没有因春草碧绿而伤心，北山仍然因晓猿惊叫而惭愧。此句通过南北景物对比，表达思乡之情与内心的愧疚，春草与晓猿烘托出清晨的感伤氛围。",
+        "score": 3.5,
+        "subject": [
+            "思乡诗"
+        ],
+        "emotion": [
+            "思乡",
+            "愧疚"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "两句对仗，以南浦春草与北山晓猿对比，直接抒发思乡愧疚之情。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "‘南浦’对‘北山’，‘未伤’对‘仍愧’，工整而富有节奏。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过春草碧绿和晓猿惊叫，寄托思乡与愧疚。"
+                }
+            ]
+        },
+        "analysis": "此诗对仗工整，以春草和晓猿为意象，巧妙传达思乡与愧疚的复杂情感。时令与景物结合自然，情感含蓄有余味，技法成熟，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "通过景物间接抒情，意象清新，但情感表达稍显直接，未达极致含蓄。",
+                "realm": "能",
+                "reason": "技法稳妥，但意境深度有限。"
+            }
+        ],
+        "imagery": [
+            "南浦",
+            "春草",
+            "北山",
+            "晓猿"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以春草起兴，奠定思乡基调。"
+        }
+    },
+    {
+        "title": "句  其二",
+        "author": "劉師道",
+        "paragraphs": [
+            "久師金馬客，勍敵玉溪生。"
+        ],
+        "paragraphs_simplified": [
+            "久师金马客，勍敌玉溪生。"
+        ],
+        "translation": "长期师从翰林学士，是李商隐的强劲对手。详细解释：'久师'指长期效仿或学习；'金马客'指翰林学士，源自汉代金马门典故；'勍敌'指强劲的对手；'玉溪生'指唐代诗人李商隐。",
+        "score": 3.8,
+        "subject": [
+            "酬唱诗",
+            "杂诗"
+        ],
+        "emotion": [
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "两句并列，直接陈述身份与成就，以典故构筑自我定位。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "久师金马客与勍敌玉溪生形成工整对仗，音律协调"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "金马客和玉溪生均为历史典故，增强文采"
+                }
+            ]
+        },
+        "analysis": "此句以典故堆砌构筑身份认同，金马与玉溪的意象对举，折射出对文坛前辈的追摹与自我期许。对仗工整而略显板滞，典故的密集使用削弱了情感的真切感，整体呈现一种隔膜的典雅，缺乏鲜活的生命力。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "金马、玉溪等典故意象构筑高古氛围，但缺乏自然流露",
+                "realm": "能品",
+                "reason": "技法成熟但立意浅显，画虎不成反类犬"
+            }
+        ],
+        "imagery": [
+            "金马",
+            "玉溪"
+        ],
+        "allusions": [
+            {
+                "phrase": "金马客",
+                "explanation": "指翰林学士，源自汉代金马门待诏典故"
+            },
+            {
+                "phrase": "玉溪生",
+                "explanation": "指唐代诗人李商隐，其号为玉溪生"
+            }
+        ],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一一句，用典精炼但整体平庸"
+        }
+    },
+    {
+        "title": "句  其三",
+        "author": "劉師道",
+        "paragraphs": [
+            "有路期奔月，無媒與嫁春。"
+        ],
+        "paragraphs_simplified": [
+            "有路期奔月，无媒与嫁春。"
+        ],
+        "translation": "有路可期飞升月宫，却无媒人来嫁与春天。详细解释：'期奔月'指期望如嫦娥般奔月，比喻高远理想；'无媒'指没有中介或途径；'嫁春'双关，既指春光流逝，又暗含婚嫁之意。",
+        "score": 4.2,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "双关"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "两句形成对比，前句写理想可期，后句写现实无门，表达矛盾心理。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "奔月比喻高远理想，嫁春比喻美好时光的流逝"
+                },
+                {
+                    "tag": "双关",
+                    "explanation": "嫁春既指季节更替，又暗含婚嫁之意，语义丰富"
+                }
+            ]
+        },
+        "analysis": "此联以虚实相生的手法，将神话意象与自然时序交织。'奔月'的期冀与'嫁春'的无奈形成张力，折射出理想与现实的落差。意象跳跃而略显晦涩，情感表达含蓄，有回甘之妙，避免直白宣泄。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "奔月、嫁春等意象构筑虚实相生的意境，避免直露",
+                "realm": "妙品",
+                "reason": "立意新颖，表达节制，艺术水准高"
+            }
+        ],
+        "imagery": [
+            "月",
+            "春"
+        ],
+        "allusions": [
+            {
+                "phrase": "奔月",
+                "explanation": "源自嫦娥奔月神话，象征遥不可及的理想"
+            }
+        ],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "两句皆佳，但第二句嫁春双关更富深意"
+        }
+    },
+    {
+        "title": "句  其四",
+        "author": "劉師道",
+        "paragraphs": [
+            "金谷路塵埋國艷，武陵溪水泛天香。"
+        ],
+        "paragraphs_simplified": [
+            "金谷路尘埋国艳，武陵溪水泛天香。"
+        ],
+        "translation": "金谷园的路尘掩埋了国色天香，武陵溪的水漂浮着天上的香气。详细解释：'金谷'指金谷园，石崇的别墅，象征繁华；'国艳'指牡丹或美人；'武陵溪'指桃花源，源自陶渊明；'天香'指桂花或自然香气，象征清幽。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "两句对仗，分别用金谷和武陵典故，对比繁华与隐逸，但流于表面。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "金谷路尘与武陵溪水工整对仗，音韵和谐"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "金谷园和武陵源均为历史典故，但堆砌痕迹明显"
+                }
+            ]
+        },
+        "analysis": "此联以典故堆砌构筑意象，金谷的尘埋与武陵的水香形成繁华与清幽的对比。但意象陈旧，缺乏新意，情感流于表面，整体呈现一种熟套的典雅，未能突破传统框架。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "金谷、武陵等典故意象，但缺乏独特视角",
+                "realm": "凡品",
+                "reason": "辞藻堆砌，立意老套，缺乏真切感"
+            }
+        ],
+        "imagery": [
+            "金谷",
+            "武陵",
+            "溪水"
+        ],
+        "allusions": [
+            {
+                "phrase": "金谷",
+                "explanation": "指金谷园，西晋石崇的别墅，象征奢靡繁华"
+            },
+            {
+                "phrase": "武陵",
+                "explanation": "指武陵源，源自陶渊明《桃花源记》，象征隐逸"
+            }
+        ],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "两句对仗，但无突出亮点"
+        }
+    },
+    {
+        "title": "句  其五",
+        "author": "劉師道",
+        "paragraphs": [
+            "晨瞻北斗天何遠，夢斷南柯日未沉。"
+        ],
+        "paragraphs_simplified": [
+            "晨瞻北斗天何远，梦断南柯日未沉。"
+        ],
+        "translation": "早晨仰望北斗星，天空何其遥远；梦中断南柯郡，太阳还未西沉。详细解释：'晨瞻北斗'指早晨看北斗星，象征方向或理想；'天何远'感叹天空遥远，比喻理想高远；'梦断南柯'指南柯一梦典故，比喻人生如梦；'日未沉'指太阳未落，时间尚早，暗示梦醒后的怅惘。",
+        "score": 4.5,
+        "subject": [
+            "哲理诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "用典"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "两句对比，前句写现实仰望，后句写梦境中断，表达时光易逝与理想虚幻。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "晨瞻北斗与梦断南柯对仗工整，时空交织"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "南柯一梦典故深化哲理内涵"
+                }
+            ]
+        },
+        "analysis": "此联将天文与梦境交织，北斗的遥远与南柯的虚幻构筑出时空的苍茫感。'日未沉'的细节暗示了梦醒后的怅惘，情感深沉而有节制，意境真切，避免直白宣泄。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "北斗、南柯等意象营造深沉氛围，情感渗透凝练",
+                "realm": "妙品",
+                "reason": "意境深远，情感真挚，艺术水准高"
+            }
+        ],
+        "imagery": [
+            "北斗",
+            "南柯",
+            "日"
+        ],
+        "allusions": [
+            {
+                "phrase": "南柯",
+                "explanation": "源自南柯一梦典故，指人生如梦，富贵虚幻"
+            }
+        ],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "两句浑然一体，第二句日未沉更富哲理张力"
+        }
+    },
+    {
+        "title": "句  其六",
+        "author": "劉師道",
+        "paragraphs": [
+            "野馬飛窗日，醯雞舞甕天。"
+        ],
+        "paragraphs_simplified": [
+            "野马飞窗日，醯鸡舞瓮天。"
+        ],
+        "translation": "野马在窗前飞驰，太阳西斜；醯鸡在瓮中飞舞，天空广阔。详细解释：'野马'指尘埃或游气，源自《庄子》，比喻变幻无常；'飞窗日'指飞过窗前的阳光；'醯鸡'指小虫，源自《庄子》，比喻见识短浅；'舞瓮天'指在瓮中飞舞，比喻视野局限。",
+        "score": 3.9,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "正午"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "两句对仗，用庄子典故，对比宏大与渺小，构筑宇宙观。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "野马飞窗日与醯鸡舞瓮天对仗工整，意象对举"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "野马和醯鸡均出自庄子，增强哲理深度"
+                }
+            ]
+        },
+        "analysis": "此联以庄子意象构筑宇宙观，野马的奔腾与醯鸡的微小形成强烈对比。典故运用精当，但意象过于抽象，情感距离较远，整体呈现一种疏野的趣味，技法娴熟但略显晦涩。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "野马、醯鸡等道家意象，自然流露但缺乏真切",
+                "realm": "能品",
+                "reason": "技法娴熟但意象抽象，未能完全传达情感"
+            }
+        ],
+        "imagery": [
+            "野马",
+            "醯鸡",
+            "窗日",
+            "瓮天"
+        ],
+        "allusions": [
+            {
+                "phrase": "野马",
+                "explanation": "源自《庄子·逍遥游》，指春日野外雾气，比喻变幻"
+            },
+            {
+                "phrase": "醯鸡",
+                "explanation": "源自《庄子·田子方》，指小虫，比喻见识短浅"
+            }
+        ],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "两句对仗工整，意象独特但整体平实"
+        }
+    },
+    {
+        "title": "句  其七",
+        "author": "劉師道",
+        "paragraphs": [
+            "青帝翠華沈物外，素娥孀影弔雲端。"
+        ],
+        "paragraphs_simplified": [
+            "青帝翠华沉物外，素娥孀影吊云端。"
+        ],
+        "translation": "青帝（春神）的翠绿华盖沉没在物外，素娥（嫦娥）的孤寡身影在云端吊唁。青帝指春神，翠华喻帝王仪仗，此处指春光；素娥即嫦娥，孀影指寡妇身影，吊云端表示在云中哀悼，整体描绘春光消逝、月宫凄清的景象。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直接以春神和嫦娥的意象切入，通过比喻和拟人手法，营造物外凄清的意境，但缺乏情感递进。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'青帝翠华'喻春光，'素娥孀影'喻嫦娥孤影，构建虚幻场景。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "'吊云端'赋予嫦娥哀悼动作，增强悲凉感。"
+                }
+            ]
+        },
+        "analysis": "此句意象陈旧，青帝、素娥皆为古典诗词常见元素，缺乏新意。情感表达直白，但意境浅显，未能超越传统悲秋主题。辞藻堆砌，如'翠华'、'孀影'等词浮于表面，未能构筑真切的审美空间。整体平庸，缺乏深度和回甘。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以春神和月宫意象营造悲凉，但意象组合生硬，未能达到悲慨的深沉境界。",
+                "realm": "能品",
+                "reason": "辞藻华丽但内容空洞，情感浮于表面，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "春神",
+            "春光",
+            "月亮",
+            "云"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全诗仅一句，选最通顺者。"
+        }
+    }
+]

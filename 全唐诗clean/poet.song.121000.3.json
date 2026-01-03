@@ -1,0 +1,231 @@
+[
+    {
+        "title": "頌  其二",
+        "author": "釋印肅",
+        "paragraphs": [
+            "一句當天正信希，欲談詞喪懶投機。",
+            "高峰既遠休尋訪，不惜眉毛爲發揮。"
+        ],
+        "paragraphs_simplified": [
+            "一句当天正信希，欲谈词丧懒投机。",
+            "高峰既远休寻访，不惜眉毛为发挥。"
+        ],
+        "translation": "一句当天正信稀，欲谈词丧懒投机。高峰既远休寻访，不惜眉毛为发挥。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句直斥言词无效，后两句以夸张表达决心，结构简单。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "‘不惜眉毛’夸张表达牺牲精神。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "‘不惜眉毛’可能暗含禅宗公案，但未明言。"
+                }
+            ]
+        },
+        "analysis": "此诗以议论为主，‘不惜眉毛’等语夸张直露，缺乏意象支撑。情感流于表面，禅理表达生硬，整体立意浅显，未能引发深思。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以夸张显劲健，但语言粗疏，反显拙劣。",
+                "realm": "凡品",
+                "reason": "模仿劲健风格，但沦为口号，缺乏诗意。"
+            }
+        ],
+        "imagery": [
+            "高峰",
+            "眉毛"
+        ],
+        "allusions": [
+            {
+                "phrase": "不惜眉毛",
+                "explanation": "可能暗指禅师牺牲精神，但未明确典故。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句‘不惜眉毛’较具特色。"
+        }
+    },
+    {
+        "title": "頌  其三",
+        "author": "釋印肅",
+        "paragraphs": [
+            "一身清浄本無瑕，了了歸家勝出家。",
+            "紅葉舞風須早覺，莫將有限逐虛華。"
+        ],
+        "paragraphs_simplified": [
+            "一身清净本无瑕，了了归家胜出家。",
+            "红叶舞风须早觉，莫将有限逐虚华。"
+        ],
+        "translation": "身体清净本无瑕疵，明了归家胜过出家。红叶随风舞动须早觉，不要将有限生命追逐虚华。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句直指心性清净，次句借红叶舞风暗喻人生短暂，劝诫早觉勿逐虚华。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“红叶舞风”象征时光易逝，人生有限。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "“一身清净”与“红叶舞风”结构对称，形成节奏。"
+                }
+            ]
+        },
+        "analysis": "此诗以禅理为核，语言简练却流于说教。首句“清净本无瑕”直陈心性，缺乏形象依托；次句借“红叶舞风”试图营造意境，但意象陈旧，未能突破常规。整体立意浅显，情感空洞，属于平庸之作。意象拼凑生硬，缺乏真切的审美回甘。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以“红叶”“风”等自然意象构筑淡泊之境，但因说教过重，反显刻意。",
+                "realm": "能",
+                "reason": "语言洗炼但意境浅薄，未能达到冲淡的自然之趣。"
+            }
+        ],
+        "imagery": [
+            "身体",
+            "红叶",
+            "风",
+            "虚华"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“红叶舞风须早觉”以物喻理，相对具象。"
+        }
+    },
+    {
+        "title": "頌  其四",
+        "author": "釋印肅",
+        "paragraphs": [
+            "一心圓持種種心，信心諸境絕追尋。",
+            "此中無分應難到，便好回光免陸沉。"
+        ],
+        "paragraphs_simplified": [
+            "一心圆持种种心，信心诸境绝追寻。",
+            "此中无分应难到，便好回光免陆沉。"
+        ],
+        "translation": "一心圆满持守种种心，信心使诸境不再追寻。此中无分别应难达到，便好回光返照免沉沦。",
+        "score": 2.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "设问",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "首句讲持心境界，次句强调回光内省以避沉沦，逻辑抽象。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "“此中无分应难到”隐含对修行难度的诘问。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "“一心圆持”与“信心诸境”句式对称。"
+                }
+            ]
+        },
+        "analysis": "全诗抽象说理，依赖佛教术语如“圆持”“回光”，缺乏具体意象支撑。语言晦涩，情感空洞，立意未出禅宗窠臼。意象贫瘠，结构松散，属于典型的平庸酬唱之作，无艺术感染力。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图以抽象概念传达深意，但因缺乏形象载体，反显直白浅露。",
+                "realm": "劣",
+                "reason": "术语堆砌，未能实现含蓄的蕴藉之美，流于晦涩。"
+            }
+        ],
+        "imagery": [
+            "心",
+            "境",
+            "光"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“便好回光免陆沉”稍具动作感，为全句稍佳处。"
+        }
+    }
+]

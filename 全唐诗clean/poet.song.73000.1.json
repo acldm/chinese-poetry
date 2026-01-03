@@ -1,0 +1,739 @@
+[
+    {
+        "title": "句  其九",
+        "author": "釋祖可",
+        "paragraphs": [
+            "驚湍拍岸浮。"
+        ],
+        "paragraphs_simplified": [
+            "惊湍拍岸浮。"
+        ],
+        "translation": "惊险的急流拍打着岸边漂浮物。描绘水流湍急、拍岸的动态景象。",
+        "score": 3.2,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "恐惧",
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "单句聚焦水势动态，以动景为主。",
+            "evidence": [
+                {
+                    "tag": "动静结合",
+                    "explanation": "‘拍岸’为动，‘浮’为静，对比鲜明。"
+                }
+            ]
+        },
+        "analysis": "此句以‘惊湍’起笔，生动刻画水流动势，拍岸与浮的细节描写增强画面感。但情感直露，缺乏审美距离，意境单薄。作为残句，技法虽实，却未达含蓄之境，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "湍流意象有雄浑之势，但篇幅所限，气魄不足。",
+                "realm": "能",
+                "reason": "试图雄浑，然仅止于形似。"
+            }
+        ],
+        "imagery": [
+            "湍",
+            "岸"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "动态描写集中，是句之精华。"
+        }
+    },
+    {
+        "title": "句  其一○",
+        "author": "釋祖可",
+        "paragraphs": [
+            "杖履尋春事。"
+        ],
+        "paragraphs_simplified": [
+            "杖履寻春事。"
+        ],
+        "translation": "拄杖穿鞋寻找春天的事务。叙述闲适寻春的行动。",
+        "score": 2.8,
+        "subject": [
+            "山水诗",
+            "闲适诗"
+        ],
+        "emotion": [
+            "闲适",
+            "期待"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "直抒胸臆"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "单句直述行为，无复杂结构。",
+            "evidence": [
+                {
+                    "tag": "叙事",
+                    "explanation": "‘杖履寻春’直接叙述闲适活动。"
+                }
+            ]
+        },
+        "analysis": "此句以平淡笔调叙述寻春之事，情感浅显，意象普通（杖、履、春），缺乏艺术提炼。作为残句，更显单薄，未构筑独特意境或情感深度。整体立意老套，属凡品之作。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "杖履意象有疏野之趣，但表达直白，无回味。",
+                "realm": "逸",
+                "reason": "追求自然，却流于浅俗。"
+            }
+        ],
+        "imagery": [
+            "杖",
+            "履",
+            "春"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句唯一，叙事清晰。"
+        }
+    },
+    {
+        "title": "句  其一一",
+        "author": "釋祖可",
+        "paragraphs": [
+            "湖山雖不語。"
+        ],
+        "paragraphs_simplified": [
+            "湖山虽不语。"
+        ],
+        "translation": "湖山虽然不说话。此句以拟人手法写湖山沉默，营造出一种静谧、无言的自然境界。",
+        "score": 2.0,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以湖山拟人起笔，直接切入静谧之境。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "赋予湖山以人的属性“不语”，使其具有人格化特征。"
+                }
+            ]
+        },
+        "analysis": "此句以极简笔墨勾勒出湖山静默的意象，拟人手法的运用虽巧妙，但作为单句，意蕴略显单薄。其意境追求冲淡，却因缺乏后续的铺陈与深化，仅停留在表层的景物描摹，未能构筑出更深远的审美空间。整体而言，是一句尚可的景语，但尚未达到令人回味无穷的境界。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "湖山意象虽具，但缺乏层次感，未能充分展现冲淡之境的丰富内涵。",
+                "realm": "能",
+                "reason": "试图模仿冲淡之境，但因过于简略，显得单薄，未能达到冲淡所要求的‘遇之匪深，即之愈希’的深度。"
+            }
+        ],
+        "imagery": [
+            "湖",
+            "山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句仅此一句，为唯一选择。"
+        }
+    },
+    {
+        "title": "句  其一二",
+        "author": "釋祖可",
+        "paragraphs": [
+            "悠悠蘭渚動歸思。"
+        ],
+        "paragraphs_simplified": [
+            "悠悠兰渚动归思。"
+        ],
+        "translation": "悠然的兰草小洲，牵动了归乡的思绪。此句写眼前兰渚之景，引发了诗人内心深处的归乡之情。",
+        "score": 2.5,
+        "subject": [
+            "思乡诗"
+        ],
+        "emotion": [
+            "思乡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "由景（兰渚）及情（归思），以景物触发情感。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过描写兰渚之景，含蓄地表达归乡之情。"
+                }
+            ]
+        },
+        "analysis": "此句以‘悠悠’二字状兰渚之态，赋予景物以舒缓、绵长的韵律，进而自然引出‘归思’。情与景的结合较为自然，但‘动归思’的表达略显直白，缺乏更含蓄、更深层的情感渗透。作为单句，它勾勒了一个思乡的瞬间，但意象的独创性与情感的穿透力尚有提升空间。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "兰渚与归思的联系建立在传统意象上，缺乏新意，未能达到含蓄蕴藉的极致。",
+                "realm": "能",
+                "reason": "虽有借景抒情之意，但情感表达稍显直露，未能做到‘不着一字，尽得风流’。"
+            }
+        ],
+        "imagery": [
+            "兰渚",
+            "归思"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句仅此一句，为唯一选择。"
+        }
+    },
+    {
+        "title": "句  其一三",
+        "author": "釋祖可",
+        "paragraphs": [
+            "蒼崖古木靄烟蘿。"
+        ],
+        "paragraphs_simplified": [
+            "苍崖古木霭烟萝。"
+        ],
+        "translation": "苍翠的山崖和古老的树木，笼罩在烟雾与藤萝之中。此句纯写山中景物，描绘了一幅苍古幽深的画面。",
+        "score": 2.2,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直接铺陈景物，以白描手法勾勒山崖、古木、烟萝。",
+            "evidence": [
+                {
+                    "tag": "白描",
+                    "explanation": "用朴素的语言直接描绘景物的本来面貌。"
+                }
+            ]
+        },
+        "analysis": "此句堆砌了‘苍崖’、‘古木’、‘烟萝’等意象，营造出一种幽深古朴的氛围。然而，这些意象均为古典山水诗中的常见元素，组合在一起虽无大错，却也缺乏独特的艺术个性与新鲜感。其描绘止于形貌，未能深入景物的神韵，整体显得较为平庸。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "意象组合流于表面，未能展现自然之趣的精髓，显得刻意。",
+                "realm": "能",
+                "reason": "试图追求自然之境，但因意象陈旧，反显堆砌，未能达到‘俯拾即是，不取诸邻’的自然。"
+            }
+        ],
+        "imagery": [
+            "苍崖",
+            "古木",
+            "烟萝"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句仅此一句，为唯一选择。"
+        }
+    },
+    {
+        "title": "句  其一四",
+        "author": "釋祖可",
+        "paragraphs": [
+            "一任此身同轉蓬。"
+        ],
+        "paragraphs_simplified": [
+            "一任此身同转蓬。"
+        ],
+        "translation": "任由此身如同飘转的蓬草一般。此句以转蓬自喻，抒发了身世飘零、随遇而安的感慨。",
+        "score": 3.0,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "豁达",
+            "无奈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "以转蓬为喻，直接点明自身处境与心境。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "将自己比作随风飘转的蓬草，形象地写出漂泊无定的状态。"
+                }
+            ]
+        },
+        "analysis": "此句运用‘转蓬’这一经典意象，将身世之感寄托其中，比喻贴切。‘一任’二字流露出一种听之任之、无可奈何的豁达与苍凉。情感表达较为直接，但因‘转蓬’意象在古典诗歌中使用频率极高，此句未能翻出新意，整体意境略显陈旧，但仍能传达出一种普遍的人生感慨。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "转蓬意象虽能传达飘零之感，但缺乏新奇的视角，悲慨之情未能达到震撼人心的力度。",
+                "realm": "能",
+                "reason": "有悲慨之情，但意象与表达均较为常规，未能达到‘壮士拂剑，浩然弥哀’的深沉。"
+            }
+        ],
+        "imagery": [
+            "转蓬"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句仅此一句，为唯一选择。"
+        }
+    },
+    {
+        "title": "句  其一五",
+        "author": "釋祖可",
+        "paragraphs": [
+            "一葦鳴桹下渺然。"
+        ],
+        "paragraphs_simplified": [
+            "一苇鸣桹下渺然。"
+        ],
+        "translation": "一根芦苇敲击着船板，声音在浩渺的烟波中渐渐消失。此句描绘了乘舟入水、渐行渐远的情景，营造出一种空阔渺茫的意境。",
+        "score": 2.8,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "孤独",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "动静结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "以‘鸣桹’之声写动，以‘渺然’之态写静与远，动静相生，由近及远。",
+            "evidence": [
+                {
+                    "tag": "动静结合",
+                    "explanation": "‘鸣桹’是动态的声音，‘渺然’是静态的视觉与感觉，二者结合，意境全出。"
+                }
+            ]
+        },
+        "analysis": "此句以‘一苇’代指小船，以‘鸣桹’之声反衬江面的寂静与辽阔，‘下渺然’三字更是将视线与心境一同推向远方。声与景、近与远的对比，使得画面富有层次感。虽是单句，却蕴含了丰富的视听元素与空间感，在五句中艺术表现力较强，能引人遐想。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "‘一苇’、‘鸣桹’、‘渺然’的组合，营造出一种清冷、空灵、奇特的境界。",
+                "realm": "能",
+                "reason": "意境清幽，景象独特，有清奇之风，但作为单句，其境界的完整性尚有欠缺。"
+            }
+        ],
+        "imagery": [
+            "苇",
+            "船",
+            "江水"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "全句仅此一句，为唯一选择。"
+        }
+    },
+    {
+        "title": "句  其一六",
+        "author": "釋祖可",
+        "paragraphs": [
+            "有時羅襪步微月，想見江妃相與娛。"
+        ],
+        "paragraphs_simplified": [
+            "有时罗袜步微月，想见江妃相与娱。"
+        ],
+        "translation": "有时穿着罗袜在朦胧的月光下漫步，想象着与江妃一同游乐。罗袜指丝织的袜子；微月指光线微弱的月亮；江妃是传说中的水中女神，常喻指美丽的女子。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句写实描绘月下漫步场景，后句转入虚写想象，通过江妃典故连接现实与幻想。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'江妃'比喻所思慕的佳人，将现实漫步升华为神话意象。"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "'步微月'为实景，'想见'转入虚境，形成空间跳跃。"
+                }
+            ]
+        },
+        "analysis": "此句以月下漫步为引，构筑朦胧意境，但意象选择如'罗袜''江妃'皆承袭古典套路，缺乏新意。'相与娱'的情感表达流于表面，未能深入挖掘孤独或相思的复杂心境。整体技法虽完整，但立意浅显，属于平庸的应景之作。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "试图以'微月''江妃'营造华美氛围，但堆砌痕迹明显，反显浮艳。",
+                "realm": "劣",
+                "reason": "模仿绮丽风格却失于空洞，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "罗袜",
+            "微月",
+            "江妃"
+        ],
+        "allusions": [
+            {
+                "phrase": "江妃",
+                "explanation": "传说中的洛水女神，此处借指理想化的佳人。"
+            }
+        ],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一断句，意象相对完整。"
+        }
+    },
+    {
+        "title": "句  其一七",
+        "author": "釋祖可",
+        "paragraphs": [
+            "茅簷欹送晚，苔徑曲邀春。"
+        ],
+        "paragraphs_simplified": [
+            "茅檐欹送晚，苔径曲邀春。"
+        ],
+        "translation": "倾斜的茅屋屋檐送别黄昏，弯曲的苔藓小径邀请春天。茅檐指茅草覆盖的屋檐；欹指倾斜；送晚指送走傍晚；苔径是生满青苔的小路；曲邀春形容小径蜿蜒似在迎接春光。",
+        "score": 3.0,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "两句对仗工整，通过'送晚'与'邀春'的拟人化动作，将时间流转与空间景物紧密衔接。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "'送晚''邀春'赋予自然景物以人的主动性。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "'茅檐'对'苔径'，'欹送晚'对'曲邀春'，句式严整。"
+                }
+            ]
+        },
+        "analysis": "此联以工整对偶勾勒山居暮春之景，拟人手法使静态景物生动，但'茅檐''苔径'意象陈旧，未脱传统隐逸诗窠臼。情感表达含蓄却缺乏深层寄托，意境清浅，技法熟练而创意不足。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以简淡笔触写景，但人工雕琢过重，反失天然之趣。",
+                "realm": "能",
+                "reason": "技法成熟但意境未达冲淡之境。"
+            }
+        ],
+        "imagery": [
+            "茅檐",
+            "晚",
+            "苔径",
+            "春"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "对仗精工，意象组合完整。"
+        }
+    },
+    {
+        "title": "句  其一八",
+        "author": "釋祖可",
+        "paragraphs": [
+            "亂山爭夕陽。"
+        ],
+        "paragraphs_simplified": [
+            "乱山争夕阳。"
+        ],
+        "translation": "群峰竞相争夺夕阳余晖。乱山指杂乱起伏的山峦；争夕阳形容山峰仿佛在争夺落日的光辉。",
+        "score": 2.0,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [],
+        "time_season": {
+            "season": "",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "单句直呈山争夕阳的激烈画面，以动词'争'激活静态山景。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "'争'字将山峦人格化，赋予竞争性动态。"
+                }
+            ]
+        },
+        "analysis": "作为断句，此五字以拟人手法浓缩山夕相争的瞬间，意象简练却流于表面。'争'字虽生动，但缺乏情感纵深与上下文支撑，整体单薄如速写，未构成完整诗意空间。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以简劲笔力写山势，但单句难展气势，反显枯窘。",
+                "realm": "劣",
+                "reason": "模仿劲健风格却失于空洞，徒有字面张力。"
+            }
+        ],
+        "imagery": [
+            "乱山",
+            "夕阳"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一断句，动词使用突出。"
+        }
+    },
+    {
+        "title": "絕句",
+        "author": "何正平",
+        "paragraphs": [
+            "坐見茅齋一葉秋，小山叢柱鳥聲幽。",
+            "不知疊嶂夜來雨，清曉石楠花亂流。"
+        ],
+        "paragraphs_simplified": [
+            "坐见茅斋一叶秋，小山丛柱鸟声幽。",
+            "不知叠嶂夜来雨，清晓石楠花乱流。"
+        ],
+        "translation": "独坐茅斋见一叶知秋，小山丛柱间鸟声幽深。不知重叠山峦昨夜落雨，清晨时石楠花纷乱如流。茅斋指茅草书斋；一叶秋典出'一叶知秋'；丛柱或指山中石柱；叠嶂即重叠山峰；石楠花为春花，乱流喻花瓣飘落。",
+        "score": 4.0,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前联写静景秋意，后联转写夜雨晨花，时间推移中由静入动，层次分明。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "'花乱流'以水流喻落花，化静为动。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "'鸟声幽'之静与'花乱流'之动相映成趣。"
+                }
+            ]
+        },
+        "analysis": "此绝句结构精严，首句以'一叶秋'点明节令，次句以幽鸟声烘托静谧。后联转折自然，夜雨与晨花的虚实对照拓展了时空维度。'石楠花乱流'意象鲜活，将雨后花落写得灵动流转，整体意境真切，情感含蓄而有余味。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以'一叶秋''花乱流'等意象构筑清新奇峭的意境，不落俗套。",
+                "realm": "妙",
+                "reason": "风格清朗，意境真切，属能品之上。"
+            }
+        ],
+        "imagery": [
+            "茅斋",
+            "叶",
+            "秋",
+            "小山",
+            "柱",
+            "鸟声",
+            "叠嶂",
+            "雨",
+            "石楠花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以典入景，凝练点题。"
+        }
+    }
+]

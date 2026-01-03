@@ -1,0 +1,671 @@
+[
+    {
+        "title": "遣興",
+        "author": "王洋",
+        "paragraphs": [
+            "老如認老應無病，貧要安貧可免憂。",
+            "貧病欺人須服弱，嗔拳笑面卻應休。"
+        ],
+        "paragraphs_simplified": [
+            "老如认老应无病，贫要安贫可免忧。",
+            "贫病欺人须服弱，嗔拳笑面却应休。"
+        ],
+        "translation": "老了就要承认老，这样就不会有病；贫穷要安于贫穷，就可以避免忧愁。贫穷和疾病欺负人时必须服软，愤怒的拳头和笑脸却应该停止。",
+        "score": 2.5,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "直接抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先提出老与贫的应对之道，再强调面对贫病的态度。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "老如认老应无病，贫要安贫可免忧。两句结构对称，音韵协调。"
+                }
+            ]
+        },
+        "analysis": "此诗以直白之语阐述老贫之理，意象陈旧，立意浅显，缺乏新意。情感流于表面，未能构筑深远意境，整体定性为平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "意象简单，如老、贫、病，但缺乏深层意境。",
+                "realm": "劣",
+                "reason": "试图冲淡，但语言直露，缺乏韵味。"
+            }
+        ],
+        "imagery": [
+            "老",
+            "贫",
+            "病"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "直接点明主题，语言简洁。"
+        }
+    },
+    {
+        "title": "遷學",
+        "author": "王洋",
+        "paragraphs": [
+            "闕里荆榛一掃除，文明猶是舊規模。",
+            "要令多士充庭賦，能識邦君此意無。"
+        ],
+        "paragraphs_simplified": [
+            "阙里荆榛一扫除，文明犹是旧规模。",
+            "要令多士充庭赋，能识邦君此意无。"
+        ],
+        "translation": "阙里的荆棘榛莽一扫而空，文明依然是旧时的规模。要让众多士子充满庭院赋诗，能识别邦君的这个意图吗？",
+        "score": 3.0,
+        "subject": [
+            "干谒诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "赞美",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先描述扫除障碍，再提出要士子赋诗，识别意图。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "荆榛一扫除，比喻扫除文明障碍。"
+                }
+            ]
+        },
+        "analysis": "此诗以阙里为背景，倡导文明复兴，但意象抽象，情感表达不够真切。语言工整却缺乏新意，意境平庸，未能彰显独特艺术价值。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "意象如荆榛、文明，但缺乏生动性。",
+                "realm": "凡品",
+                "reason": "语言工整但立意浅显。"
+            }
+        ],
+        "imagery": [
+            "荆榛",
+            "文明",
+            "士子"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点出扫除障碍，意象较鲜明。"
+        }
+    },
+    {
+        "title": "聞詔下示兒姪",
+        "author": "王洋",
+        "paragraphs": [
+            "一封丹詔聘儒林，裋褐書生競拂衿。",
+            "發憤正須先賈勇，莫教空望狀元心。"
+        ],
+        "paragraphs_simplified": [
+            "一封丹诏聘儒林，裋褐书生竞拂衿。",
+            "发愤正须先贾勇，莫教空望状元心。"
+        ],
+        "translation": "一封红色的诏书征聘儒林，粗布衣的书生们争相整理衣襟。发愤正需要先鼓起勇气，不要空望着状元的心愿。",
+        "score": 3.8,
+        "subject": [
+            "干谒诗"
+        ],
+        "emotion": [
+            "期待",
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "直接抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先叙述诏书下达，再鼓励发愤。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "丹诏代指皇帝的诏书。"
+                }
+            ]
+        },
+        "analysis": "此诗以诏书下达为背景，激励书生奋发，语言简洁有力，情感真挚。但意象较为常见，缺乏独特艺术价值，技法成熟而意境一般。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "意象如丹诏、书生，但缺乏深度。",
+                "realm": "能品",
+                "reason": "技法成熟，但意境一般。"
+            }
+        ],
+        "imagery": [
+            "诏书",
+            "书生",
+            "状元"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "发愤正须先贾勇，直接鼓励奋发，语言有力。"
+        }
+    },
+    {
+        "title": "焚黄誥",
+        "author": "王洋",
+        "paragraphs": [
+            "伶俜族緒不堪論，兄弟相持老僅存。",
+            "方信有生同造化，君恩猶得賁丘園。"
+        ],
+        "paragraphs_simplified": [
+            "伶俜族绪不堪论，兄弟相持老仅存。",
+            "方信有生同造化，君恩犹得贲丘园。"
+        ],
+        "translation": "孤单的家族世系不堪谈论，兄弟相互扶持只剩老朽。才相信生命同于造化，君恩还能光耀丘园。",
+        "score": 2.8,
+        "subject": [
+            "悼亡诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "抒情"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "直接抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先描述家族不幸，再表达感恩君恩。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "伶俜族绪与君恩犹得形成对比。"
+                }
+            ]
+        },
+        "analysis": "此诗以家族凋零为背景，表达对君恩的感激，但情感流于表面，意象陈旧，缺乏深度。整体定性为平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "意象如族绪、兄弟、造化，但缺乏感染力。",
+                "realm": "凡品",
+                "reason": "情感表达直白，缺乏回甘。"
+            }
+        ],
+        "imagery": [
+            "族绪",
+            "兄弟",
+            "造化"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "方信有生同造化，点出生命感悟，稍有深度。"
+        }
+    },
+    {
+        "title": "徐氏幼婦以花獻几筵婦髙甥也",
+        "author": "王洋",
+        "paragraphs": [
+            "前徐愛孝世相傳，日薦珍嘗不計年。",
+            "便合一生成婦順，旅酬今始見初筵。"
+        ],
+        "paragraphs_simplified": [
+            "前徐爱孝世相传，日荐珍尝不计年。",
+            "便合一生成妇顺，旅酬今始见初筵。"
+        ],
+        "translation": "前徐的爱孝世代相传，每日进献珍馐不计年数。便合一生生成妇顺，旅酬今始见初筵。",
+        "score": 2.5,
+        "subject": [
+            "家训诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "赞美",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先叙述孝道传承，再描述妇顺场景。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "前徐可能指徐氏家族，有典故含义。"
+                }
+            ]
+        },
+        "analysis": "此诗以花献几筵为题，赞美孝道和妇德，但语言古奥，意象模糊，情感表达不够真切。立意传统，缺乏新意。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "意象如花、几筵、妇顺，但缺乏生动。",
+                "realm": "劣",
+                "reason": "语言晦涩，立意平庸。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "几筵",
+            "妇顺"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "前徐爱孝世相传，点出主题，语言简洁。"
+        }
+    },
+    {
+        "title": "近陋室以斗升釀家婦謂予未飲不以見告昨夜偷兒入室挈二壺去自此室中又復索寞今後酒熟便呼近鄰痛飲遇夜守視庻大家着力也呈諸兄兼簡士修思遠三首  其一",
+        "author": "王洋",
+        "paragraphs": [
+            "斗米蒸炊入小罌，未應消息到比鄰。",
+            "靜思懷璧真成罪，恐是糟牀夜滴聲。"
+        ],
+        "paragraphs_simplified": [
+            "斗米蒸炊入小罂，未应消息到比邻。",
+            "静思怀璧真成罪，恐是糟床夜滴声。"
+        ],
+        "translation": "用一斗米蒸煮后放入小罐中，消息尚未传到邻居那里。静静思考，怀揣宝玉（指有酒）反而成了罪过，恐怕是酒床在夜里滴酒的声音（暗示酒被偷或自酿的酒在滴漏）。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "生活诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先叙述酿酒过程，再通过比喻和细节描写表达因酒被偷而生的忧愁与愤懑。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“怀璧”比喻有酒招致祸患，暗示物质得失的哲理。"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "“糟床夜滴声”细腻刻画酒滴声，烘托出室内的寂静与失落。"
+                }
+            ]
+        },
+        "analysis": "此诗以酿酒事件为切入点，构筑出一种生活化的意境。意象如“斗米”“小罂”具体而微，折射出对物质生活的关注；“怀璧真成罪”一句，通过隐喻将日常琐事提升至道德反思，情感流露含蓄而克制。整体情景契合度较高，但立意略显平实，缺乏更深层的审美回甘，属于技法成熟但意境未拓的能品之作。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "意象取自日常炊具与声响，追求平实真切，但缺乏超逸之趣。",
+                "realm": "能品",
+                "reason": "试图以自然笔法勾勒生活细节，但意象陈旧，未能突破凡俗境界。"
+            }
+        ],
+        "imagery": [
+            "米",
+            "罂",
+            "糟床",
+            "声音"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“静思怀璧真成罪，恐是糟床夜滴声”以比喻和细节结合，更具哲理深度与意象生动性。"
+        }
+    },
+    {
+        "title": "近陋室以斗升釀家婦謂予未飲不以見告昨夜偷兒入室挈二壺去自此室中又復索寞今後酒熟便呼近鄰痛飲遇夜守視庻大家着力也呈諸兄兼簡士修思遠三首  其二",
+        "author": "王洋",
+        "paragraphs": [
+            "寂寞茅齋晝掩扉，著書還□易招譏。",
+            "固知不解論奇字，惡客何須抱酒歸。"
+        ],
+        "paragraphs_simplified": [
+            "寂寞茅斋昼掩扉，著书还□易招讥。",
+            "固知不解论奇字，恶客何须抱酒归。"
+        ],
+        "translation": "寂寞的茅屋白天也关着门，写书（此处□可能为缺字，意指写书行为）容易招致讥讽。本来就知道不懂讨论奇字（生僻字），恶客何必抱着酒回来（讽刺不请自来的客人）。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "生活诗"
+        ],
+        "emotion": [
+            "孤独",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "反问"
+            ],
+            "presentation_tags": [
+                "侧面烘托",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先描写茅斋寂寞与著书招讥的处境，再以反问句直指恶客行为，表达愤懑。",
+            "evidence": [
+                {
+                    "tag": "反问",
+                    "explanation": "“恶客何须抱酒归”通过反问强化对恶客的不满与讽刺。"
+                }
+            ]
+        },
+        "analysis": "此诗以茅斋为背景，意象如“寂寞茅斋”“恶客”陈旧，情感直露而缺乏节制。著书招讥与恶客抱酒的对比，试图构建一种疏离感，但立意浅显，语言近乎口语，缺乏意境的真切感。整体流于表面宣泄，未能达成审美距离，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "意象选取茅斋与恶客，追求粗放不羁，但处理粗糙，流于直白。",
+                "realm": "凡品",
+                "reason": "模仿疏野风格却失之浅俗，缺乏自然真趣，反显粗鄙。"
+            }
+        ],
+        "imagery": [
+            "茅斋",
+            "门",
+            "书",
+            "酒",
+            "客"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“固知不解论奇字，恶客何须抱酒归”以反问收尾，情感表达更为集中。"
+        }
+    },
+    {
+        "title": "近陋室以斗升釀家婦謂予未飲不以見告昨夜偷兒入室挈二壺去自此室中又復索寞今後酒熟便呼近鄰痛飲遇夜守視庻大家着力也呈諸兄兼簡士修思遠三首  其三",
+        "author": "王洋",
+        "paragraphs": [
+            "吏部真堪上罰觥，甕邉都不問公榮。",
+            "平明挈榼出門去，應笑童奴鼻息聲。"
+        ],
+        "paragraphs_simplified": [
+            "吏部真堪上罚觥，瓮边都不问公荣。",
+            "平明挈榼出门去，应笑童奴鼻息声。"
+        ],
+        "translation": "吏部官员真该被罚酒（讽刺其失职），在酒瓮边都不问公荣（指不关心他人，公荣为典故人物）。清晨提着酒器出门，应该笑童奴的鼾声（暗示自己逍遥自在）。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "豁达",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先借代讽刺官员，再通过清晨出门的细节，以乐衬哀表达豁达与愤懑交织的情感。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "“吏部”借代官员群体，讽刺其沉迷酒宴而失职。"
+                },
+                {
+                    "tag": "以乐衬哀",
+                    "explanation": "“应笑童奴鼻息声”以自身逍遥反衬官场沉闷，深化豁达感。"
+                }
+            ]
+        },
+        "analysis": "此诗以酒宴为线索，意象如“罚觥”“瓮边”生动，借代手法巧妙折射官场积弊。情感在愤懑与豁达间摆动，清晨出门的细节勾勒出超脱姿态，但立意仍囿于传统讽喻，未达更高意境。技法成熟，意象鲜活，整体呈现能品水准。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "意象如“罚觥”“挈榼”具力度，试图营造洒脱气概，但深度有限。",
+                "realm": "能品",
+                "reason": "豪放风格初具雏形，但情感层次单一，未能充分展开。"
+            }
+        ],
+        "imagery": [
+            "吏部",
+            "酒瓮",
+            "酒器",
+            "童奴",
+            "鼻息"
+        ],
+        "allusions": [
+            {
+                "phrase": "公荣",
+                "explanation": "指《世说新语》中刘公荣，典故暗示不关心他人酒宴交际。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“平明挈榼出门去，应笑童奴鼻息声”以动作细节展现豁达，意象更鲜活。"
+        }
+    },
+    {
+        "title": "再繼士修三絕  其一",
+        "author": "王洋",
+        "paragraphs": [
+            "直造門來誠有意，不持金去似全名。",
+            "端疑解習叔孫禮，竟酒曾無讙訟聲。"
+        ],
+        "paragraphs_simplified": [
+            "直造门来诚有意，不持金去似全名。",
+            "端疑解习叔孙礼，竟酒曾无讙讼声。"
+        ],
+        "translation": "直接上门来确实有意（指访友），不拿钱走似乎保全名声。端正怀疑学习叔孙礼（指礼仪），喝酒后竟然没有喧闹争论声。",
+        "score": 4.0,
+        "subject": [
+            "酬唱诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "对比"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先叙述访友行为，再用叔孙礼典故对比酒宴和谐，表达对礼仪的推崇。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“叔孙礼”引用叔孙通制礼典故，强调礼仪对社交的规范作用。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "“不持金去”与“无讙讼声”对比，凸显精神交往胜于物质。"
+                }
+            ]
+        },
+        "analysis": "此诗以访友酒宴为题材，用典“叔孙礼”彰显学识，意象抽象而典雅。情感通过对比手法间接流露，情景契合度较高，但典故略显晦涩，限制了意境的普适性。整体构筑出一种克制的闲适感，技法缜密，属能品向妙品过渡之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "意象如“门”“金”“礼”抽象化，追求礼仪之美，但需学识背景方能领会。",
+                "realm": "妙品",
+                "reason": "用典精准，情感含蓄，暗合典雅风格之精微。"
+            }
+        ],
+        "imagery": [
+            "门",
+            "金",
+            "酒",
+            "礼",
+            "声音"
+        ],
+        "allusions": [
+            {
+                "phrase": "叔孙礼",
+                "explanation": "指汉代叔孙通制定朝廷礼仪的典故，象征社交规范。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“端疑解习叔孙礼，竟酒曾无讙讼声”以典故点题，哲理深度更胜。"
+        }
+    }
+]

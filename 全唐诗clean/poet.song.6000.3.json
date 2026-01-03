@@ -1,0 +1,684 @@
+[
+    {
+        "title": "句  其一",
+        "author": "楊億",
+        "paragraphs": [
+            "眼中是面前人。"
+        ],
+        "paragraphs_simplified": [
+            "眼中是面前人。"
+        ],
+        "translation": "眼中所见即是面前之人。此句直述眼前景象，强调当下所见即为真实，无隐喻或深层情感，仅简单陈述人物在视野中的存在。",
+        "score": 1.5,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "平淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "单句直陈，无转折或铺垫，直接点出眼前人物。",
+            "evidence": [
+                {
+                    "tag": "白描",
+                    "explanation": "仅用五字勾勒人物在视野中的存在，无修饰或渲染。"
+                }
+            ]
+        },
+        "analysis": "此句作为残句，意象极度贫瘠，仅以“眼中”“面前”二词堆砌，缺乏情景交融与意境营造。语言直白如口语，未见任何艺术提炼或情感渗透，整体流于琐碎记录，无审美回甘。作为独立诗句，其价值近乎空白，属无效书写。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以自然口语入诗，但因缺乏意象组合与情感深度，沦为粗陋直白。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，模仿自然却失之浅陋，毫无韵味。"
+            }
+        ],
+        "imagery": [
+            "人"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一一句，但无亮点。"
+        }
+    },
+    {
+        "title": "句  其二",
+        "author": "楊億",
+        "paragraphs": [
+            "關榆漸落邊鴻過，誰勸劉郎酒十分。"
+        ],
+        "paragraphs_simplified": [
+            "关榆渐落边鸿过，谁劝刘郎酒十分。"
+        ],
+        "translation": "边关榆树叶子渐渐飘落，边塞鸿雁飞过；是谁劝刘郎将酒喝得酩酊大醉？前句写边塞秋景，后句用典故反问，暗含劝酒或人生放纵之意。",
+        "score": 2.6,
+        "subject": [
+            "边塞诗",
+            "羁旅诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "反问"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句以景起兴，后句用典反问，由景及人，形成情感转折。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“刘郎”指刘禹锡，代指文人失意或放纵形象。"
+                },
+                {
+                    "tag": "反问",
+                    "explanation": "“谁劝”强化无奈与愤懑情绪。"
+                }
+            ]
+        },
+        "analysis": "边塞意象（关榆、边鸿）与典故（刘郎）结合，构筑羁旅愁思，但意象组合陈旧，缺乏新意。反问句式稍增波澜，然整体立意仍陷于传统边塞诗的哀叹套路，情感表达直露，未见深层回甘。技法虽熟，却流于应酬式堆砌。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以边塞秋景与典故渲染悲慨，但因意象缺乏独创性，显得空洞。",
+                "realm": "凡",
+                "reason": "模仿悲慨而失之浅显，情感宣泄过度。"
+            }
+        ],
+        "imagery": [
+            "榆树",
+            "鸿雁",
+            "酒"
+        ],
+        "allusions": [
+            {
+                "phrase": "刘郎",
+                "explanation": "指唐代诗人刘禹锡，常用于诗歌中代指文人或自身失意形象。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "前句写景较生动，后句用典稍显牵强。"
+        }
+    },
+    {
+        "title": "句  其三",
+        "author": "楊億",
+        "paragraphs": [
+            "峭帆橫渡官橋柳，疊鼓警飛海岸鷗。"
+        ],
+        "paragraphs_simplified": [
+            "峭帆横渡官桥柳，叠鼓警飞海岸鸥。"
+        ],
+        "translation": "高耸的船帆横渡官桥边的柳树，连续的鼓声惊飞了海岸的海鸥。描绘渡口繁忙景象，船行与鼓声交织，动静结合，展现水上交通的紧张感。",
+        "score": 3.8,
+        "subject": [
+            "山水诗",
+            "叙事诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "动静结合",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "两句对仗工整，前句写船行之静，后句写鼓声之动，以景叙事，直接切入场景。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“峭帆”对“叠鼓”，“横渡”对“警飞”，工整均衡。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "船行静态与鸥飞动态形成对比。"
+                }
+            ]
+        },
+        "analysis": "对仗精严，意象（帆、桥、柳、鼓、鸥）组合紧凑，动静相生，勾勒出渡口生动的画面。语言凝练，无冗余辞藻，情景契合度高，意境真切。虽为残句，但技法成熟，展现出宋代诗歌的缜密风格，具有独立审美价值。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "意象有力，对仗工整，体现劲健之风，但未达雄浑之境。",
+                "realm": "能",
+                "reason": "技法娴熟，但意境未臻极致。"
+            }
+        ],
+        "imagery": [
+            "帆",
+            "桥",
+            "柳",
+            "鼓",
+            "鸥"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "前句意象凝练，动静结合更自然。"
+        }
+    },
+    {
+        "title": "句  其四",
+        "author": "楊億",
+        "paragraphs": [
+            "前瞰琵琶洲，後枕思禪寺。"
+        ],
+        "paragraphs_simplified": [
+            "前瞰琵琶洲，后枕思禅寺。"
+        ],
+        "translation": "向前俯瞰琵琶洲，后面靠着思禅寺。此句简单描述地理位置，指出前后景物，无情感或隐喻，纯为地理记录。",
+        "score": 1.8,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "白描"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直述前后方位，无转折或铺垫，仅以方位词连接景物。",
+            "evidence": [
+                {
+                    "tag": "白描",
+                    "explanation": "纯用方位描述，无修饰或情感渲染。"
+                }
+            ]
+        },
+        "analysis": "诗句仅罗列地理名词，缺乏意象深度与情感渗透。语言干瘪，未构筑任何意境，读来如导游词般索然无味。虽试图以“瞰”“枕”二字增添动态，但整体仍陷于琐碎记录，无艺术提炼，属无效书写。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "模仿自然口语，但因意象单薄，沦为平铺直叙。",
+                "realm": "劣",
+                "reason": "直白无味，未能体现自然之趣。"
+            }
+        ],
+        "imagery": [
+            "洲",
+            "寺"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "唯一两句，但无亮点。"
+        }
+    },
+    {
+        "title": "句  其五",
+        "author": "楊億",
+        "paragraphs": [
+            "連天漢水鴨頭春，樂府銅鞮艷曲新。"
+        ],
+        "paragraphs_simplified": [
+            "连天汉水鸭头春，乐府铜鞮艳曲新。"
+        ],
+        "translation": "汉江水连天，呈现鸭头绿的春色；乐府新编的铜鞮艳曲。前句写春水浩渺，后句指音乐新艳，整体描绘春日繁华景象。",
+        "score": 2.9,
+        "subject": [
+            "节令诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句以景起，后句以事结，由自然及人事，呼应春日主题。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“鸭头春”以鸭头绿比喻春水颜色。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "“乐府”代指官方音乐机构。"
+                }
+            ]
+        },
+        "analysis": "辞藻华丽，意象（汉水、鸭头春、乐府）组合试图营造春日盛景，但“铜鞮艳曲”等词堆砌，略显浮艳。情感表达直白，缺乏含蓄回甘，整体立意未脱传统节令诗的颂扬套路，技法虽工，却流于表面铺陈。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "追求辞藻华美，但因意象缺乏深度，显得堆砌。",
+                "realm": "凡",
+                "reason": "模仿绮丽而失之浮艳，未达纤秾之境。"
+            }
+        ],
+        "imagery": [
+            "水",
+            "春",
+            "曲"
+        ],
+        "allusions": [
+            {
+                "phrase": "乐府",
+                "explanation": "汉代音乐机构，代指官方音乐或新曲。"
+            },
+            {
+                "phrase": "铜鞮",
+                "explanation": "地名或曲名，具体指代不详，用于增添艳曲之典。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "前句意象宏大，比喻生动。"
+        }
+    },
+    {
+        "title": "句  其六",
+        "author": "楊億",
+        "paragraphs": [
+            "渡海鯨波息，登山豹霧清。"
+        ],
+        "paragraphs_simplified": [
+            "渡海鲸波息，登山豹雾清。"
+        ],
+        "translation": "渡过大海，鲸鱼掀起的波浪平息了；登上山峰，豹子出没的雾气消散了。",
+        "score": 4.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "两句并列，描绘渡海和登山的景象，动静结合，意境开阔。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "渡海与登山、鲸波息与豹雾清形成工整对仗，增强节奏感。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过渡海和登山的自然景象，传达出宁静清新的情感。"
+                }
+            ]
+        },
+        "analysis": "此诗以简练笔触勾勒渡海与登山的动态画面，鲸波与豹雾意象鲜明，动静相生，构筑出开阔清奇的意境。语言洗炼无冗余，对仗工整，情景契合度高，展现出自然清新的艺术价值。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "通过鲸波和豹雾等意象，营造出清幽奇崛的境界，意境超诣。",
+                "realm": "神",
+                "reason": "以极简之语描绘宏大景象，技法精炼，意境深远。"
+            }
+        ],
+        "imagery": [
+            "海",
+            "鲸",
+            "山",
+            "豹",
+            "雾"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "渡海鲸波息意象雄浑，动静结合，最具代表性。"
+        }
+    },
+    {
+        "title": "句  其七",
+        "author": "楊億",
+        "paragraphs": [
+            "不把一言裨萬乘，祇叉雙手揖三公。"
+        ],
+        "paragraphs_simplified": [
+            "不把一言裨万乘，祇叉双手揖三公。"
+        ],
+        "translation": "不拿一句话来补益万乘之君，只是叉双手向三公作揖。",
+        "score": 3.0,
+        "subject": [
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "两句对比，直指朝廷谏言无用和官员无能，表达讽刺。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "萬乘代指皇帝，三公代指高官，增强批判性。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用古代官职制度，暗讽现实。"
+                }
+            ]
+        },
+        "analysis": "此诗以直白语言讽刺朝廷用人不当，萬乘与三公的借代运用直接，但缺乏含蓄之美。立意浅显，语言犀利却显直白，整体流于表面，未能构筑深层意境。",
+        "poetry_styles": [
+            {
+                "style": "讽喻",
+                "imagery_analysis": "通过萬乘和三公的意象，构建官场讽刺图景，但意象陈旧。",
+                "realm": "能",
+                "reason": "讽刺直接，技法熟练，但立意浅显，缺乏深度。"
+            }
+        ],
+        "imagery": [
+            "言",
+            "萬乘",
+            "手",
+            "三公"
+        ],
+        "allusions": [
+            {
+                "phrase": "萬乘",
+                "explanation": "古代指天子，万乘之国。"
+            },
+            {
+                "phrase": "三公",
+                "explanation": "古代最高官职。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "不把一言裨萬乘直接点题，最具批判性。"
+        }
+    },
+    {
+        "title": "句  其八",
+        "author": "楊億",
+        "paragraphs": [
+            "世人何人最得閑，司諫拂衣歸華山。"
+        ],
+        "paragraphs_simplified": [
+            "世人何人最得闲，司谏拂衣归华山。"
+        ],
+        "translation": "世人中谁最得闲？司谏官拂衣归隐华山。",
+        "score": 3.2,
+        "subject": [
+            "怀古诗"
+        ],
+        "emotion": [
+            "向往"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先问后答，通过司谏归隐之事，表达对自由的向往。",
+            "evidence": [
+                {
+                    "tag": "设问",
+                    "explanation": "世人何人最得闲提出问题，引发思考。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "司谏指谏官，归华山暗示隐居。"
+                }
+            ]
+        },
+        "analysis": "此诗以设问开篇，引出司谏归隐，拂衣归华山意象洒脱，但意境稍显单薄。语言简洁，却缺乏新意，情感表达较为直白，未能深入挖掘归隐主题的复杂性。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "归华山勾勒隐逸生活图景，但意象不够丰富。",
+                "realm": "能",
+                "reason": "表达归隐主题，技法熟练，但立意老套，缺乏深度。"
+            }
+        ],
+        "imagery": [
+            "世人",
+            "闲",
+            "司谏",
+            "衣",
+            "华山"
+        ],
+        "allusions": [
+            {
+                "phrase": "司谏",
+                "explanation": "古代谏官。"
+            },
+            {
+                "phrase": "归华山",
+                "explanation": "华山是隐居之地。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "司谏拂衣归华山意象生动，点明主题。"
+        }
+    },
+    {
+        "title": "句  其九",
+        "author": "楊億",
+        "paragraphs": [
+            "江南堤柳拂人頭，李白題詩徧酒樓。"
+        ],
+        "paragraphs_simplified": [
+            "江南堤柳拂人头，李白题诗遍酒楼。"
+        ],
+        "translation": "江南堤上的柳枝拂过人头，李白题诗遍布酒楼。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "并列江南春景和李白诗酒风流，情景交融。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "李白代表诗酒风流，增强文化内涵。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过堤柳和酒楼，表达对江南的赞美。"
+                }
+            ]
+        },
+        "analysis": "此诗将江南春色与李白诗酒并置，堤柳拂人头细节生动，李白题诗用典自然。意象丰富，但略显堆砌，缺乏深度，整体流畅却立意浅显。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "堤柳和酒楼构成繁华江南图景，辞藻华丽。",
+                "realm": "能",
+                "reason": "技法成熟，但意境不深，流于表面。"
+            }
+        ],
+        "imagery": [
+            "江南",
+            "堤",
+            "柳",
+            "人头",
+            "李白",
+            "诗",
+            "酒楼"
+        ],
+        "allusions": [
+            {
+                "phrase": "李白",
+                "explanation": "唐代诗人，象征诗酒风流。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "江南堤柳拂人头描写细腻，最具画面感。"
+        }
+    }
+]

@@ -1,0 +1,500 @@
+[
+    {
+        "title": "句  其七",
+        "author": "姚孝錫",
+        "paragraphs": [
+            "酒敵餘威翻索莫，詩含幽思倍清新。"
+        ],
+        "paragraphs_simplified": [
+            "酒敌余威翻索莫，诗含幽思倍清新。"
+        ],
+        "translation": "酒的敌手余威反而显得萧索寂寞，诗中蕴含幽思倍感清新。",
+        "score": 3.2,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借物抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "两句并列，前句写酒后萧索，后句写诗思清新，形成情绪对照。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "酒敵餘威翻索莫，詩含幽思倍清新。两句结构对称，词性呼应。"
+                },
+                {
+                    "tag": "借物抒情",
+                    "explanation": "借酒与诗为媒介，流露寂寥与清新之交织情感。"
+                }
+            ]
+        },
+        "analysis": "此联以酒与诗为双璧，前句写酒力消退后的萧索，后句转言诗思之清新，形成情绪转折。意象陈旧，立意浅显，仅止于文人闲趣之表露，未见深层意蕴。技法上对仗工整，但流于形式，缺乏动人力量，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以酒与诗为意象，试图营造闲适淡泊之境。",
+                "realm": "能品",
+                "reason": "意象陈旧，未能真正传达冲淡之神韵，流于表面。"
+            }
+        ],
+        "imagery": [
+            "酒",
+            "诗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句诗思清新，略显生动，较第一句更具余味。"
+        }
+    },
+    {
+        "title": "句  其八",
+        "author": "姚孝錫",
+        "paragraphs": [
+            "岸漲魚吹沫，山空石轉雷。"
+        ],
+        "paragraphs_simplified": [
+            "岸涨鱼吹沫，山空石转雷。"
+        ],
+        "translation": "岸边水涨鱼吐沫，山中空旷石转如雷。",
+        "score": 4.0,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "两句并列，写岸边与山中景象，动静相衬，构筑山水动态画卷。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "石转雷以雷声喻石滚之声，夸张传神。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "鱼吹沫为动景，山空为静境，对比鲜明。"
+                }
+            ]
+        },
+        "analysis": "此联写景生动，意象鲜明。岸涨鱼吹沫捕捉水涨鱼跃之细节，山空石转雷以雷喻石声，夸张而传神。动静结合，构筑出山野空灵之境。技法纯熟，意境真切，情感含蓄，属佳作，但未达神品之境。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以鱼沫和石雷为意象，描绘山水动态，不事雕琢。",
+                "realm": "能品",
+                "reason": "意象生动，技法成熟，但整体略显直白，缺乏深远余韵。"
+            }
+        ],
+        "imagery": [
+            "鱼",
+            "石",
+            "岸",
+            "山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "山空石转雷比喻新奇，声势宏大，更具视觉与听觉冲击力。"
+        }
+    },
+    {
+        "title": "句  其九",
+        "author": "姚孝錫",
+        "paragraphs": [
+            "舞風初學絮，带雨不成花。"
+        ],
+        "paragraphs_simplified": [
+            "舞风初学絮，带雨不成花。"
+        ],
+        "translation": "在风中舞动初学柳絮，带着雨却成不了花。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "两句写柳絮状态，前句风中舞动，后句雨中凋零，形成命运转折。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "初学絮赋予柳絮人性，暗示其稚嫩与无常。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "借柳絮脆弱之态，隐喻人生失意或时光易逝。"
+                }
+            ]
+        },
+        "analysis": "此联咏柳絮，以舞风初学絮拟人化描绘其轻盈，但带雨不成花转折写其雨中凋零。意象虽常见，对仗工整，流露惜春之情，然立意浅显，未能超越传统咏絮题材，情感宣泄直白，缺乏审美距离。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以柳絮、风雨为意象，表达脆弱与无常之悲。",
+                "realm": "凡品",
+                "reason": "意象陈旧，技法平庸，试图悲慨却流于表面，未达深沉。"
+            }
+        ],
+        "imagery": [
+            "柳絮",
+            "雨",
+            "风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "舞风初学絮拟人手法使柳絮形象鲜活，较后句更具动态美感。"
+        }
+    },
+    {
+        "title": "句  其一○",
+        "author": "姚孝錫",
+        "paragraphs": [
+            "谷虛繁地籟，境寂散天香。"
+        ],
+        "paragraphs_simplified": [
+            "谷虚繁地籁，境寂散天香。"
+        ],
+        "translation": "山谷空虚繁生地籁，境界寂静散发天香。",
+        "score": 4.2,
+        "subject": [
+            "山水诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "两句对仗，写山谷之声与香，以虚静衬幽寂，构筑超然之境。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "谷虛繁地籟，境寂散天香。词义对称，音律和谐。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "借地籁与天香意象，渗透禅意与淡泊心境。"
+                }
+            ]
+        },
+        "analysis": "此联以谷虚对境寂，地籁对天香，构筑空灵幽静之境。意象纯净，动静相生，技法精炼。情感含蓄，不直露，有回甘之妙，深得山水禅理之趣，属佳作，意境真切，情景交融。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以地籁和天香为意象，营造超然物外之境，不染尘嚣。",
+                "realm": "妙品",
+                "reason": "意境真切，技法纯熟，深得冲淡之神韵，余味悠长。"
+            }
+        ],
+        "imagery": [
+            "谷",
+            "地籁",
+            "境",
+            "天香"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "谷虛繁地籁意象生动，传达自然之声，奠定全诗幽静基调。"
+        }
+    },
+    {
+        "title": "句  其一一",
+        "author": "姚孝錫",
+        "paragraphs": [
+            "雲生古木千章秀，山抱晴川一掌平。"
+        ],
+        "paragraphs_simplified": [
+            "云生古木千章秀，山抱晴川一掌平。"
+        ],
+        "translation": "云生古木千株秀，山抱晴川一掌平。",
+        "score": 4.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "两句并列，前句写云木之秀，后句写山川之平，视野由高到低，气势恢宏。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "一掌平比喻平原平坦如掌，强化空间辽阔感。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "借山水宏阔景象，寄寓豁达豪迈之胸怀。"
+                }
+            ]
+        },
+        "analysis": "此联气象开阔，云生古木千章秀勾勒山林秀美，山抱晴川一掌平以夸张手法写平原广阔。动静结合，意象宏大，技法娴熟。情感不直露，通过景物烘托豪迈心境，整体浑然一体，属妙品，拓宽了山水诗的视觉维度。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "以云、木、山、川为意象，构筑壮阔山水画卷，气势磅礴。",
+                "realm": "妙品",
+                "reason": "意象宏大，技法精炼，雄浑之气自然流露，无斧凿痕。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "古木",
+            "山",
+            "晴川"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "山抱晴川一掌平夸张生动，视野宏大，最能体现全诗雄浑气魄。"
+        }
+    },
+    {
+        "title": "句  其一二",
+        "author": "姚孝錫",
+        "paragraphs": [
+            "詩忙疏酒盞，俸薄減厨煙。"
+        ],
+        "paragraphs_simplified": [
+            "诗忙疏酒盏，俸薄减厨烟。"
+        ],
+        "translation": "作诗繁忙疏远了酒杯，俸禄微薄减少了厨房炊烟。",
+        "score": 3.2,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "通过工整对仗直陈生活状态，以'诗忙'与'俸薄'构成因果逻辑。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "'詩忙疏酒盞'与'俸薄減厨煙'形成严格对仗"
+                }
+            ]
+        },
+        "analysis": "此联以白描手法勾勒文人清贫生活图景。'诗忙'与'俸薄'构成双重生存困境，酒盏疏离与厨烟稀薄形成物质与精神的双重匮乏。对仗工整却失之直露，意象选择囿于生活表象，未能升华出更深层的生命体验。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图营造淡泊意境，但意象过于写实缺乏空灵",
+                "realm": "凡品",
+                "reason": "语言质朴但流于表面，未达冲淡之境的超然"
+            }
+        ],
+        "imagery": [
+            "诗",
+            "酒",
+            "俸禄",
+            "炊烟"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以'诗忙'点出文人特质，与'疏酒盏'形成张力"
+        }
+    },
+    {
+        "title": "句  其一三",
+        "author": "姚孝錫",
+        "paragraphs": [
+            "玄晏暮年常抱病，子山終日苦思歸。"
+        ],
+        "paragraphs_simplified": [
+            "玄晏暮年常抱病，子山终日苦思归。"
+        ],
+        "translation": "皇甫谧晚年常患病，庾信终日苦思归乡。",
+        "score": 3.5,
+        "subject": [
+            "怀古诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "羁旅"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借古抒怀"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以两位历史人物的困境并置，构建双重隐喻结构。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "'玄晏'指皇甫谧，'子山'指庾信，皆喻自身境遇"
+                }
+            ]
+        },
+        "analysis": "通过皇甫谧病痛与庾信乡愁的典故叠加，构筑双重人生困境的隐喻。对仗工稳但意象陈旧，典故运用未能突破传统模式。情感表达受典故限制显得隔膜，未能将历史痛感转化为当代共鸣。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "借用历史人物的悲情，但缺乏个人化情感渗透",
+                "realm": "凡品",
+                "reason": "典故堆砌导致情感空洞，未达悲慨之境的深沉"
+            }
+        ],
+        "imagery": [
+            "暮年",
+            "病",
+            "归思"
+        ],
+        "allusions": [
+            {
+                "phrase": "玄晏",
+                "explanation": "皇甫谧的别号，西晋学者，晚年多病"
+            },
+            {
+                "phrase": "子山",
+                "explanation": "庾信的字，南北朝诗人，常怀乡愁"
+            }
+        ],
+        "sentence_types": [
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以'抱病'具象化人生暮年的生理困境"
+        }
+    }
+]

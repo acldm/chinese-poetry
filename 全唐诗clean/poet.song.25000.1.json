@@ -1,0 +1,1166 @@
+[
+    {
+        "title": "明叔昆仲特惠梅花聊賦小詩三篇爲謝  其二",
+        "author": "韓維",
+        "paragraphs": [
+            "玉斝久期繁艷至，筠籠先漏暗香來。",
+            "歌童知我憐芳意，不向尊前唱落梅。"
+        ],
+        "paragraphs_simplified": [
+            "玉斝久期繁艳至，筠笼先漏暗香来。",
+            "歌童知我怜芳意，不向尊前唱落梅。"
+        ],
+        "translation": "玉杯长久期待繁花盛开，竹笼先漏出暗香。歌童知道我怜惜花意，不在酒席前唱落梅。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "闲适",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写期待梅花到来，再写歌童理解心意。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "繁艳比喻梅花盛开"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "歌童知我怜芳意"
+                }
+            ]
+        },
+        "analysis": "此诗以玉斝、筠笼为意象，构筑出期待梅花的雅致场景。歌童不唱落梅的细节，折射出诗人对梅花的怜惜，情感含蓄而真切。整体格调清雅，但立意略显平庸，缺乏新意，意象堆砌而未能深化意境。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "意象雅致但缺乏灵动",
+                "realm": "能",
+                "reason": "试图典雅但略显堆砌，未能达到高古境界"
+            }
+        ],
+        "imagery": [
+            "玉斝",
+            "筠笼",
+            "梅花",
+            "歌童"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以玉斝期待梅花，意象生动"
+        }
+    },
+    {
+        "title": "明叔昆仲特惠梅花聊賦小詩三篇爲謝  其三",
+        "author": "韓維",
+        "paragraphs": [
+            "朱萼瓊華次第開，煩君自折向春臺。",
+            "遥知玉季承歡讌，唱盡新詞釂巨杯。"
+        ],
+        "paragraphs_simplified": [
+            "朱萼琼华次第开，烦君自折向春台。",
+            "遥知玉季承欢宴，唱尽新词釂巨杯。"
+        ],
+        "translation": "红花白花依次开放，麻烦你亲自折花到春台。遥想玉季在欢宴中，唱完新词饮大杯。",
+        "score": 3.2,
+        "subject": [
+            "咏物诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先写梅花开放，再写折花送人，最后想象欢宴场景。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "朱萼琼华次第开，烦君自折向春台"
+                },
+                {
+                    "tag": "虚实结合",
+                    "explanation": "实写折花，虚写欢宴"
+                }
+            ]
+        },
+        "analysis": "诗中朱萼琼华描绘梅花色彩，意象鲜明，但烦君自折稍显直白。后联转入欢宴想象，情感流于表面，缺乏深层意蕴。整体技法熟练，但意境浅显，辞藻华丽而未能含蓄。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "辞藻华丽但意象重复",
+                "realm": "能",
+                "reason": "试图绮丽但稍显堆砌，未能自然"
+            }
+        ],
+        "imagery": [
+            "朱萼",
+            "琼华",
+            "春台",
+            "玉季",
+            "巨杯"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以朱萼琼华写梅花盛开，色彩生动"
+        }
+    },
+    {
+        "title": "懷鄰幾",
+        "author": "韓維",
+        "paragraphs": [
+            "清醉由來未愜心，更携殘酒傍花陰。",
+            "共思瀟灑江夫子，獨擁枯桐事苦吟。"
+        ],
+        "paragraphs_simplified": [
+            "清醉由来未惬心，更携残酒傍花阴。",
+            "共思潇洒江夫子，独拥枯桐事苦吟。"
+        ],
+        "translation": "清醉从来未满足心意，更带残酒靠花阴。共同思念潇洒的江夫子，独自抱着枯桐苦吟。",
+        "score": 3.5,
+        "subject": [
+            "怀古诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先写饮酒未足，再写花阴饮酒，最后转入思念和苦吟。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "清醉由来未惬心，更携残酒傍花阴"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "枯桐比喻琴"
+                }
+            ]
+        },
+        "analysis": "此诗以清醉、残酒起笔，构筑出微醺的意境，后联独拥枯桐暗指弹琴苦吟，情感深沉。意象如花阴、枯桐归一化后简洁，但江夫子指代不明，略显隔阂。整体情感真挚，但表达稍显直露，未能含蓄。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "情感深沉但意象陈旧",
+                "realm": "能",
+                "reason": "情感深沉，但意象未能创新"
+            }
+        ],
+        "imagery": [
+            "清醉",
+            "残酒",
+            "花阴",
+            "枯桐"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句独拥枯桐事苦吟，形象传达孤独苦吟之情"
+        }
+    },
+    {
+        "title": "懷景仁",
+        "author": "韓維",
+        "paragraphs": [
+            "電激波旋春已空，此間尊酒幾時同。",
+            "欲知對酒思君處，零落殘花滿架風。"
+        ],
+        "paragraphs_simplified": [
+            "电激波旋春已空，此间尊酒几时同。",
+            "欲知对酒思君处，零落残花满架风。"
+        ],
+        "translation": "电闪波旋春天已空，这里尊酒何时同饮。欲知对酒思君之处，零落残花满架风。",
+        "score": 3.8,
+        "subject": [
+            "怀古诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "思乡"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先写春空，再问酒同，最后以残花显志。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "电激波旋比喻时光"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "末句零落残花满架风点明思君"
+                }
+            ]
+        },
+        "analysis": "首句电激波旋以动态意象写春空，气势不凡，但春已空稍显突兀。后联以残花满架烘托思君之情，情景交融，意境凄美。整体结构紧凑，但电激波旋与残花意象衔接略生硬，未能浑然一体。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "情感悲凉但意象跳跃",
+                "realm": "能",
+                "reason": "试图悲慨但意象衔接生硬"
+            }
+        ],
+        "imagery": [
+            "电激波旋",
+            "尊酒",
+            "残花",
+            "架风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句零落残花满架风，以景结情，余味悠长"
+        }
+    },
+    {
+        "title": "答次道馬上見示",
+        "author": "韓維",
+        "paragraphs": [
+            "醉插花枝薄暮歸，不知風雨過長堤。",
+            "夫君信是高陽客，還有新詩馬上題。"
+        ],
+        "paragraphs_simplified": [
+            "醉插花枝薄暮归，不知风雨过长堤。",
+            "夫君信是高阳客，还有新诗马上题。"
+        ],
+        "translation": "醉插花枝薄暮归，不知风雨过长堤。夫君信是高阳客，还有新诗马上题。",
+        "score": 3.0,
+        "subject": [
+            "酬唱诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写醉归，再写风雨，最后用典题诗。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "高阳客指酒徒"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "醉插花枝薄暮归，不知风雨过长堤"
+                }
+            ]
+        },
+        "analysis": "此诗以醉插花枝起笔，生动描绘醉态，但不知风雨略显平淡。后联用高阳客典故，贴切但陈旧。整体叙事流畅，但缺乏深度，流于应酬，意象普通未能升华。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "叙事流畅但意象平庸",
+                "realm": "凡",
+                "reason": "试图自然但意象普通，未能高古"
+            }
+        ],
+        "imagery": [
+            "花枝",
+            "风雨",
+            "长堤",
+            "高阳客"
+        ],
+        "allusions": [
+            {
+                "phrase": "高阳客",
+                "explanation": "指酒徒，典出《史记》"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句醉插花枝薄暮归，形象生动"
+        }
+    },
+    {
+        "title": "同和叔早出天波門馬上口號",
+        "author": "韓維",
+        "paragraphs": [
+            "去年連騎出天波，共愛晴暘景氣和。",
+            "又喜遊從經歲月，西城宮樹綠嵯峨。"
+        ],
+        "paragraphs_simplified": [
+            "去年连骑出天波，共爱晴暘景气和。",
+            "又喜游从经岁月，西城宫树绿嵯峨。"
+        ],
+        "translation": "去年连骑出天波门，共同喜爱晴朗天气和景色。又喜游从经过岁月，西城宫树绿意嵯峨。",
+        "score": 2.5,
+        "subject": [
+            "送别诗",
+            "纪游诗"
+        ],
+        "emotion": [
+            "闲适",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句回忆去年同游之乐，后两句转入当下重逢之喜，以景结情。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "首联两句结构对称，'连骑'对'游从'，'晴暘'对'宫树'。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "借'西城宫树绿嵯峨'的景物描写寄托欢聚之情。"
+                }
+            ]
+        },
+        "analysis": "此诗以平实语言勾勒旧游场景，意象选取如'天波''宫树'略显陈旧，缺乏新奇视角。结构上虽有时间跨度，但情感流于表面，未能深入挖掘离合之悲。整体意境浅显，属于应酬之作，未能突破常规送别诗的窠臼。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以寻常景物营造闲适意境，但意象组合缺乏张力。",
+                "realm": "能品",
+                "reason": "技法平妥，但意境未达冲淡之境，流于浅近。"
+            }
+        ],
+        "imagery": [
+            "天波门",
+            "晴暘",
+            "宫树"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以景收束，画面感较强。"
+        }
+    },
+    {
+        "title": "春貼子皇帝閣六首  其一",
+        "author": "韓維",
+        "paragraphs": [
+            "和氣生金殿，微風轉畫旗。",
+            "年年好春色，先是帝家知。"
+        ],
+        "paragraphs_simplified": [
+            "和气生金殿，微风转画旗。",
+            "年年好春色，先是帝家知。"
+        ],
+        "translation": "和气充盈金殿，微风吹动画旗。年年美好春色，总是皇家最先知晓。",
+        "score": 2.0,
+        "subject": [
+            "应制诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "赞美",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句写景，次句点题，直陈皇家春色之先得。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前两句'和气'对'微风'，'金殿'对'画旗'，工整但呆板。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "以'金殿''画旗'象征皇权，寄托颂圣之意。"
+                }
+            ]
+        },
+        "analysis": "此诗为典型应制之作，辞藻堆砌如'金殿''画旗'，意象浮华而空洞。立意浅显，仅为歌颂皇家独占春色，缺乏深层情感或哲理。语言直白，无含蓄之美，整体流于形式，属于平庸的酬应诗。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图营造皇家典雅气象，但意象陈旧，缺乏灵动。",
+                "realm": "劣品",
+                "reason": "徒具形式，未达典雅之质，反显堆砌。"
+            }
+        ],
+        "imagery": [
+            "金殿",
+            "画旗",
+            "春色"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句对偶工整，但整体创意匮乏。"
+        }
+    },
+    {
+        "title": "春貼子皇帝閣六首  其二",
+        "author": "韓維",
+        "paragraphs": [
+            "迎氣來歸胙，宜春祝降祥。",
+            "皇心勤治切，應喜寸陰長。"
+        ],
+        "paragraphs_simplified": [
+            "迎气来归胙，宜春祝降祥。",
+            "皇心勤治切，应喜寸阴长。"
+        ],
+        "translation": "迎气归来赐祭肉，宜春祝愿降吉祥。皇心勤政切要，应喜时光延长。",
+        "score": 1.8,
+        "subject": [
+            "应制诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "赞美",
+            "期待"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "设问"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写节令仪式，后两句转入对皇帝勤政的议论。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "'归胙'暗用祭祀典故，但运用生硬。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "隐含对皇帝勤政的肯定，但表达直露。"
+                }
+            ]
+        },
+        "analysis": "此诗语言晦涩，典故运用不当，如'归胙'令人费解。内容空洞，仅重复勤政吉祥的套话，毫无新意。情感表达机械，缺乏审美距离，整体属于劣质应制诗，读之味同嚼蜡。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图含蓄表达颂扬，但用语晦涩，反失自然。",
+                "realm": "劣品",
+                "reason": "画虎不成，既不含蓄，亦不明朗。"
+            }
+        ],
+        "imagery": [
+            "胙",
+            "祥",
+            "寸阴"
+        ],
+        "allusions": [
+            {
+                "phrase": "归胙",
+                "explanation": "古代祭祀后分赐祭肉，此处指迎春仪式。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句稍通，但整体平庸。"
+        }
+    },
+    {
+        "title": "春貼子皇帝閣六首  其三",
+        "author": "韓維",
+        "paragraphs": [
+            "醇醴浮金斝，柔蔬飣玉盤。",
+            "嘗新兼介壽，齊奉兩宮歡。"
+        ],
+        "paragraphs_simplified": [
+            "醇醴浮金斝，柔蔬飣玉盘。",
+            "尝新兼介寿，齐奉两宫欢。"
+        ],
+        "translation": "醇酒浮现金杯，柔蔬摆满玉盘。尝新兼祝长寿，齐奉两宫欢宴。",
+        "score": 2.2,
+        "subject": [
+            "宴饮诗",
+            "应制诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "白描"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句罗列宴饮之物，后两句点明宴饮目的。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "'金斝''玉盘'以贵重器皿比喻皇家奢华。"
+                },
+                {
+                    "tag": "白描",
+                    "explanation": "直接描写酒食陈设，无深层渲染。"
+                }
+            ]
+        },
+        "analysis": "此诗堆砌'金斝''玉盘'等华丽辞藻，描绘皇家宴饮，但内容浅薄，仅止于物质罗列。情感表达流于表面，缺乏对欢宴本质的挖掘。整体浮艳而空洞，属于平庸的应景之作。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "追求辞藻华丽，但意象缺乏内在生命。",
+                "realm": "能品",
+                "reason": "具绮丽之形，无绮丽之神。"
+            }
+        ],
+        "imagery": [
+            "金斝",
+            "玉盘",
+            "柔蔬"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句对偶工整，但整体创意贫乏。"
+        }
+    },
+    {
+        "title": "春貼子皇帝閣六首  其四",
+        "author": "韓維",
+        "paragraphs": [
+            "晝漏新添刻，春寒早放班。",
+            "恩隨寬大詔，一日遍人間。"
+        ],
+        "paragraphs_simplified": [
+            "昼漏新添刻，春寒早放班。",
+            "恩随宽大诏，一日遍人间。"
+        ],
+        "translation": "昼漏新添刻度，春寒提早放班。恩泽随宽大诏书，一日遍布人间。",
+        "score": 1.5,
+        "subject": [
+            "应制诗",
+            "叙事诗"
+        ],
+        "emotion": [
+            "赞美",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句写时令与政事，后两句颂扬皇恩浩荡。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "'一日遍人间'夸大皇恩传播之速。"
+                },
+                {
+                    "tag": "侧面烘托",
+                    "explanation": "通过'早放班'暗示皇恩体恤。"
+                }
+            ]
+        },
+        "analysis": "此诗语言枯燥，叙事直白如公文。'一日遍人间'虽夸张却显空洞，缺乏情感支撑。整体立意浅陋，仅为机械歌颂，毫无诗味，属于劣质打油诗级别。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图自然叙述，但用语粗陋，毫无诗意。",
+                "realm": "劣品",
+                "reason": "名为自然，实为平庸，毫无洗炼之功。"
+            }
+        ],
+        "imagery": [
+            "昼漏",
+            "春寒",
+            "诏书"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句勉强可读，但整体低劣。"
+        }
+    },
+    {
+        "title": "春貼子皇帝閣六首  其五",
+        "author": "韓維",
+        "paragraphs": [
+            "晴日漸消宮瓦雪，和風微散御爐烟。",
+            "千官拜舞皇恩罷，綵勝金幡下九天。"
+        ],
+        "paragraphs_simplified": [
+            "晴日渐消宫瓦雪，和风微散御炉烟。",
+            "千官拜舞皇恩罢，彩胜金幡下九天。"
+        ],
+        "translation": "晴日渐渐融化宫瓦上的积雪，和风微微吹散御炉的轻烟。千官拜舞后皇恩停止，彩胜金幡从九天降临。",
+        "score": 2.5,
+        "subject": [
+            "节令诗",
+            "应制诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写自然景象，后写宫廷仪式，由景及事，层次分明。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "首联“晴日”对“和风”，“宫瓦雪”对“御炉烟”，工整对仗。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过雪消烟散的景象，烘托春节的祥和氛围。"
+                }
+            ]
+        },
+        "analysis": "此诗为宫廷应制之作，描绘春节景象。意象如宫瓦雪、御炉烟陈旧，缺乏新意。语言工整但立意浅显，仅为堆砌辞藻，未见深层情感渗透。整体构筑平淡，无艺术回甘。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以典雅意象构筑宫廷气象，但流于表面，缺乏真挚。",
+                "realm": "能品",
+                "reason": "技法成熟但意境浅显，未能升华。"
+            }
+        ],
+        "imagery": [
+            "雪",
+            "风",
+            "烟",
+            "官员",
+            "旗帜"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句写景生动，对仗工整。"
+        }
+    },
+    {
+        "title": "太皇太后閣六首  其一",
+        "author": "韓維",
+        "paragraphs": [
+            "位歷三朝重，風行四海深。",
+            "坐將仁厚意，潛助發生心。"
+        ],
+        "paragraphs_simplified": [
+            "位历三朝重，风行四海深。",
+            "坐将仁厚意，潜助发生心。"
+        ],
+        "translation": "地位经历三朝重要，风范行于四海深远。坐着怀着仁厚之意，暗中助发生长之心。",
+        "score": 2.2,
+        "subject": [
+            "应制诗",
+            "颂德诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "直述太皇太后德行，由地位至影响，逻辑直白。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“位历”对“风行”，“三朝重”对“四海深”，工整对仗。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "以“风”喻风范，寄托仁厚之意。"
+                }
+            ]
+        },
+        "analysis": "此诗为颂德之作，语言简练但内容空洞。意象抽象，缺乏具体描绘，情感流于表面。虽有对仗，但立意浅显，仅为应酬，未见诗意渗透。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图追求高古风范，但议论直白，实则呆板。",
+                "realm": "凡品",
+                "reason": "意象陈旧，缺乏艺术感染力。"
+            }
+        ],
+        "imagery": [
+            "地位",
+            "风",
+            "海洋",
+            "心"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句对仗工整，概括性强。"
+        }
+    },
+    {
+        "title": "太皇太后閣六首  其二",
+        "author": "韓維",
+        "paragraphs": [
+            "銅霤消殘凍，朱樓拂早霞。",
+            "傳聲回步輦，來賞小桃花。"
+        ],
+        "paragraphs_simplified": [
+            "铜霤消残冻，朱楼拂早霞。",
+            "传声回步辇，来赏小桃花。"
+        ],
+        "translation": "铜檐消融残冰，朱楼拂晓霞光。传声回步辇，来赏小桃花。",
+        "score": 2.5,
+        "subject": [
+            "节令诗",
+            "应制诗"
+        ],
+        "emotion": [
+            "闲适",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前联写景，后联写事，由静景至动态，层次清晰。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“铜霤”对“朱楼”，“消残冻”对“拂早霞”，工整对仗。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "“消残冻”为静，“传声”为动，对比鲜明。"
+                }
+            ]
+        },
+        "analysis": "此诗描写太皇太后游春场景，意象如铜霤、朱楼较华丽，但缺乏深度。语言工整，情感平淡，仅为记录事件，无艺术感染力。整体浮华，未见真挚。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "试图以绮丽意象构筑场景，但意境浅薄，实则浮华。",
+                "realm": "凡品",
+                "reason": "辞藻堆砌，情感空洞。"
+            }
+        ],
+        "imagery": [
+            "金属",
+            "建筑",
+            "天空光",
+            "车",
+            "花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首联写景生动，对仗工整。"
+        }
+    },
+    {
+        "title": "太皇太后閣六首  其三",
+        "author": "韓維",
+        "paragraphs": [
+            "視膳回天仗，含飴樂聖辰。",
+            "定應彤管筆，書美繫王春。"
+        ],
+        "paragraphs_simplified": [
+            "视膳回天仗，含饴乐圣辰。",
+            "定应彤管笔，书美系王春。"
+        ],
+        "translation": "视膳回天仗，含饴乐圣辰。定应彤管笔，书美系王春。（注：视膳指侍奉饮食，含饴指含饴弄孙，彤管笔指女史笔，书美指记录美德。）",
+        "score": 2.0,
+        "subject": [
+            "应制诗",
+            "颂德诗"
+        ],
+        "emotion": [
+            "赞美",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "用典"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前联叙事，后联点明主旨，由事及理，收束全诗。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“视膳”对“含飴”，“回天仗”对“乐圣辰”，工整对仗。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“彤管笔”暗用女史典故，指记录美德。"
+                }
+            ]
+        },
+        "analysis": "此诗用典较多，如“彤管笔”，但整体仍流于颂扬。意象抽象，情感空洞，仅为应制而作，缺乏真挚。用典生硬，诗意不足，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以典雅用典提升格调，但生硬晦涩，实则呆板。",
+                "realm": "凡品",
+                "reason": "典故堆砌，无艺术感染力。"
+            }
+        ],
+        "imagery": [
+            "食物",
+            "仪仗",
+            "糖",
+            "时间",
+            "笔",
+            "季节"
+        ],
+        "allusions": [
+            {
+                "phrase": "彤管笔",
+                "explanation": "可能指《诗经》或女史典故，喻指记录美德。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句点明主旨，对仗工整。"
+        }
+    },
+    {
+        "title": "太皇太后閣六首  其四",
+        "author": "韓維",
+        "paragraphs": [
+            "鏤成寶字題宮戶，剪出名花趁御筵。",
+            "人世不知春色早，忽驚歌吹下中天。"
+        ],
+        "paragraphs_simplified": [
+            "镂成宝字题宫户，剪出名花趁御筵。",
+            "人世不知春色早，忽惊歌吹下中天。"
+        ],
+        "translation": "镂刻成宝字题写在宫门上，剪出名花趁赴御宴。人间不知春色已早，忽然惊讶歌声乐声从天而降。",
+        "score": 2.5,
+        "subject": [
+            "应制诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "喜悦",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "承上启下"
+            ],
+            "structural_logic": "首句直接描述宫廷装饰与宴席活动，次句以春色与歌吹转折，渲染宫廷春日的突发惊喜，整体从具体场景过渡到氛围渲染。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "前两句“鏤成寶字題宮戶”与“剪出名花趁御筵”结构对称，形成工整对应。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过“春色早”和“歌吹下中天”的景物描写，间接传达宫廷喜庆之情。"
+                }
+            ]
+        },
+        "analysis": "此诗以宫廷春日活动为题材，首句通过“镂字”、“剪花”等细节勾勒奢华场景，意象密集但缺乏内在关联；次句“春色早”与“歌吹下中天”的转折略显生硬，意境未能浑然一体。情感表达流于表面，缺乏含蓄回甘，整体为应制诗的典型堆砌，辞藻华丽而立意浅显，未能突破平庸。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "意象如“宝字”、“名花”、“歌吹”追求形式华美，但组合松散，未能构筑深邃意境。",
+                "realm": "凡品",
+                "reason": "试图模仿绮丽风格，但因辞藻堆砌、情感空洞，沦为画虎不成反类犬之作。"
+            }
+        ],
+        "imagery": [
+            "宫门",
+            "花",
+            "宴席",
+            "春天",
+            "音乐"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句“人世不知春色早，忽驚歌吹下中天”以转折突显惊喜，相对生动。"
+        }
+    }
+]

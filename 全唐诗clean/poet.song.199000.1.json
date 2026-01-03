@@ -1,0 +1,401 @@
+[
+    {
+        "title": "雜咏一百首 盧能",
+        "author": "劉克莊",
+        "paragraphs": [
+            "明鏡偷神秀，菩提犯卧輪。",
+            "更將舊衣鉢，占斷不傳人。"
+        ],
+        "paragraphs_simplified": [
+            "明镜偷神秀，菩提犯卧轮。",
+            "更将旧衣钵，占断不传人。"
+        ],
+        "translation": "明镜偷取神秀的智慧，菩提冒犯卧轮的见解。更将旧有的衣钵，独占而断绝不传他人。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句叙述禅宗公案中的争执，后句揭示对法脉的垄断，形成因果递进的叙事逻辑。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“神秀”与“卧轮”均为禅宗历史人物，暗指法门之争。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "“明镜”“菩提”借指禅宗教义，“衣钵”象征传承权。"
+                }
+            ]
+        },
+        "analysis": "诗作依托禅宗典故，批判宗教传承中的门户之见。语言晦涩，意象跳跃，对不熟悉禅宗史的读者构成理解障碍。虽具批判性，但缺乏诗美构建，更像一则隐晦的公案评注，而非独立诗作。其价值局限于特定知识圈层。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "试图以典故的厚重感体现沉著风格，但意象堆砌导致表达滞涩，未能达成深沉凝练的效果。",
+                "realm": "凡品",
+                "reason": "过度依赖冷僻典故，造成诗意隔阂，模仿沉著却陷入晦涩。"
+            }
+        ],
+        "imagery": [
+            "镜",
+            "菩提",
+            "衣钵"
+        ],
+        "allusions": [
+            {
+                "phrase": "神秀",
+                "explanation": "唐代禅宗大师，北宗禅代表。"
+            },
+            {
+                "phrase": "卧轮",
+                "explanation": "禅宗人物，曾与神秀论禅。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句集中呈现核心冲突，是理解诗意的关键。"
+        }
+    },
+    {
+        "title": "雜咏一百首 馬祖",
+        "author": "劉克莊",
+        "paragraphs": [
+            "若非大氣魄，只是小機鋒。",
+            "老子一聲喝，學人三日聾。"
+        ],
+        "paragraphs_simplified": [
+            "若非大气魄，只是小机锋。",
+            "老子一声喝，学人三日聋。"
+        ],
+        "translation": "若没有大格局的气魄，就只是小聪明的机锋。老子一声大喝，学人三天耳聋。",
+        "score": 3.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "夸张"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先通过对比否定小机锋，再以夸张手法渲染大喝的威力，形成强烈的反差效果。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“三日聋”极言喝声之震撼，超越现实逻辑。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“老子”指禅宗大师马祖道一，“喝”是临济宗手段。"
+                }
+            ]
+        },
+        "analysis": "诗作以夸张手法捕捉禅门棒喝的瞬间爆发力，语言直白有力，但失之粗犷。对“大气魄”的推崇流于口号式表达，缺乏细腻的意境营造。虽具动态感，却未能在审美层面留下余韵，属于力量有余而诗艺不足的作品。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以喝声与聋耳的意象组合展现劲健风格，但夸张过度削弱了诗意的含蓄性。",
+                "realm": "能品",
+                "reason": "技法直接但缺乏节制，模仿劲健却显生硬。"
+            }
+        ],
+        "imagery": [
+            "气魄",
+            "机锋",
+            "喝声",
+            "聋耳"
+        ],
+        "allusions": [
+            {
+                "phrase": "老子",
+                "explanation": "指马祖道一，唐代禅宗大师。"
+            },
+            {
+                "phrase": "喝",
+                "explanation": "禅宗临济宗的教学手段，以大喝打断学人妄想。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句以生动场景强化主题，更具表现力。"
+        }
+    },
+    {
+        "title": "雜咏一百首 德山",
+        "author": "劉克莊",
+        "paragraphs": [
+            "此老手中棒，輕輕也有瘢。",
+            "佛來與三十，某甲莫須餐。"
+        ],
+        "paragraphs_simplified": [
+            "此老手中棒，轻轻也有瘢。",
+            "佛来与三十，某甲莫须餐。"
+        ],
+        "translation": "这老人手中的棒，轻轻打下也留疤痕。佛来也给三十棒，某甲不必吃饭。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句描述棒打的严厉，后句以极端案例深化主题，形成递进式讽刺。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“棒”比喻禅宗的严厉教导方式。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“佛来与三十”出自德山宣鉴禅师“佛来也打”的公案。"
+                }
+            ]
+        },
+        "analysis": "诗作借德山棒喝的公案，讽刺禅门流于形式化的暴力倾向。语言俚俗化，意象单一，虽具批判意图，但诗意匮乏。将宗教行为简化为粗暴动作，未能上升到哲学反思，整体显得浅薄直露。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "试图以棒瘢的粗粝意象体现疏野风格，但过于直白，缺乏自然真趣。",
+                "realm": "凡品",
+                "reason": "语言粗糙，模仿疏野却流于粗鄙。"
+            }
+        ],
+        "imagery": [
+            "棒",
+            "疤痕",
+            "佛"
+        ],
+        "allusions": [
+            {
+                "phrase": "佛来与三十",
+                "explanation": "源自德山宣鉴禅师“佛来也打”的著名公案。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以具象的棒瘢奠定全诗基调。"
+        }
+    },
+    {
+        "title": "雜咏一首 支遁",
+        "author": "劉克莊",
+        "paragraphs": [
+            "若以色見我，幾於貌失人。",
+            "林公少鬚髮，澄觀欠冠巾。"
+        ],
+        "paragraphs_simplified": [
+            "若以色见我，几于貌失人。",
+            "林公少须发，澄观欠冠巾。"
+        ],
+        "translation": "如果用色相来见我，几乎会因外貌而错失真人。林公缺少须发，澄观不戴冠巾。",
+        "score": 3.5,
+        "subject": [
+            "禅理诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "引用"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直接引用佛经要义，次句以历史人物为例证，形成理论与实例的呼应。",
+            "evidence": [
+                {
+                    "tag": "引用",
+                    "explanation": "“若以色见我”出自《金刚经》，点明无相之旨。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "“林公”指支遁，“澄观”为唐代高僧，皆以超越形相著称。"
+                }
+            ]
+        },
+        "analysis": "诗作巧妙融合佛理与史实，通过支遁与澄观的轶事，诠释“无相”的深层意蕴。语言典雅，用典精当，在有限的篇幅内构建出超脱世俗的审美境界。虽偏重说理，但意象选择（须发、冠巾）与主题高度契合，实现了哲理与诗意的平衡。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "以佛典与高僧轶事构筑高古意境，语言凝练，暗合司空图“超以象外，得其环中”的美学追求。",
+                "realm": "妙品",
+                "reason": "用典自然，立意深远，成功再现了高古风格的神韵。"
+            }
+        ],
+        "imagery": [
+            "色相",
+            "外貌",
+            "须发",
+            "冠巾"
+        ],
+        "allusions": [
+            {
+                "phrase": "若以色见我",
+                "explanation": "出自《金刚经》，强调不应执着于外相。"
+            },
+            {
+                "phrase": "林公",
+                "explanation": "指东晋高僧支遁，字道林。"
+            },
+            {
+                "phrase": "澄观",
+                "explanation": "唐代华严宗高僧，被尊为清凉国师。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句引用佛典，精准概括全诗核心思想。"
+        }
+    },
+    {
+        "title": "雜詠一百首 澄公",
+        "author": "劉克莊",
+        "paragraphs": [
+            "值亂行何適，隨緣住亦安。",
+            "能將石虎輩，只作海鷗看。"
+        ],
+        "paragraphs_simplified": [
+            "值乱行何适，随缘住亦安。",
+            "能将石虎辈，只作海鸥看。"
+        ],
+        "translation": "在乱世中该往何处去？随遇而安，住下也心安。能把石虎之类的人，只当作海鸥来看待。解释：石虎比喻残暴凶恶之人，海鸥象征自由超脱的境界，全诗表达乱世中随缘自适的哲理。",
+        "score": 4.0,
+        "subject": [
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以设问起笔，引出随缘之答，后以比喻强化超脱心境，逻辑连贯。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "将石虎辈比作海鸥，以自然意象消解世俗纷争，凸显不滞于物的胸怀。"
+                }
+            ]
+        },
+        "analysis": "此诗以乱世为背景，构筑出随缘自适的哲理境界。石虎与海鸥的对比，折射出诗人对世俗纷争的超然态度。语言凝练，意象清奇，暗合道家无为思想。情景契合度高，意境真切，情感含蓄有回甘，整体定性为佳作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以海鸥意象烘托超脱情怀，构筑淡远之境。",
+                "realm": "能品",
+                "reason": "意象简洁，情感含蓄，但哲理表达略显直白。"
+            }
+        ],
+        "imagery": [
+            "乱世",
+            "石虎",
+            "海鸥"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句以海鸥喻人，点出全诗超脱核心。"
+        }
+    }
+]

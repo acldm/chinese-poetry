@@ -1,0 +1,706 @@
+[
+    {
+        "title": "古斷腸曲三十首  其一七",
+        "author": "周端臣",
+        "paragraphs": [
+            "裛裛羅巾淚粉光，綠琴哀怨調凄凉。",
+            "芳容自覺隨風老，落盡桃花暗斷腸。"
+        ],
+        "paragraphs_simplified": [
+            "浥浥罗巾泪粉光，绿琴哀怨调凄凉。",
+            "芳容自觉随风老，落尽桃花暗断肠。"
+        ],
+        "translation": "丝罗手帕上沾满泪水和脂粉的光泽，绿琴弹奏出哀怨的曲调凄凉。美丽的容颜自己感觉随风老去，落尽了桃花暗自断肠。",
+        "score": 2.5,
+        "subject": [
+            "闺怨诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "先以泪巾和琴声铺垫哀怨氛围，再通过容颜老去和落花意象推进情感，最终以断肠收束。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "芳容自覺隨風老化用自然现象喻容颜衰老"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "落盡桃花暗斷腸以落花景象寄托愁绪"
+                }
+            ]
+        },
+        "analysis": "意象陈旧，罗巾、泪粉、绿琴、桃花皆为闺怨诗常见元素，缺乏新意。情感表达直白浅显，立意流于俗套，仅堆砌辞藻而未构筑真切意境。整体格调平庸，缺乏审美回甘。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以哀物营造悲情，但意象组合生硬，未达悲慨之沉郁。",
+                "realm": "凡品",
+                "reason": "模仿悲慨风格却流于表面，情感宣泄过度而失含蓄，反显造作。"
+            }
+        ],
+        "imagery": [
+            "罗巾",
+            "泪",
+            "琴",
+            "花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "落盡桃花暗斷腸意象稍具画面感，为全诗最通顺之句。"
+        }
+    },
+    {
+        "title": "古斷腸曲三十首  其一八",
+        "author": "周端臣",
+        "paragraphs": [
+            "窗下親裁白苧衣，日長花影上階遲。",
+            "不堪杜宇啼春苦，又是去年腸斷時。"
+        ],
+        "paragraphs_simplified": [
+            "窗下亲裁白苎衣，日长花影上阶迟。",
+            "不堪杜宇啼春苦，又是去年肠断时。"
+        ],
+        "translation": "窗下亲自裁剪白苎衣，日长花影缓缓爬上台阶。不堪忍受杜鹃鸟啼叫春苦，又是去年断肠的时刻。",
+        "score": 2.8,
+        "subject": [
+            "闺怨诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "悲伤"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "用典"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前句以裁衣和花影写闲适，后句借杜宇啼春转折，引出去年断肠的回忆，形成时间对比。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "杜宇啼春借用杜鹃悲啼典故强化春愁"
+                },
+                {
+                    "tag": "以乐衬哀",
+                    "explanation": "日長花影之景反衬啼春之苦"
+                }
+            ]
+        },
+        "analysis": "杜宇典故运用贴切，但整体意象如白苎衣、花影仍显陈旧。情感脉络清晰，却未突破闺怨诗常规框架，立意浅显，缺乏深层意蕴。虽有时间对比，但语言平直，审美距离过近。",
+        "poetry_styles": [
+            {
+                "style": "委曲",
+                "imagery_analysis": "试图通过景物转折表现曲笔，但意象单薄，未达委曲之婉转。",
+                "realm": "凡品",
+                "reason": "追求委曲却流于直露，情感表达缺乏回旋余地。"
+            }
+        ],
+        "imagery": [
+            "窗",
+            "白苎衣",
+            "花影",
+            "杜宇"
+        ],
+        "allusions": [
+            {
+                "phrase": "杜宇",
+                "explanation": "指杜鹃鸟，象征春愁与悲苦"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "不堪杜宇啼春苦一句用典自然，情感转折明确。"
+        }
+    },
+    {
+        "title": "古斷腸曲三十首  其一九",
+        "author": "周端臣",
+        "paragraphs": [
+            "金風幾日老庭莎，經下窗櫺換碧紗。",
+            "天氣已凉人尚遠，晚粧羞戴麗秋花。"
+        ],
+        "paragraphs_simplified": [
+            "金风几日老庭莎，经下窗棂换碧纱。",
+            "天气已凉人尚远，晚妆羞戴丽秋花。"
+        ],
+        "translation": "秋风几日吹老了庭院的莎草，经过窗下换上了碧纱。天气已凉人还远，晚妆羞戴美丽的秋花。",
+        "score": 2.6,
+        "subject": [
+            "闺怨诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句写秋风老莎、换纱的物候变化，后句以天气凉、人远、羞戴秋花呼应，烘托孤寂心境。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "老庭莎赋予莎草以衰老之态"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "晚粧羞戴麗秋花以花写人之羞怯"
+                }
+            ]
+        },
+        "analysis": "秋风、庭莎、秋花等意象组合陈旧，缺乏独特视角。情感表达含蓄但立意浅显，仅停留在季节感伤层面，未挖掘深层心理。语言工整却无新意，整体流于应景之作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "试图以秋景营造清冷，但意象平庸，未达清奇之脱俗。",
+                "realm": "凡品",
+                "reason": "模仿清奇风格却意象俗套，反显平淡。"
+            }
+        ],
+        "imagery": [
+            "金风",
+            "庭莎",
+            "窗棂",
+            "秋花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "天氣已凉人尚遠一句情景交融，稍具感染力。"
+        }
+    },
+    {
+        "title": "古斷腸曲三十首  其二○",
+        "author": "周端臣",
+        "paragraphs": [
+            "玉纖無力怯梳頭，鏡裏容顔見自羞。",
+            "一陣落紅簾外雨，十分春是十分愁。"
+        ],
+        "paragraphs_simplified": [
+            "玉纤无力怯梳头，镜里容颜见自羞。",
+            "一阵落红帘外雨，十分春是十分愁。"
+        ],
+        "translation": "纤纤玉手无力害怕梳头，镜中容颜见了自羞。一阵落花在帘外雨中，十分春光是十分愁绪。",
+        "score": 2.7,
+        "subject": [
+            "闺怨诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句以梳头、照镜细节写慵懒羞愧，后句借落花春雨之景直抒愁绪，以比喻收束。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "十分春是十分愁将春光直接比作愁绪"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "十分...十分强化愁绪之深"
+                }
+            ]
+        },
+        "analysis": "玉纤、镜、落红等意象陈旧，但末句比喻新颖，将春光与愁绪等量齐观，稍显巧思。情感表达直接，缺乏含蓄之美，整体仍困于闺怨俗套，未达高境。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "试图以玉纤、落红等词藻营造华丽，但情感空洞，未达绮丽之丰腴。",
+                "realm": "凡品",
+                "reason": "追求绮丽却辞藻堆砌，反显浮艳。"
+            }
+        ],
+        "imagery": [
+            "玉纤",
+            "镜",
+            "落红",
+            "雨",
+            "春"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "十分春是十分愁一句比喻独特，为全诗亮点。"
+        }
+    },
+    {
+        "title": "古斷腸曲三十首  其二一",
+        "author": "周端臣",
+        "paragraphs": [
+            "舊家院落舊秋風，只有當時人不同。",
+            "惆悵一窗無用月，爲誰凉夜曬梧桐。"
+        ],
+        "paragraphs_simplified": [
+            "旧家院落旧秋风，只有当时人不同。",
+            "惆怅一窗无用月，为谁凉夜晒梧桐。"
+        ],
+        "translation": "旧家院落旧秋风，只有当时人不同。惆怅一窗无用月，为谁凉夜晒梧桐。",
+        "score": 2.9,
+        "subject": [
+            "怀古诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "惆怅",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对比",
+                "设问"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句以旧院落、旧秋风与人不同对比，后句借月、梧桐之景设问，深化物是人非之感。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "舊家院落舊秋風與只有當時人不同形成时空对照"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "爲誰凉夜曬梧桐以问句收束，强化孤寂"
+                }
+            ]
+        },
+        "analysis": "旧院落、秋风、梧桐意象虽常见，但对比手法运用较好，点出物是人非主题。情感含蓄，有怀古之思，但语言稍显直白，未充分展开意境。整体优于前作，但仍有限。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "以旧物秋风营造悲凉，对比手法增强慨叹，接近悲慨之境。",
+                "realm": "能品",
+                "reason": "情感真挚，结构紧凑，但意象未脱俗套，未能臻于妙品。"
+            }
+        ],
+        "imagery": [
+            "院落",
+            "秋风",
+            "月",
+            "梧桐"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "惆悵一窗無用月一句情景交融，设问自然。"
+        }
+    },
+    {
+        "title": "古斷腸曲三十首  其二二",
+        "author": "周端臣",
+        "paragraphs": [
+            "脩竹生煙晚逗陰，翠羅香袖怯寒侵。",
+            "恨同社燕身爲客，怕剝秋蓮苦在心。"
+        ],
+        "paragraphs_simplified": [
+            "修竹生烟晚逗阴，翠罗香袖怯寒侵。",
+            "恨同社燕身为客，怕剥秋莲苦在心。"
+        ],
+        "translation": "修长的竹子在暮色中生出烟雾，阴影渐深；翠绿的罗衣和芳香的衣袖畏惧寒气的侵袭。恨自己如同社日的燕子身为客居，害怕剥开秋莲时苦味在心头。",
+        "score": 4.2,
+        "subject": [
+            "闺怨诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以暮色竹烟起兴，后转入身世之叹，通过自然意象引出内心苦闷。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以社燕比喻身世飘零，以秋莲苦心比喻内心痛苦"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "香袖怯寒侵，赋予衣物以人的情感"
+                }
+            ]
+        },
+        "analysis": "词藻典雅，意象清冷。首句以‘脩竹生烟’勾勒幽深暮色，次句‘翠罗香袖’点出闺阁气息。后两句用‘社燕’与‘秋莲’的比喻，将身世之感与离别之苦交织，情感含蓄而真切。意境统一，无生硬之弊，情景契合度高。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "以竹烟、秋莲等意象寄托幽微情感，不直露。",
+                "realm": "妙品",
+                "reason": "意象运用精妙，情感表达不直露，符合含蓄之美；悲慨之情渗透字里行间。"
+            }
+        ],
+        "imagery": [
+            "竹",
+            "烟",
+            "燕",
+            "莲"
+        ],
+        "allusions": [
+            {
+                "phrase": "社燕",
+                "explanation": "社日燕子，象征客居飘零"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "情感最浓烈，比喻最贴切，直接点出内心苦闷。"
+        }
+    },
+    {
+        "title": "古斷腸曲三十首  其二三",
+        "author": "周端臣",
+        "paragraphs": [
+            "壓髻慵簪雙鳳釵，傷心羞覷合歡鞋。",
+            "折花暗卜郎音信，旋繫羅裙走下階。"
+        ],
+        "paragraphs_simplified": [
+            "压髻慵簪双凤钗，伤心羞觑合欢鞋。",
+            "折花暗卜郎音信，旋系罗裙走下阶。"
+        ],
+        "translation": "头发压髻懒得插双凤钗，伤心地羞于看合欢鞋。折花暗自占卜郎君的音信，随即系好罗裙走下台阶。",
+        "score": 4.5,
+        "subject": [
+            "闺怨诗"
+        ],
+        "emotion": [
+            "闺怨",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "双关"
+            ],
+            "presentation_tags": [
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "叙事"
+            ],
+            "structural_logic": "通过动作细节串联，从慵懒梳妆到占卜下阶，展现女子心理变化。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "合欢鞋借代爱情或婚姻"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "慵簪钗、羞觑鞋、折花、系裙等动作刻画内心"
+                }
+            ]
+        },
+        "analysis": "以动作写心理，细腻传神。‘压髻慵簪’写无心梳妆，‘羞觑合欢鞋’暗含对往昔的追忆。后两句通过折花占卜和匆忙下阶，将期待与不安刻画得淋漓尽致。意象虽小，但情感张力十足，无冗赘之笔。",
+        "poetry_styles": [
+            {
+                "style": "委曲",
+                "imagery_analysis": "情感表达委婉曲折，通过细微动作折射深层心理。",
+                "realm": "妙品",
+                "reason": "情感表达委婉曲折，细节生动，无直白之弊。"
+            }
+        ],
+        "imagery": [
+            "钗",
+            "鞋",
+            "花",
+            "裙"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "动作更具体，情感更外显，占卜与下阶的连贯性增强戏剧性。"
+        }
+    },
+    {
+        "title": "古斷腸曲三十首  其二四",
+        "author": "周端臣",
+        "paragraphs": [
+            "雙蛾顰翠恨天涯，睡起蜂黄沁臉霞。",
+            "燕子日長深院靜，東風無力到楊花。"
+        ],
+        "paragraphs_simplified": [
+            "双蛾颦翠恨天涯，睡起蜂黄沁脸霞。",
+            "燕子日长深院静，东风无力到杨花。"
+        ],
+        "translation": "双眉紧锁恨天涯遥远，睡起后蜂黄粉黛浸染脸霞。燕子飞舞，白昼漫长深院寂静，东风无力吹到杨花。",
+        "score": 3.0,
+        "subject": [
+            "闺怨诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句写女子容颜，后两句写环境，以景衬情，但衔接生硬。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "东风无力，赋予风以人的情感"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "燕子日长（动）与深院静（静）"
+                }
+            ]
+        },
+        "analysis": "意象堆砌，缺乏新意。‘双蛾颦翠’、‘蜂黄沁脸霞’辞藻华丽但情感空洞。后两句‘燕子’、‘东风’、‘杨花’是常见意象，组合平庸，未能深化主题。整体流于表面，情景契合度低。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "试图以华美辞藻营造意境，但意象陈旧，缺乏内在张力。",
+                "realm": "凡品",
+                "reason": "意象陈旧，立意浅显，堆砌辞藻而无真情实感。"
+            }
+        ],
+        "imagery": [
+            "眉",
+            "蜂",
+            "燕",
+            "院",
+            "风",
+            "杨花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "相对较好，但情感表达仍显表面化。"
+        }
+    },
+    {
+        "title": "古斷腸曲三十首  其二五",
+        "author": "周端臣",
+        "paragraphs": [
+            "春嬌殘醉睡初回，索酒扶頭强起來。",
+            "金斗壓灰熏篤耨，玉缾𣂏水養徘徊。"
+        ],
+        "paragraphs_simplified": [
+            "春娇残醉睡初回，索酒扶头强起来。",
+            "金斗压灰熏笃耨，玉瓶𣂏水养徘徊。"
+        ],
+        "translation": "春日娇慵，残醉初醒，索酒扶头勉强起身。金斗压灰熏着笃耨香，玉瓶倾水养着徘徊（可能指花或香）。",
+        "score": 2.8,
+        "subject": [
+            "宴饮诗",
+            "闺怨诗"
+        ],
+        "emotion": [
+            "闲适",
+            "慵懒"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "借代"
+            ],
+            "presentation_tags": [
+                "细节描写"
+            ],
+            "structure_tags": [
+                "叙事"
+            ],
+            "structural_logic": "按时间顺序描写晨起后的动作，但缺乏情感升华。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "金斗借代香炉，玉瓶借代花器"
+                },
+                {
+                    "tag": "细节描写",
+                    "explanation": "索酒扶头、压灰熏香等动作"
+                }
+            ]
+        },
+        "analysis": "描写生活细节，但情感内涵薄弱。‘春娇残醉’略显香艳，后句器物堆砌，缺乏情感升华。整体如流水账，无深意，意象组合松散。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以器物描写营造雅致氛围，但流于琐碎。",
+                "realm": "凡品",
+                "reason": "器物描写过多，情感空洞，未能达到典雅之境。"
+            }
+        ],
+        "imagery": [
+            "春",
+            "酒",
+            "香炉",
+            "花瓶"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句尚可，但整体平庸。"
+        }
+    }
+]

@@ -1,0 +1,1961 @@
+[
+    {
+        "title": "春閨怨",
+        "author": "吳惟信",
+        "paragraphs": [
+            "細柳輕煙鎖畫樓，樓中人去水長流。",
+            "琵琶聲斷梅花落，別是春風一種愁。"
+        ],
+        "paragraphs_simplified": [
+            "细柳轻烟锁画楼，楼中人去水长流。",
+            "琵琶声断梅花落，别是春风一种愁。"
+        ],
+        "translation": "细柳和轻烟笼罩着画楼，楼中人离去，只有水长流。琵琶声断，梅花飘落，这别是春风中的一种愁绪。",
+        "score": 2.5,
+        "subject": [
+            "闺怨诗"
+        ],
+        "emotion": [
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先以景物起兴，后转入情感抒发，通过意象叠加层层递进愁绪。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过细柳轻烟、琵琶声断等景物传达闺怨"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "以水长流比喻愁绪绵长"
+                }
+            ]
+        },
+        "analysis": "此诗构筑闺中幽怨场景，意象如细柳、轻烟、琵琶、梅花，渲染出一种封闭的哀愁氛围。情景契合度尚可，但立意流于常见闺怨范式，情感表达缺乏新意，意境真切感不足。语言工整却显堆砌，整体属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "试图通过景物暗示情感，但意象组合缺乏独创性",
+                "realm": "能",
+                "reason": "技法成熟但意境未达高妙，属于常规表现"
+            }
+        ],
+        "imagery": [
+            "柳",
+            "烟",
+            "楼",
+            "水",
+            "乐器",
+            "花",
+            "风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "楼中人去水长流以流水喻愁，情感表达较为直接"
+        }
+    },
+    {
+        "title": "湖上雨吟",
+        "author": "吳惟信",
+        "paragraphs": [
+            "濕了荷花雨便休，晚風歸柳澹於秋。",
+            "一生不作機心事，合轉船頭向白鷗。"
+        ],
+        "paragraphs_simplified": [
+            "湿了荷花雨便休，晚风归柳淡于秋。",
+            "一生不作机心事，合转船头向白鸥。"
+        ],
+        "translation": "雨湿荷花便停了，晚风吹柳，淡如秋色。一生不做机巧之事，应当转船头向白鸥去。",
+        "score": 3.5,
+        "subject": [
+            "山水诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句写雨后实景，后两句转入心境虚写，以行动表达超脱之志。",
+            "evidence": [
+                {
+                    "tag": "托物言志",
+                    "explanation": "以白鸥象征自由，寄托不涉机心之志"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "柳色澹于秋以秋色喻晚风之淡"
+                }
+            ]
+        },
+        "analysis": "此诗以湖雨起兴，意象如荷花、柳、白鸥，自然清朗。情景契合度较高，情感豁达流露无滞，但“机心事”略显直白，哲理表达未臻精微。整体意境疏野，有冲淡之趣，但未达高妙。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "意象疏朗，组合淡远",
+                "realm": "能",
+                "reason": "意境闲适，但哲理层稍欠含蓄"
+            }
+        ],
+        "imagery": [
+            "荷花",
+            "雨",
+            "风",
+            "柳",
+            "船",
+            "白鸥"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "合转船头向白鸥直接点明超脱之志"
+        }
+    },
+    {
+        "title": "雨後",
+        "author": "吳惟信",
+        "paragraphs": [
+            "雨後輕雲學水流，惜春人瘦怕春休。",
+            "梨花却恐難尋夢，燕子何曾細說愁。"
+        ],
+        "paragraphs_simplified": [
+            "雨后轻云学水流，惜春人瘦怕春休。",
+            "梨花却恐难寻梦，燕子何曾细说愁。"
+        ],
+        "translation": "雨后轻云像水流一样，惜春的人消瘦，怕春天结束。梨花恐怕难以寻梦，燕子何曾细说愁绪。",
+        "score": 2.8,
+        "subject": [
+            "惜春诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "以雨后云水起兴，转入惜春之情，通过梨花燕子虚实相生渲染愁绪。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "轻云学水流赋予云以动作，燕子细说愁赋予鸟以人情"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "人瘦以形体变化喻惜春之深"
+                }
+            ]
+        },
+        "analysis": "此诗写雨后惜春，意象如轻云、梨花、燕子，组合工整但缺乏新意。情感表达流于表面，意境真切感不足，立意浅显，属于常见题材。语言虽工，但堆砌痕迹明显，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "委曲",
+                "imagery_analysis": "试图通过景物转折表达愁绪，但意象陈旧",
+                "realm": "能",
+                "reason": "技法尚可，但意境未脱俗套"
+            }
+        ],
+        "imagery": [
+            "云",
+            "水",
+            "春",
+            "人",
+            "梨花",
+            "燕子"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "雨后轻云学水流以动态比喻起兴，较为生动"
+        }
+    },
+    {
+        "title": "賀史守鳳雛滿月",
+        "author": "吳惟信",
+        "paragraphs": [
+            "玉手歌姬托鳳雛，堂前畫額旋調朱。",
+            "春風吳會宜男草，試問他人種得無。"
+        ],
+        "paragraphs_simplified": [
+            "玉手歌姬托凤雏，堂前画额旋调朱。",
+            "春风吴会宜男草，试问他人种得无。"
+        ],
+        "translation": "玉手歌姬托付凤雏，堂前画额，随即调朱。春风吹吴会宜男草，试问他人种得无？",
+        "score": 1.5,
+        "subject": [
+            "贺诗",
+            "宴饮诗"
+        ],
+        "emotion": [
+            "赞美",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "双关"
+            ],
+            "presentation_tags": [
+                "用典",
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句直陈贺事，后以问句收尾，试图用典渲染喜庆，但流于直白。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "凤雏可能借指才俊，但运用生硬"
+                },
+                {
+                    "tag": "双关",
+                    "explanation": "宜男草既指植物又暗喻多子"
+                }
+            ]
+        },
+        "analysis": "此诗为贺满月之作，意象如玉手、歌姬、凤雏、宜男草，语言俗艳，立意浅显。虽用典故，但表达直白如口语，缺乏诗意提炼，近乎应酬文字。格调不高，属劣作。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "试图堆砌华美意象，但组合俗艳",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，流于粗鄙"
+            }
+        ],
+        "imagery": [
+            "手",
+            "歌姬",
+            "凤",
+            "堂",
+            "画",
+            "风",
+            "草"
+        ],
+        "allusions": [
+            {
+                "phrase": "凤雏",
+                "explanation": "可能借指历史人物庞统，泛指才俊"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "试问他人种得无虽直白，但有调侃意味"
+        }
+    },
+    {
+        "title": "寄東畎曹侍郎",
+        "author": "吳惟信",
+        "paragraphs": [
+            "結網求魚事已遲，却非春草不歸詩。",
+            "斜陽一片山如畫，更把心期付與誰。"
+        ],
+        "paragraphs_simplified": [
+            "结网求鱼事已迟，却非春草不归诗。",
+            "斜阳一片山如画，更把心期付与谁。"
+        ],
+        "translation": "结网求鱼已太晚，却非春草不归诗。斜阳映山如画美，更将心期托付谁？",
+        "score": 3.5,
+        "subject": [
+            "酬唱诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以结网求鱼比喻事迟，后两句以斜阳山景引出无人寄托心期的感慨。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "结网求鱼象征徒劳或错过时机"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "斜阳山景烘托孤独情感"
+                }
+            ]
+        },
+        "analysis": "诗作开篇以结网求鱼之喻点明事迟，却非春草不归之诗，隐含对诗歌创作的反思。斜阳山色如画，美景当前，却以'付与谁'之问收束，形成情景与情感的张力。语言凝练，结构完整，然意象组合未见新意，属能品之作。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "以结网、斜阳等意象间接传达情感",
+                "realm": "能品",
+                "reason": "情感表达含蓄，但意象较为常见，未能达到妙品之境"
+            },
+            {
+                "style": "悲慨",
+                "imagery_analysis": "事迟与无人寄托的悲叹",
+                "realm": "能品",
+                "reason": "有悲慨之情，但表达不够深刻"
+            }
+        ],
+        "imagery": [
+            "网",
+            "鱼",
+            "春草",
+            "斜阳",
+            "山"
+        ],
+        "allusions": [
+            {
+                "phrase": "春草",
+                "explanation": "可能暗指谢灵运'池塘生春草'之句，但未确指"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "最后一句直接提出无人寄托心期的疑问，情感最为集中"
+        }
+    },
+    {
+        "title": "題秋江晚照圖",
+        "author": "吳惟信",
+        "paragraphs": [
+            "水光只肯浄涵虛，分浦通村路却無。",
+            "風日向低鴻雁落，釣竿一半出菰蒲。"
+        ],
+        "paragraphs_simplified": [
+            "水光只肯净涵虚，分浦通村路却无。",
+            "风日向低鸿雁落，钓竿一半出菰蒲。"
+        ],
+        "translation": "水光清澈只映虚空，分浦通村却无路。风日西斜鸿雁落，钓竿半露菰蒲中。",
+        "score": 4.0,
+        "subject": [
+            "题画诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句写水光与路径，后两句写风日与钓竿，整体描绘秋江晚照图。",
+            "evidence": [
+                {
+                    "tag": "细节描写",
+                    "explanation": "钓竿一半出菰蒲的细节生动"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过秋景传达闲适之情"
+                }
+            ]
+        },
+        "analysis": "此诗题咏秋江晚照图，首联写水光涵虚、路径不通，营造出幽静氛围；后联以鸿雁落、钓竿出菰蒲的细节，勾勒出画面生动之态。语言洗练，意境清奇，虚实相生，堪称题画诗中的佳作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "秋江晚照之景清幽奇特",
+                "realm": "妙品",
+                "reason": "意境清奇，描写生动"
+            },
+            {
+                "style": "自然",
+                "imagery_analysis": "景物自然呈现，不加雕饰",
+                "realm": "妙品",
+                "reason": "风格自然，浑然天成"
+            }
+        ],
+        "imagery": [
+            "水光",
+            "虚",
+            "浦",
+            "村",
+            "路",
+            "风",
+            "日",
+            "鸿雁",
+            "钓竿",
+            "菰蒲"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "钓竿一半出菰蒲这一细节最为传神"
+        }
+    },
+    {
+        "title": "曉吟",
+        "author": "吳惟信",
+        "paragraphs": [
+            "翠帳香消捲碧紗，風捎殘雨濕欄牙。",
+            "蜻蜓亦被凉勾引，清曉低飛入水花。"
+        ],
+        "paragraphs_simplified": [
+            "翠帐香消卷碧纱，风捎残雨湿栏牙。",
+            "蜻蜓亦被凉勾引，清晓低飞入水花。"
+        ],
+        "translation": "翠帐香消卷碧纱，风带残雨湿栏牙。蜻蜓也被凉勾引，清晓低飞入水花。",
+        "score": 4.2,
+        "subject": [
+            "杂诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "清晨"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "动静结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句写室内香消雨湿，后两句写室外蜻蜓飞入水花，由内而外，动静相宜。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "凉勾引蜻蜓赋予自然以人情"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "残雨湿栏牙的静与蜻蜓低飞的动"
+                }
+            ]
+        },
+        "analysis": "此诗描绘清晨景象，翠帐香消、残雨湿栏，营造出幽静氛围；后联以蜻蜓被凉勾引、低飞入水花的细节，平添生趣。拟人手法的运用使凉意具象化，动静结合的描写令画面灵动。整体意境清新，语言精巧。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "色彩与细节丰富，如翠帐、碧纱、水花",
+                "realm": "妙品",
+                "reason": "意象纤秾，描写细腻"
+            },
+            {
+                "style": "自然",
+                "imagery_analysis": "景物自然呈现",
+                "realm": "妙品",
+                "reason": "风格自然，不事雕琢"
+            }
+        ],
+        "imagery": [
+            "翠帐",
+            "碧纱",
+            "风",
+            "残雨",
+            "栏牙",
+            "蜻蜓",
+            "凉",
+            "水花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "蜻蜓亦被凉勾引一句拟人生动"
+        }
+    },
+    {
+        "title": "春詠",
+        "author": "吳惟信",
+        "paragraphs": [
+            "草堂燕子未歸時，香鼎灰飛入硯池。",
+            "看徹唐人詩一卷，夕陽猶在杏花枝。"
+        ],
+        "paragraphs_simplified": [
+            "草堂燕子未归时，香鼎灰飞入砚池。",
+            "看彻唐人诗一卷，夕阳犹在杏花枝。"
+        ],
+        "translation": "草堂燕子未归时，香鼎灰飞入砚池。看彻唐人诗一卷，夕阳犹在杏花枝。",
+        "score": 4.5,
+        "subject": [
+            "咏春诗",
+            "闲适诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写草堂燕子未归、香灰入砚，后两句写读诗后夕阳仍在花枝，表现春日黄昏的闲适。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "读诗专注与夕阳未落形成时间感"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "夕阳杏花枝烘托恬淡心境"
+                }
+            ]
+        },
+        "analysis": "此诗以草堂燕子、香鼎灰飞等细节勾勒春日闲居之景，后联写读唐诗一卷后夕阳仍在杏花枝头，时间仿佛静止。对比手法的运用凸显了诗人沉浸诗境的忘我，夕阳杏花的意象组合营造出恬淡悠远的意境，整体浑然天成。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "草堂、燕子、夕阳、杏花等意象冲和淡泊",
+                "realm": "妙品",
+                "reason": "意境冲淡，韵味悠长"
+            },
+            {
+                "style": "自然",
+                "imagery_analysis": "景物自然流露",
+                "realm": "妙品",
+                "reason": "语言自然，毫无斧凿"
+            }
+        ],
+        "imagery": [
+            "草堂",
+            "燕子",
+            "香鼎",
+            "灰",
+            "砚池",
+            "唐人诗",
+            "夕阳",
+            "杏花枝"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "夕阳犹在杏花枝一句以景结情，余味无穷"
+        }
+    },
+    {
+        "title": "贈別上官良史",
+        "author": "吳惟信",
+        "paragraphs": [
+            "不惜黄金一醉君，喚歌催舞語紛紛。",
+            "天涯明月空相憶，寒雁無聲入斷雲。"
+        ],
+        "paragraphs_simplified": [
+            "不惜黄金一醉君，唤歌催舞语纷纷。",
+            "天涯明月空相忆，寒雁无声入断云。"
+        ],
+        "translation": "不惜黄金与君醉，唤歌催舞语纷纷。天涯明月空相忆，寒雁无声入断云。",
+        "score": 4.0,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "惜别",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "以乐衬哀",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句写不惜金钱醉饮歌舞，后两句转写别后天涯相忆、寒雁无声，以乐景衬哀情。",
+            "evidence": [
+                {
+                    "tag": "以乐衬哀",
+                    "explanation": "唤歌催舞的热闹反衬后文的孤寂"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "寒雁断云象征离别后的凄凉"
+                }
+            ]
+        },
+        "analysis": "此诗赠别，首联极写不惜黄金、歌舞纷纷的欢聚场景，后联陡转至别后天涯明月、寒雁无声的凄清。乐景与哀情的强烈对比，深化了离别的伤感。寒雁入断云的意象苍凉，情感真挚，结构紧凑。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "寒雁断云传达悲凉",
+                "realm": "妙品",
+                "reason": "情感悲慨，意象苍劲"
+            },
+            {
+                "style": "豪放",
+                "imagery_analysis": "不惜黄金的豪情",
+                "realm": "能品",
+                "reason": "有豪放之气，但整体偏悲"
+            }
+        ],
+        "imagery": [
+            "黄金",
+            "歌",
+            "舞",
+            "明月",
+            "寒雁",
+            "断云"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "寒雁无声入断云一句以景结情，意境深远"
+        }
+    },
+    {
+        "title": "秋夕",
+        "author": "吳惟信",
+        "paragraphs": [
+            "西風吹露下秋空，烏鵲無聲占碧桐。",
+            "天氣微凉人好睡，闌干閑在月明中。"
+        ],
+        "paragraphs_simplified": [
+            "西风吹露下秋空，乌鹊无声占碧桐。",
+            "天气微凉人好睡，阑干闲在月明中。"
+        ],
+        "translation": "西风吹落露珠于秋空，乌鹊无声栖息在碧绿的梧桐树上。天气微凉，人们正宜安睡，栏杆在明月的照耀下闲置着。",
+        "score": 3.5,
+        "subject": [
+            "节令诗"
+        ],
+        "emotion": [
+            "闲适",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "全诗以秋夜景象起笔，通过风露、乌鹊、梧桐等意象勾勒静谧氛围，后两句以天气微凉和月明阑干深化闲适之情，整体由外景渐入心境。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过‘西风吹露’‘乌鹊无声’等秋景，间接流露孤寂闲适之情。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "‘乌鹊无声占碧桐’中‘占’字赋予乌鹊以人的行为，增强画面感。"
+                }
+            ]
+        },
+        "analysis": "此诗以秋夕为背景，西风、露珠、乌鹊、碧桐等意象构筑出一幅静谧的图景。‘天气微凉人好睡’以平淡语道出闲适之趣，而‘阑干闲在月明中’则以物象之闲折射人心之静。全诗情景交融，意境清幽，但意象略显陈旧，缺乏独特新意，整体技法成熟而未见突破。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "意象如风、露、鸟、树、月，均取自寻常景物，组合后呈现淡远之境。",
+                "realm": "能品",
+                "reason": "模仿自然风格，但意象组合稍显平庸，未能达到冲淡之妙。"
+            }
+        ],
+        "imagery": [
+            "风",
+            "露",
+            "鸟",
+            "树",
+            "月"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘阑干闲在月明中’以物象之静写人心之闲，余韵悠长。"
+        }
+    },
+    {
+        "title": "野望",
+        "author": "吳惟信",
+        "paragraphs": [
+            "閑與蘆花立水邊，歸心客思兩茫然。",
+            "夕陽收盡天風急，一樹寒鴉落野田。"
+        ],
+        "paragraphs_simplified": [
+            "闲与芦花立水边，归心客思两茫然。",
+            "夕阳收尽天风急，一树寒鸦落野田。"
+        ],
+        "translation": "闲与芦花立于水边，归心与客思皆茫然。夕阳收尽，天风急吹，一树寒鸦落在野田中。",
+        "score": 3.6,
+        "subject": [
+            "羁旅诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句以芦花水边起兴，点出茫然心绪；后句以夕阳急风、寒鸦野田收束，以荒凉景物烘托羁旅之悲，形成由情及景的递进。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "‘芦花立水边’‘寒鸦落野田’等景物，折射归客的迷茫与孤寂。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "‘归心客思两茫然’中‘归心’与‘客思’形成语义对仗。"
+                }
+            ]
+        },
+        "analysis": "此诗以野望为题，勾勒出水边芦花、夕阳急风、寒鸦落野田的萧瑟景象。‘归心客思两茫然’直抒胸臆，而景物的荒凉则烘托出内心的迷茫。意象组合有力，但‘一树寒鸦’稍显生硬，整体意境尚可，然未脱羁旅诗常见套路。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "芦花、水边、夕阳、寒鸦等意象，试图营造疏放荒野之境，但略显刻意。",
+                "realm": "能品",
+                "reason": "追求疏野风格，但意象堆砌稍欠自然，未能达到浑成之趣。"
+            }
+        ],
+        "imagery": [
+            "植物",
+            "水",
+            "太阳",
+            "风",
+            "鸟",
+            "田"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘夕阳收尽天风急，一树寒鸦落野田’以动态景物强化苍茫之感。"
+        }
+    },
+    {
+        "title": "辭史侍郎",
+        "author": "吳惟信",
+        "paragraphs": [
+            "事到依人易策勳，合歸收拾北山雲。",
+            "春風入手非閑用，種得梅花却寄君。"
+        ],
+        "paragraphs_simplified": [
+            "事到依人易策勋，合归收拾北山云。",
+            "春风入手非闲用，种得梅花却寄君。"
+        ],
+        "translation": "事到依人容易建立功勋，应当归去收拾北山的云雾。春风入手并非闲用，种得梅花却寄给你。",
+        "score": 3.7,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "豁达",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以‘事到依人’起笔，暗含对官场依附的反思，后两句借‘春风’与‘梅花’寄托归隐之志，末句点明寄赠之意，志在言外。",
+            "evidence": [
+                {
+                    "tag": "托物言志",
+                    "explanation": "‘种得梅花却寄君’以梅花象征高洁，传达归隐与赠别之志。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "‘收拾北山云’比喻归隐山林的生活。"
+                }
+            ]
+        },
+        "analysis": "此诗赠别史侍郎，前两句以‘事到依人’起笔，暗含对官场依附的反思，后两句借‘春风’与‘梅花’寄托归隐之志。‘种得梅花却寄君’一句，以物传情，意在言外。全诗立意清晰，但意象稍显直白，缺乏含蓄之美，整体技法稳健而未见精妙。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "北山云、春风、梅花等意象，试图营造典雅高古的意境，但略显直露。",
+                "realm": "能品",
+                "reason": "追求典雅风格，但语言稍欠凝练，未能达到含蓄深邃之境。"
+            }
+        ],
+        "imagery": [
+            "事",
+            "人",
+            "山",
+            "云",
+            "风",
+            "花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘春风入手非闲用，种得梅花却寄君’以物寄情，志趣高远。"
+        }
+    },
+    {
+        "title": "春夢謠",
+        "author": "吳惟信",
+        "paragraphs": [
+            "銷金帳掩水沉煙，髻滑金釵落枕邊。",
+            "魂夢不知春已去，誤隨蝴蝶過秋千。"
+        ],
+        "paragraphs_simplified": [
+            "销金帐掩水沉烟，髻滑金钗落枕边。",
+            "魂梦不知春已去，误随蝴蝶过秋千。"
+        ],
+        "translation": "销金帐掩映着水沉香的烟雾，发髻松滑，金钗落在枕边。魂梦不知春天已逝，误随着蝴蝶飞过秋千。",
+        "score": 3.8,
+        "subject": [
+            "闺怨诗"
+        ],
+        "emotion": [
+            "闺怨",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句实写闺阁之景，销金帐、水沉烟、金钗落枕，细节生动；后句虚写梦境，魂梦随蝶，误认春在，以虚实对比深化春光虚度之憾。",
+            "evidence": [
+                {
+                    "tag": "虚实结合",
+                    "explanation": "实写帐内陈设，虚写梦中蝴蝶秋千，形成现实与梦境的对照。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "‘魂梦不知春已去’赋予魂梦以人的无知，增强哀婉之情。"
+                }
+            ]
+        },
+        "analysis": "此诗以春梦为题，描绘闺阁之景：销金帐、水沉烟、金钗落枕，细节生动。后两句转入梦境，‘魂梦不知春已去’以蝴蝶秋千之误，写春光虚度之憾。意象绮丽，但‘误随蝴蝶’稍显突兀，整体意境迷离，有闺怨之风，然未达精微之境。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "销金帐、水沉烟、金钗、蝴蝶等意象，试图营造华美迷离之境，但略显堆砌。",
+                "realm": "能品",
+                "reason": "追求绮丽风格，但意象组合稍欠协调，未能达到流丽之妙。"
+            }
+        ],
+        "imagery": [
+            "帐",
+            "烟",
+            "钗",
+            "枕",
+            "梦",
+            "蝴蝶",
+            "秋千"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘魂梦不知春已去，误随蝴蝶过秋千’以梦笔写春逝，哀婉动人。"
+        }
+    },
+    {
+        "title": "拜和靖墓",
+        "author": "吳惟信",
+        "paragraphs": [
+            "墳草年年一度青，梅花無主自飄零。",
+            "定知魂在梅花上，唯有春風喚得醒。"
+        ],
+        "paragraphs_simplified": [
+            "坟草年年一度青，梅花无主自飘零。",
+            "定知魂在梅花上，唯有春风唤得醒。"
+        ],
+        "translation": "坟草年年一度青绿，梅花无主自然飘零。定知魂灵附在梅花上，唯有春风能将它唤醒。",
+        "score": 4.0,
+        "subject": [
+            "悼亡诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "悲伤"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句以坟草青绿、梅花飘零写墓地的寂寥与时光流逝，后两句以‘魂在梅花上’想象高士之魂与梅花同在，末句以春风唤魂点明主旨，情感层层递进。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "‘梅花无主自飘零’与‘春风唤得醒’赋予物象以人的情态，增强感染力。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过坟草、梅花等景物，寄托对林逋的悼念与敬仰。"
+                }
+            ]
+        },
+        "analysis": "此诗拜谒林逋墓，前两句以坟草青绿、梅花飘零写墓地的寂寥，后两句以‘魂在梅花上’想象高士之魂与梅花同在，唯有春风可唤醒。意象清奇，情感深沉，但‘唤得醒’稍显直白，整体有悼亡之思，意境超逸，技法精妙。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "坟草、梅花、魂、春风等意象，交织出悲凉而高洁的意境，直指悼亡主题。",
+                "realm": "妙品",
+                "reason": "成功融合悲慨与清奇，情感真挚，意象独特，达到妙品境界。"
+            }
+        ],
+        "imagery": [
+            "草",
+            "花",
+            "灵魂",
+            "风"
+        ],
+        "allusions": [
+            {
+                "phrase": "和靖",
+                "explanation": "指林逋，宋代隐士，谥号和靖先生，以梅妻鹤子著称。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘定知魂在梅花上，唯有春风唤得醒’以想象之笔写悼亡之情，意境高远。"
+        }
+    },
+    {
+        "title": "重拜和靖墓",
+        "author": "吳惟信",
+        "paragraphs": [
+            "片玉沉山草亦珍，斷碑殘石當麒麟。",
+            "君王別爲開門戶，不欲梅花見路人。"
+        ],
+        "paragraphs_simplified": [
+            "片玉沉山草亦珍，断碑残石当麒麟。",
+            "君王别为开门户，不欲梅花见路人。"
+        ],
+        "translation": "片玉沉入山中，草也变得珍贵；断碑残石当作麒麟。君王另外开启门户，不想让梅花被路人看见。",
+        "score": 3.2,
+        "subject": [
+            "怀古诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前两句以片玉、断碑等意象勾勒墓地景象，后两句通过君王行为暗喻对隐士的尊崇，整体由景及事，直指主题。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "断碑残石当麒麟，以麒麟喻残石，凸显墓地荒凉中的珍贵。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "和靖墓指林逋，借其爱梅隐士之典，寄寓高洁情怀。"
+                }
+            ]
+        },
+        "analysis": "此诗以片玉、断碑等冷峻意象构筑墓地氛围，草亦珍之笔渲染出荒寂中的尊贵感。后联借君王闭户之举，暗合林逋不慕荣利之风骨，意象陈旧却略显刻意。整体立意浅显，缺乏新意，仅止于对古迹的平铺直叙，未能拓宽怀古诗的审美维度。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "片玉、断碑、麒麟等意象古朴，但组合略显生硬，未达浑然之境。",
+                "realm": "能",
+                "reason": "试图以古雅意象模仿高古风格，但缺乏深沉气韵，流于表面。"
+            }
+        ],
+        "imagery": [
+            "玉",
+            "草",
+            "石",
+            "麒麟",
+            "君王",
+            "梅花"
+        ],
+        "allusions": [
+            {
+                "phrase": "和靖墓",
+                "explanation": "指北宋隐士林逋之墓，林逋谥号和靖先生，以梅鹤自娱。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句意象凝练，以片玉沉山勾勒出墓地的珍贵与沉寂。"
+        }
+    },
+    {
+        "title": "閨怨",
+        "author": "吳惟信",
+        "paragraphs": [
+            "病起傷春獨倚門，喚人鸚鵡隔簾聞。",
+            "無情最是東風惡，瘦却梨花一片雲。"
+        ],
+        "paragraphs_simplified": [
+            "病起伤春独倚门，唤人鹦鹉隔帘闻。",
+            "无情最是东风恶，瘦却梨花一片云。"
+        ],
+        "translation": "病起伤春，独自倚门；唤人的鹦鹉隔着帘子听见。最无情的是东风恶劣，瘦了梨花一片云。",
+        "score": 2.5,
+        "subject": [
+            "闺怨诗"
+        ],
+        "emotion": [
+            "悲伤",
+            "孤独",
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "以乐衬哀"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句点明病中伤春之态，次句以鹦鹉唤人衬托孤寂，后联直斥东风无情，以梨花瘦却喻容颜憔悴，情感层层递进。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "东风恶，赋予东风以无情之性，强化哀怨。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "梨花一片云，以云喻花，形象描绘凋零之景。"
+                }
+            ]
+        },
+        "analysis": "此诗沿袭闺怨陈套，病起、鹦鹉、东风、梨花等意象堆砌，缺乏新意。拟人手法虽存，但东风恶之语直白浅露，未能营造含蓄之美。梨花云之喻稍具画面感，然整体立意平庸，情感宣泄过度，无回甘余地，属典型应酬式俗笔。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "病、春、梨花等意象试图渲染悲情，但组合松散，未达沉郁。",
+                "realm": "劣",
+                "reason": "模仿悲慨而流于表面，情感直露，意象陈旧，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "病",
+            "春",
+            "门",
+            "鹦鹉",
+            "帘",
+            "东风",
+            "梨花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以病起伤春勾勒闺中情态，细节生动。"
+        }
+    },
+    {
+        "title": "仙興",
+        "author": "吳惟信",
+        "paragraphs": [
+            "宮殿高高在五雲，鶴摇松露滴行人。",
+            "洞門不放東風過，留得桃花一院春。"
+        ],
+        "paragraphs_simplified": [
+            "宫殿高高在五云，鹤摇松露滴行人。",
+            "洞门不放东风过，留得桃花一院春。"
+        ],
+        "translation": "宫殿高高在五云之中，鹤摇动松露滴在行人身上。洞门不让东风通过，留得桃花一院春色。",
+        "score": 3.0,
+        "subject": [
+            "游仙诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句以宫殿、五云构筑仙境，后句借洞门留春之举，以拟人手法点染出超脱尘俗之趣，虚实相生。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "洞门不放东风过，赋予洞门以意志，凸显仙境的封闭与永恒。"
+                }
+            ]
+        },
+        "analysis": "此诗以五云、鹤、松露等意象渲染仙兴，虚实结合得当。洞门留春之笔稍显巧致，但整体意境浅显，缺乏深邃的仙道哲思。桃花一院春虽具画面感，然题材常见，未能突破游仙诗的俗套，流于表面描摹。",
+        "poetry_styles": [
+            {
+                "style": "飘逸",
+                "imagery_analysis": "五云、鹤、桃花等意象轻盈，但组合缺乏灵动之气。",
+                "realm": "能",
+                "reason": "试图以虚景模仿飘逸风格，但意象堆砌，未达空灵之境。"
+            }
+        ],
+        "imagery": [
+            "宫殿",
+            "云",
+            "鹤",
+            "松",
+            "露",
+            "行人",
+            "洞门",
+            "东风",
+            "桃花"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句以拟人手法写洞门留春，构思巧妙。"
+        }
+    },
+    {
+        "title": "山居春興",
+        "author": "吳惟信",
+        "paragraphs": [
+            "林雪消寒滴，春風入草廬。",
+            "好山分客看，閑地課童鉏。",
+            "竹瘦偏宜鶴，泉清直見魚。",
+            "邇來因苦詠，零亂一床書。"
+        ],
+        "paragraphs_simplified": [
+            "林雪消寒滴，春风入草庐。",
+            "好山分客看，闲地课童锄。",
+            "竹瘦偏宜鹤，泉清直见鱼。",
+            "迩来因苦咏，零乱一床书。"
+        ],
+        "translation": "林雪消融寒滴，春风吹入草庐。好山分给客人看，闲地课童锄。竹瘦偏宜鹤，泉清直见鱼。迩来因苦咏，零乱一床书。",
+        "score": 4.2,
+        "subject": [
+            "山水诗",
+            "闲适诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "白描",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首联写景，颔联写人与山、地的互动，颈联以对偶句勾勒竹鹤泉鱼之趣，尾联收束于书卷零乱，由外及内，呼应隐逸主题。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "竹瘦偏宜鹤，泉清直见鱼，工整对仗，凝练景物。"
+                },
+                {
+                    "tag": "动静结合",
+                    "explanation": "消寒滴与课童锄，动静相衬，展现山居生机。"
+                }
+            ]
+        },
+        "analysis": "此诗以白描手法勾勒山居春景，意象清新生动。对偶句精工，竹鹤泉鱼之景暗合隐者高洁，尾联书卷零乱一笔，折射出苦吟中的自得。整体情景交融，意境真切，无造作之痕，堪称山居诗中的能品。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "林雪、春风、竹、泉等意象洗练，组合流畅，浑然天成。",
+                "realm": "妙",
+                "reason": "以白描达自然之境，情景契合，无斧凿痕。"
+            }
+        ],
+        "imagery": [
+            "林",
+            "雪",
+            "风",
+            "草庐",
+            "山",
+            "地",
+            "童",
+            "竹",
+            "鹤",
+            "泉",
+            "鱼",
+            "书"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "颈联对偶工整，以竹鹤泉鱼凝练山居清趣。"
+        }
+    },
+    {
+        "title": "寄大使趙清臣",
+        "author": "吳惟信",
+        "paragraphs": [
+            "擒吳纔了合封侯，何止區區古蔡州。",
+            "一着高時全國體，十年危處與心謀。",
+            "山川恢拓春風遠，天地清明王氣浮。",
+            "白雪滿頭勳業大，不應忘却赤松遊。"
+        ],
+        "paragraphs_simplified": [
+            "擒吴才了合封侯，何止区区古蔡州。",
+            "一着高时全国体，十年危处与心谋。",
+            "山川恢拓春风远，天地清明王气浮。",
+            "白雪满头勋业大，不应忘却赤松游。"
+        ],
+        "translation": "擒吴才了合封侯，何止区区古蔡州。一着高时全国体，十年危处与心谋。山川恢拓春风远，天地清明王气浮。白雪满头勋业大，不应忘却赤松游。",
+        "score": 3.8,
+        "subject": [
+            "干谒诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "赞美",
+            "敬佩",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "用典"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两联叙事议论功绩，后两联以山川天地烘托气象，尾联用典劝诫，由事及理，卒章显志。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "山川恢拓春风远，天地清明王气浮，工整对仗，拓宽意境。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "赤松游指张良从赤松子隐退之典，劝其功成身退。"
+                }
+            ]
+        },
+        "analysis": "此诗以雄健笔力铺陈功业，对偶句气象恢弘，山川天地之景烘托出王气浮沉。尾联赤松典故的运用，直指隐逸之思，暗含讽喻。整体结构严谨，但部分辞藻稍显堆砌，未能完全脱俗，仍属干谒诗中的稳健之作。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "山川、天地、白雪等意象宏大，但组合略显刻意。",
+                "realm": "能",
+                "reason": "试图以壮阔意象模仿劲健风格，但气韵稍欠自然。"
+            }
+        ],
+        "imagery": [
+            "吴",
+            "侯",
+            "蔡州",
+            "山川",
+            "春风",
+            "天地",
+            "王气",
+            "白雪",
+            "勋业",
+            "赤松"
+        ],
+        "allusions": [
+            {
+                "phrase": "赤松游",
+                "explanation": "典出《史记》，张良愿从赤松子游，喻功成隐退。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "颈联以山川天地之景烘托气象，境界开阔。"
+        }
+    },
+    {
+        "title": "寄蔣重珍祕書",
+        "author": "吳惟信",
+        "paragraphs": [
+            "焚香誦易與天游，君命相催不肯休。",
+            "時節固知來則是，功名却以得爲憂。",
+            "翠蓬雲氣生衣袂，金殿陽光動冕旒。",
+            "此際一言能悟主，始堪回首舊林丘。"
+        ],
+        "paragraphs_simplified": [
+            "焚香诵易与天游，君命相催不肯休。",
+            "时节固知来则是，功名却以得为忧。",
+            "翠蓬云气生衣袂，金殿阳光动冕旒。",
+            "此际一言能悟主，始堪回首旧林丘。"
+        ],
+        "translation": "焚香诵读《易经》与天同游，但君命催促不肯休息。时节固然知道来就是，但功名却以得到为忧。翠蓬云气生起在衣袖，金殿阳光晃动冕旒。此时一句话能悟主，才堪回首旧林丘。",
+        "score": 3.0,
+        "subject": [
+            "干谒诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "首联写隐逸与君命的矛盾，颔联写时节与功名的忧虑，颈联写宫廷景象，尾联写一言悟主后归隐。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "首联和颔联有对仗"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过云气、阳光等景物抒发情感"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用《易经》"
+                }
+            ]
+        },
+        "analysis": "这首诗以焚香诵易起兴，构筑仕隐矛盾的主题。首联以天游与君命对举，折射出超脱与束缚的张力；颔联对时节与功名的辩证，流露对得失的忧虑。颈联翠蓬云气与金殿阳光的意象，渲染出宫廷的显赫与隐逸的云气之对比，但意象陈旧，未能真切传达内心冲突。尾联点出一言悟主后归隐，立意浅显，缺乏新意。整体上，技法工整但情感流于表面，词藻堆砌，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "云气、阳光等意象试图营造典雅氛围，但缺乏深度。",
+                "realm": "能品",
+                "reason": "意象陈旧，立意浅显，未能真正体现典雅之精髓，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "香",
+            "书",
+            "云",
+            "阳光",
+            "冠",
+            "山丘"
+        ],
+        "allusions": [
+            {
+                "phrase": "易",
+                "explanation": "指《易经》"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以焚香诵易起兴，较为生动"
+        }
+    },
+    {
+        "title": "立春日即事",
+        "author": "吳惟信",
+        "paragraphs": [
+            "檢殘玉曆又春來，造化無私命轉乖。",
+            "照水莫嫌窮面目，看山長有好情懷。",
+            "生期惠遠眠雲過，死問林逋借地埋。",
+            "詩到夜寒吟更苦，一枝梅雪映書齋。"
+        ],
+        "paragraphs_simplified": [
+            "检残玉历又春来，造化无私命转乖。",
+            "照水莫嫌穷面目，看山长有好情怀。",
+            "生期惠远眠云过，死问林逋借地埋。",
+            "诗到夜寒吟更苦，一枝梅雪映书斋。"
+        ],
+        "translation": "检查残破的玉历又春天来了，造化无私但命运却乖张。照水不要嫌贫穷面目，看山长有好情怀。生期惠远眠云过，死问林逋借地埋。诗到夜寒吟更苦，一枝梅雪映书斋。",
+        "score": 3.2,
+        "subject": [
+            "节令诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首联写立春与命运，颔联写乐观情怀，颈联用典表达生死观，尾联写寒夜吟诗。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "惠远、林逋"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "梅雪映书斋"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "末句点出吟诗之苦"
+                }
+            ]
+        },
+        "analysis": "这首诗以立春为题，首联写春来命乖，流露无奈，但“命转乖”直白。颔联以照水、看山表达豁达，意象平淡。颈联用惠远、林逋典故，探讨生死，但典故运用未见新意。尾联梅雪映书斋，营造寒夜苦吟意境，但情感深度不足。整体上，技法熟练，意象如“梅雪”清雅，但立意老套，未能真切传达人生感慨，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "梅雪、书斋等意象体现清奇之境。",
+                "realm": "能品",
+                "reason": "意象清奇，但情感表达不够深刻。"
+            }
+        ],
+        "imagery": [
+            "历",
+            "春",
+            "水",
+            "山",
+            "云",
+            "地",
+            "诗",
+            "夜",
+            "梅",
+            "雪",
+            "书斋"
+        ],
+        "allusions": [
+            {
+                "phrase": "惠远",
+                "explanation": "慧远，东晋高僧"
+            },
+            {
+                "phrase": "林逋",
+                "explanation": "林和靖，宋代隐士"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句意象清雅，寒夜吟诗"
+        }
+    },
+    {
+        "title": "送伯氏秋潭謀居",
+        "author": "吳惟信",
+        "paragraphs": [
+            "朝吳暮楚幾時休，未必江湖有白鷗。",
+            "萬事莫如歸去好，一椽當爲老來謀。",
+            "春天吟思行花徑，夜月琴聲坐竹樓。",
+            "但得餘齡無俯仰，曾公食粥亦風流。"
+        ],
+        "paragraphs_simplified": [
+            "朝吴暮楚几时休，未必江湖有白鸥。",
+            "万事莫如归去好，一椽当为老来谋。",
+            "春天吟思行花径，夜月琴声坐竹楼。",
+            "但得余龄无俯仰，曾公食粥亦风流。"
+        ],
+        "translation": "朝吴暮楚何时休，未必江湖有白鸥。万事莫如归去好，一椽当为老来谋。春天吟思行花径，夜月琴声坐竹楼。但得余龄无俯仰，曾公食粥亦风流。",
+        "score": 3.9,
+        "subject": [
+            "送别诗",
+            "思乡诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "思乡",
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "诗歌以旅途劳顿起笔，直抒归隐之愿，继而描绘田园生活的闲适，最后以历史人物为例，表达安贫乐道的志趣。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "春天吟思行花径，夜月琴声坐竹楼形成工整的对仗。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "曾公食粥引用曾参的典故，强调简朴生活的风流。"
+                }
+            ]
+        },
+        "analysis": "此诗开篇以朝吴暮楚的奔波与江湖白鸥的不可得相对照，凸显行旅之艰辛。颔联直陈归隐之乐，以一椽老屋为晚年之计，语浅意深。颈联以春日花径与夜月琴声勾勒出理想生活的图景，动静结合。尾联借曾公食粥的典故，升华出超然物外的精神境界。全诗语言平实却意蕴悠长，情感真挚。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "江湖、白鸥、花径、琴声、竹楼等意象清新自然，营造出恬淡的田园氛围。",
+                "realm": "能",
+                "reason": "诗歌流畅自然，但意象和立意较为常见，未达高妙。"
+            }
+        ],
+        "imagery": [
+            "江湖",
+            "鸥",
+            "房屋",
+            "花",
+            "琴",
+            "竹"
+        ],
+        "allusions": [
+            {
+                "phrase": "曾公食粥",
+                "explanation": "指曾参，喻指安贫乐道。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "春天吟思行花径，夜月琴声坐竹楼以对仗工整的句式描绘闲适生活，画面感强。"
+        }
+    },
+    {
+        "title": "送王夢升入道",
+        "author": "吳惟信",
+        "paragraphs": [
+            "不肯輕迷固有天，星冠霞氅竟翩然。",
+            "人能變體方超俗，丹到成功即是仙。",
+            "伏洞黑龍聽夜呪，傍花白鹿伴春眠。",
+            "哦詩更欲全清致，當以彌明作正傳。"
+        ],
+        "paragraphs_simplified": [
+            "不肯轻迷固有天，星冠霞氅竟翩然。",
+            "人能变体方超俗，丹到成功即是仙。",
+            "伏洞黑龙听夜咒，傍花白鹿伴春眠。",
+            "哦诗更欲全清致，当以弥明作正传。"
+        ],
+        "translation": "不肯轻迷固有天，星冠霞氅竟翩然。人能变体方超俗，丹到成功即是仙。伏洞黑龙听夜咒，傍花白鹿伴春眠。哦诗更欲全清致，当以弥明作正传。",
+        "score": 2.5,
+        "subject": [
+            "游仙诗",
+            "送别诗"
+        ],
+        "emotion": [
+            "豪迈",
+            "期待"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "首联写修道决心，颔联写变体成仙，颈联写修道场景，尾联写诗风追求。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "丹到成功即是仙"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "弥明"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "末句点出诗风"
+                }
+            ]
+        },
+        "analysis": "这首诗送人入道，首联以星冠霞氅写仙风道骨，但“不肯轻迷”直白。颔联丹成仙的比喻夸张，缺乏诗意。颈联黑龙、白鹿意象奇幻，但堆砌痕迹明显，情感空洞。尾联哦诗清致，以弥明为正传，但立意浅显。整体上，意象如“黑龙”、“白鹿”奇特，但技法粗糙，词藻浮夸，未能传达修道真谛，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "飘逸",
+                "imagery_analysis": "星冠、霞氅、黑龙、白鹿等意象试图体现飘逸，但流于表面。",
+                "realm": "劣品",
+                "reason": "意象堆砌，立意浅显，未能真正体现飘逸之境，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "天",
+            "冠",
+            "衣",
+            "丹",
+            "仙",
+            "洞",
+            "龙",
+            "花",
+            "鹿",
+            "诗"
+        ],
+        "allusions": [
+            {
+                "phrase": "弥明",
+                "explanation": "唐代诗人"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "颈联意象奇幻，但整体立意浅显"
+        }
+    }
+]

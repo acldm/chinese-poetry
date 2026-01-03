@@ -1,0 +1,1294 @@
+[
+    {
+        "title": "題建州富沙門樓安濟橋十絕呈太守黄彥發 富沙門樓五絕 其四",
+        "author": "劉弇",
+        "paragraphs": [
+            "王粲登臨端不負，庾公興味故應清。",
+            "廣寒約酌無多地，取取仙風洗骨生。"
+        ],
+        "paragraphs_simplified": [
+            "王粲登临端不负，庾公兴味故应清。",
+            "广寒约酌无多地，取取仙风洗骨生。"
+        ],
+        "translation": "王粲登高游览确实没有辜负，庾公的兴致本来就应该清雅。在月宫约定饮酒没有多少地方，取来仙风洗涤骨骼重生。",
+        "score": 3.5,
+        "subject": [
+            "山水诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先引用历史人物登临的典故，再转入月宫饮酒的想象，最后以仙风洗骨作结，营造超脱意境。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用王粲、庾公、广寒等典故，增强文化底蕴。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“仙风洗骨”比喻仙风道骨的洗涤，形象生动。"
+                }
+            ]
+        },
+        "analysis": "此诗词藻典雅，但意象略显陈旧。王粲、庾公的典故虽常见，与广寒结合后构筑出超脱尘世的氛围，情感流露闲适与向往仙界之意。结构紧凑，但立意未出新，整体技法成熟却缺乏独特审美价值。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "以登高、月宫等意象构筑清雅境界，但未达超诣之境。",
+                "realm": "能品",
+                "reason": "用典工整，意境平实，未能突破传统框架。"
+            }
+        ],
+        "imagery": [
+            "登高",
+            "名士",
+            "月宫",
+            "仙风"
+        ],
+        "allusions": [
+            {
+                "phrase": "王粲",
+                "explanation": "东汉文学家，以登高作赋闻名。"
+            },
+            {
+                "phrase": "庾公",
+                "explanation": "东晋庾亮，清谈名士。"
+            },
+            {
+                "phrase": "广寒",
+                "explanation": "指月宫。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“广寒约酌无多地，取取仙风洗骨生”想象奇特，更具诗意。"
+        }
+    },
+    {
+        "title": "題建州富沙門樓安濟橋十絕呈太守黄彥發 富沙門樓五絕 其五",
+        "author": "劉弇",
+        "paragraphs": [
+            "曾聞仙者好樓居，樓外仙山入指呼。",
+            "聊作上游新粉澤，使君不爲貯羅敷。"
+        ],
+        "paragraphs_simplified": [
+            "曾闻仙者好楼居，楼外仙山入指呼。",
+            "聊作上游新粉泽，使君不为贮罗敷。"
+        ],
+        "translation": "曾经听说仙人喜欢居住在楼中，楼外的仙山仿佛在指呼之间。姑且作为上游的新粉泽，使君不是为了贮藏罗敷。",
+        "score": 3.2,
+        "subject": [
+            "题画诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "赞美",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先描述仙人楼居的虚景，再转入现实中的楼阁功用，虚实相生，暗示主人的高洁。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“罗敷”借用古诗中美女形象，反衬主人的不俗。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "“仙山入指呼”赋予山以人的动作，生动活泼。"
+                }
+            ]
+        },
+        "analysis": "此诗以仙山楼阁起兴，意象清奇，但“罗敷”典故略显突兀，未能完全融入主题。情感上流露赞美与闲适，但立意浅显，缺乏深度。技法虽工，但整体意境不够浑然，属于平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以仙山、楼阁构筑超凡境界，但后句转折生硬。",
+                "realm": "能品",
+                "reason": "试图清奇，但典故运用不当，反显拼凑。"
+            }
+        ],
+        "imagery": [
+            "仙人",
+            "楼阁",
+            "仙山",
+            "罗敷"
+        ],
+        "allusions": [
+            {
+                "phrase": "罗敷",
+                "explanation": "古诗中美女代称，此处反用其意。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "“曾闻仙者好楼居，楼外仙山入指呼”起句自然，意境开阔。"
+        }
+    },
+    {
+        "title": "題建州富沙門樓安濟橋十絕呈太守黄彥發 安濟橋五絕 其一",
+        "author": "劉弇",
+        "paragraphs": [
+            "誰把靈楂接飲牛，主人瀟灑古東甌。",
+            "玉清夜半開冰箔，暗認方平別駕虯。"
+        ],
+        "paragraphs_simplified": [
+            "谁把灵楂接饮牛，主人潇洒古东瓯。",
+            "玉清夜半开冰箔，暗认方平别驾虬。"
+        ],
+        "translation": "谁把灵异的木筏接引饮牛，主人潇洒如古东瓯。玉清夜半打开冰箔，暗中认出方平别驾的虬龙。",
+        "score": 3.8,
+        "subject": [
+            "咏物诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "惊奇",
+            "赞美"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "先以饮牛典故起兴，再转入夜半仙景，最后以认出虬龙收尾，虚实交织。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“灵楂饮牛”、“方平别驾”均出自神仙传说。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“玉清”比喻仙境，“冰箔”喻指冰帘。"
+                }
+            ]
+        },
+        "analysis": "此诗典故密集，意象奇幻，构筑出独特的神仙世界。情感上充满惊奇与赞美，结构首尾呼应，技法娴熟。但用典稍显堆砌，可能影响流畅性，整体仍属佳作。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "以灵楂、玉清等意象渲染华丽仙境，但未失之浮艳。",
+                "realm": "妙品",
+                "reason": "典故运用巧妙，意境瑰丽。"
+            }
+        ],
+        "imagery": [
+            "木筏",
+            "牛",
+            "仙境",
+            "虬龙"
+        ],
+        "allusions": [
+            {
+                "phrase": "灵楂接饮牛",
+                "explanation": "出自神仙传说，指仙木筏接引牛郎。"
+            },
+            {
+                "phrase": "方平别驾",
+                "explanation": "道教神仙麻姑的方平真人，别驾指官职。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“玉清夜半开冰箔，暗认方平别驾虬”夜景奇幻，想象独特。"
+        }
+    },
+    {
+        "title": "題建州富沙門樓安濟橋十絕呈太守黄彥發 安濟橋五絕 其二",
+        "author": "劉弇",
+        "paragraphs": [
+            "扶檻侏儒玉刻紅，斬新裝飾水精宮。",
+            "武夷不信仙山近，十萬曾孫正踏虹。"
+        ],
+        "paragraphs_simplified": [
+            "扶槛侏儒玉刻红，斩新装饰水精宫。",
+            "武夷不信仙山近，十万曾孙正踏虹。"
+        ],
+        "translation": "扶着栏杆的侏儒用玉刻成红色，崭新装饰的水晶宫。武夷山不相信仙山如此近，十万曾孙正在踏着彩虹。",
+        "score": 3.6,
+        "subject": [
+            "题画诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "赞美",
+            "惊奇"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "夸张"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先描写桥栏装饰的实景，再转入武夷仙山的虚景，动静相衬，突出桥的神奇。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“十万曾孙正踏虹”夸大仙山人数，渲染热闹。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "“武夷不信”赋予山以情感，生动有趣。"
+                }
+            ]
+        },
+        "analysis": "此诗以夸张手法描绘桥与仙山，意象鲜活，但“侏儒玉刻”略显怪异，破坏整体美感。情感上惊奇与赞美交织，结构清晰，但用语稍显生硬，未能完全达到自然之境。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "以踏虹、仙山等意象构筑有力画面，但细节处理欠妥。",
+                "realm": "能品",
+                "reason": "试图劲健，但意象拼凑，反显粗疏。"
+            }
+        ],
+        "imagery": [
+            "栏杆",
+            "侏儒",
+            "水晶宫",
+            "彩虹"
+        ],
+        "allusions": [
+            {
+                "phrase": "武夷",
+                "explanation": "福建名山，道教圣地。"
+            },
+            {
+                "phrase": "曾孙",
+                "explanation": "指仙人后裔，典出武夷君传说。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“武夷不信仙山近，十万曾孙正踏虹”想象宏大，富有动感。"
+        }
+    },
+    {
+        "title": "題建州富沙門樓安濟橋十絕呈太守黄彥發 安濟橋五絕 其三",
+        "author": "劉弇",
+        "paragraphs": [
+            "跨海鼇身傳洛陽，貼波虹影老吳江。",
+            "未如截取玻瓈去，穩卧箜篌白玉腔。"
+        ],
+        "paragraphs_simplified": [
+            "跨海鳌身传洛阳，贴波虹影老吴江。",
+            "未如截取玻璃去，稳卧箜篌白玉腔。"
+        ],
+        "translation": "跨海的鳌身传说在洛阳，贴波的虹影老于吴江。不如截取玻璃离去，稳卧在箜篌的白玉腔中。",
+        "score": 3.9,
+        "subject": [
+            "咏物诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "豁达",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先以跨海鳌、虹影等宏大意象起兴，再转入截取玻璃的隐逸之志，最后以稳卧箜篌显志。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“玻瓈”比喻清澈的水面，“箜篌白玉腔”喻指高洁生活。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "“洛阳”、“吴江”代指各地名胜。"
+                }
+            ]
+        },
+        "analysis": "此诗前半写景壮阔，后半转折至隐逸之志，对比强烈，意境深远。情感豁达闲适，技法上虚实结合得当，卒章显志点明主题，整体艺术价值较高。",
+        "poetry_styles": [
+            {
+                "style": "旷达",
+                "imagery_analysis": "以跨海鳌、玻璃等意象构筑超脱境界，后句稳卧显志。",
+                "realm": "妙品",
+                "reason": "转折自然，意境开阔。"
+            }
+        ],
+        "imagery": [
+            "鳌",
+            "虹影",
+            "玻璃",
+            "箜篌"
+        ],
+        "allusions": [
+            {
+                "phrase": "跨海鼇身",
+                "explanation": "神话中驮山的巨鳌，此处喻指桥的稳固。"
+            },
+            {
+                "phrase": "箜篌",
+                "explanation": "古代乐器，象征高雅生活。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "“未如截取玻瓈去，稳卧箜篌白玉腔”转折巧妙，志趣高远。"
+        }
+    },
+    {
+        "title": "題建州富沙門樓安濟橋十絕呈太守黄彥發 安濟橋五絕 其四",
+        "author": "劉弇",
+        "paragraphs": [
+            "擁翠拖青得要津，截波仙屐略無塵。",
+            "借令萬鵲填橋巧，何補褰裳一世人。"
+        ],
+        "paragraphs_simplified": [
+            "拥翠拖青得要津，截波仙屐略无尘。",
+            "借令万鹊填桥巧，何补褰裳一世人。"
+        ],
+        "translation": "首句描绘桥身被翠绿青葱的草木环绕，占据交通要冲，桥姿如仙人之鞋截断水波，洁净无尘。次句反问：即使喜鹊填桥的传说再巧妙，又怎能弥补世人提衣涉水的艰辛？",
+        "score": 2.8,
+        "subject": [
+            "咏物诗",
+            "山水诗"
+        ],
+        "emotion": [
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张",
+                "反问"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句写景状物，后句转折议论，通过神话典故反衬现实之缺憾。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以“仙屐”喻桥，凸显其超凡脱俗之态。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "化用“鹊桥填河”传说，反衬现实功能不足。"
+                }
+            ]
+        },
+        "analysis": "此诗以桥为题，首句铺陈景致，辞藻华美却流于表面，意象堆砌而缺乏深层意蕴。次句借典故发议论，虽有反问增强力度，但立意浅显，未能跳出咏物诗的常规框架。整体情景交融度不足，情感表达直白，缺乏回甘余味，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "试图以精致物象构筑高雅意境，但意象组合生硬，未达浑然天成之境。",
+                "realm": "能",
+                "reason": "技法工整但缺乏新意，模仿典雅风格却流于表面形式。"
+            }
+        ],
+        "imagery": [
+            "桥",
+            "波",
+            "尘",
+            "鹊",
+            "裳"
+        ],
+        "allusions": [
+            {
+                "phrase": "萬鵲填橋",
+                "explanation": "借用牛郎织女鹊桥相会传说，反衬现实桥梁之不足。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句意象组合较生动，画面感较强。"
+        }
+    },
+    {
+        "title": "題建州富沙門樓安濟橋十絕呈太守黄彥發 安濟橋五絕 其五",
+        "author": "劉弇",
+        "paragraphs": [
+            "江夏無雙自妙年，潁川第一早聞天。",
+            "陽和自滿千桃李，更欲邦人識濟川。"
+        ],
+        "paragraphs_simplified": [
+            "江夏无双自妙年，颍川第一早闻天。",
+            "阳和自满千桃李，更欲邦人识济川。"
+        ],
+        "translation": "首句赞颂太守黄彦发年少时便如江夏黄宪无双，才名早传如颍川第一。次句以春日和煦、桃李繁茂喻其政绩丰硕，更盼百姓知晓其济世之能。",
+        "score": 3.2,
+        "subject": [
+            "干谒诗",
+            "赞美诗"
+        ],
+        "emotion": [
+            "赞美",
+            "期待"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句用典赞才名，后句以春景喻政绩，末句点明期许，层层递进。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "“江夏无双”“颍川第一”借古贤喻今人。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“阳和”“桃李”喻政通人和。"
+                }
+            ]
+        },
+        "analysis": "此诗作为酬赠之作，用典精准但略显套语，意象选择陈旧（桃李喻门生）。情感表达虽诚恳，却未脱应制诗的恭维窠臼。整体结构工整，但意境未能拓宽，流于表面颂扬，缺乏独特艺术感染力。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "辞藻华丽但意象组合缺乏新意，未能构筑深邃意境。",
+                "realm": "能",
+                "reason": "技法熟练但立意平庸，模仿绮丽风格却显堆砌。"
+            }
+        ],
+        "imagery": [
+            "桃李",
+            "阳和",
+            "川"
+        ],
+        "allusions": [
+            {
+                "phrase": "江夏無雙",
+                "explanation": "指东汉黄宪，才德无双。"
+            },
+            {
+                "phrase": "潁川第一",
+                "explanation": "喻才学出众，如颍川名士。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句以景结情，含蓄表达期许。"
+        }
+    },
+    {
+        "title": "送曾道者歸玉笥舊隠二首  其一",
+        "author": "劉弇",
+        "paragraphs": [
+            "踏盡匡山十載雲，却抽秋鶴九皋身。",
+            "明明似爲溪毛熟，笑整西風不屋巾。"
+        ],
+        "paragraphs_simplified": [
+            "踏尽匡山十载云，却抽秋鹤九皋身。",
+            "明明似为溪毛熟，笑整西风不屋巾。"
+        ],
+        "translation": "首句写曾道者隐居匡山十年，如今如仙鹤脱笼归隐九皋。次句描绘其似因溪边水草丰茂而从容，笑对西风不戴头巾，洒脱不羁。",
+        "score": 4.1,
+        "subject": [
+            "送别诗",
+            "游仙诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句叙事写实，后句以景结情，通过动作细节刻画人物风神。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“秋鹤”喻隐士超脱。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "“笑整西风”赋予自然以人情。"
+                }
+            ]
+        },
+        "analysis": "此诗送别道士归隐，意象清奇脱俗，秋鹤、溪毛等物象构筑出疏野意境。人物刻画生动，笑整衣巾的细节流露豁达心境。情景交融自然，虚实相生，情感含蓄而有余韵，属佳作。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "以自然物象烘托隐逸之趣，不拘礼法，真率洒脱。",
+                "realm": "妙",
+                "reason": "意境疏朗，情感真挚，深得疏野之趣。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "云",
+            "鹤",
+            "溪",
+            "风"
+        ],
+        "allusions": [
+            {
+                "phrase": "九皋",
+                "explanation": "《诗经》典故，喻隐士居所深远。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句以动作细节传神，展现人物风骨。"
+        }
+    },
+    {
+        "title": "送曾道者歸玉笥舊隠二首  其二",
+        "author": "劉弇",
+        "paragraphs": [
+            "道隠曾窺反接猱，急人尤喜施圭刀。",
+            "浮生不絓秋毫外，肯把長閑博暫勞。"
+        ],
+        "paragraphs_simplified": [
+            "道隐曾窥反接猱，急人尤喜施圭刀。",
+            "浮生不絓秋毫外，肯把长闲博暂劳。"
+        ],
+        "translation": "首句写曾道者曾窥见道法真谛，如反接猿猴般自如，且乐于助人。次句言其浮生不为琐事牵绊，岂肯以长久闲适换取暂时劳碌。",
+        "score": 3.9,
+        "subject": [
+            "送别诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "反问"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句叙事喻道，后句议论明志，通过对比凸显超脱心境。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“反接猱”喻道法纯熟。"
+                },
+                {
+                    "tag": "反问",
+                    "explanation": "“肯把”句以反问强化决绝态度。"
+                }
+            ]
+        },
+        "analysis": "此诗以议论为主，哲理深刻但意象较抽象，缺乏生动画面。情感表达内敛，通过反问句式增强力度，整体结构紧凑。然部分词句稍显晦涩，影响意境的直观性，仍属有深度之作。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "以道家典故入诗，追求超脱凡俗的境界，但意象不够鲜明。",
+                "realm": "能",
+                "reason": "哲理深刻但表达稍显直白，未达含蓄之境。"
+            }
+        ],
+        "imagery": [
+            "猱",
+            "圭刀",
+            "秋毫"
+        ],
+        "allusions": [
+            {
+                "phrase": "反接猱",
+                "explanation": "可能化用道家典故，喻掌控自如。"
+            },
+            {
+                "phrase": "圭刀",
+                "explanation": "圭为玉器，刀为利器，喻助人之具。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句哲理精炼，点明主旨。"
+        }
+    },
+    {
+        "title": "道旁見牛車因成二絕  其一",
+        "author": "劉弇",
+        "paragraphs": [
+            "由來得計在通津，蝕盡冥冥古道塵。",
+            "犢子掣轅疲欲死，須知作俑是椎輪。"
+        ],
+        "paragraphs_simplified": [
+            "由来得计在通津，蚀尽冥冥古道尘。",
+            "犊子掣辕疲欲死，须知作俑是椎轮。"
+        ],
+        "translation": "首句言牛车历来以通津为目的，却蚀尽了古道尘埃。次句写小牛拉车疲惫欲死，须知始作俑者是原始的椎轮（简陋车轮）。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "对比"
+            ],
+            "presentation_tags": [
+                "借古讽今",
+                "侧面烘托"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句写现象，后句通过小牛疲惫与椎轮起源对比，暗讽世事。",
+            "evidence": [
+                {
+                    "tag": "借代",
+                    "explanation": "“椎轮”借指简陋工具，暗喻开端之弊。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "小牛疲惫与椎轮始作形成反差。"
+                }
+            ]
+        },
+        "analysis": "此诗借牛车讽喻，意象陈旧（古道尘、犊子），立意浅显，未能跳出常规批判框架。情感表达过于直白，缺乏审美距离，整体流于说教，艺术价值有限。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "试图以牛车劳苦引发悲悯，但意象单薄，未能构筑深沉意境。",
+                "realm": "凡",
+                "reason": "模仿悲慨却显生硬，情感宣泄过度。"
+            }
+        ],
+        "imagery": [
+            "车",
+            "尘",
+            "犊",
+            "轮"
+        ],
+        "allusions": [
+            {
+                "phrase": "作俑",
+                "explanation": "《孟子》典故，指始作恶者。"
+            },
+            {
+                "phrase": "椎轮",
+                "explanation": "喻简陋原始之物。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句用典稍显巧妙，但整体平庸。"
+        }
+    },
+    {
+        "title": "道旁見牛車因成二絕  其二",
+        "author": "劉弇",
+        "paragraphs": [
+            "兼兩正緣勝任取，摧輈終忌大圓生。",
+            "尺塗寸潦皆吾病，何必羊腸九折行。"
+        ],
+        "paragraphs_simplified": [
+            "兼两正缘胜任取，摧辀终忌大圆生。",
+            "尺涂寸潦皆吾病，何必羊肠九折行。"
+        ],
+        "translation": "The cart is designed for two, properly connected, able to take the load; however, breaking the shaft is ultimately to be avoided as it leads to great misfortune. Even a foot of road or an inch of puddle is a trouble to me; why should I travel on the winding, serpentine path?",
+        "score": 3.2,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对比"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "The poem starts by describing the cart's functionality and potential failure, then moves to the poet's personal aversion to difficult roads, using the cart as a metaphor for life's journey.",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "The winding road (羊肠九折) is compared to life's hardships."
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "The cart and road are used to express the poet's desire to avoid unnecessary troubles."
+                }
+            ]
+        },
+        "analysis": "此诗以道旁牛车为引，构筑出一幅关于行路难的隐喻图景。首句‘兼两正缘胜任取’勾勒出车辆的稳固与承载力，而‘摧輈终忌大圆生’则暗含对潜在风险的警惕。后两句‘尺涂寸潦皆吾病’直指微小障碍带来的困扰，‘何必羊肠九折行’以反问收束，彰显诗人对曲折路径的疏离态度。整体上，诗歌通过物象的细节描写，折射出一种避世就安的哲学倾向，语言凝练，但意象略显陈旧，未能突破传统咏物诗的框架。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "诗中‘尺涂寸潦’等细微意象，营造出一种淡泊的忧愁氛围。",
+                "realm": "能",
+                "reason": "技法成熟，但意境未达高妙之境。"
+            },
+            {
+                "style": "含蓄",
+                "imagery_analysis": "通过牛车与道路的隐喻，间接表达人生选择，不直露。",
+                "realm": "能",
+                "reason": "有含蓄之美，但创新不足。"
+            }
+        ],
+        "imagery": [
+            "车",
+            "路",
+            "水"
+        ],
+        "allusions": [
+            {
+                "phrase": "羊肠九折",
+                "explanation": "比喻极其曲折难行的道路，源自古代典籍。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘尺涂寸潦皆吾病，何必羊肠九折行’直接表达了诗人的情感和态度，是全诗的核心。"
+        }
+    },
+    {
+        "title": "送李德素罷官歸舒城三首  其一",
+        "author": "劉弇",
+        "paragraphs": [
+            "瀟灑由來物外姿，文章滿把盡珠璣。",
+            "飛黄蹀月終難絆，看取蘅皋手一揮。"
+        ],
+        "paragraphs_simplified": [
+            "潇洒由来物外姿，文章满把尽珠玑。",
+            "飞黄蹀月终难绊，看取蘅皋手一挥。"
+        ],
+        "translation": "He has always had an otherworldly elegance, and his writings are full of pearls and gems. The flying yellow horse treading on moonlight cannot be restrained; watch him wave his hand from the Heng marsh.",
+        "score": 4.0,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "赞美",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "The poem opens with direct praise of the friend's character and talent, then uses mythical imagery to depict his free departure.",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "文章如珠玑，飞黄比喻友人的自由精神。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "‘飞黄蹀月’极言其超脱凡尘。"
+                }
+            ]
+        },
+        "analysis": "此诗赠别友人，开篇即以‘潇洒’‘物外姿’定调，赞其超脱风度。‘文章满把尽珠玑’以珠玉喻文采，极言其才华。后联借‘飞黄’神马与‘蘅皋’意象，勾勒出友人去官归隐的洒脱画面，‘手一揮’三字尤显豪迈。全诗语言精炼，意象华美，情感真挚而不黏滞，堪称送别诗中的佳作。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "‘珠玑’‘飞黄’等意象华美，渲染出富丽的视觉效果。",
+                "realm": "妙",
+                "reason": "意象华美，情感表达恰到好处。"
+            },
+            {
+                "style": "豪放",
+                "imagery_analysis": "‘手一挥’动作洒脱，体现豪迈气概。",
+                "realm": "妙",
+                "reason": "气韵生动，不拘小节。"
+            }
+        ],
+        "imagery": [
+            "文",
+            "珠",
+            "马",
+            "月",
+            "水"
+        ],
+        "allusions": [
+            {
+                "phrase": "飞黄",
+                "explanation": "传说中的神马，象征速度与自由。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘飞黄蹀月终难绊，看取蘅皋手一挥’生动描绘了友人的自由离去。"
+        }
+    },
+    {
+        "title": "送李德素罷官歸舒城三首  其二",
+        "author": "劉弇",
+        "paragraphs": [
+            "朔風吹眼水溶溶，白社回香杳靄中。",
+            "千里滄洲帆一抹，遥知此日背冥鴻。"
+        ],
+        "paragraphs_simplified": [
+            "朔风吹眼水溶溶，白社回香杳霭中。",
+            "千里沧洲帆一抹，遥知此日背冥鸿。"
+        ],
+        "translation": "The north wind blows into the eyes, the water is vast; in the white society, fragrance returns in the distant mist. A sail on the vast sea, a mere stroke; from afar, I know this day he turns his back on the dark goose.",
+        "score": 3.8,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "惜别",
+            "孤独"
+        ],
+        "time_season": {
+            "season": "冬",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "The poem begins with a winter scene, sets the mood of parting, and ends with a distant image of the friend leaving, creating a cohesive emotional arc.",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘帆一抹’ like a brushstroke, emphasizing the smallness of the sail against the vast sea."
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "‘冥鸿’ represents the friend as a recluse, turning away."
+                }
+            ]
+        },
+        "analysis": "诗中以‘朔风’‘水溶溶’起兴，营造出冬日送别的苍茫氛围。‘白社回香’暗指友人归隐之处。后联以‘千里沧洲’与‘帆一抹’对比，凸显行程之辽远，‘背冥鸿’则巧妙以鸿雁高飞喻友人离去，寄托遥思。全诗意境开阔，情景交融，但‘杳霭’等词稍显晦涩。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "‘朔风’‘冥鸿’等意象带有萧瑟之感，抒发离别之悲。",
+                "realm": "能",
+                "reason": "情感真挚，但意境未达极致。"
+            },
+            {
+                "style": "高古",
+                "imagery_analysis": "用词古朴，如‘白社’‘冥鸿’，有古风遗韵。",
+                "realm": "能",
+                "reason": "风格高古，但略显生僻。"
+            }
+        ],
+        "imagery": [
+            "风",
+            "水",
+            "社",
+            "香",
+            "船",
+            "水",
+            "鸟"
+        ],
+        "allusions": [
+            {
+                "phrase": "冥鸿",
+                "explanation": "暗指高飞的鸿雁，常用于比喻隐士或离别。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘千里沧洲帆一抹，遥知此日背冥鸿’以简练笔触勾勒出离别场景，意蕴深远。"
+        }
+    },
+    {
+        "title": "送李德素罷官歸舒城三首  其三",
+        "author": "劉弇",
+        "paragraphs": [
+            "水落淮天蟹子肥，三年游子片帆歸。",
+            "東坡䆉稏黄雲滿，試傍林椒振客衣。"
+        ],
+        "paragraphs_simplified": [
+            "水落淮天蟹子肥，三年游子片帆归。",
+            "东坡䆉稏黄云满，试傍林椒振客衣。"
+        ],
+        "translation": "The water recedes, the Huai sky is clear, crabs are fat; after three years, the traveler returns with a single sail. On the east slope, the grain is full like yellow clouds; try brushing the traveler's clothes by the forest pepper.",
+        "score": 3.7,
+        "subject": [
+            "送别诗",
+            "思乡诗"
+        ],
+        "emotion": [
+            "期待",
+            "喜悦"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "The poem transitions from the journey scene to the homecoming scene, using seasonal cues to highlight the joy of return.",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘黄云满’ compares the grain fields to yellow clouds, symbolizing abundance."
+                }
+            ]
+        },
+        "analysis": "此诗以‘水落淮天’点明秋景，‘蟹子肥’增添生活气息，暗示归期。‘三年游子’直述离别之久，‘片帆归’则轻快。后联转写故乡东坡丰收景象，‘黄云满’喻稻浪翻滚，‘振客衣’动作亲切，全诗从旅途到家乡，画面转换自然，情感由盼转喜，语言朴实而富于动感。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "语言平实，如‘蟹子肥’‘片帆归’，流露天然情趣。",
+                "realm": "能",
+                "reason": "清新自然，但缺乏深刻意象。"
+            },
+            {
+                "style": "清奇",
+                "imagery_analysis": "‘黄云满’以云喻谷，视角独特。",
+                "realm": "能",
+                "reason": "比喻新颖，但整体稍显平淡。"
+            }
+        ],
+        "imagery": [
+            "水",
+            "天",
+            "蟹",
+            "船",
+            "山",
+            "云",
+            "树",
+            "植物"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "‘水落淮天蟹子肥，三年游子片帆归’以景衬情，生动传达归乡之喜。"
+        }
+    },
+    {
+        "title": "和知府龍圖黄安中淺沙馬跑二泉二首  其一",
+        "author": "劉弇",
+        "paragraphs": [
+            "甃面平吞寸許寒，記曾一掬洗中乾。",
+            "定知滿斛黄金屑，會有遊人鏡裏看。"
+        ],
+        "paragraphs_simplified": [
+            "甃面平吞寸许寒，记曾一掬洗中乾。",
+            "定知满斛黄金屑，会有游人镜里看。"
+        ],
+        "translation": "The well face swallows a bit of cold; I remember once scooping to wash the dryness inside. Surely there are full斛 of gold dust, and there will be travelers looking in the mirror.",
+        "score": 3.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "The poem describes the well's physical attributes and then shifts to a speculative view of its value, ending with a vision of future visitors.",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘黄金屑’ metaphorically represents the preciousness of the spring water."
+                }
+            ]
+        },
+        "analysis": "诗咏二泉，首句写井面寒气袭人，‘一掬洗中乾’忆昔时掬水解渴。后联以‘黄金屑’喻泉水之珍贵，‘镜里看’则想象游人观赏之景。全诗从实写到虚想，但意象较为晦涩，‘黄金屑’比喻突兀，整体略显生硬。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "‘黄金屑’意象华贵，试图营造富丽感。",
+                "realm": "能",
+                "reason": "比喻华丽，但与整体意境稍有脱节。"
+            },
+            {
+                "style": "实境",
+                "imagery_analysis": "基于井泉的实物描写，有现实基础。",
+                "realm": "能",
+                "reason": "写实但缺乏升华。"
+            }
+        ],
+        "imagery": [
+            "井",
+            "水",
+            "金",
+            "镜"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘定知满斛黄金屑，会有游人镜里看’以奇特比喻赋予泉水价值，虽稍显夸张，但颇具想象力。"
+        }
+    }
+]

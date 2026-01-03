@@ -1,0 +1,86 @@
+[
+    {
+        "title": "答惇上人七首  其四",
+        "author": "饒節",
+        "paragraphs": [
+            "少矜平子四愁詩，晚學趙州十二時。",
+            "千里故人不解事，書來猶寄竹枝辭。"
+        ],
+        "paragraphs_simplified": [
+            "少矜平子四愁诗，晚学赵州十二时。",
+            "千里故人不解事，书来犹寄竹枝辞。"
+        ],
+        "translation": "年轻时自负地模仿张衡写《四愁诗》，晚年却学习赵州禅师的十二时辰修行。远方的老朋友不懂事，写信来还寄来竹枝词。",
+        "score": 3.8,
+        "subject": [
+            "禅理诗",
+            "酬唱诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "用典",
+                "对比"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句写自身从诗到禅的转变，后两句写故人寄诗，形成对比与呼应。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用张衡《四愁诗》和赵州禅师十二时典故。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "前两句和后两句在结构上对仗工整。"
+                }
+            ]
+        },
+        "analysis": "此诗以精炼的笔触勾勒出诗人从文人雅趣向禅门修行的精神轨迹，典故的嵌入自然而不晦涩，但意境稍显平直，缺乏更深层的审美回甘。故人寄竹枝辞的细节，折射出世事误解的淡淡无奈，整体结构工整，却未见奇崛之趣。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "诗中禅意与诗艺的对比，营造出淡泊的意境。",
+                "realm": "能品",
+                "reason": "技法成熟，但意境未达超逸之境。"
+            }
+        ],
+        "imagery": [
+            "诗",
+            "禅",
+            "竹枝"
+        ],
+        "allusions": [
+            {
+                "phrase": "平子四愁诗",
+                "explanation": "指张衡的《四愁诗》，代表文人诗作。"
+            },
+            {
+                "phrase": "赵州十二时",
+                "explanation": "指赵州从谂禅师的十二时辰修行法门，代表禅修。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句点明诗人早年的诗艺自负，为全诗定下基调。"
+        }
+    }
+]

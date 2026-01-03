@@ -1,0 +1,376 @@
+[
+    {
+        "title": "城東延福禪院避暑五首  其五",
+        "author": "郭祥正",
+        "paragraphs": [
+            "隔澗人家通小橋，家家沽酒可相邀。",
+            "深沈榕葉遮煩日，浩蕩風頭駕晚潮。"
+        ],
+        "paragraphs_simplified": [
+            "隔涧人家通小桥，家家沽酒可相邀。",
+            "深沉榕叶遮烦日，浩荡风头驾晚潮。"
+        ],
+        "translation": "隔着山涧的人家有小桥相通，家家户户买酒可以互相邀请。深沉的榕树叶遮挡了烦热的太阳，浩荡的风头驾驭着晚潮。",
+        "score": 3.0,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写近景人家与小桥，再写远景榕叶与风潮，由近及远勾勒避暑场景。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "“隔澗人家”与“深沈榕葉”、“通小橋”与“遮煩日”形成工整对仗，增强节奏感。"
+                }
+            ]
+        },
+        "analysis": "此诗以简练笔触勾勒避暑之景，意象如小桥、沽酒、榕叶、晚潮组合自然，情景契合度较高。语言平实，但立意浅显，缺乏深层意蕴，属于应景之作，未能突破常规。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "意象平淡，营造出闲适氛围，但意境未达高远。",
+                "realm": "能",
+                "reason": "试图模仿冲淡之境，但意象陈旧，流于表面。"
+            }
+        ],
+        "imagery": [
+            "桥",
+            "酒",
+            "树",
+            "风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句以“隔澗人家通小橋”开篇，生动点出环境，更具画面感。"
+        }
+    },
+    {
+        "title": "荔枝二首  其一",
+        "author": "郭祥正",
+        "paragraphs": [
+            "枝條相軋碧雲濃，襯出驪珠落照中。",
+            "未說甘香消酷熱，且看纖手擘輕紅。"
+        ],
+        "paragraphs_simplified": [
+            "枝条相轧碧云浓，衬出骊珠落照中。",
+            "未说甘香消酷热，且看纤手擘轻红。"
+        ],
+        "translation": "枝条相互挤压，碧绿的云彩浓密，衬托出骊珠（荔枝）在落日余晖中。不说甘甜的香气能消除酷热，只看那纤细的手剥开红色的果皮。",
+        "score": 3.5,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": "黄昏"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先写荔枝外观与环境，再转入品尝动作，由形及味层层递进。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“驪珠”喻指荔枝，凸显其珍贵圆润。"
+                },
+                {
+                    "tag": "借代",
+                    "explanation": "“纖手”代指剥荔枝的女子，增添生动性。"
+                }
+            ]
+        },
+        "analysis": "此诗以“碧云”“驪珠”等意象描绘荔枝，比喻贴切，细节生动。但“甘香消酷热”一句略显直白，整体虽技法成熟，却未脱咏物诗常套，缺乏新意。",
+        "poetry_styles": [
+            {
+                "style": "纤秾",
+                "imagery_analysis": "意象细腻丰腴，贴合荔枝特质，但未达精妙。",
+                "realm": "能",
+                "reason": "符合纤秾风格，但情感表达稍显平淡。"
+            }
+        ],
+        "imagery": [
+            "枝条",
+            "云",
+            "荔枝",
+            "手"
+        ],
+        "allusions": [
+            {
+                "phrase": "驪珠",
+                "explanation": "原指骊龙颔下之珠，此处借喻荔枝之珍贵。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句“且看纖手擘輕紅”以动作收尾，更具动态美感。"
+        }
+    },
+    {
+        "title": "荔枝二首  其二",
+        "author": "郭祥正",
+        "paragraphs": [
+            "暑館風沈睡眼醒，荔枝新熟暗香生。",
+            "玉纖爲剥紅綃顆，甘露初凝濕水晶。"
+        ],
+        "paragraphs_simplified": [
+            "暑馆风沉睡眼醒，荔枝新熟暗香生。",
+            "玉纤为剥红绡颗，甘露初凝湿水晶。"
+        ],
+        "translation": "暑热的馆舍中，风沉沉地唤醒睡眼，荔枝新熟，暗香飘生。玉指剥开红色的果皮，甘露初凝，湿润如水晶。",
+        "score": 3.2,
+        "subject": [
+            "咏物诗"
+        ],
+        "emotion": [
+            "赞美"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "从风醒睡眼起笔，至甘露凝水晶收束，首尾暗扣荔枝之香与形。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "“風沈睡眼醒”赋予风以唤醒人的动作。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "“甘露初凝濕水晶”喻荔枝汁液清润。"
+                }
+            ]
+        },
+        "analysis": "此诗在意象运用上较前首更细，如“暗香”“红绡”等词，但“玉纤”等语陈旧，堆砌痕迹明显。整体虽有绮丽之表，却乏深刻之质，流于浮华。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "辞藻华丽，但意象重复，未出新境。",
+                "realm": "逸",
+                "reason": "试图追求绮丽，然失之堆砌，反显俗艳。"
+            }
+        ],
+        "imagery": [
+            "馆舍",
+            "风",
+            "荔枝",
+            "手指",
+            "露水"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句“甘露初凝濕水晶”以比喻收尾，形象生动。"
+        }
+    },
+    {
+        "title": "寄資深承事行營二首  其一",
+        "author": "郭祥正",
+        "paragraphs": [
+            "縱横才略領千兵，鵰鶚羣飛戰艦輕。",
+            "海浪掀天須破賊，始知名將是儒生。"
+        ],
+        "paragraphs_simplified": [
+            "纵横才略领千兵，雕鹗群飞战舰轻。",
+            "海浪掀天须破贼，始知名将是儒生。"
+        ],
+        "translation": "纵横的才略统领千军，雕鹗群飞，战舰轻快。海浪掀天必须破贼，这才知道名将原是儒生。",
+        "score": 2.5,
+        "subject": [
+            "边塞诗"
+        ],
+        "emotion": [
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写将领才能与军容，后两句以破贼点明儒将主题，直露无余。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "“鵰鶚”喻指将领勇猛。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "“海浪掀天”渲染战场险恶。"
+                }
+            ]
+        },
+        "analysis": "此诗意图营造豪迈气势，但意象如“雕鹗”“海浪”流于常见，立意浅显，仅为应酬之语。语言直白，缺乏含蓄之美，整体平庸。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "试图以宏大意象显豪放，但用语粗浅，反显空洞。",
+                "realm": "劣",
+                "reason": "模仿豪放而不得，沦为口号式表达。"
+            }
+        ],
+        "imagery": [
+            "兵",
+            "雕鹗",
+            "战舰",
+            "海浪",
+            "贼"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句“始知名将是儒生”点题，但立意平庸。"
+        }
+    },
+    {
+        "title": "寄資深承事行營二首  其二",
+        "author": "郭祥正",
+        "paragraphs": [
+            "黄梅欲落雨霏霏，想過重岡濕戰衣。",
+            "破賊有期先可喜，裂雲簫鼓待君歸。"
+        ],
+        "paragraphs_simplified": [
+            "黄梅欲落雨霏霏，想过重冈湿战衣。",
+            "破贼有期先可喜，裂云箫鼓待君归。"
+        ],
+        "translation": "黄梅雨即将落下，雨霏霏，想过重重山冈，湿了战衣。破贼有期限，先可喜，裂云的箫鼓等待君归。",
+        "score": 2.8,
+        "subject": [
+            "送别诗"
+        ],
+        "emotion": [
+            "期待"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "伏笔铺垫"
+            ],
+            "structural_logic": "以雨景湿衣起兴，铺垫破贼归来的喜悦，情感递进。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "“裂雲簫鼓”形容欢迎声势浩大。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "“雨霏霏”暗含离别愁绪。"
+                }
+            ]
+        },
+        "analysis": "此诗借黄梅雨景抒写期待，意象自然，但“裂云箫鼓”夸张过度，反失真实。整体构思平庸，未脱送别诗窠臼，情感表达浅淡。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以雨景显自然，但用语牵强，意境未融。",
+                "realm": "逸",
+                "reason": "追求自然却流于直白，缺乏余味。"
+            }
+        ],
+        "imagery": [
+            "雨",
+            "山冈",
+            "战衣",
+            "箫鼓"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句“黄梅欲落雨霏霏”以景起兴，较为生动。"
+        }
+    }
+]

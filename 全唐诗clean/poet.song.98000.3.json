@@ -1,0 +1,3215 @@
+[
+    {
+        "title": "奉詔討范汝爲過寧德西陂訪阮大成",
+        "author": "韓世忠",
+        "paragraphs": [
+            "萬頃琉璃到底清，寒光不動海門平。",
+            "鑑開波面一天凈，虹吸潮頭萬里聲。",
+            "吹斷海風漁笛遠，載歸秋月落帆輕。",
+            "芍陂曾上孤舟看，何似今朝雙眼明。"
+        ],
+        "paragraphs_simplified": [
+            "万顷琉璃到底清，寒光不动海门平。",
+            "鉴开波面一天净，虹吸潮头万里声。",
+            "吹断海风渔笛远，载归秋月落帆轻。",
+            "芍陂曾上孤舟看，何似今朝双眼明。"
+        ],
+        "translation": "首句以琉璃比喻水面清澈万顷，寒光静止海门平静；次句如明镜开波面天空澄净，潮头声如虹吸传万里；三句海风吹断渔笛声渐远，秋月载归轻舟落帆；末句回忆曾在芍陂看孤舟，不如今日双眼明亮。全诗描绘海景壮阔，动静结合，表达行军途中的开阔心境。",
+        "score": 4.2,
+        "subject": [
+            "山水诗",
+            "行旅诗"
+        ],
+        "emotion": [
+            "豁达",
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "动静结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两联写景，后两联抒情，由景入情，末句对比今昔，突出当下感受。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以琉璃喻水清，虹吸喻潮声，形象生动。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "颔联‘鉴开波面’对‘虹吸潮头’，工整匀称。"
+                }
+            ]
+        },
+        "analysis": "此诗构筑海景意象，以琉璃、寒光、虹吸等词渲染空明之境，动静交织，折射出武将行军的开阔胸襟。末句‘何似今朝双眼明’直指当下感悟，情感回甘，不落俗套。整体技法娴熟，意境真切，堪称能品。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "以海门、潮头等宏大意象构筑壮阔境界，符合雄浑之气。",
+                "realm": "能",
+                "reason": "气势充沛，但未达神品之自然天成。"
+            }
+        ],
+        "imagery": [
+            "水",
+            "海",
+            "潮",
+            "帆",
+            "月"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句对比今昔，情感真挚，点明主旨。"
+        }
+    },
+    {
+        "title": "題雲居壁",
+        "author": "韓世忠",
+        "paragraphs": [
+            "芒鞋行杖是生涯，老鬢今年玩物華。",
+            "爲愛雲居松檜好，不須更看牡丹花。"
+        ],
+        "paragraphs_simplified": [
+            "芒鞋行杖是生涯，老鬓今年玩物华。",
+            "为爱云居松桧好，不须更看牡丹花。"
+        ],
+        "translation": "首句直言生涯常穿芒鞋持手杖；次句年老鬓白仍赏玩自然景物；后两句因爱云居的松树桧树美好，不再需看牡丹花。全诗表达隐居闲适，舍繁华取清幽。",
+        "score": 3.8,
+        "subject": [
+            "咏物诗",
+            "隐逸诗"
+        ],
+        "emotion": [
+            "闲适",
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "首句点明生涯，次句写景，后两句直抒胸臆，以松桧与牡丹对比，突出志趣。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "以松桧之清幽对比牡丹之富贵，彰显淡泊。"
+                },
+                {
+                    "tag": "白描",
+                    "explanation": "芒鞋行杖等词平实勾勒隐居生活。"
+                }
+            ]
+        },
+        "analysis": "此诗以白描手法勾勒隐居生涯，松桧与牡丹的对比直指志趣高洁，情感内敛而真切。语言简练，意境疏朗，但意象略显陈旧，整体平实中见淡泊，无浮夸之弊。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "松桧、芒鞋等意象构筑清幽之境，契合冲淡之风。",
+                "realm": "能",
+                "reason": "立意浅显，但技法自然，不失为佳作。"
+            }
+        ],
+        "imagery": [
+            "芒鞋",
+            "杖",
+            "松",
+            "桧",
+            "牡丹"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后两句对比鲜明，直抒胸臆，点明主题。"
+        }
+    },
+    {
+        "title": "偈十首  其一",
+        "author": "釋道行",
+        "paragraphs": [
+            "動則萬丈懸崖，不動則當處沈埋。",
+            "千重萬重關鎖，一鎚當面擊開。",
+            "伎死禪和無數，依前似鴨聞雷。"
+        ],
+        "paragraphs_simplified": [
+            "动则万丈悬崖，不动则当处沉埋。",
+            "千重万重关锁，一锤当面击开。",
+            "伎死禅和无数，依前似鸭闻雷。"
+        ],
+        "translation": "首句说动时如万丈悬崖，不动则沉埋于地；次句比喻重重关锁，一锤击破；末句指无数禅修者如鸭听雷，不悟禅机。全诗以禅语直指顿悟之理。",
+        "score": 4.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "比喻"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "设问"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两联以比喻铺垫禅机，末句点破迷惘，逻辑紧凑。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以悬崖、关锁喻修行困境，锤击喻顿悟。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "万丈悬崖、千重关锁极言障碍之深。"
+                }
+            ]
+        },
+        "analysis": "此诗构筑禅宗意象，以悬崖、关锁等虚景结合锤击之实，渲染顿悟之迅捷。末句鸭闻雷之喻，直指未悟之态，技法缜密，意境超诣，深得禅理三昧。",
+        "poetry_styles": [
+            {
+                "style": "超诣",
+                "imagery_analysis": "以虚实结合之法构筑禅境，超脱尘俗。",
+                "realm": "妙",
+                "reason": "禅机深刻，艺术水准极高。"
+            }
+        ],
+        "imagery": [
+            "悬崖",
+            "关锁",
+            "锤",
+            "鸭",
+            "雷"
+        ],
+        "allusions": [
+            {
+                "phrase": "鸭闻雷",
+                "explanation": "禅宗公案，比喻听而不悟，如鸭听雷。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "末句以常见物喻深理，点明全诗主旨。"
+        }
+    },
+    {
+        "title": "偈十首  其二",
+        "author": "釋道行",
+        "paragraphs": [
+            "車不橫推，理無曲斷。",
+            "若是此花，佛與帝釋。"
+        ],
+        "paragraphs_simplified": [
+            "车不横推，理无曲断。",
+            "若是此花，佛与帝释。"
+        ],
+        "translation": "首句说车不横推，理不曲断，强调直截了当；次句若此花，则佛与帝释同在。全诗以简练禅语，暗示直指本心。",
+        "score": 3.9,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "双关"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "两句并列，首句说理，次句以花喻禅，逻辑直白。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以车推喻行事，花喻禅机。"
+                },
+                {
+                    "tag": "双关",
+                    "explanation": "‘花’既指实物，又暗指禅心。"
+                }
+            ]
+        },
+        "analysis": "此诗语言洗练，以车、花等日常物象直指禅理，双关手法增添深度。虽短小，但意蕴绵密，不落窠臼，整体简洁而有力。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "以极简意象传达深意，符合洗炼之风。",
+                "realm": "能",
+                "reason": "短小精悍，但未达神品之妙。"
+            }
+        ],
+        "imagery": [
+            "车",
+            "花",
+            "佛",
+            "帝释"
+        ],
+        "allusions": [
+            {
+                "phrase": "佛與帝釋",
+                "explanation": "佛教术语，帝释为天神，喻至高境界。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以常理说禅，直截了当，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "偈十首  其三",
+        "author": "釋道行",
+        "paragraphs": [
+            "正宗法眼，歷古昭彰。",
+            "大因因緣，此時成現。",
+            "迅機掣電處密密綿綿，綿綿密密中迅機掣電。",
+            "更問如之若何，我面何殊佛面。"
+        ],
+        "paragraphs_simplified": [
+            "正宗法眼，历古昭彰。",
+            "大因因缘，此时成现。",
+            "迅机掣电处密密绵绵，绵绵密密中迅机掣电。",
+            "更问如之若何，我面何殊佛面。"
+        ],
+        "translation": "首句说正宗法眼自古显明；次句大因缘此时显现；三句迅捷如电处密绵交织，密绵中藏迅捷；末句若问如何，我面与佛面无异。全诗以机锋对答，阐发禅宗顿悟。",
+        "score": 4.7,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "互文"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志",
+                "重章叠句"
+            ],
+            "structural_logic": "前两联铺垫法缘，三联以回文句式强化机锋，末联直指心性，层层递进。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "‘迅机掣电’与‘绵绵密密’回环对偶，工整巧妙。"
+                },
+                {
+                    "tag": "互文",
+                    "explanation": "三联两句互为补充，强调动静一如。"
+                }
+            ]
+        },
+        "analysis": "此诗以回文句式构筑禅机，虚实相生，密绵与迅电交织，直指顿悟不二之境。末句‘我面何殊佛面’用典自然，彰显自信，技法缜密，意境超诣，堪称禅诗妙品。",
+        "poetry_styles": [
+            {
+                "style": "缜密",
+                "imagery_analysis": "以回文结构密织禅理，无懈可击。",
+                "realm": "妙",
+                "reason": "艺术水准极高，结构精妙。"
+            }
+        ],
+        "imagery": [
+            "法眼",
+            "因缘",
+            "电",
+            "面",
+            "佛"
+        ],
+        "allusions": [
+            {
+                "phrase": "我面何殊佛面",
+                "explanation": "禅宗公案，喻众生与佛无二。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "末句以反问点明心性，全诗高潮所在。"
+        }
+    },
+    {
+        "title": "偈十首  其四",
+        "author": "釋道行",
+        "paragraphs": [
+            "金烏急，玉兔速，天上星兮地下要。",
+            "衲僧要透祖師關，勸君拈卻面前大案山，自然會得五祖把火入牛欄。"
+        ],
+        "paragraphs_simplified": [
+            "金乌急，玉兔速，天上星兮地下要。",
+            "衲僧要透祖师关，劝君拈却面前大案山，自然会得五祖把火入牛栏。"
+        ],
+        "translation": "太阳急促，月亮飞快；天上的星星啊，地下的关键。僧人要穿透祖师的关口，劝你拾起面前的大案山，自然会领悟五祖把火放入牛栏的深意。",
+        "score": 4.0,
+        "subject": [
+            "禅理诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "期待"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "用典"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以自然意象开篇，引入禅宗修行主题，通过比喻和典故暗示突破障碍后的顿悟。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "金乌、玉兔比喻日月运行，象征时间流逝。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "五祖把火入牛栏引用禅宗第五祖弘忍的典故，暗示修行契机。"
+                }
+            ]
+        },
+        "analysis": "此诗以日月星辰的宇宙意象起兴，构筑出时空流转的宏大背景，随即转向衲僧修行的个体困境。‘大案山’的比喻形象地勾勒出精神重负，而‘五祖把火入牛栏’的典故则暗含顿悟的契机，整体上通过意象的层递渲染出禅机的不可言传。语言凝练，但典故的运用略显晦涩，需深谙禅宗语境方能体味其妙处。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "通过自然意象和典故间接传达禅理，避免直白说教。",
+                "realm": "妙",
+                "reason": "意象与典故结合紧密，但需特定文化背景才能完全领会。"
+            }
+        ],
+        "imagery": [
+            "日",
+            "月",
+            "星",
+            "山",
+            "火",
+            "牛"
+        ],
+        "allusions": [
+            {
+                "phrase": "五祖把火入牛栏",
+                "explanation": "指禅宗第五祖弘忍的修行故事，象征顿悟的机缘。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句融合修行建议与禅宗典故，是全诗的核心所在。"
+        }
+    },
+    {
+        "title": "偈十首  其五",
+        "author": "釋道行",
+        "paragraphs": [
+            "一不成，二不是。",
+            "三不定，四不可。",
+            "拗折弓箭，踏翻射垛。"
+        ],
+        "paragraphs_simplified": [
+            "一不成，二不是。",
+            "三不定，四不可。",
+            "拗折弓箭，踏翻射垛。"
+        ],
+        "translation": "一不成，二不是。三不定，四不可。拗断弓箭，踏翻箭靶。",
+        "score": 3.0,
+        "subject": [
+            "禅理诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "重复",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "重章叠句"
+            ],
+            "structural_logic": "通过数字序列的否定建立悬念，最后以破坏性动作收束，象征对二元对立的超越。",
+            "evidence": [
+                {
+                    "tag": "重复",
+                    "explanation": "一至四的连续否定形成节奏强化。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "弓箭与射垛比喻世俗争执与目标。"
+                }
+            ]
+        },
+        "analysis": "此诗以数字否定式开篇，制造强烈的逻辑张力，随后转向暴力意象的宣泄。‘拗折弓箭’的动作直指破除执念的决心，但语言过于直白，缺乏意象的铺垫与升华。整体上，形式重于内涵，虽具冲击力，却流于表面化的破坏姿态，未能深入禅理的辩证层面。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "以简练语言和破坏性动作展现力量感。",
+                "realm": "能",
+                "reason": "力度有余而含蓄不足，近乎粗率而非雄健。"
+            }
+        ],
+        "imagery": [
+            "弓",
+            "箭",
+            "垛"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "末句的具象动作最具表现力，承载全诗主旨。"
+        }
+    },
+    {
+        "title": "偈十首  其六",
+        "author": "釋道行",
+        "paragraphs": [
+            "狗子佛性無，韶石不相辜。",
+            "爲君重決破，秋至雁銜蘆。"
+        ],
+        "paragraphs_simplified": [
+            "狗子佛性无，韶石不相辜。",
+            "为君重决破，秋至雁衔芦。"
+        ],
+        "translation": "狗子没有佛性，韶石不曾辜负。为你再次决断突破，秋天到来大雁衔着芦苇。",
+        "score": 4.2,
+        "subject": [
+            "禅理诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "迷茫",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "以著名禅宗公案起笔，通过直接劝导引出突破，最终以秋日自然景象暗示觉悟的时节性。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "狗子佛性无引用赵州狗公案，挑战佛性有无之辩。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "秋至雁衔芦以季节物象烘托决断后的明朗。"
+                }
+            ]
+        },
+        "analysis": "此诗巧妙化用‘狗子佛性无’的公案，直指禅宗核心问题，随即以‘为君重决破’的亲切口吻引导读者。秋雁衔芦的意象不仅点明时节，更以自然界的循环暗喻觉悟的必然性。公案的抽象与物象的具体形成张力，使深奥的禅理获得可感的载体，但‘韶石’的指涉稍显模糊，可能影响理解的流畅性。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "通过公案与自然意象的结合，隐晦传达突破后的境界。",
+                "realm": "妙",
+                "reason": "典故与景物交融，但部分用词需语境支撑。"
+            }
+        ],
+        "imagery": [
+            "狗",
+            "石",
+            "雁",
+            "芦"
+        ],
+        "allusions": [
+            {
+                "phrase": "狗子佛性无",
+                "explanation": "源自赵州从谂禅师的公案，否定狗具有佛性，以破除执着。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句以秋雁衔芦的实景收束，将抽象决断具象化，意境悠远。"
+        }
+    },
+    {
+        "title": "偈十首  其七",
+        "author": "釋道行",
+        "paragraphs": [
+            "門前石塔子，八白與九紫。",
+            "方道既分明，免被巡官使。"
+        ],
+        "paragraphs_simplified": [
+            "门前石塔子，八白与九紫。",
+            "方道既分明，免被巡官使。"
+        ],
+        "translation": "门前石塔，八白与九紫。道路既然分明，免遭巡官差使。",
+        "score": 3.5,
+        "subject": [
+            "禅理诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以石塔的颜色细节建立具体意象，后阐明道路分明带来的自由，形成由物及理的递进。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "石塔子象征修行根基，巡官使比喻世俗束缚。"
+                },
+                {
+                    "tag": "白描",
+                    "explanation": "对石塔的简练描述不加修饰。"
+                }
+            ]
+        },
+        "analysis": "此诗以‘门前石塔’的日常景物切入，‘八白九紫’的色彩描述增添神秘色彩，可能暗合道教或密宗观念。后句直指道路分明后的解脱，但色彩意象与哲理之间的逻辑关联不够紧密，导致整体略显断裂。石塔作为象征物虽具象，却未能充分展开，使得诗意停留在表层描述，缺乏更深层的意境开拓。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "以石塔的奇异色彩和简洁叙述营造独特氛围。",
+                "realm": "能",
+                "reason": "意象选择新颖，但内涵挖掘不足。"
+            }
+        ],
+        "imagery": [
+            "门",
+            "石塔",
+            "道",
+            "官"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句的石塔意象具体而独特，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "偈十首  其八",
+        "author": "釋道行",
+        "paragraphs": [
+            "從上宗門事，直是少時輩。",
+            "兔子不喫窼邊草，象王走入野狐隊。",
+            "若是少林禪，達磨自不會。",
+            "爲甚如此，苦瓠苦連根，甜苽甜徹蒂。"
+        ],
+        "paragraphs_simplified": [
+            "从上宗门事，直是少时辈。",
+            "兔子不吃窠边草，象王走入野狐队。",
+            "若是少林禅，达磨自不会。",
+            "为甚如此，苦瓠苦连根，甜苽甜彻蒂。"
+        ],
+        "translation": "从过去的宗门事务看，直接是年轻一辈。兔子不吃窝边草，象王走入野狐群。如果是少林禅，达磨自己也不会理解。为什么这样？苦瓜苦从根起，甜瓜甜到蒂。",
+        "score": 4.5,
+        "subject": [
+            "禅理诗",
+            "讽喻诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "反问"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "以对当代禅门的批判起笔，通过动物悖论和典故质疑正统，最终以自然物性揭示本质不可变的哲理。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "苦瓠、甜苽比喻事物固有本性。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "少林禅、达磨指代禅宗正统与创始人。"
+                }
+            ]
+        },
+        "analysis": "此诗以尖锐的笔触批判禅门流弊，‘兔子不吃窝边草’与‘象王走入野狐队’的悖论意象，生动刻画了修行偏离本源的荒诞。反问句‘若是少林禅，达磨自不会’直指形式化禅修的虚伪，而结尾的苦瓜甜瓜之喻，则以物性不可移强调真如的内在性。全诗意象跳跃，典故与比喻交织，批判力度强劲，但部分表述过于隐晦，需反复咀嚼方能领会其讽喻之深。",
+        "poetry_styles": [
+            {
+                "style": "讽喻",
+                "imagery_analysis": "通过动物悖论和自然物性，间接批判禅门现状。",
+                "realm": "妙",
+                "reason": "批判深刻，意象生动，但需对禅宗有了解才能完全体会。"
+            }
+        ],
+        "imagery": [
+            "兔",
+            "草",
+            "窠",
+            "象",
+            "狐",
+            "瓠",
+            "苽"
+        ],
+        "allusions": [
+            {
+                "phrase": "少林禅，达磨",
+                "explanation": "指禅宗在少林寺的传承及初祖菩提达磨，代表正统禅法。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "兔子与象王的悖论意象最具冲击力，浓缩了全诗的批判精神。"
+        }
+    },
+    {
+        "title": "偈十首  其九",
+        "author": "釋道行",
+        "paragraphs": [
+            "問問不差，答答不錯。",
+            "問答去來，龜毛兔角。"
+        ],
+        "paragraphs_simplified": [
+            "问问不差，答答不错。",
+            "问答去来，龟毛兔角。"
+        ],
+        "translation": "问得不差，答得不错。问答来去，都是些龟毛兔角（虚幻不实）的东西。",
+        "score": 4.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以问答为引，直指言语之虚妄，第二句以比喻点明主题。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "龟毛兔角比喻虚幻不存在的事物。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "龟毛兔角出自佛经，指不可能之事。"
+                }
+            ]
+        },
+        "analysis": "此偈以问答为引，直指言语之虚妄。龟毛兔角之喻，暗合佛理，揭示执著名相之荒诞。全诗冷峻凝练，无多余修饰，恰如禅门机锋，一针见血。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "以抽象概念为核心，洗练至极。",
+                "realm": "妙品",
+                "reason": "洗炼在语言极简，含蓄在意义深远。"
+            }
+        ],
+        "imagery": [
+            "龟毛兔角"
+        ],
+        "allusions": [
+            {
+                "phrase": "龜毛兔角",
+                "explanation": "佛经中比喻不可能存在的事物"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "龟毛兔角点明主题，揭示虚幻。"
+        }
+    },
+    {
+        "title": "偈十首  其一○",
+        "author": "釋道行",
+        "paragraphs": [
+            "依經解義，三世佛冤。",
+            "離經一字，即同魔說。"
+        ],
+        "paragraphs_simplified": [
+            "依经解义，三世佛冤。",
+            "离经一字，即同魔说。"
+        ],
+        "translation": "依靠经书解释义理，是三世诸佛的冤屈。离开经书一个字，就如同魔说。",
+        "score": 4.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "夸张"
+            ],
+            "presentation_tags": [],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "第一句批判僵化解读，第二句警告偏离，形成悖论式结构。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "依經解義与離經一字形成对偶，强调平衡。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "三世佛冤与即同魔说夸张表达极端后果。"
+                }
+            ]
+        },
+        "analysis": "此偈以对偶句式呈现佛理悖论。依經与離經的对立，折射中道思想。佛冤与魔说之喻，渲染出极端之境，冷峻有力，直指修行误区。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "以概念对立构筑张力，洗练而深刻。",
+                "realm": "妙品",
+                "reason": "洗炼在结构紧凑，含蓄在悖论深意。"
+            }
+        ],
+        "imagery": [
+            "佛",
+            "魔"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "依經解義，三世佛冤直接点出问题核心。"
+        }
+    },
+    {
+        "title": "頌古三首  其一",
+        "author": "釋道行",
+        "paragraphs": [
+            "紫羅抹額繡腰裙，傾國風流宛勝秦。",
+            "玉笛插藏人不見，夜深吹起鳳樓春。"
+        ],
+        "paragraphs_simplified": [
+            "紫罗抹额绣腰裙，倾国风流宛胜秦。",
+            "玉笛插藏人不见，夜深吹起凤楼春。"
+        ],
+        "translation": "紫罗抹额绣花腰裙，倾国倾城的风流姿态，仿佛胜过秦地的美女。玉笛插藏人不见，夜深时吹起，唤起凤楼的春意。",
+        "score": 3.5,
+        "subject": [
+            "闺怨诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "第一句描绘人物外貌与风流，第二句以笛声与夜景烘托氛围，虚实相生。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "倾国风流比喻绝世美貌。"
+                },
+                {
+                    "tag": "拟人",
+                    "explanation": "吹起鳳樓春赋予笛声以生命力。"
+                }
+            ]
+        },
+        "analysis": "此诗以细腻笔触勾勒佳人形象。紫羅抹額与玉笛的意象组合，渲染出华美氛围。吹起鳳樓春一句，以通感手法将听觉转化为视觉春意，虽巧妙却略显陈套，未能超脱传统闺怨模式。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "以服饰与乐器构筑华美场景，纤秾而少新意。",
+                "realm": "能品",
+                "reason": "绮丽在辞藻华美，纤秾在意象密集。"
+            }
+        ],
+        "imagery": [
+            "紫罗",
+            "玉笛",
+            "凤楼"
+        ],
+        "allusions": [
+            {
+                "phrase": "宛胜秦",
+                "explanation": "比喻美貌胜过秦地女子"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "夜深吹起鳳樓春最具画面感与余韵。"
+        }
+    },
+    {
+        "title": "頌古三首  其二",
+        "author": "釋道行",
+        "paragraphs": [
+            "不於三界現身意，誰謂維摩談不二。",
+            "山空晝永鳥無聲，春光不在千花裏。"
+        ],
+        "paragraphs_simplified": [
+            "不于三界现身意，谁谓维摩谈不二。",
+            "山空昼永鸟无声，春光不在千花里。"
+        ],
+        "translation": "不在三界中现身意，谁说维摩谈论不二法门。山空昼长鸟无声，春光不在千花里。",
+        "score": 4.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "设问"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "第一句以典故提出佛理，第二句以自然景象印证空性，由虚入实。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "维摩谈不二引用维摩诘经中不二法门的典故。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "谁谓以反问强调观点。"
+                }
+            ]
+        },
+        "analysis": "此诗以典故与自然景象相映。维摩谈不二直指佛理，山空二句以空寂之境烘托主题。春光不在千花里一句，颠覆常规感知，折射出空性智慧。整体凝练而深远，意境超脱。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "以山鸟花光映衬禅理，高古而超诣。",
+                "realm": "妙品",
+                "reason": "高古在风格典雅，超诣在境界超越。"
+            }
+        ],
+        "imagery": [
+            "山",
+            "鸟",
+            "花"
+        ],
+        "allusions": [
+            {
+                "phrase": "维摩谈不二",
+                "explanation": "指维摩诘经中不二法门的典故"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "山空昼永鸟无声，春光不在千花里以景证理，余味无穷。"
+        }
+    },
+    {
+        "title": "頌古三首  其三",
+        "author": "釋道行",
+        "paragraphs": [
+            "白雲山出復山沒，寒澗日西還日東。",
+            "長老不歸予又去，唯留蘿月與松風。"
+        ],
+        "paragraphs_simplified": [
+            "白云山出复山没，寒涧日西还日东。",
+            "长老不归予又去，唯留萝月与松风。"
+        ],
+        "translation": "白云从山中出现又消失，寒涧的日头西落又东升。长老不归，我又离去，只留下藤萝间的月光和松风。",
+        "score": 4.5,
+        "subject": [
+            "山水诗"
+        ],
+        "emotion": [
+            "孤独"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "第一句以对偶写自然循环，第二句写人事变迁，以景结情。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "白雲山出復山沒与寒澗日西還日東形成工整对偶。"
+                },
+                {
+                    "tag": "借景抒情",
+                    "explanation": "通过自然景象的循环，抒发时光流逝、人事无常之感。"
+                }
+            ]
+        },
+        "analysis": "此诗以对偶句式描绘自然永恒。白云、寒涧的意象构筑出空寂之境。长老不归予又去点出人事变迁，唯留蘿月與松风以景结情，余韵悠长。整体浑然天成，颇具禅意与疏野之趣。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以云月松风营造宁静氛围，冲淡而自然。",
+                "realm": "妙品",
+                "reason": "冲淡在情绪平和，自然在语言流畅。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "山",
+            "涧",
+            "日",
+            "月",
+            "风"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "唯留萝月与松风以景收束，意境空灵。"
+        }
+    },
+    {
+        "title": "頌二首  其一",
+        "author": "釋道行",
+        "paragraphs": [
+            "我不會兮不如你，達磨當門缺兩齒。",
+            "滿堂無限白蘋風，明明不自秋江起。"
+        ],
+        "paragraphs_simplified": [
+            "我不会兮不如你，达磨当门缺两齿。",
+            "满堂无限白蘋风，明明不自秋江起。"
+        ],
+        "translation": "第一句：我不会啊不如你，达磨当门缺了两颗牙齿。解释：达磨是禅宗初祖，此处用其缺齿典故，暗指禅机不完美。第二句：满堂无限白蘋风，明明不是从秋江起。解释：白蘋是水草，白蘋风比喻禅意弥漫，秋江象征外境，强调禅性内生。",
+        "score": 3.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "用典"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "开头以自谦引入禅机，后句以自然景象深化禅意，强调内省。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'白蘋风'比喻禅意的弥漫，不依赖外境"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用达磨缺齿的典故，暗示禅宗不拘形式"
+                }
+            ]
+        },
+        "analysis": "此诗以简练语言构筑禅境，意象如白蘋风与秋江形成对比，折射出禅性内生的哲理。但首句直白，缺乏诗意升华，整体意境虽恬淡，却因用典生硬而略显浅显，未能达到空灵之境，属于技法成熟但立意平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以自然意象营造淡远之境，但语言直露，未能完全渗透冲淡的含蓄之美。",
+                "realm": "能",
+                "reason": "意象自然，但表达生硬，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "风",
+            "江",
+            "牙齿"
+        ],
+        "allusions": [
+            {
+                "phrase": "达磨",
+                "explanation": "禅宗初祖达磨，此处用其缺齿典故"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "开头直指禅机，用典巧妙，虽直白但具禅理核心"
+        }
+    },
+    {
+        "title": "頌二首  其二",
+        "author": "釋道行",
+        "paragraphs": [
+            "我不會兮不如你，堪笑千花生碓觜。",
+            "善財謾說百城游，何曾踏着自家底。"
+        ],
+        "paragraphs_simplified": [
+            "我不会兮不如你，堪笑千花生碓觜。",
+            "善财谩说百城游，何曾踏着自家底。"
+        ],
+        "translation": "第一句：我不会啊不如你，可笑千花生在碓觜上。解释：碓觜是捣米工具，千花比喻虚幻外求，强调不可能之事。第二句：善财空说百城游，何曾踏着自家底。解释：善财是《华严经》求道者，百城游指遍访名师，自家底指本性，批判外求未悟。",
+        "score": 3.6,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "反问"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句自嘲并比喻外求虚幻，后句用典反问，结尾点明内省主旨。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用善财求道的典故，批判形式主义"
+                },
+                {
+                    "tag": "反问",
+                    "explanation": "以'何曾踏着自家底'反问，强调自性未悟"
+                }
+            ]
+        },
+        "analysis": "此诗禅理深刻，通过'千花生碓觜'的荒诞意象和善财典故，犀利批判外求，构筑内省主题。但首句与前作重复，削弱新意，语言虽有力，却因直露而缺乏含蓄回甘，整体属技法娴熟但创意不足之作。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "意象如碓觜与百城游具力度，但表达直白，未能达到劲健的浑成之境。",
+                "realm": "能",
+                "reason": "批判性强，但语言重复，缺乏洗炼。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "碓觜",
+            "城",
+            "底"
+        ],
+        "allusions": [
+            {
+                "phrase": "善财",
+                "explanation": "《华严经》中的善财童子，遍访五十三位善知识"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "结尾反问直指禅宗内省核心，逻辑严密"
+        }
+    },
+    {
+        "title": "偈一首",
+        "author": "釋道行",
+        "paragraphs": [
+            "溪聲廣長舌，山色清凈身。",
+            "八萬四千偈，明明舉似人。"
+        ],
+        "paragraphs_simplified": [
+            "溪声广长舌，山色清静身。",
+            "八万四千偈，明明举似人。"
+        ],
+        "translation": "第一句：溪声是广长舌，山色是清静身。解释：广长舌指佛舌相，能宣妙法；清静身指佛清净法身，比喻自然即佛。第二句：八万四千偈，明明举似人。解释：八万四千泛指众多，偈是佛诗，明明举似人指禅意清晰示人。",
+        "score": 4.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句以自然喻佛身，后句点出禅意无处不在，直截了当。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以溪声比广长舌，山色比清静身，自然即佛法"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用广长舌的佛典，增强禅理深度"
+                }
+            ]
+        },
+        "analysis": "此诗意境高远，将溪声山色直接等同于佛身，构筑出宏大的禅理宇宙。语言凝练，意象如'八万四千偈'彰显佛法无边，情景交融，毫无隔阂，属于禅诗中的神来之笔，艺术价值极高。",
+        "poetry_styles": [
+            {
+                "style": "雄浑",
+                "imagery_analysis": "以自然意象承载宏大禅理，境界开阔，浑然一体。",
+                "realm": "妙",
+                "reason": "意象与禅理完美契合，彰显雄浑气魄。"
+            }
+        ],
+        "imagery": [
+            "溪声",
+            "山色",
+            "偈"
+        ],
+        "allusions": [
+            {
+                "phrase": "广长舌",
+                "explanation": "佛的舌相，能宣说无量妙法"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "以自然喻佛身，禅意盎然，意象宏大"
+        }
+    },
+    {
+        "title": "偈五首  其一",
+        "author": "釋道行",
+        "paragraphs": [
+            "會即便會，玉本無暇。",
+            "若言不會，碓觜生花。",
+            "試問九年面壁，何如大會拈華。",
+            "南明恁麽商確，也是順風潵沙。"
+        ],
+        "paragraphs_simplified": [
+            "会即便会，玉本无暇。",
+            "若言不会，碓觜生花。",
+            "试问九年面壁，何如大会拈华。",
+            "南明恁么商确，也是顺风潵沙。"
+        ],
+        "translation": "第一句：懂就懂，玉本无瑕。解释：玉无瑕比喻本性清净，顿悟即明。第二句：如果说不懂，碓觜生花。解释：碓觜生花比喻不可能之事，批判执着。第三句：试问九年面壁，怎如大会拈华。解释：九年面壁指达磨面壁，拈华指佛陀拈花微笑，对比形式与顿悟。第四句：南明这样商量，也是顺风撒沙。解释：顺风撒沙比喻徒劳，批判空谈。",
+        "score": 3.8,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对比"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "前两句正反论述顿悟，后两句用典对比，结尾批判空谈，逻辑递进。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "对比达磨面壁与佛陀拈华，凸显顿悟优于苦修"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用达磨和佛陀的典故，强化禅理批判"
+                }
+            ]
+        },
+        "analysis": "此诗禅理严密，通过玉无瑕与碓觜生花的比喻，以及面壁与拈华的对比，犀利批判形式主义。语言直率，但'南明恁么商确'稍显晦涩，整体逻辑清晰，却因用典密集而减损意境流畅，属技法成熟但表达欠圆融之作。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "意象如玉与碓觜具批判力，但语言直露，未能达到劲健的含蓄境界。",
+                "realm": "能",
+                "reason": "逻辑强健，但部分语句生硬，缺乏洗炼。"
+            }
+        ],
+        "imagery": [
+            "玉",
+            "碓觜",
+            "花",
+            "面壁",
+            "拈华",
+            "沙"
+        ],
+        "allusions": [
+            {
+                "phrase": "九年面壁",
+                "explanation": "达磨面壁九年，象征苦修"
+            },
+            {
+                "phrase": "大会拈华",
+                "explanation": "佛陀拈花微笑，象征顿悟"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "对比典故，直指禅宗顿悟核心，逻辑犀利"
+        }
+    },
+    {
+        "title": "偈五首  其二",
+        "author": "釋道行",
+        "paragraphs": [
+            "雲籠嶽頂，百鳥無聲。",
+            "月隱寒潭，龍珠自耀。",
+            "直得石梁忽然大悟，石洞頓爾心休。",
+            "虛空開口作證，溪北石僧點頭。",
+            "諸人總在這裏瞌睡，笑殺陝府鐵牛。"
+        ],
+        "paragraphs_simplified": [
+            "云笼岳顶，百鸟无声。",
+            "月隐寒潭，龙珠自耀。",
+            "直得石梁忽然大悟，石洞顿尔心休。",
+            "虚空开口作证，溪北石僧点头。",
+            "诸人总在这里瞌睡，笑杀陕府铁牛。"
+        ],
+        "translation": "第一句：云笼罩山顶，百鸟无声。解释：描绘寂静景象，象征禅境空灵。第二句：月隐寒潭，龙珠自耀。解释：龙珠自耀比喻自性光明，不依赖外光。第三句：直到石梁忽然大悟，石洞顿时心休。解释：石梁可能指地名，心休指心安住。第四句：虚空开口作证，溪北石僧点头。解释：虚空作证表示真理显现，石僧点头表示认可。第五句：诸人总在这里瞌睡，笑杀陕府铁牛。解释：陕府铁牛是禅宗公案，指坚固禅心，讽刺未悟者。",
+        "score": 4.2,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "拟人"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写景渲染寂静，后三句叙事悟道过程，结尾以公案点醒，卒章显志。",
+            "evidence": [
+                {
+                    "tag": "拟人",
+                    "explanation": "以'虚空开口作证'拟人化，彰显禅理自显"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "引用陕府铁牛公案，讽刺未悟者"
+                }
+            ]
+        },
+        "analysis": "此诗意境幽深，从'云笼岳顶'的寂静到'龙珠自耀'的自性光明，构筑出悟道历程。意象如月隐寒潭细腻真切，结尾以公案讽刺，虽稍显突兀，但整体情景交融，禅机暗涌，属佳作。",
+        "poetry_styles": [
+            {
+                "style": "沉著",
+                "imagery_analysis": "以静景切入，层层深入悟道，意境沉潜真切。",
+                "realm": "妙",
+                "reason": "意象与禅理渗透紧密，无斧凿痕。"
+            }
+        ],
+        "imagery": [
+            "云",
+            "岳",
+            "鸟",
+            "月",
+            "潭",
+            "龙珠",
+            "石梁",
+            "石洞",
+            "虚空",
+            "石僧",
+            "铁牛"
+        ],
+        "allusions": [
+            {
+                "phrase": "陕府铁牛",
+                "explanation": "禅宗公案，指坚固不移的禅心"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "月隐寒潭，龙珠自耀，意象幽美，禅意自现"
+        }
+    },
+    {
+        "title": "偈五首  其三",
+        "author": "釋道行",
+        "paragraphs": [
+            "通身是口，說得一半。",
+            "通身是眼，用得一橛。",
+            "用不到處說有餘，說不到處用無盡。",
+            "所以道，當用無說，當說無用。",
+            "用說同時，用說不同時。",
+            "諸人若也擬議，西峰在你腳底。"
+        ],
+        "paragraphs_simplified": [
+            "通身是口，说得一半。",
+            "通身是眼，用得一橛。",
+            "用不到处说有余，说到处用无尽。",
+            "所以道，当用无说，当说无用。",
+            "用说同时，用说不同时。",
+            "诸人若也拟议，西峰在你脚底。"
+        ],
+        "translation": "全身都是嘴，只说了一半真理；全身都是眼，只用了一小部分。在无法用处说有余，在无法说处用无尽。所以说，应当用时无说，应当说时无用。用和说同时发生，用和说不同时发生。你们如果思量议论，西峰山就在你脚底之下。此诗以禅宗机锋语言，阐述言语与作用的辩证关系，强调超越二元对立的顿悟境界。",
+        "score": 4.2,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "超脱"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶",
+                "反问"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "以感官比喻开篇，逐步递进至矛盾修辞，最终以反问收束，形成从具象到抽象的禅理推演。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "通身是口/眼，将抽象禅理具象化为身体器官，象征表达与认知的局限性。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "用不到处说有余，说到处用无尽，形成工整对比，强化矛盾统一。"
+                }
+            ]
+        },
+        "analysis": "此偈以极简笔墨构筑禅宗辩证空间，通身口眼之喻直指言语道断的悖论，用与说的多重矛盾折射出非逻辑的禅悟逻辑。西峰脚底之结句如当头棒喝，将思辨悬置，彰显禅门不立文字又不离文字的玄机。意象洗练而张力充沛，层层剥笋的结构暗合顿悟路径，在有限文字中拓开无限义理，堪称以少总多的典范。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "意象如口、眼、西峰皆剥离繁饰，直指本体，在极简中蕴含机锋。",
+                "realm": "妙",
+                "reason": "语言精纯如锻铁去渣，矛盾修辞直抵禅理核心，无赘语无枝蔓。"
+            },
+            {
+                "style": "含蓄",
+                "imagery_analysis": "句句说用说，却处处指向不可言说的真如，在肯定与否定间留白。",
+                "realm": "妙",
+                "reason": "以否定式表达肯定义，言在此而意在彼，符合禅宗绕路说禅的特质。"
+            }
+        ],
+        "imagery": [
+            "口",
+            "眼",
+            "山峰"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 5,
+            "reason": "末句以空间意象截断众流，将前文理路化为当下体验，是禅诗点睛之笔。"
+        }
+    },
+    {
+        "title": "偈五首  其四",
+        "author": "釋道行",
+        "paragraphs": [
+            "句亦剗，意亦剗，絕毫絕釐處，如山如嶽。",
+            "句亦到，意亦到，如山如嶽處，絕毫絕釐。"
+        ],
+        "paragraphs_simplified": [
+            "句亦刬，意亦刬，绝毫绝厘处，如山如岳。",
+            "句亦到，意亦到，如山如岳处，绝毫绝厘。"
+        ],
+        "translation": "句子也删除，意思也删除，在绝对细微之处，却如山岳般宏大；句子也到达，意思也到达，在如山岳宏大之处，却绝对细微。此诗通过句与意的删与到、细微与宏大的循环对照，揭示禅宗语言观中大小不二、去留自在的境界。",
+        "score": 4.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "对比"
+            ],
+            "presentation_tags": [
+                "虚实结合",
+                "抑扬结合"
+            ],
+            "structure_tags": [
+                "重章叠句"
+            ],
+            "structural_logic": "采用回环结构，前后句式对称，通过删到互换与大小对比，形成自我否定的辩证循环。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "句亦剗与句亦到、绝毫绝厘与如山如岳形成工整对仗，构建对称美学。"
+                },
+                {
+                    "tag": "对比",
+                    "explanation": "细微处与宏大处的反复对照，凸显禅理中相即相入的特质。"
+                }
+            ]
+        },
+        "analysis": "此作以高度形式化的对仗构筑禅理迷宫，句意删到的循环如钟摆般震荡于大小两极。绝毫绝厘与如山如岳的并置非为修辞炫技，而是直指华严境界中一多相摄的宇宙图景。重章叠句的结构强化了语言的自反性，在看似重复的节奏里暗藏机锋转折，使形式本身成为内容的最佳载体，展现禅诗特有的思辨美感。",
+        "poetry_styles": [
+            {
+                "style": "缜密",
+                "imagery_analysis": "对仗工整如榫卯相扣，逻辑链条严丝合缝，无一字闲设。",
+                "realm": "能",
+                "reason": "结构精密但略显刻意，禅意被形式约束，未能全然流动。"
+            },
+            {
+                "style": "含蓄",
+                "imagery_analysis": "不直说禅理，而通过句式排列让读者自悟矛盾中的统一。",
+                "realm": "妙",
+                "reason": "以不说之说达成禅诗的绕路说禅，留白恰到好处。"
+            }
+        ],
+        "imagery": [
+            "文字",
+            "意思",
+            "山",
+            "毫厘"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句立起核心矛盾，为全诗定下辩证基调，是理解后句的钥匙。"
+        }
+    },
+    {
+        "title": "偈五首  其五",
+        "author": "釋道行",
+        "paragraphs": [
+            "黄梅雨，麥秋寒。",
+            "恁麽會，太無端。",
+            "時節因緣佛性義，大都須是髑髏乾。"
+        ],
+        "paragraphs_simplified": [
+            "黄梅雨，麦秋寒。",
+            "恁么会，太无端。",
+            "时节因缘佛性义，大都须是髑髅干。"
+        ],
+        "translation": "黄梅时节的雨，麦收季节的寒；这样领会，太无道理。时节因缘与佛性的意义，大抵都须是骷髅干枯才能彻悟。前两句写初夏实景，后两句陡转直下，以死亡意象点破生死无常的禅理。",
+        "score": 3.8,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "忧愁",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "反问"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以白描勾勒时令，随即以否定词转折，最终用触目意象收束，形成由实入虚、由生入死的跌宕。",
+            "evidence": [
+                {
+                    "tag": "借景抒情",
+                    "explanation": "黄梅雨、麦秋寒的实景描写，为后文佛性议论铺设自然背景。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "髑髅干象征死亡与解脱，将抽象佛性具象为可怖意象。"
+                }
+            ]
+        },
+        "analysis": "此诗以寻常时令起笔，却暗藏禅机杀机。黄梅雨的湿润与髑髅干的枯寂形成生死对照，麦秋寒的实感被导向无常的顿悟。恁么会的否定与太无端的斥责，打破常规逻辑，迫使读者跳出思维窠臼。结尾髑髅意象如利刃断流，将前文的田园气息彻底颠覆，在反差中凸显禅宗直面生死的峻烈，堪称以俗景写真谛的妙构。",
+        "poetry_styles": [
+            {
+                "style": "悲慨",
+                "imagery_analysis": "髑髅干的死亡意象与黄梅雨的生机形成强烈反差，流露出对生死大事的深沉感喟。",
+                "realm": "能",
+                "reason": "情感真挚但转折稍显生硬，禅理表达略直白。"
+            },
+            {
+                "style": "实境",
+                "imagery_analysis": "黄梅雨、麦秋寒皆取自当下实景，不假雕饰而禅意自现。",
+                "realm": "妙",
+                "reason": "能将日常经验瞬间提升至形而上层面，实境与禅境融合无间。"
+            }
+        ],
+        "imagery": [
+            "雨",
+            "季节",
+            "骷髅"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "末句以生死意象作雷霆一击，全诗理路至此豁然贯通，力重千钧。"
+        }
+    },
+    {
+        "title": "臨終偈",
+        "author": "釋道行",
+        "paragraphs": [
+            "識則識自本心，見則見自本性。",
+            "識得本心本性，正是宗門大病。"
+        ],
+        "paragraphs_simplified": [
+            "识则识自本心，见则见自本性。",
+            "识得本心本性，正是宗门大病。"
+        ],
+        "translation": "认识就能认识自己的本心，看见就能看见自己的本性；但若执着于识得本心本性，这正是禅宗的大病。前句似肯定修行目标，后句陡然否定，揭示禅宗对执着本身的警惕。",
+        "score": 4.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "超脱"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "反讽"
+            ],
+            "presentation_tags": [
+                "直指"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "前句以对偶句式立起修行目标，后句以反讽转折，形成自我解构的悖论结构。",
+            "evidence": [
+                {
+                    "tag": "对偶",
+                    "explanation": "识则识自本心，见则见自本性，工整对仗强化修行目标的庄严性。"
+                },
+                {
+                    "tag": "反讽",
+                    "explanation": "将宗门大病归于识得本心本性，颠覆常规认知，凸显禅宗破执精髓。"
+                }
+            ]
+        },
+        "analysis": "此临终偈以极简对仗构筑禅理悬崖，前句如登峰造极的修行宣言，后句却化为当头棒喝。识得本心本性本是禅门标榜，此处直斥为大病，非否定修行，而是斩断对修行成果的执着。反讽手法在此达到极致，语言如双刃剑，在肯定中否定，在立相中破相，临终之言毫无悲戚，唯有冷峻的机锋，直将生死之际化为禅机迸发的道场。",
+        "poetry_styles": [
+            {
+                "style": "洗炼",
+                "imagery_analysis": "仅用本心、本性二词，无任何修饰，却承载千钧禅理。",
+                "realm": "妙",
+                "reason": "文字至简而内涵至丰，堪称禅诗洗炼之极则。"
+            },
+            {
+                "style": "含蓄",
+                "imagery_analysis": "不直接说破何为大病，留待读者在悖论中自参。",
+                "realm": "妙",
+                "reason": "以不说之说完成最彻底的教导，含蓄中见峻烈。"
+            }
+        ],
+        "imagery": [
+            "心",
+            "性"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句的反讽转折是全诗灵魂，将前句的庄严化为禅机，点破终极真理。"
+        }
+    },
+    {
+        "title": "頌古五首  其一",
+        "author": "釋道行",
+        "paragraphs": [
+            "西天屠子氣雄豪，欺負神洲罪莫逃。",
+            "武帝當頭輕一拶，果然提起活人刀。"
+        ],
+        "paragraphs_simplified": [
+            "西天屠子气雄豪，欺负神洲罪莫逃。",
+            "武帝当头轻一拶，果然提起活人刀。"
+        ],
+        "translation": "西天印度的屠夫气势雄豪，欺负中原罪不可逃；武帝当头轻轻一压，果然提起活人刀。此诗暗用达摩与梁武帝公案，屠子喻达摩，武帝指萧衍，活人刀指禅宗点化众生的机锋。",
+        "score": 3.6,
+        "subject": [
+            "怀古诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "愤懑",
+            "豪迈"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句叙事铺垫冲突，后句以动作描写收束，形成因果报应的完整叙事链。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "西天屠子、武帝活人刀皆暗指达摩与梁武帝论法公案，浓缩禅宗史片段。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "活人刀喻禅宗破迷开悟的机锋，将抽象教义化为具象武器。"
+                }
+            ]
+        },
+        "analysis": "此颂古诗以史事为载体，实则阐发禅机。西天屠子与神洲的对立，暗含文化碰撞与禅法东传的隐喻。武帝一拶与活人刀的提起，精准捕捉公案中当机立断的禅门气象。语言雄健如刀劈斧凿，叙事节奏紧凑，在短短二十八字中完成历史事件的提炼与禅理的升华。虽用典却未陷于堆砌，典故本身已成为诗血肉，展现禅诗以事显理的典型手法。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "气雄豪、活人刀等意象充满力量感，笔力遒劲。",
+                "realm": "能",
+                "reason": "气势充沛但意象稍显直白，禅意深度可进一步挖掘。"
+            },
+            {
+                "style": "豪放",
+                "imagery_analysis": "西天屠子、武帝的帝王将相气象，突破禅诗常有的内敛格局。",
+                "realm": "能",
+                "reason": "豪放有余而含蓄不足，禅机被叙事性削弱。"
+            }
+        ],
+        "imagery": [
+            "印度",
+            "屠夫",
+            "皇帝",
+            "武器"
+        ],
+        "allusions": [
+            {
+                "phrase": "武帝",
+                "explanation": "指梁武帝萧衍，与达摩论法的著名公案主角。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句活人刀之喻，将历史事件瞬间转化为禅机演示，是全诗点睛之笔。"
+        }
+    },
+    {
+        "title": "頌古五首  其二",
+        "author": "釋道行",
+        "paragraphs": [
+            "不是風幡動，天生李老君。",
+            "出胎頭上髪，寸寸白如銀。"
+        ],
+        "paragraphs_simplified": [
+            "不是风幡动，天生李老君。",
+            "出胎头上发，寸寸白如银。"
+        ],
+        "translation": "第一句：不是风在吹动幡旗，而是天生的李老君（指老子）。解释：引用禅宗风幡公案，强调本性自然，非外物所动。第二句：出生时头上的头发，一寸寸白得像银子。解释：描述老子出生时头发全白，象征先天智慧与超越。",
+        "score": 2.0,
+        "subject": [
+            "禅理诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "用典",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "用典",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以典故点明本性自然，再以形象比喻强化主题。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用李老君（老子）的出生典故，表达禅宗本性论。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "以'白如银'形容头发，象征智慧的纯净与永恒。"
+                }
+            ]
+        },
+        "analysis": "此诗借老子出生典故构筑禅理，意象陈旧，缺乏新意。语言直白，但立意浅显，仅堆砌典故而无深层艺术感染。整体流于表面，未能通过意象传递真切的审美体验。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图以典故营造高古意境，但意象单薄，未能达到超然境界。",
+                "realm": "劣作",
+                "reason": "典故使用生硬，缺乏自然流露，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "风幡",
+            "老人",
+            "头发"
+        ],
+        "allusions": [
+            {
+                "phrase": "李老君",
+                "explanation": "指老子，道教创始人，象征先天智慧。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句引用典故，相对具代表性。"
+        }
+    },
+    {
+        "title": "頌古五首  其三",
+        "author": "釋道行",
+        "paragraphs": [
+            "一語離窼窟，千生出蓋纏。",
+            "夜來風雪惡，木折古巖前。"
+        ],
+        "paragraphs_simplified": [
+            "一语离窼窟，千生出盖缠。",
+            "夜来风雪恶，木折古岩前。"
+        ],
+        "translation": "一句话便能脱离旧有的窠臼，千生万世方能摆脱束缚。夜里风雪猛烈肆虐，古老的岩石前树木被摧折。",
+        "score": 4.0,
+        "subject": [
+            "禅理诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "夜晚"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情",
+                "细节描写"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "卒章显志"
+            ],
+            "structural_logic": "首句以比喻直指禅理，揭示心性解脱；次句借风雪摧木之景印证，虚实相生，深化主题。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'窼窟'喻世俗桎梏，'盖缠'状业障缠绕，形象揭示束缚之深。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过风雪摧折古木，象征修行磨难与顿悟契机，物象承载禅意。"
+                }
+            ]
+        },
+        "analysis": "此诗以极简笔墨构筑禅境，首句直指心性解脱，以'窼窟'与'盖缠'二象折射世俗束缚之根深蒂固。次句转写风雪恶摧古木，暗合修行中之无常考验，意象虚实交融，禅理与自然景象渗透无间。语言洗炼凝练，意境超诣不隔，于冷峻物象中流露顿悟之光，情景契合度高，情感含蓄而有回甘，堪称禅门佳作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以风雪古木等自然意象承载深邃禅理，平和淡泊中见精神超越。",
+                "realm": "妙",
+                "reason": "禅意深远，语言简净，暗合冲淡之境的平和与内敛。"
+            },
+            {
+                "style": "超诣",
+                "imagery_analysis": "超脱尘俗束缚，直指心性本源，意象虚实相生，境界高远。",
+                "realm": "妙",
+                "reason": "于简淡中透出超然之趣，符合超诣之品的不落凡近。"
+            }
+        ],
+        "imagery": [
+            "束缚",
+            "风雪",
+            "树木",
+            "岩石"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "次句以风雪恶摧古木之景，生动象征禅修磨难，意象凝练而余韵深远。"
+        }
+    },
+    {
+        "title": "頌古五首  其四",
+        "author": "釋道行",
+        "paragraphs": [
+            "金不博金，水上洗水。",
+            "二祖腦後露腮，達磨當門無齒。"
+        ],
+        "paragraphs_simplified": [
+            "金不博金，水上洗水。",
+            "二祖脑后露腮，达磨当门无齿。"
+        ],
+        "translation": "第一句：金子不能交换金子，水上洗水。解释：禅宗悖论，表示徒劳无功，本性空寂，无需外求。第二句：二祖脑后露出脸颊，达磨当门没有牙齿。解释：引用禅宗二祖慧可与达磨的典故，暗示超越形相，直指本心。",
+        "score": 1.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "对偶",
+                "用典"
+            ],
+            "presentation_tags": [
+                "用典",
+                "点染结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句以悖论点题，后句以典故强化，但逻辑跳跃，缺乏连贯。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用二祖与达磨的禅宗公案，表达空性。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "金不博金与水上洗水形成对偶，但意义重复。"
+                }
+            ]
+        },
+        "analysis": "此诗堆砌禅宗典故与悖论语言，意象晦涩，逻辑混乱。语言缺乏美感，立意深奥却表达拙劣，未能有效传递禅理。整体流于形式，缺乏艺术感染力。",
+        "poetry_styles": [
+            {
+                "style": "高古",
+                "imagery_analysis": "试图以典故营造高古氛围，但意象破碎，未能形成统一意境。",
+                "realm": "劣作",
+                "reason": "典故生硬，语言不通顺，画虎不成反类犬。"
+            }
+        ],
+        "imagery": [
+            "金",
+            "水",
+            "人",
+            "人"
+        ],
+        "allusions": [
+            {
+                "phrase": "二祖",
+                "explanation": "指禅宗二祖慧可，象征传承。"
+            },
+            {
+                "phrase": "达磨",
+                "explanation": "指菩提达磨，禅宗初祖，象征直指本心。"
+            }
+        ],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句相对通顺，但意义空洞。"
+        }
+    },
+    {
+        "title": "頌古五首  其五",
+        "author": "釋道行",
+        "paragraphs": [
+            "生死自憐同室穴，因何中路隔關山。",
+            "一朝忽得親兒證，趯踏方知蓋覆難。"
+        ],
+        "paragraphs_simplified": [
+            "生死自怜同室穴，因何中路隔关山。",
+            "一朝忽得亲儿证，趯踏方知盖覆难。"
+        ],
+        "translation": "第一句：生死中自怜同在一室穴，为何中途隔开关山。解释：表达生死相连却中途分离的困惑，象征本性被遮蔽。第二句：一旦忽然得到亲儿证明，跳跃才知覆盖难。解释：禅宗顿悟之语，表示通过亲证才知掩盖本性之难。",
+        "score": 3.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "悲慨",
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "设问"
+            ],
+            "presentation_tags": [
+                "叙事",
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句设问提出困惑，后句以叙事点明顿悟，结构完整。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'同室穴'比喻生死相连，'关山'喻指障碍。"
+                },
+                {
+                    "tag": "设问",
+                    "explanation": "'因何中路隔关山'引发思考，增强张力。"
+                }
+            ]
+        },
+        "analysis": "此诗通过生死与顿悟的意象，表达禅理。语言较为流畅，但'趯踏'一词生僻，影响理解。立意老套，缺乏新意，整体停留在凡俗层面，未能升华至高远意境。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "试图以自然语言表达禅理，但偶有生硬，未能完全自然。",
+                "realm": "凡品",
+                "reason": "意境一般，语言偶有不畅，缺乏精炼。"
+            }
+        ],
+        "imagery": [
+            "生死",
+            "洞穴",
+            "山",
+            "孩子"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句提出问题，具张力与疑问感。"
+        }
+    },
+    {
+        "title": "贈禪者",
+        "author": "釋道行",
+        "paragraphs": [
+            "句下出諸礙，翻身古劍寒。",
+            "欲明如上事，須是髑髏乾。"
+        ],
+        "paragraphs_simplified": [
+            "句下出诸碍，翻身古剑寒。",
+            "欲明如上事，须是髑髅干。"
+        ],
+        "translation": "第一句：在语句下生出各种障碍，翻身时古剑寒冷。解释：禅宗语，表示语言是障碍，顿悟如剑般锐利，需超越文字。第二句：想要明白以上事，必须是骷髅干。解释：强调必须彻底看破生死，如干枯骷髅，才能领悟真谛。",
+        "score": 3.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "悲慨",
+            "恐惧"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句以障碍与剑喻顿悟，后句以骷髅强调看破，逻辑直指核心。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以'古剑寒'比喻顿悟的锐利与冷峻。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "'髑髅干'以极端意象强调生死看破。"
+                }
+            ]
+        },
+        "analysis": "此诗使用强烈意象，如古剑与骷髅，构筑禅宗顿悟的境界。语言有力，冲击感强，但'髑髅'一词过于直白，削弱了含蓄之美。技法成熟，但情感表达偏激，未能达到平衡。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "意象刚劲有力，但缺乏柔润，略显粗犷。",
+                "realm": "能品",
+                "reason": "技法规范，但意境偏激，美感不足。"
+            }
+        ],
+        "imagery": [
+            "语句",
+            "障碍",
+            "剑",
+            "骷髅"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "'须是髑髅干'意象独特，具震撼力。"
+        }
+    },
+    {
+        "title": "贊佛眼和尚",
+        "author": "釋道行",
+        "paragraphs": [
+            "因我得禮你，玄沙出窼臼，龍門與薦燈後。",
+            "咄！。"
+        ],
+        "paragraphs_simplified": [
+            "因我得礼你，玄沙出窠臼，龙门与荐灯后。",
+            "咄！。"
+        ],
+        "translation": "因为我能够向你行礼，玄沙师备禅师打破了常规，龙门和献灯之后。咄！",
+        "score": 3.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "敬佩"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "议论",
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "借代",
+                "双关"
+            ],
+            "presentation_tags": [
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先陈述因礼而赞，引用玄沙出窠臼、龙门荐灯等典故，最后以喝斥'咄！'结束，表达禅机顿悟。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "引用玄沙师备和龙门典故，增强禅意。"
+                },
+                {
+                    "tag": "开门见山",
+                    "explanation": "首句直接表达礼敬和赞颂。"
+                }
+            ]
+        },
+        "analysis": "此诗为禅宗赞语，以简练语句直指人心。首句通过典故'玄沙出窠臼'与'龙门荐灯'，构筑超脱常规的禅境，喝斥'咄！'如当头棒喝，打破迷执。意境不隔，情感含蓄而有回甘。然体裁非传统诗歌，诗味稍逊，禅趣有余。",
+        "poetry_styles": [
+            {
+                "style": "超诣",
+                "imagery_analysis": "以'玄沙'、'龙门'等典故意象，指向超脱之境。",
+                "realm": "能品",
+                "reason": "禅意深邃，但形式简略，未能充分展开诗艺。"
+            }
+        ],
+        "imagery": [
+            "禅师",
+            "圣地",
+            "灯"
+        ],
+        "allusions": [
+            {
+                "phrase": "玄沙",
+                "explanation": "指玄沙师备，唐末禅师。"
+            },
+            {
+                "phrase": "龍門",
+                "explanation": "可能指科举及第或禅宗圣地。"
+            },
+            {
+                "phrase": "薦燈",
+                "explanation": "献灯，禅宗仪式。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "‘咄！’一字千钧，禅机顿现，是全诗点睛之笔。"
+        }
+    },
+    {
+        "title": "頌古十七首  其一",
+        "author": "釋道行",
+        "paragraphs": [
+            "枯樹雲充葉，凋梅雪作花。",
+            "擊桐成木響，蘸雪喫冬瓜。",
+            "長天秋水，孤鶩落霞。"
+        ],
+        "paragraphs_simplified": [
+            "枯树云充叶，凋梅雪作花。",
+            "击桐成木响，蘸雪吃冬瓜。",
+            "长天秋水，孤鹜落霞。"
+        ],
+        "translation": "枯树以云充当叶子，凋谢的梅花以雪作为花朵。敲击梧桐树发出木头的响声，蘸着雪吃冬瓜。长空秋水，孤鹜落霞。",
+        "score": 3.2,
+        "subject": [
+            "山水诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "细节描写",
+                "白描"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "借景抒情",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "重章叠句"
+            ],
+            "structural_logic": "三句并列，以自然意象叠加营造禅境，虚实相生。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "'云充叶''雪作花'以虚景拟实物，拓展意境。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "'枯树云充叶，凋梅雪作花'工整对仗，强化节奏。"
+                }
+            ]
+        },
+        "analysis": "意象清奇，如'枯树云充叶'虚实交融，勾勒出空灵画境。但'蘸雪吃冬瓜'一句俚俗突兀，破坏整体和谐。情感淡泊，贴近自然，却因末句写实而失却升华。秋水孤鹜化用王勃名句，显底蕴不足。整体意境真切，但结构松散，属能品下流。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "选取枯树、云、雪等冷僻意象，试图营造超逸境界。",
+                "realm": "能",
+                "reason": "部分意象新颖，但俚俗句拉低整体水准。"
+            }
+        ],
+        "imagery": [
+            "树",
+            "云",
+            "花",
+            "雪",
+            "桐",
+            "瓜",
+            "水",
+            "鸟",
+            "霞"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句意象凝练，虚实结合最为精妙。"
+        }
+    },
+    {
+        "title": "頌古十七首  其二",
+        "author": "釋道行",
+        "paragraphs": [
+            "落葉歸根，鐵牛當路。",
+            "來時無口，索鹽得醋。",
+            "金槌不動落群機，列聖叢中第六祖。"
+        ],
+        "paragraphs_simplified": [
+            "落叶归根，铁牛当路。",
+            "来时无口，索盐得醋。",
+            "金槌不动落群机，列圣丛中第六祖。"
+        ],
+        "translation": "落叶归根，铁牛挡路。来时没有口，索要盐却得到醋。金槌不动摇，落在群机之中，列圣丛中的第六祖。",
+        "score": 2.8,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "秋",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "双关"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前两句写自然现象，后两句点出禅理，以第六祖作结。",
+            "evidence": [
+                {
+                    "tag": "双关",
+                    "explanation": "'索盐得醋'表面求物不得，暗指禅机错位。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "'第六祖'指慧能，点明禅宗法统。"
+                }
+            ]
+        },
+        "analysis": "禅理深奥，但语言生硬。'铁牛当路'意象有力，象征障碍，却因'索盐得醋'的俚俗表达而流于滑稽。结尾点出第六祖，强行升华，却缺乏情感铺垫。整体逻辑断裂，意象堆砌，未能构筑连贯意境。属平庸之作，因说教过重而失诗味。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以铁牛、金槌等刚硬意象显力度，但语言粗糙。",
+                "realm": "劣",
+                "reason": "粗鄙之语破坏雄浑感，反显造作。"
+            }
+        ],
+        "imagery": [
+            "叶",
+            "根",
+            "牛",
+            "盐",
+            "醋",
+            "槌",
+            "机",
+            "圣",
+            "祖"
+        ],
+        "allusions": [
+            {
+                "phrase": "第六祖",
+                "explanation": "指禅宗六祖慧能，象征正统法脉。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 2,
+            "reason": "末句点明主题，禅理集中。"
+        }
+    },
+    {
+        "title": "頌古十七首  其三",
+        "author": "釋道行",
+        "paragraphs": [
+            "用盡自己心，笑破他人口。",
+            "八角磨盤空裏走，金毛師子變作狗。"
+        ],
+        "paragraphs_simplified": [
+            "用尽自己心，笑破他人口。",
+            "八角磨盘空里走，金毛狮子变作狗。"
+        ],
+        "translation": "用尽自己的心，笑破别人的嘴。八角磨盘在空中走，金毛狮子变成狗。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "夸张",
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句直抒胸臆，后句以荒诞比喻强化禅机。",
+            "evidence": [
+                {
+                    "tag": "夸张",
+                    "explanation": "'笑破他人口'极言狂放，凸显批判。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "'金毛狮子变作狗'以物象变形喻禅理无常。"
+                }
+            ]
+        },
+        "analysis": "语言直白，但意象荒诞。'八角磨盘空里走'有禅机，却因'金毛狮子变作狗'的粗俗比喻而流于滑稽。情感激烈，却缺乏审美距离，沦为宣泄。整体缺乏意象经营，禅理表达浅露。属平庸之作，因用语粗鄙而失典雅。",
+        "poetry_styles": [
+            {
+                "style": "豪放",
+                "imagery_analysis": "试图以夸张比喻显豪气，但因意象俚俗，反显粗野。",
+                "realm": "劣",
+                "reason": "画虎不成，粗鄙代替了雄浑。"
+            }
+        ],
+        "imagery": [
+            "心",
+            "口",
+            "磨盘",
+            "狮",
+            "狗"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "后句比喻生动，虽俚俗却具冲击力。"
+        }
+    },
+    {
+        "title": "頌古十七首  其四",
+        "author": "釋道行",
+        "paragraphs": [
+            "趙州庭前柏樹子，崑崙眼睛如點漆。",
+            "笑他法眼謗先師，覺公心苦口如蜜。"
+        ],
+        "paragraphs_simplified": [
+            "赵州庭前柏树子，昆仑眼睛如点漆。",
+            "笑他法眼谤先师，觉公心苦口如蜜。"
+        ],
+        "translation": "赵州庭前的柏树子，昆仑的眼睛像点漆。嘲笑他法眼诽谤先师，觉公的心苦口如蜜。",
+        "score": 3.0,
+        "subject": [
+            "怀古诗",
+            "禅理诗"
+        ],
+        "emotion": [
+            "忧愁"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事",
+                "议论"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前句写景用典，后句议论讽刺，首尾关联。",
+            "evidence": [
+                {
+                    "tag": "用典",
+                    "explanation": "'赵州''法眼''觉公'均为禅宗人物，增强历史感。"
+                },
+                {
+                    "tag": "比喻",
+                    "explanation": "'眼睛如点漆'形容目光锐利，暗指法眼明察。"
+                }
+            ]
+        },
+        "analysis": "用典丰富，但晦涩难懂。'柏树子'与'眼睛如点漆'意象独特，却因过度依赖禅宗知识而拒人千里。情感含蓄，却无普遍共鸣，仅流于宗派内争。整体意境真切感弱，未能超越语境。属平庸之作，因专业化而失却诗性。",
+        "poetry_styles": [
+            {
+                "style": "典雅",
+                "imagery_analysis": "选取古柏、点漆等雅致意象，但因典故堆砌，反显板滞。",
+                "realm": "劣",
+                "reason": "过度用典，失去自然流动。"
+            }
+        ],
+        "imagery": [
+            "树",
+            "眼睛",
+            "漆",
+            "眼",
+            "师",
+            "心",
+            "口",
+            "蜜"
+        ],
+        "allusions": [
+            {
+                "phrase": "赵州",
+                "explanation": "指赵州从谂禅师，唐代禅僧。"
+            },
+            {
+                "phrase": "法眼",
+                "explanation": "指法眼文益禅师，五代禅师。"
+            },
+            {
+                "phrase": "觉公",
+                "explanation": "可能指觉范禅师，宋代禅僧。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句意象集中，柏树子为禅宗著名公案。"
+        }
+    },
+    {
+        "title": "頌古十七首  其五",
+        "author": "釋道行",
+        "paragraphs": [
+            "不立孤危機本峻，趙州老子玉無瑕。",
+            "當頭指出殿裏底，剗盡茫茫眼裏花。"
+        ],
+        "paragraphs_simplified": [
+            "不立孤危机本峻，赵州老子玉无瑕。",
+            "当头指出殿里底，刬尽茫茫眼里花。"
+        ],
+        "translation": "第一句：不建立孤立危险的机制，根本峻峭；赵州老子（指赵州从谂禅师）像玉一样无瑕疵。第二句：当头直指殿堂里的东西（喻指心性）；铲除茫茫眼中的虚妄之花。全诗以禅宗公案为背景，强调直指本心、破除妄见。",
+        "score": 2.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "借代"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "用典"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先提出禅理原则，再以赵州禅师为例，直接点破妄见。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "玉無瑕比喻赵州禅师的纯净无瑕。"
+                },
+                {
+                    "tag": "用典",
+                    "explanation": "趙州老子引用赵州从谂禅师的典故。"
+                }
+            ]
+        },
+        "analysis": "此诗意象陈旧，堆砌禅宗术语如玉、眼花等，未能构筑真切的意境。立意浅显，仅重复公案表象，缺乏深层审美回甘。禅理表达生硬，未能渗透情感，整体流于形式，属平庸之作。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "试图以玉、花等意象营造淡远之境，但意象拼凑，未能达到冲淡的自然韵味。",
+                "realm": "劣",
+                "reason": "画虎不成反类犬，意象堆砌导致意境破碎，缺乏冲淡的浑然一体。"
+            }
+        ],
+        "imagery": [
+            "玉",
+            "花",
+            "殿堂",
+            "眼睛"
+        ],
+        "allusions": [
+            {
+                "phrase": "趙州老子",
+                "explanation": "指唐代赵州从谂禅师，禅宗公案常用人物。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句直接点出禅理核心，相对更具代表性。"
+        }
+    },
+    {
+        "title": "頌古十七首  其六",
+        "author": "釋道行",
+        "paragraphs": [
+            "趙州放下著，碓觜忽生花。",
+            "雖然無一事，驗盡當行家。"
+        ],
+        "paragraphs_simplified": [
+            "赵州放下着，碓觜忽生花。",
+            "虽然无一事，验尽当行家。"
+        ],
+        "translation": "第一句：赵州禅师放下执着，碓嘴（舂米工具）忽然生出花来（喻指顿悟）。第二句：虽然看似无事，却能检验所有行家（禅师）。全诗通过日常物象，表达放下执着、顿悟禅机的境界。",
+        "score": 3.0,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "夸张"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "承上启下"
+            ],
+            "structural_logic": "先描述放下后的突变，再以反问式陈述检验禅机。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "碓觜生花比喻顿悟的奇妙现象。"
+                },
+                {
+                    "tag": "夸张",
+                    "explanation": "无一事却验尽行家，夸大禅理的普适性。"
+                }
+            ]
+        },
+        "analysis": "此诗以碓觜生花等意象试图构筑禅趣，但意象转换生硬，缺乏自然流动。立意虽涉及放下执着，却流于表面，未能渲染深层意境。情感表达淡薄，整体构思平庸，未脱公案窠臼。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "借用日常物象，但组合突兀，未能达到自然的浑成之境。",
+                "realm": "劣",
+                "reason": "意象拼凑，缺乏自然的流畅感，显得刻意造作。"
+            }
+        ],
+        "imagery": [
+            "碓",
+            "花"
+        ],
+        "allusions": [
+            {
+                "phrase": "趙州",
+                "explanation": "指赵州从谂禅师，强调放下执着的禅理。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "首句以物象突变点题，相对更具禅机。"
+        }
+    },
+    {
+        "title": "頌古十七首  其七",
+        "author": "釋道行",
+        "paragraphs": [
+            "土埋處處鐵菱角，半夜經由未覺難。",
+            "於曉嶺根傷中倒，方知行過鐵門關。"
+        ],
+        "paragraphs_simplified": [
+            "土埋处处铁菱角，半夜经由未觉难。",
+            "于晓岭根伤中倒，方知行过铁门关。"
+        ],
+        "translation": "第一句：土中埋藏处处铁菱角（喻指障碍），半夜经过却未觉困难。第二句：直到清晨在岭根伤中跌倒，才知已行过铁门关（喻指难关）。全诗以行路为喻，表达历经磨难后方知已过险关的禅理。",
+        "score": 3.2,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "迷茫"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": "半夜"
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "象征"
+            ],
+            "presentation_tags": [
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "先叙述行路未觉难，后揭示伤中方知已过险关，以叙事显禅理。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "铁菱角和铁门关象征修行中的障碍。"
+                },
+                {
+                    "tag": "象征",
+                    "explanation": "行路过程象征禅修历程。"
+                }
+            ]
+        },
+        "analysis": "此诗以行路意象构筑禅理，但比喻陈旧，缺乏新意。叙事结构虽完整，但意象如铁菱角、铁门关等堆砌，未能渲染真切的磨难感。情感表达浅显，整体立意老套，属凡品。",
+        "poetry_styles": [
+            {
+                "style": "劲健",
+                "imagery_analysis": "试图以铁器意象表现劲健之气，但意象单调，未能达到劲健的力度。",
+                "realm": "劣",
+                "reason": "意象重复，缺乏劲健的雄浑感，反显呆板。"
+            }
+        ],
+        "imagery": [
+            "土",
+            "铁菱角",
+            "岭",
+            "铁门关"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句点明主题，揭示禅理，相对更具总结性。"
+        }
+    },
+    {
+        "title": "頌古十七首  其八",
+        "author": "釋道行",
+        "paragraphs": [
+            "蒼龍带雨離深洞，彩鳳啣花入帝關。",
+            "一句古今無滲漏，祖師不在東西山。"
+        ],
+        "paragraphs_simplified": [
+            "苍龙带雨离深洞，彩凤衔花入帝关。",
+            "一句古今无渗漏，祖师不在东西山。"
+        ],
+        "translation": "第一句：苍龙带雨离开深洞，彩凤衔花进入帝关（喻指祥瑞或顿悟）。第二句：一句禅语古今无漏洞，祖师不在东山或西山（指禅心无处不在）。全诗以神话意象表达禅理的圆满与无处不在。",
+        "score": 3.5,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻",
+                "对偶"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "虚实结合"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "前句以神话意象渲染，后句直接点出禅理核心，虚实相生。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "苍龙、彩凤比喻禅机的神妙。"
+                },
+                {
+                    "tag": "对偶",
+                    "explanation": "苍龙对彩凤，深洞对帝关，结构工整。"
+                }
+            ]
+        },
+        "analysis": "此诗意象华美，苍龙彩凤构筑出奇幻意境，但禅理表达仍显直白。对偶工整，但未能深化情感，流于辞藻铺陈。整体构思较前几首稍显灵动，但未脱公案模式，审美回甘有限。",
+        "poetry_styles": [
+            {
+                "style": "绮丽",
+                "imagery_analysis": "以神话意象渲染华美之境，但禅理融入生硬，未能达到绮丽的自然流丽。",
+                "realm": "能",
+                "reason": "意象华美但略显堆砌，技法成熟但意境未臻上乘。"
+            }
+        ],
+        "imagery": [
+            "苍龙",
+            "雨",
+            "洞",
+            "彩凤",
+            "花",
+            "帝关"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "末句直接点明禅理无处不在，更具哲理性。"
+        }
+    }
+]

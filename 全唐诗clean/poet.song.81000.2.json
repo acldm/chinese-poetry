@@ -1,0 +1,520 @@
+[
+    {
+        "title": "睡起戲題",
+        "author": "釋懷深",
+        "paragraphs": [
+            "喫粥喫飯過，聽風聽雨眠。",
+            "莫將安樂法，容易與人傳。"
+        ],
+        "paragraphs_simplified": [
+            "吃粥吃饭过，听风听雨眠。",
+            "莫将安乐法，容易与人传。"
+        ],
+        "translation": "吃粥吃饭度日，听着风声雨声睡觉。莫要把安乐的方法，轻易地传给别人。前句描绘闲适生活，后句点出禅理之秘，语言极简，意蕴深远。",
+        "score": 3.2,
+        "subject": [
+            "禅理诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "卒章显志"
+            ],
+            "structural_logic": "前句叙事写安乐之态，后句以劝诫作结，先实后虚，逻辑紧凑。",
+            "evidence": [
+                {
+                    "tag": "托物言志",
+                    "explanation": "以‘吃粥吃饭’寄托简朴生活。"
+                },
+                {
+                    "tag": "卒章显志",
+                    "explanation": "末句‘莫将安乐法’揭示珍惜禅机之旨。"
+                }
+            ]
+        },
+        "analysis": "此诗以极简笔墨勾勒安乐境界，‘听风听雨眠’一句，渲染动静结合之趣，但整体意象单薄，缺乏纵深。后句直指禅理之秘，然说理过露，失却含蓄之美。情景契合，情感恬淡，但意境未臻真切，属凡品中较通顺者，未达高古之境。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "‘粥’‘风’‘雨’意象淡泊，但组合略显单调。",
+                "realm": "逸",
+                "reason": "语近自然，然缺乏韵味，属平实之作。"
+            }
+        ],
+        "imagery": [
+            "粥",
+            "饭",
+            "风",
+            "雨"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "‘听风听雨眠’最具闲适画面感。"
+        }
+    },
+    {
+        "title": "題寒食花",
+        "author": "釋懷深",
+        "paragraphs": [
+            "寒食花無數，寂寥草莽同。",
+            "只因顔色少，留得老山中。",
+            "少艷人稀賞，無香蝶不知。",
+            "人心尚紅紫，爭看醉西施。"
+        ],
+        "paragraphs_simplified": [
+            "寒食花无数，寂寥草莽同。",
+            "只因颜色少，留得老山中。",
+            "少艳人稀赏，无香蝶不知。",
+            "人心尚红紫，争看醉西施。"
+        ],
+        "translation": "寒食节时花开无数，却寂寞如草莽相同。只因颜色浅淡，留得在老山之中。少艳丽人少欣赏，无香味蝴蝶不知。人心崇尚红紫艳丽，争着看如醉西施般的花。全诗以花喻人，先写花之寂寥，再述原因，后对比世俗之好，层次分明。",
+        "score": 4.1,
+        "subject": [
+            "咏物诗",
+            "节令诗"
+        ],
+        "emotion": [
+            "孤独",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "春",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志",
+                "对比"
+            ],
+            "structure_tags": [
+                "开门见山",
+                "承上启下"
+            ],
+            "structural_logic": "首联点题写花之寂寥，颔联解释原因，颈联深化少赏无香，尾联以人心尚艳作结，层层递进，对比鲜明。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "‘醉西施’以美人喻花，形象生动。"
+                },
+                {
+                    "tag": "托物言志",
+                    "explanation": "以寒食花自况，寄寓孤高之志。"
+                }
+            ]
+        },
+        "analysis": "此诗咏寒食花，以‘寂寥草莽同’勾勒其平凡，‘留得老山中’彰显其孤高。后联以‘无香蝶不知’与‘争看醉西施’对比，折射世俗之浅薄。意象真切，情景交融，情感回甘而不宣泄。全诗结构缜密，语言凝练，属咏物诗中之佳作，兼具清奇与含蓄之美。",
+        "poetry_styles": [
+            {
+                "style": "清奇",
+                "imagery_analysis": "‘老山中’‘醉西施’意象独特，构筑清奇之境。",
+                "realm": "妙",
+                "reason": "立意新颖，技法成熟，堪称妙品。"
+            }
+        ],
+        "imagery": [
+            "花",
+            "草莽",
+            "山",
+            "香",
+            "蝶",
+            "红紫",
+            "西施"
+        ],
+        "allusions": [
+            {
+                "phrase": "西施",
+                "explanation": "春秋美女，喻指艳丽之花。"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 3,
+            "reason": "‘人心尚红紫，争看醉西施’点明主题，对比强烈。"
+        }
+    },
+    {
+        "title": "題紙襖",
+        "author": "釋懷深",
+        "paragraphs": [
+            "新成紙襖著彭亨，掉臂何妨雪裏行。",
+            "我既不憐人不愛，世間從此免相爭。"
+        ],
+        "paragraphs_simplified": [
+            "新成纸袄着彭亨，掉臂何妨雪里行。",
+            "我既不怜人不爱，世间从此免相争。"
+        ],
+        "translation": "新做成的纸袄穿在身上鼓鼓囊囊，甩开膀子在雪地里行走又有什么关系。我既不怜惜他人，他人也不喜爱我，从此世间可以免去相互争斗。",
+        "score": 2.5,
+        "subject": [
+            "咏物诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "豁达",
+            "愤懑"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先以纸袄在雪中行走的意象起兴，后直接抒发不争的处世态度，结构直白。",
+            "evidence": [
+                {
+                    "tag": "托物言志",
+                    "explanation": "通过纸袄这一物象，寄托超脱世俗、不与人争的志向"
+                }
+            ]
+        },
+        "analysis": "这首诗以纸袄为载体，勾勒出穿着臃肿纸袄在雪中独行的意象，试图传达一种决绝的避世姿态。语言直露，意象单薄，缺乏意境的营造。情感表达流于表面，立意浅显，未能通过物象深化哲思，整体呈现平庸的直白陈述，缺乏审美回甘。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "纸袄与雪的组合试图营造疏放之境，但意象粗糙，未能达到超脱的韵味。",
+                "realm": "凡品",
+                "reason": "模仿疏野风格却流于粗陋，语言缺乏提炼，意境空洞。"
+            }
+        ],
+        "imagery": [
+            "纸袄",
+            "雪",
+            "世间"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句直接点明主题，语言最为凝练。"
+        }
+    },
+    {
+        "title": "師初到包山見小池瑩如冰玉父老云池中昔有白龜已進之因命爲白龜泉",
+        "author": "釋懷深",
+        "paragraphs": [
+            "任是流金鑠石時，此泉澄湛滿幽池。",
+            "白龜聞已獻天子，何似蹣跚在淤泥。"
+        ],
+        "paragraphs_simplified": [
+            "任是流金铄石时，此泉澄湛满幽池。",
+            "白龟闻已献天子，何似蹒跚在淤泥。"
+        ],
+        "translation": "任凭是金属熔化、石头融化的酷热时刻，这泉水依然清澈见底，盈满幽静的池塘。听说白龟已经进献给天子，哪里比得上它当年在淤泥中蹒跚爬行的样子。",
+        "score": 3.0,
+        "subject": [
+            "咏物诗",
+            "怀古诗"
+        ],
+        "emotion": [
+            "遗憾",
+            "淡泊"
+        ],
+        "time_season": {
+            "season": "夏",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "间接抒情"
+            ],
+            "rhetoric_tags": [
+                "对比"
+            ],
+            "presentation_tags": [
+                "用典",
+                "借古讽今"
+            ],
+            "structure_tags": [
+                "首尾呼应"
+            ],
+            "structural_logic": "前两句写泉水的澄澈恒常，后两句引入白龟典故，通过今昔对比暗含讽喻，结构紧凑。",
+            "evidence": [
+                {
+                    "tag": "对比",
+                    "explanation": "以白龟献天子的荣耀与在淤泥中的卑微形成反差，暗示得失之辨"
+                }
+            ]
+        },
+        "analysis": "此诗以白龟泉为焦点，前两句渲染泉水在酷暑中的清冽，构筑出幽静恒常的意境。后两句用白龟典故，通过献天子与淤泥蹒跚的对比，折射出对世俗荣华的冷峻审视。典故运用自然，情感含蓄，但立意未脱常规，未能突破怀古诗的惯性思维。",
+        "poetry_styles": [
+            {
+                "style": "含蓄",
+                "imagery_analysis": "以泉之澄湛与龟之典故交织，意在言外，但深度有限。",
+                "realm": "能品",
+                "reason": "试图以典故营造含蓄韵味，但对比手法略显直白，未能达到深远的意境。"
+            }
+        ],
+        "imagery": [
+            "泉",
+            "池",
+            "白龟",
+            "淤泥"
+        ],
+        "allusions": [
+            {
+                "phrase": "白龟",
+                "explanation": "传说中进献天子的白龟，象征吉祥与机缘"
+            }
+        ],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句用典巧妙，形成全诗的核心对比。"
+        }
+    },
+    {
+        "title": "題隱泉",
+        "author": "釋懷深",
+        "paragraphs": [
+            "泉隱甘無竭，人閑道轉高。",
+            "涓涓清自足，休苦作波濤。"
+        ],
+        "paragraphs_simplified": [
+            "泉隐甘无竭，人闲道转高。",
+            "涓涓清自足，休苦作波涛。"
+        ],
+        "translation": "泉水隐藏，甘甜永不枯竭；人若闲适，道行反而更高。细水涓涓，清澈自足，不要辛苦掀起波涛。",
+        "score": 3.2,
+        "subject": [
+            "哲理诗",
+            "咏物诗"
+        ],
+        "emotion": [
+            "恬淡",
+            "闲适"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "直接抒情"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "以泉喻人，先写泉的特性，后引申至人生态度，逻辑清晰但缺乏转折。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "以泉水的涓涓自足比喻人应持守的闲适之道"
+                }
+            ]
+        },
+        "analysis": "这首诗借隐泉之象，直陈甘甜不竭与涓涓自足的特质，进而推及人应闲适不争的哲理。语言简洁，意象集中，但比喻较为常见，未能通过物象拓展更深的意境。情感平和，流于说教，缺乏艺术的含蓄与回旋之美。",
+        "poetry_styles": [
+            {
+                "style": "冲淡",
+                "imagery_analysis": "以泉的静态美寄托淡泊之志，但意象单一，冲淡有余而韵味不足。",
+                "realm": "能品",
+                "reason": "追求冲淡风格，但语言过于直白，未能营造深远的意境空间。"
+            }
+        ],
+        "imagery": [
+            "泉",
+            "水",
+            "波涛"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            1,
+            1
+        ],
+        "best_quote": {
+            "index": 0,
+            "reason": "第一句点明泉的特性，奠定全诗基调。"
+        }
+    },
+    {
+        "title": "包山開井",
+        "author": "釋懷深",
+        "paragraphs": [
+            "山骨鑿深六十尺，石中泉眼始方開。",
+            "後人飲水知來處，曾費山僧心力來。"
+        ],
+        "paragraphs_simplified": [
+            "山骨凿深六十尺，石中泉眼始方开。",
+            "后人饮水知来处，曾费山僧心力来。"
+        ],
+        "translation": "凿开山骨深达六十尺，石头中的泉眼才开始打开。后人饮水时知道水源从何而来，这曾耗费了山僧的心力。",
+        "score": 2.8,
+        "subject": [
+            "叙事诗",
+            "农事诗"
+        ],
+        "emotion": [
+            "敬佩",
+            "遗憾"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [],
+            "presentation_tags": [
+                "直叙"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "平铺直叙开井过程与后人受益，缺乏情感起伏与艺术加工。",
+            "evidence": [
+                {
+                    "tag": "叙事",
+                    "explanation": "直接记录凿井的艰辛与后人饮水思源的事实"
+                }
+            ]
+        },
+        "analysis": "此诗叙述开凿水井的工程细节，强调后人应知饮水思源。语言朴实无华，叙事直白，缺乏诗意的提炼与意象的升华。情感表达流于表面，作为记事诗，文学性薄弱，更接近实用性的记录。",
+        "poetry_styles": [
+            {
+                "style": "自然",
+                "imagery_analysis": "以山骨、泉眼等意象直述其事，但缺乏自然的灵动与美感。",
+                "realm": "凡品",
+                "reason": "试图以自然语言叙事，但过于平实，未能展现诗意的自然之趣。"
+            }
+        ],
+        "imagery": [
+            "山骨",
+            "泉眼",
+            "水"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句点明饮水思源的主题，语言较为完整。"
+        }
+    },
+    {
+        "title": "小師般磚造塔",
+        "author": "釋懷深",
+        "paragraphs": [
+            "傴僂山頭自負磚，要成小塔立雲煙。",
+            "聚沙也似兒童戲，且爲湖山結少緣。"
+        ],
+        "paragraphs_simplified": [
+            "傴偻山头自负砖，要成小塔立云烟。",
+            "聚沙也似儿童戏，且为湖山结少缘。"
+        ],
+        "translation": "弯腰驼背在山头自己背砖，想要建成小塔耸立于云烟之中。聚沙成塔也如同儿童游戏，暂且为湖山结下少许缘分。",
+        "score": 3.0,
+        "subject": [
+            "叙事诗",
+            "哲理诗"
+        ],
+        "emotion": [
+            "闲适",
+            "豁达"
+        ],
+        "time_season": {
+            "season": "",
+            "specific_time": ""
+        },
+        "technique_analysis": {
+            "expression_tags": [
+                "叙事"
+            ],
+            "rhetoric_tags": [
+                "比喻"
+            ],
+            "presentation_tags": [
+                "托物言志"
+            ],
+            "structure_tags": [
+                "开门见山"
+            ],
+            "structural_logic": "先写造塔的艰辛过程，后以比喻点出修行如游戏，结构简单。",
+            "evidence": [
+                {
+                    "tag": "比喻",
+                    "explanation": "将聚沙造塔比作儿童游戏，淡化艰辛，强调随缘心态"
+                }
+            ]
+        },
+        "analysis": "这首诗描绘小师背砖造塔的场景，以聚沙成塔的比喻轻描艰辛，寄托修行随缘的哲理。语言生动但意象浅显，比喻虽巧却未深化主题。情感轻松，缺乏庄重感，整体流于表面，未能通过造塔意象构筑深远的禅意。",
+        "poetry_styles": [
+            {
+                "style": "疏野",
+                "imagery_analysis": "以造塔的劳作与儿童戏的比喻结合，试图表现疏放，但意象松散。",
+                "realm": "凡品",
+                "reason": "模仿疏野风格，但比喻幼稚，未能达到自然疏放的境界。"
+            }
+        ],
+        "imagery": [
+            "砖",
+            "塔",
+            "云烟",
+            "沙",
+            "湖山"
+        ],
+        "allusions": [],
+        "sentence_types": [
+            0,
+            0
+        ],
+        "best_quote": {
+            "index": 1,
+            "reason": "第二句以比喻点题，语言较为灵动。"
+        }
+    }
+]
