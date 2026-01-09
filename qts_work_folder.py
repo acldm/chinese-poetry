@@ -14,7 +14,7 @@ API_URL = "https://api.xiaomimimo.com/v1/chat/completions"
 # 请在此处填写您的 token，或者从环境变量中读取
 TOKEN = "sk-ck5t8uacuegk8iu97db8nr4tqgr0tsnnvq3lwvnte4d3nojc" 
 BATCH_SIZE = 5
-MAX_RETRIES = 3
+MAX_RETRIES = 99
 MAX_WORKERS = 40  # 并发处理的文件数量
 CHUNK_SIZE = 200  # 每个分片文件保存的诗词数量
 
