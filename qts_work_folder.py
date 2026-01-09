@@ -6,15 +6,16 @@ import time
 import signal
 import threading
 import argparse
+from json_repair import repair_json
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import List, Dict
 
 # 配置
 API_URL = "https://api.xiaomimimo.com/v1/chat/completions"
-# 请在此处填写您的 token，或者从环境变量中读取
-TOKEN = "sk-ck5t8uacuegk8iu97db8nr4tqgr0tsnnvq3lwvnte4d3nojc" 
+TOKEN = "sk-ck5t8uacuegk8iu97db8nr4tqgr0tsnnvq3lwvnte4d3nojc"
+
 BATCH_SIZE = 5
-MAX_RETRIES = 99
+MAX_RETRIES = 3
 MAX_WORKERS = 40  # 并发处理的文件数量
 CHUNK_SIZE = 200  # 每个分片文件保存的诗词数量
 
@@ -105,9 +106,9 @@ def process_poems_batch(poems_batch: List[Dict]):
         "model": "mimo-v2-flash",
         "temperature": 0.3,
         "top_p": 0.95,
-        "thinking": {
-            "type": "enabled"
-        },
+        # "thinking": {
+        #     "type": "enabled"
+        # },
         "stream": False
     }
     
@@ -123,8 +124,14 @@ def process_poems_batch(poems_batch: List[Dict]):
         content = content.split("```json")[1].split("```")[0].strip()
     elif "```" in content:
         content = content.split("```")[1].split("```")[0].strip()
-        
-    return json.loads(content)
+    
+    # 尝试解析 JSON，失败则使用 json_repair 修复
+    try:
+        return json.loads(content)
+    except json.JSONDecodeError as e:
+        print(f"    ⚠️ JSON 解析失败: {e}，尝试修复...")
+        repaired = repair_json(content)
+        return json.loads(repaired)
 
 def load_waitlist() -> List[Dict]:
     """加载 waitlist 文件"""
@@ -159,6 +166,7 @@ def save_to_waitlist(poems: List[Dict], source_file: str):
 def process_batch_with_completion(batch_to_send: List[Dict], max_retries=MAX_RETRIES):
     """
     增量补全模式：针对缺失的诗词进行重叠请求，直到补齐 100%。
+    批量请求失败后，改为逐首单独调用。
     返回：(成功结果列表, 未完成诗词列表)
     """
     all_results_dict = {} # key: paragraphs_str, value: result_obj
@@ -167,46 +175,106 @@ def process_batch_with_completion(batch_to_send: List[Dict], max_retries=MAX_RET
     def get_id(p):
         return "".join(p.get("paragraphs", [])).strip()
 
-    attempt = 0
-    current_batch = batch_to_send
+    def try_batch_request(current_batch, max_attempts):
+        """
+        批量请求 API
+        返回：剩余未处理的诗词列表
+        """
+        attempt = 0
+        # 只处理当前传入的批次（已排除已成功的诗词）
+        batch = [p for p in current_batch if get_id(p) not in all_results_dict]
+        
+        if not batch:
+            print(f"    所有诗词已有结果，无需请求。")
+            return []
+        
+        while attempt <= max_attempts and batch:
+            try:
+                if attempt > 0:
+                    print(f"    正在进行增量重试 (第 {attempt} 次)，剩余 {len(batch)} 首...")
+                else:
+                    print(f"    正在批量处理 {len(batch)} 首诗词...")
+                
+                results = process_poems_batch(batch)
+                
+                if isinstance(results, list):
+                    new_count = 0
+                    for r in results:
+                        rid = get_id(r)
+                        if rid not in all_results_dict:
+                            all_results_dict[rid] = r
+                            new_count += 1
+                    
+                    print(f"    本次成功获取 {len(results)} 首，其中新获得 {new_count} 首。")
+                
+                # 只从当前批次中计算还缺哪些（避免重复请求已有结果的诗）
+                missing_batch = [p for p in batch if get_id(p) not in all_results_dict]
+                
+                if not missing_batch:
+                    # 当前批次全部补齐
+                    return []
+                
+                batch = missing_batch
+                attempt += 1
+                if attempt <= max_attempts:
+                    time.sleep(2) # 失败后的短延时
+                    
+            except Exception as e:
+                print(f"    批量请求出错 (Attempt {attempt}): {e}")
+                attempt += 1
+                if attempt <= max_attempts:
+                    time.sleep(5)
+        
+        return batch  # 返回未处理完成的诗词
+
+    def try_single_request(poem):
+        """
+        单首诗词请求 API
+        返回：是否成功
+        """
+        poem_title = poem.get('title', '未知')[:20]
+        for attempt in range(max_retries + 1):
+            try:
+                if attempt > 0:
+                    print(f"      单首重试 (第 {attempt} 次): {poem_title}")
+                else:
+                    print(f"      单独处理: {poem_title}")
+                
+                results = process_poems_batch([poem])
+                
+                if isinstance(results, list) and len(results) > 0:
+                    for r in results:
+                        rid = get_id(r)
+                        if rid not in all_results_dict:
+                            all_results_dict[rid] = r
+                    
+                    # 检查是否成功获取了这首诗
+                    if get_id(poem) in all_results_dict:
+                        print(f"      ✓ 单独处理成功: {poem_title}")
+                        return True
+                
+                time.sleep(1)
+                
+            except Exception as e:
+                print(f"      单首请求出错 (Attempt {attempt}): {e}")
+                if attempt < max_retries:
+                    time.sleep(3)
+        
+        return False
+
+    # 第一步：批量请求
+    remaining = try_batch_request(batch_to_send, max_retries)
     
-    while attempt <= max_retries and current_batch:
-        try:
-            if attempt > 0:
-                print(f"    正在进行增量重试 (第 {attempt} 次)，剩余 {len(current_batch)} 首...")
-            
-            results = process_poems_batch(current_batch)
-            
-            if isinstance(results, list):
-                new_count = 0
-                for r in results:
-                    rid = get_id(r)
-                    if rid not in all_results_dict:
-                        all_results_dict[rid] = r
-                        new_count += 1
-                
-                print(f"    本次成功获取 {len(results)} 首，其中新获得 {new_count} 首。")
-            
-            # 计算还缺哪些
-            missing_batch = []
-            for original in batch_to_send:
-                if get_id(original) not in all_results_dict:
-                    missing_batch.append(original)
-            
-            if not missing_batch:
-                # 全部补齐
-                break
-            
-            current_batch = missing_batch
-            attempt += 1
-            if attempt <= max_retries:
-                time.sleep(2) # 失败后的短延时
-                
-        except Exception as e:
-            print(f"    请求出错 (Attempt {attempt}): {e}")
-            attempt += 1
-            if attempt <= max_retries:
-                time.sleep(5)
+    # 第二步：如果批量失败，逐首单独调用
+    if remaining:
+        print(f"    🔄 批量请求重试 {max_retries} 次后仍有 {len(remaining)} 首未完成，改为逐首单独调用...")
+        still_failed = []
+        for poem in remaining:
+            if get_id(poem) not in all_results_dict:
+                success = try_single_request(poem)
+                if not success:
+                    still_failed.append(poem)
+        remaining = still_failed
 
     # 返回按照原始顺序排列的结果，以及未完成的诗词
     final_ordered_list = []
@@ -216,8 +284,7 @@ def process_batch_with_completion(batch_to_send: List[Dict], max_retries=MAX_RET
         if oid in all_results_dict:
             final_ordered_list.append(all_results_dict[oid])
         else:
-            # 如果重试多次还是缺，记录到未完成列表
-            print(f"    ⚠️ 经过 {max_retries} 次重试仍无法获取诗词: {original.get('title', '未知')[:20]}")
+            print(f"    ⚠️ 经过批量和单首处理仍无法获取诗词: {original.get('title', '未知')[:20]}")
             failed_poems.append(original)
             
     return final_ordered_list, failed_poems

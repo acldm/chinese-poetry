@@ -1,242 +1,284 @@
 {
   "waitlist_chunk_1.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:27"
+    "status": "completed",
+    "last_update": "2026-01-08 14:05:22"
   },
   "waitlist_chunk_11.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:27"
+    "status": "completed",
+    "last_update": "2026-01-08 12:00:27"
   },
   "waitlist_chunk_12.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:27"
+    "status": "completed",
+    "last_update": "2026-01-08 12:14:07"
   },
   "waitlist_chunk_10.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:27"
+    "status": "completed",
+    "last_update": "2026-01-08 11:46:42"
   },
   "waitlist_chunk_14.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:27"
+    "status": "completed",
+    "last_update": "2026-01-08 14:51:32"
   },
   "waitlist_chunk_15.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:27"
+    "status": "completed",
+    "last_update": "2026-01-08 13:07:24"
   },
   "waitlist_chunk_13.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:27"
+    "status": "completed",
+    "last_update": "2026-01-08 12:04:36"
   },
   "waitlist_chunk_16.json": {
-    "processed_count": 5,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 10:55:24"
+    "status": "completed",
+    "last_update": "2026-01-08 12:14:50"
   },
   "waitlist_chunk_17.json": {
-    "processed_count": 5,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 11:08:01"
+    "status": "completed",
+    "last_update": "2026-01-08 11:49:09"
   },
   "waitlist_chunk_40.json": {
-    "processed_count": 5,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 10:01:18"
+    "status": "completed",
+    "last_update": "2026-01-08 16:58:20"
   },
   "waitlist_chunk_35.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:27"
+    "status": "completed",
+    "last_update": "2026-01-08 14:05:06"
   },
   "waitlist_chunk_32.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:27"
+    "status": "completed",
+    "last_update": "2026-01-08 15:08:44"
   },
   "waitlist_chunk_3.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:27"
+    "status": "completed",
+    "last_update": "2026-01-08 15:01:45"
   },
   "waitlist_chunk_31.json": {
-    "processed_count": 5,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 10:00:17"
+    "status": "completed",
+    "last_update": "2026-01-08 13:58:39"
   },
   "waitlist_chunk_38.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:27"
+    "status": "completed",
+    "last_update": "2026-01-08 15:00:54"
   },
   "waitlist_chunk_24.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:27"
+    "status": "completed",
+    "last_update": "2026-01-08 14:29:38"
   },
   "waitlist_chunk_19.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:27"
+    "status": "completed",
+    "last_update": "2026-01-08 13:41:38"
   },
   "waitlist_chunk_20.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:27"
+    "status": "completed",
+    "last_update": "2026-01-08 13:26:54"
   },
   "waitlist_chunk_27.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:28"
+    "status": "completed",
+    "last_update": "2026-01-08 14:59:45"
   },
   "waitlist_chunk_39.json": {
-    "processed_count": 5,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 11:02:37"
+    "status": "completed",
+    "last_update": "2026-01-08 15:02:22"
   },
   "waitlist_chunk_21.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:28"
+    "status": "completed",
+    "last_update": "2026-01-08 12:38:55"
   },
   "waitlist_chunk_42.json": {
-    "processed_count": 15,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 10:58:53"
+    "status": "completed",
+    "last_update": "2026-01-08 13:22:25"
   },
   "waitlist_chunk_44.json": {
-    "processed_count": 5,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 11:08:46"
+    "status": "completed",
+    "last_update": "2026-01-08 14:43:51"
   },
   "waitlist_chunk_29.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:28"
+    "status": "completed",
+    "last_update": "2026-01-08 13:17:50"
   },
   "waitlist_chunk_26.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:28"
+    "status": "completed",
+    "last_update": "2026-01-08 14:21:44"
   },
   "waitlist_chunk_28.json": {
-    "processed_count": 5,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 10:56:48"
+    "status": "completed",
+    "last_update": "2026-01-08 13:34:31"
   },
   "waitlist_chunk_34.json": {
-    "processed_count": 5,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 10:30:48"
+    "status": "completed",
+    "last_update": "2026-01-08 14:45:49"
   },
   "waitlist_chunk_30.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:28"
+    "status": "completed",
+    "last_update": "2026-01-08 12:57:43"
   },
   "waitlist_chunk_45.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:28"
+    "status": "completed",
+    "last_update": "2026-01-08 15:20:03"
   },
   "waitlist_chunk_43.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:28"
+    "status": "completed",
+    "last_update": "2026-01-08 13:36:25"
   },
   "waitlist_chunk_18.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:28"
+    "status": "completed",
+    "last_update": "2026-01-08 13:11:54"
   },
   "waitlist_chunk_37.json": {
-    "processed_count": 5,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 10:03:25"
+    "status": "completed",
+    "last_update": "2026-01-08 16:38:43"
   },
   "waitlist_chunk_22.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:28"
+    "status": "completed",
+    "last_update": "2026-01-08 14:17:45"
   },
   "waitlist_chunk_41.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:28"
+    "status": "completed",
+    "last_update": "2026-01-08 15:12:07"
   },
   "waitlist_chunk_2.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:28"
+    "status": "completed",
+    "last_update": "2026-01-08 14:32:54"
   },
   "waitlist_chunk_4.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:28"
+    "status": "completed",
+    "last_update": "2026-01-08 15:00:09"
   },
   "waitlist_chunk_36.json": {
-    "processed_count": 5,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:57:27"
+    "status": "completed",
+    "last_update": "2026-01-08 16:04:23"
   },
   "waitlist_chunk_23.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:28"
+    "status": "completed",
+    "last_update": "2026-01-08 15:41:38"
   },
   "waitlist_chunk_25.json": {
-    "processed_count": 0,
+    "processed_count": 200,
     "total_count": 200,
-    "status": "processing",
-    "last_update": "2026-01-05 09:56:28"
+    "status": "completed",
+    "last_update": "2026-01-08 15:23:15"
   },
   "waitlist_chunk_33.json": {
-    "processed_count": 5,
+    "processed_count": 200,
+    "total_count": 200,
+    "status": "completed",
+    "last_update": "2026-01-08 14:25:22"
+  },
+  "waitlist_chunk_46.json": {
+    "processed_count": 200,
+    "total_count": 200,
+    "status": "completed",
+    "last_update": "2026-01-08 18:14:58"
+  },
+  "waitlist_chunk_47.json": {
+    "processed_count": 61,
+    "total_count": 61,
+    "status": "completed",
+    "last_update": "2026-01-08 13:36:35"
+  },
+  "waitlist_chunk_5.json": {
+    "processed_count": 190,
     "total_count": 200,
     "status": "processing",
-    "last_update": "2026-01-05 10:12:31"
+    "last_update": "2026-01-08 18:15:18"
+  },
+  "waitlist_chunk_6.json": {
+    "processed_count": 200,
+    "total_count": 200,
+    "status": "completed",
+    "last_update": "2026-01-08 16:47:44"
+  },
+  "waitlist_chunk_7.json": {
+    "processed_count": 175,
+    "total_count": 200,
+    "status": "processing",
+    "last_update": "2026-01-08 18:16:34"
+  },
+  "waitlist_chunk_8.json": {
+    "processed_count": 200,
+    "total_count": 200,
+    "status": "completed",
+    "last_update": "2026-01-08 17:40:45"
+  },
+  "waitlist_chunk_9.json": {
+    "processed_count": 170,
+    "total_count": 200,
+    "status": "processing",
+    "last_update": "2026-01-08 18:15:50"
   }
 }
